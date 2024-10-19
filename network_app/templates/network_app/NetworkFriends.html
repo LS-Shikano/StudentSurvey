@@ -1,0 +1,356 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+{% block title %}
+Student Survey January 2024
+{% endblock %}
+
+{% block content %}
+<input id="time" type="hidden" name="time_studynetwork"/>
+<br>
+
+<!--heading-->
+<h2 class="german">Lernpartner</h2>
+<h2 class="english">Study partners</h2>
+<hr>
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german">Mit welchen Personen in Ihrem Bekanntenkreis lernen Sie gemeinsam auf Klausuren?</p>
+    <p class="english">With which people in your circle of acquaintances do you study for exams?</p>
+
+    <p class="german"><input type="checkbox" name="learning_partner_41" value="1"> Ich lerne alleine.</p>
+    <p class="english"><input type="checkbox" name="learning_partner_41" value="1"> I prefer to study alone</p>
+    
+    <div><input type="checkbox" name="learning_partner_1" value="1"> {{ player.person_1 }}</div>  
+    <div><input type="checkbox" name="learning_partner_2" value="1"> {{ player.person_2 }}</div> 
+    <div><input type="checkbox" name="learning_partner_3" value="1"> {{ player.person_3 }}</div>  
+    <div><input type="checkbox" name="learning_partner_4" value="1"> {{ player.person_4 }}</div> 
+    <div><input type="checkbox" name="learning_partner_5" value="1"> {{ player.person_5 }}</div> 
+    <div><input type="checkbox" name="learning_partner_6" value="1"> {{ player.person_6 }}</div> 
+    <div><input type="checkbox" name="learning_partner_7" value="1"> {{ player.person_7 }}</div> 
+    <div><input type="checkbox" name="learning_partner_8" value="1"> {{ player.person_8 }}</div> 
+    <div><input type="checkbox" name="learning_partner_9" value="1"> {{ player.person_9 }}</div> 
+    <div><input type="checkbox" name="learning_partner_10" value="1"> {{ player.person_10 }}</div> 
+    <div><input type="checkbox" name="learning_partner_11" value="1"> {{ player.person_11 }}</div> 
+    <div><input type="checkbox" name="learning_partner_12" value="1"> {{ player.person_12 }}</div> 
+    <div><input type="checkbox" name="learning_partner_13" value="1"> {{ player.person_13 }}</div> 
+    <div><input type="checkbox" name="learning_partner_14" value="1"> {{ player.person_14 }}</div> 
+    <div><input type="checkbox" name="learning_partner_15" value="1"> {{ player.person_15 }}</div> 
+    <div><input type="checkbox" name="learning_partner_16" value="1"> {{ player.person_16 }}</div> 
+    <div><input type="checkbox" name="learning_partner_17" value="1"> {{ player.person_17 }}</div> 
+    <div><input type="checkbox" name="learning_partner_18" value="1"> {{ player.person_18 }}</div> 
+    <div><input type="checkbox" name="learning_partner_19" value="1"> {{ player.person_19 }}</div> 
+    <div><input type="checkbox" name="learning_partner_20" value="1"> {{ player.person_20 }}</div> 
+    <div><input type="checkbox" name="learning_partner_21" value="1"> {{ player.person_21 }}</div> 
+    <div><input type="checkbox" name="learning_partner_22" value="1"> {{ player.person_22 }}</div> 
+    <div><input type="checkbox" name="learning_partner_23" value="1"> {{ player.person_23 }}</div> 
+    <div><input type="checkbox" name="learning_partner_24" value="1"> {{ player.person_24 }}</div> 
+    <div><input type="checkbox" name="learning_partner_25" value="1"> {{ player.person_25 }}</div> 
+    <div><input type="checkbox" name="learning_partner_26" value="1"> {{ player.person_26 }}</div> 
+    <div><input type="checkbox" name="learning_partner_27" value="1"> {{ player.person_27 }}</div> 
+    <div><input type="checkbox" name="learning_partner_28" value="1"> {{ player.person_28 }}</div> 
+    <div><input type="checkbox" name="learning_partner_29" value="1"> {{ player.person_29 }}</div> 
+    <div><input type="checkbox" name="learning_partner_30" value="1"> {{ player.person_30 }}</div> 
+    <div><input type="checkbox" name="learning_partner_31" value="1"> {{ player.person_31 }}</div> 
+    <div><input type="checkbox" name="learning_partner_32" value="1"> {{ player.person_32 }}</div> 
+    <div><input type="checkbox" name="learning_partner_33" value="1"> {{ player.person_33 }}</div> 
+    <div><input type="checkbox" name="learning_partner_34" value="1"> {{ player.person_34 }}</div> 
+    <div><input type="checkbox" name="learning_partner_35" value="1"> {{ player.person_35 }}</div> 
+    <div><input type="checkbox" name="learning_partner_36" value="1"> {{ player.person_36 }}</div> 
+    <div><input type="checkbox" name="learning_partner_37" value="1"> {{ player.person_37 }}</div> 
+    <div><input type="checkbox" name="learning_partner_38" value="1"> {{ player.person_38 }}</div> 
+    <div><input type="checkbox" name="learning_partner_39" value="1"> {{ player.person_39 }}</div> 
+    <div><input type="checkbox" name="learning_partner_40" value="1"> {{ player.person_40 }}</div> 
+</div>
+<br>
+<!--heading-->
+<h2 class="german"> Fachschaft </h2>
+<h2 class="english"> Student council </h2>
+<hr>
+
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german">Mit welchen der Personen, von denen Sie einen Code erhalten haben, engagieren Sie sich in der Fachschaft?</p>
+    <p class="english">Which of the people you received a code from do you engage with in the student council (DE:'Fachschaft')?</p>
+
+    <p class="german"><input type="checkbox" name="network_student_council_41" value="1"> Ich engagiere mich nicht in der Fachschaft.</p>
+    <p class="english"><input type="checkbox" name="network_student_council_41" value="1"> I am not involved in the student council.</p>
+    <div><input type="checkbox" name="network_student_council_1" value="1"> {{ player.person_1 }}</div>  
+    <div><input type="checkbox" name="network_student_council_2" value="1"> {{ player.person_2 }}</div> 
+    <div><input type="checkbox" name="network_student_council_3" value="1"> {{ player.person_3 }}</div>  
+    <div><input type="checkbox" name="network_student_council_4" value="1"> {{ player.person_4 }}</div> 
+    <div><input type="checkbox" name="network_student_council_5" value="1"> {{ player.person_5 }}</div> 
+    <div><input type="checkbox" name="network_student_council_6" value="1"> {{ player.person_6 }}</div> 
+    <div><input type="checkbox" name="network_student_council_7" value="1"> {{ player.person_7 }}</div> 
+    <div><input type="checkbox" name="network_student_council_8" value="1"> {{ player.person_8 }}</div> 
+    <div><input type="checkbox" name="network_student_council_9" value="1"> {{ player.person_9 }}</div> 
+    <div><input type="checkbox" name="network_student_council_10" value="1"> {{ player.person_10 }}</div> 
+    <div><input type="checkbox" name="network_student_council_11" value="1"> {{ player.person_11 }}</div> 
+    <div><input type="checkbox" name="network_student_council_12" value="1"> {{ player.person_12 }}</div> 
+    <div><input type="checkbox" name="network_student_council_13" value="1"> {{ player.person_13 }}</div> 
+    <div><input type="checkbox" name="network_student_council_14" value="1"> {{ player.person_14 }}</div> 
+    <div><input type="checkbox" name="network_student_council_15" value="1"> {{ player.person_15 }}</div> 
+    <div><input type="checkbox" name="network_student_council_16" value="1"> {{ player.person_16 }}</div> 
+    <div><input type="checkbox" name="network_student_council_17" value="1"> {{ player.person_17 }}</div> 
+    <div><input type="checkbox" name="network_student_council_18" value="1"> {{ player.person_18 }}</div> 
+    <div><input type="checkbox" name="network_student_council_19" value="1"> {{ player.person_19 }}</div> 
+    <div><input type="checkbox" name="network_student_council_20" value="1"> {{ player.person_20 }}</div> 
+    <div><input type="checkbox" name="network_student_council_21" value="1"> {{ player.person_21 }}</div> 
+    <div><input type="checkbox" name="network_student_council_22" value="1"> {{ player.person_22 }}</div> 
+    <div><input type="checkbox" name="network_student_council_23" value="1"> {{ player.person_23 }}</div> 
+    <div><input type="checkbox" name="network_student_council_24" value="1"> {{ player.person_24 }}</div> 
+    <div><input type="checkbox" name="network_student_council_25" value="1"> {{ player.person_25 }}</div> 
+    <div><input type="checkbox" name="network_student_council_26" value="1"> {{ player.person_26 }}</div> 
+    <div><input type="checkbox" name="network_student_council_27" value="1"> {{ player.person_27 }}</div> 
+    <div><input type="checkbox" name="network_student_council_28" value="1"> {{ player.person_28 }}</div> 
+    <div><input type="checkbox" name="network_student_council_29" value="1"> {{ player.person_29 }}</div> 
+    <div><input type="checkbox" name="network_student_council_30" value="1"> {{ player.person_30 }}</div> 
+    <div><input type="checkbox" name="network_student_council_31" value="1"> {{ player.person_31 }}</div> 
+    <div><input type="checkbox" name="network_student_council_32" value="1"> {{ player.person_32 }}</div> 
+    <div><input type="checkbox" name="network_student_council_33" value="1"> {{ player.person_33 }}</div> 
+    <div><input type="checkbox" name="network_student_council_34" value="1"> {{ player.person_34 }}</div> 
+    <div><input type="checkbox" name="network_student_council_35" value="1"> {{ player.person_35 }}</div> 
+    <div><input type="checkbox" name="network_student_council_36" value="1"> {{ player.person_36 }}</div> 
+    <div><input type="checkbox" name="network_student_council_37" value="1"> {{ player.person_37 }}</div> 
+    <div><input type="checkbox" name="network_student_council_38" value="1"> {{ player.person_38 }}</div> 
+    <div><input type="checkbox" name="network_student_council_39" value="1"> {{ player.person_39 }}</div> 
+    <div><input type="checkbox" name="network_student_council_40" value="1"> {{ player.person_40 }}</div>
+
+</div>
+<br>
+    
+<!--heading-->
+<h2 class="german"> Hochschulgruppen </h2>
+<h2 class="english"> Clubs and societies </h2>
+<hr>
+
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german">Wen kennen Sie in einer Hochschulgruppe?</p>
+    <p class="english">Who do you know in a university group?</p>
+
+    <p class="german"><input type="checkbox" name="network_clubs_societies_41" value="1"> Ich engagiere mich nicht in einer Hochschulgruppe.</p>
+    <p class="english"><input type="checkbox" name="network_clubs_societies_41" value="1"> I am not involved in any university groups.</p>
+    <div><input type="checkbox" name="network_clubs_societies_1" value="1"> {{ player.person_1 }}</div>  
+    <div><input type="checkbox" name="network_clubs_societies_2" value="1"> {{ player.person_2 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_3" value="1"> {{ player.person_3 }}</div>  
+    <div><input type="checkbox" name="network_clubs_societies_4" value="1"> {{ player.person_4 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_5" value="1"> {{ player.person_5 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_6" value="1"> {{ player.person_6 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_7" value="1"> {{ player.person_7 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_8" value="1"> {{ player.person_8 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_9" value="1"> {{ player.person_9 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_10" value="1"> {{ player.person_10 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_11" value="1"> {{ player.person_11 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_12" value="1"> {{ player.person_12 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_13" value="1"> {{ player.person_13 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_14" value="1"> {{ player.person_14 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_15" value="1"> {{ player.person_15 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_16" value="1"> {{ player.person_16 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_17" value="1"> {{ player.person_17 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_18" value="1"> {{ player.person_18 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_19" value="1"> {{ player.person_19 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_20" value="1"> {{ player.person_20 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_21" value="1"> {{ player.person_21 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_22" value="1"> {{ player.person_22 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_23" value="1"> {{ player.person_23 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_24" value="1"> {{ player.person_24 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_25" value="1"> {{ player.person_25 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_26" value="1"> {{ player.person_26 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_27" value="1"> {{ player.person_27 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_28" value="1"> {{ player.person_28 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_29" value="1"> {{ player.person_29 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_30" value="1"> {{ player.person_30 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_31" value="1"> {{ player.person_31 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_32" value="1"> {{ player.person_32 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_33" value="1"> {{ player.person_33 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_34" value="1"> {{ player.person_34 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_35" value="1"> {{ player.person_35 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_36" value="1"> {{ player.person_36 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_37" value="1"> {{ player.person_37 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_38" value="1"> {{ player.person_38 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_39" value="1"> {{ player.person_39 }}</div> 
+    <div><input type="checkbox" name="network_clubs_societies_40" value="1"> {{ player.person_40 }}</div>  
+</div>
+<br>
+
+
+<!--heading-->
+<h2 class="german"> Hochschulsport </h2>
+<h2 class="english"> University sports program </h2>
+<hr>
+
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german">Wen kennen Sie beim Angebot des Hochschulsports?</p>
+    <p class="english">Who do you know at the university sports program?</p>
+    <p class="german"><input type="checkbox" name="university_sport_network_41" value="1"> Ich war nie beim Hochschulsport.</p>
+    <p class="english"><input type="checkbox" name="university_sport_network_41" value="1"> I have never been to a university sports program.</p>
+
+    
+    <div><input type="checkbox" name="university_sport_network_1" value="1"> {{ player.person_1 }}</div>  
+    <div><input type="checkbox" name="university_sport_network_2" value="1"> {{ player.person_2 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_3" value="1"> {{ player.person_3 }}</div>  
+    <div><input type="checkbox" name="university_sport_network_4" value="1"> {{ player.person_4 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_5" value="1"> {{ player.person_5 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_6" value="1"> {{ player.person_6 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_7" value="1"> {{ player.person_7 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_8" value="1"> {{ player.person_8 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_9" value="1"> {{ player.person_9 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_10" value="1"> {{ player.person_10 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_11" value="1"> {{ player.person_11 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_12" value="1"> {{ player.person_12 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_13" value="1"> {{ player.person_13 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_14" value="1"> {{ player.person_14 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_15" value="1"> {{ player.person_15 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_16" value="1"> {{ player.person_16 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_17" value="1"> {{ player.person_17 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_18" value="1"> {{ player.person_18 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_19" value="1"> {{ player.person_19 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_20" value="1"> {{ player.person_20 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_21" value="1"> {{ player.person_21 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_22" value="1"> {{ player.person_22 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_23" value="1"> {{ player.person_23 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_24" value="1"> {{ player.person_24 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_25" value="1"> {{ player.person_25 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_26" value="1"> {{ player.person_26 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_27" value="1"> {{ player.person_27 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_28" value="1"> {{ player.person_28 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_29" value="1"> {{ player.person_29 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_30" value="1"> {{ player.person_30 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_31" value="1"> {{ player.person_31 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_32" value="1"> {{ player.person_32 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_33" value="1"> {{ player.person_33 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_34" value="1"> {{ player.person_34 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_35" value="1"> {{ player.person_35 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_36" value="1"> {{ player.person_36 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_37" value="1"> {{ player.person_37 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_38" value="1"> {{ player.person_38 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_39" value="1"> {{ player.person_39 }}</div> 
+    <div><input type="checkbox" name="university_sport_network_40" value="1"> {{ player.person_40 }}</div>
+ 
+</div>
+
+
+<!--heading-->
+<h2 class="german"> Jugendparteien </h2>
+<h2 class="english">Youth Parties</h2>
+<hr>
+
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german">Wen kennen Sie durch Ihr Engagement für eine (Jugend)Partei?</p>
+    <p class="english">Who do you know through your involvement with a (youth) party?</p>
+
+    <p class="german"><input type="checkbox" name="youth_party_network_41" value="1"> Ich engagiere mich nicht in einer Partei.</p>
+    <p class="english"><input type="checkbox" name="youth_party_network_41" value="1"> I am not involved in a party.</p>
+    
+    <div><input type="checkbox" name="youth_party_network_1" value="1"> {{ player.person_1 }}</div>  
+    <div><input type="checkbox" name="youth_party_network_2" value="1"> {{ player.person_2 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_3" value="1"> {{ player.person_3 }}</div>  
+    <div><input type="checkbox" name="youth_party_network_4" value="1"> {{ player.person_4 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_5" value="1"> {{ player.person_5 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_6" value="1"> {{ player.person_6 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_7" value="1"> {{ player.person_7 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_8" value="1"> {{ player.person_8 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_9" value="1"> {{ player.person_9 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_10" value="1"> {{ player.person_10 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_11" value="1"> {{ player.person_11 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_12" value="1"> {{ player.person_12 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_13" value="1"> {{ player.person_13 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_14" value="1"> {{ player.person_14 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_15" value="1"> {{ player.person_15 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_16" value="1"> {{ player.person_16 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_17" value="1"> {{ player.person_17 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_18" value="1"> {{ player.person_18 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_19" value="1"> {{ player.person_19 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_20" value="1"> {{ player.person_20 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_21" value="1"> {{ player.person_21 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_22" value="1"> {{ player.person_22 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_23" value="1"> {{ player.person_23 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_24" value="1"> {{ player.person_24 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_25" value="1"> {{ player.person_25 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_26" value="1"> {{ player.person_26 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_27" value="1"> {{ player.person_27 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_28" value="1"> {{ player.person_28 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_29" value="1"> {{ player.person_29 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_30" value="1"> {{ player.person_30 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_31" value="1"> {{ player.person_31 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_32" value="1"> {{ player.person_32 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_33" value="1"> {{ player.person_33 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_34" value="1"> {{ player.person_34 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_35" value="1"> {{ player.person_35 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_36" value="1"> {{ player.person_36 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_37" value="1"> {{ player.person_37 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_38" value="1"> {{ player.person_38 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_39" value="1"> {{ player.person_39 }}</div> 
+    <div><input type="checkbox" name="youth_party_network_40" value="1"> {{ player.person_40 }}</div>
+    
+ 
+</div>
+
+<h2 class="german">Wert legen auf Meinung</h2>
+<h2 class="english">Value opinion</h2>
+<hr>
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german"> Legen Sie Wert auf die Meinung von den Personen, von denen Sie die Codes erhalten haben?</p>
+    <p class="english"> Do you value the opinions of the people from whom you have received the codes?</p>
+
+    
+    <div><input type="checkbox" name="value_opinion_1" value="1"> {{ player.person_1 }}</div>  
+    <div><input type="checkbox" name="value_opinion_2" value="1"> {{ player.person_2 }}</div> 
+    <div><input type="checkbox" name="value_opinion_3" value="1"> {{ player.person_3 }}</div>  
+    <div><input type="checkbox" name="value_opinion_4" value="1"> {{ player.person_4 }}</div> 
+    <div><input type="checkbox" name="value_opinion_5" value="1"> {{ player.person_5 }}</div> 
+    <div><input type="checkbox" name="value_opinion_6" value="1"> {{ player.person_6 }}</div> 
+    <div><input type="checkbox" name="value_opinion_7" value="1"> {{ player.person_7 }}</div> 
+    <div><input type="checkbox" name="value_opinion_8" value="1"> {{ player.person_8 }}</div> 
+    <div><input type="checkbox" name="value_opinion_9" value="1"> {{ player.person_9 }}</div> 
+    <div><input type="checkbox" name="value_opinion_10" value="1"> {{ player.person_10 }}</div> 
+    <div><input type="checkbox" name="value_opinion_11" value="1"> {{ player.person_11 }}</div> 
+    <div><input type="checkbox" name="value_opinion_12" value="1"> {{ player.person_12 }}</div> 
+    <div><input type="checkbox" name="value_opinion_13" value="1"> {{ player.person_13 }}</div> 
+    <div><input type="checkbox" name="value_opinion_14" value="1"> {{ player.person_14 }}</div> 
+    <div><input type="checkbox" name="value_opinion_15" value="1"> {{ player.person_15 }}</div> 
+    <div><input type="checkbox" name="value_opinion_16" value="1"> {{ player.person_16 }}</div> 
+    <div><input type="checkbox" name="value_opinion_17" value="1"> {{ player.person_17 }}</div> 
+    <div><input type="checkbox" name="value_opinion_18" value="1"> {{ player.person_18 }}</div> 
+    <div><input type="checkbox" name="value_opinion_19" value="1"> {{ player.person_19 }}</div> 
+    <div><input type="checkbox" name="value_opinion_20" value="1"> {{ player.person_20 }}</div> 
+    <div><input type="checkbox" name="value_opinion_21" value="1"> {{ player.person_21 }}</div> 
+    <div><input type="checkbox" name="value_opinion_22" value="1"> {{ player.person_22 }}</div> 
+    <div><input type="checkbox" name="value_opinion_23" value="1"> {{ player.person_23 }}</div> 
+    <div><input type="checkbox" name="value_opinion_24" value="1"> {{ player.person_24 }}</div> 
+    <div><input type="checkbox" name="value_opinion_25" value="1"> {{ player.person_25 }}</div> 
+    <div><input type="checkbox" name="value_opinion_26" value="1"> {{ player.person_26 }}</div> 
+    <div><input type="checkbox" name="value_opinion_27" value="1"> {{ player.person_27 }}</div> 
+    <div><input type="checkbox" name="value_opinion_28" value="1"> {{ player.person_28 }}</div> 
+    <div><input type="checkbox" name="value_opinion_29" value="1"> {{ player.person_29 }}</div> 
+    <div><input type="checkbox" name="value_opinion_30" value="1"> {{ player.person_30 }}</div> 
+    <div><input type="checkbox" name="value_opinion_31" value="1"> {{ player.person_31 }}</div> 
+    <div><input type="checkbox" name="value_opinion_32" value="1"> {{ player.person_32 }}</div> 
+    <div><input type="checkbox" name="value_opinion_33" value="1"> {{ player.person_33 }}</div> 
+    <div><input type="checkbox" name="value_opinion_34" value="1"> {{ player.person_34 }}</div> 
+    <div><input type="checkbox" name="value_opinion_35" value="1"> {{ player.person_35 }}</div> 
+    <div><input type="checkbox" name="value_opinion_36" value="1"> {{ player.person_36 }}</div> 
+    <div><input type="checkbox" name="value_opinion_37" value="1"> {{ player.person_37 }}</div> 
+    <div><input type="checkbox" name="value_opinion_38" value="1"> {{ player.person_38 }}</div> 
+    <div><input type="checkbox" name="value_opinion_39" value="1"> {{ player.person_39 }}</div> 
+    <div><input type="checkbox" name="value_opinion_40" value="1"> {{ player.person_40 }}</div> 
+</div>
+
+<br>
+<h2 class="german">Nutzung Gerät </h2><h2 class="english">Use of device</h2>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2 ">
+    <p class="german">Was für ein Gerät nutzen Sie, um diese Befragung durchzuführen?</p>
+    <p class="english">What kind of device do you use to conduct this survey?</p>
+    <div class="german"><input type="radio" name="use_of_device" value="1"> Laptop</div>
+    <div class="english"><input type="radio" name="use_of_device" value="1"> Laptop</div>
+    <div class="german"><input type="radio" name="use_of_device" value="2"> Tablet</div>
+    <div class="english"><input type="radio" name="use_of_device" value="2"> Tablet</div>
+    <div class="german"><input type="radio" name="use_of_device" value="3"> Smartphone</div>
+    <div class="english"><input type="radio" name="use_of_device" value="3"> Smartphone</div>
+</div>
+  
+<br>
+   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+       <span class="german"> Weiter </span>
+       <span class="english"> Next </span>
+   </button>
+{% endblock %}

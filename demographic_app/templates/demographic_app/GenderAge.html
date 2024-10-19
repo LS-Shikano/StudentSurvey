@@ -1,0 +1,53 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+
+{% block title %}
+Student Survey January 2024
+{% endblock %}
+
+{% block content %}
+<br>
+<h2 class="english">Age</h2><h2 class="german">Alter</h2>
+<input id="time" type="hidden" name="time_age"/>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2 ">
+    <p class="german">Bitte geben Sie Ihr Alter in Jahren an.</p>
+    <p class="english">Please indicate your age in years.</p>
+    <div class="german"><input type="radio" name="age" value="1"> 17 oder jünger</div>
+    <div class="english"><input type="radio" name="age" value="1"> 17 or younger</div>
+    <div class="german"><input type="radio" name="age" value="2"> 18</div>
+    <div class="english"><input type="radio" name="age" value="2"> 18</div>
+    <div class="german"><input type="radio" name="age" value="3"> 19</div>
+    <div class="english"><input type="radio" name="age" value="3"> 19</div>
+    <div class="german"><input type="radio" name="age" value="4"> 20</div>
+    <div class="english"><input type="radio" name="age" value="4"> 20</div>    
+    <div class="german"><input type="radio" name="age" value="5"> 21</div>
+    <div class="english"><input type="radio" name="age" value="5"> 21</div>
+    <div class="german"><input type="radio" name="age" value="6"> 22 oder älter</div>
+    <div class="english"><input type="radio" name="age" value="6"> 22 or older</div>
+</div>
+
+<br>
+<h2 class="english">Gender</h2><h2 class="german">Geschlecht</h2>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2 ">
+    <p class="german">Bitte geben Sie ihr Geschlecht an.</p>
+    <p class="english">Please indicate your gender.</p>
+    <div class="german"><input type="radio" name="gender" value="1"> Weiblich</div>
+    <div class="english"><input type="radio" name="gender" value="1"> Female</div>
+    <div class="german"><input type="radio" name="gender" value="2"> Männlich</div>
+    <div class="english"><input type="radio" name="gender" value="2"> Male</div>
+    <div class="german"><input type="radio" name="gender" value="3"> Divers</div>
+    <div class="english"><input type="radio" name="gender" value="3"> Diverse</div>
+    <div class="german"><input type="radio" name="gender" value="-999"> Keine Angabe</div>
+    <div class="english"><input type="radio" name="gender" value="-999"> No answer</div>
+</div>
+
+
+   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+       <span class="german"> Weiter </span>
+       <span class="english"> Next </span>
+   </button>
+
+{% endblock %}

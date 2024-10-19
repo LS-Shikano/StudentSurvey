@@ -1,0 +1,115 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block app_scripts %}
+<script>
+// timestamp
+var time = new Date();
+var time = time.toISOString();
+document.getElementById("time").value = time;
+
+// German & English
+    var language = {{lang}};
+    var german_text = document.getElementsByClassName("german");
+    var eng_text = document.getElementsByClassName("english");
+
+    if (language == 0) {
+        for(var i = 0; i < german_text.length; i++){
+            german_text[i].style.display = "block";}
+    } else {
+        for(var i = 0; i < german_text.length; i++){
+            german_text[i].style.display = "none";}}
+
+    if (language == 1) {
+        for(var i = 0; i < eng_text.length; i++){
+            eng_text[i].style.display = "block";}
+    } else {
+        for(var i = 0; i < eng_text.length; i++){
+            eng_text[i].style.display = "none";}}
+
+
+// Declaration of the input text
+
+const choice_vl_1_de = "<p>Vorlesung: Präsenz</p>";
+const choice_vl_1_en = "<p>Lecture: In-person </p>";
+const choice_vl_2_de = "<p>Vorlesung: Online in Echtzeit (z. B. per Zoom)</p>";
+const choice_vl_2_en = "<p>Lecture: Online in real time (e. g. via Zoom)</p>";
+const choice_vl_3_de = "<p>Vorlesung: Digitale Aufzeichnung (z. B. Youtube Videos)</p>";
+const choice_vl_3_en = "<p>Lecture: Digital Recording (e. g. Youtube videos)</p>";
+
+const choice_tut_1_de = "<p>Tutorat: Präsenz</p>";
+const choice_tut_1_en = "<p>Tutorial: In-person</p>";
+const choice_tut_2_de = "<p>Tutorat: Online in Echtzeit (z. B. per Zoom)</p>";
+const choice_tut_2_en = "<p>Tutorial: Online in real time (e. g. via Zoom)</p>";
+const choice_tut_3_de = "<p>Tutorat: Digitale Aufzeichnung (z. B. Youtube Videos) </p>";
+const choice_tut_3_en = "<p>Tutorial: Digital Recording (e. g. Youtube videos)</p>";
+
+const choice_ex_1_de = "<p>Prüfung: Präsenz </p>";
+const choice_ex_1_en = "<p>Exam: In-person</p>";
+const choice_ex_2_de = "<p>Prüfung: Online (120 Minuten) </p>";
+const choice_ex_2_en = "<p>Exam: Online (120 Minutes)</p>";
+const choice_ex_3_de = "<p>Prüfung: Take Home Exam </p>";
+const choice_ex_3_en = "<p>Exam: Take Home Exam</p>";
+
+var randomnumber_vl_1 = {{ randomnumber_vl_1 }};
+var randomnumber_vl_2 = {{ randomnumber_vl_2 }};
+var randomnumber_tut_1 = {{ randomnumber_tut_1 }};
+var randomnumber_tut_2 = {{ randomnumber_tut_2 }};
+var randomnumber_ex_1 = {{ randomnumber_ex_1 }};
+var randomnumber_ex_2 = {{ randomnumber_ex_2 }};
+
+
+tutorial_text_de = [choice_tut_1_de, choice_tut_2_de, choice_tut_3_de]
+tutorial_text_en = [choice_tut_1_en, choice_tut_2_en, choice_tut_3_en]
+for(var i = 0; i < tutorial_text_en.length; i++){
+    if (language == 0){
+        if (randomnumber_tut_1 == i+1){
+            document.getElementById('package1_tut').innerHTML = tutorial_text_de[i];}
+        if (randomnumber_tut_2 == i+1){
+            document.getElementById('package2_tut').innerHTML = tutorial_text_de[i];}
+        }
+    if (language == 1){
+        if (randomnumber_tut_1 == i+1){
+            document.getElementById('package1_tut').innerHTML = tutorial_text_en[i];}
+        if (randomnumber_tut_2 == i+1){
+            document.getElementById('package2_tut').innerHTML = tutorial_text_en[i];}
+        }
+    }
+
+lecture_text_de = [choice_vl_1_de, choice_vl_2_de, choice_vl_3_de]
+lecture_text_en = [choice_vl_1_en, choice_vl_2_en, choice_vl_3_en]
+for(var i = 0; i < lecture_text_de.length; i++){
+    if (language == 0){
+        if (randomnumber_vl_1 == i+1){
+            document.getElementById('package1_vl').innerHTML = lecture_text_de[i];}
+        if (randomnumber_vl_2 == i+1){
+            document.getElementById('package2_vl').innerHTML = lecture_text_de[i];}
+    }
+    if (language == 1){
+        if (randomnumber_vl_1 == i+1){
+            document.getElementById('package1_vl').innerHTML = lecture_text_en[i];}
+        if (randomnumber_vl_2 == i+1){
+            document.getElementById('package2_vl').innerHTML = lecture_text_en[i];}
+    }
+    }
+
+exam_text_de = [choice_ex_1_de, choice_ex_2_de, choice_ex_3_de]
+exam_text_en = [choice_ex_1_en, choice_ex_2_en, choice_ex_3_en]
+for(var i = 0; i < exam_text_de.length; i++){
+    if (language == 0){
+        if (randomnumber_ex_1 == i+1){
+            document.getElementById('package1_ex').innerHTML = exam_text_de[i];}
+        if (randomnumber_ex_2 == i+1){
+            document.getElementById('package2_ex').innerHTML = exam_text_de[i];}
+            }
+    if (language == 1){
+        if (randomnumber_ex_1 == i+1){
+            document.getElementById('package1_ex').innerHTML = exam_text_en[i];}
+        if (randomnumber_ex_2 == i+1){
+            document.getElementById('package2_ex').innerHTML = exam_text_en[i];}
+            }
+    }
+
+</script>
+
+{% endblock %}

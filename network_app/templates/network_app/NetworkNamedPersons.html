@@ -1,0 +1,75 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+{% block title %}
+Student Survey January 2024
+{% endblock %}
+
+{% block content %}
+<!--time stamp-->
+<input id="time" type="hidden" name="time_networknamedstudents" />
+<br>
+
+<!--heading-->
+<h2 class="german">Netzwerk genannte Personen</h2>
+<h2 class="english">Network of named persons</h2>
+<hr>
+
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german">Nun würde mich interessieren, welche Codes Sie soeben von anderen Personen erfragt und erhalten haben. Bitte geben Sie die Codenummern ein, die Sie sich notiert haben.</p>
+    <p class="german">Bitte lassen Sie in Feldern die sie nicht nutzen möchten den eingetragenen Wert stehen. </p>
+    <p class="english">Now I would be interested to know which codes you have just asked for and received from other people. Please enter the code numbers that you have noted down.</p>
+    <p class="english">Please leave the given value as is in the fields you do not wish to use.</p>
+
+    <div> Code 1: {% formfield player.person_1 %} </div>
+    <div> Code 2: {% formfield player.person_2 %} </div>
+    <div> Code 3: {% formfield player.person_3 %} </div>
+    <div> Code 4: {% formfield player.person_4 %} </div>
+    <div> Code 5: {% formfield player.person_5 %} </div>
+    <div> Code 6: {% formfield player.person_6 %} </div>
+    <div> Code 7: {% formfield player.person_7 %} </div>
+    <div> Code 8: {% formfield player.person_8 %} </div>
+    <div> Code 9: {% formfield player.person_9 %} </div>
+    <div> Code 10: {% formfield player.person_10 %} </div>
+    <div> Code 11: {% formfield player.person_11 %} </div>
+    <div> Code 12: {% formfield player.person_12 %} </div>
+    <div> Code 13: {% formfield player.person_13 %} </div>
+    <div> Code 14: {% formfield player.person_14 %} </div>
+    <div> Code 15: {% formfield player.person_15 %} </div>
+    <div> Code 16: {% formfield player.person_16 %} </div>
+    <div> Code 17: {% formfield player.person_17 %} </div>
+    <div> Code 18: {% formfield player.person_18 %} </div>
+    <div> Code 19: {% formfield player.person_19 %} </div>
+    <div> Code 20: {% formfield player.person_20 %} </div>
+    <div> Code 21: {% formfield player.person_21 %} </div>
+    <div> Code 22: {% formfield player.person_22 %} </div>
+    <div> Code 23: {% formfield player.person_23 %} </div>
+    <div> Code 24: {% formfield player.person_24 %} </div>
+    <div> Code 25: {% formfield player.person_25 %} </div>
+    <div> Code 26: {% formfield player.person_26 %} </div>
+    <div> Code 27: {% formfield player.person_27 %} </div>
+    <div> Code 28: {% formfield player.person_28 %} </div>
+    <div> Code 29: {% formfield player.person_29 %} </div>
+    <div> Code 30: {% formfield player.person_30 %} </div>
+    <div> Code 31: {% formfield player.person_31 %} </div>
+    <div> Code 32: {% formfield player.person_32 %} </div>
+    <div> Code 33: {% formfield player.person_33 %} </div>
+    <div> Code 34: {% formfield player.person_34 %} </div>
+    <div> Code 35: {% formfield player.person_35 %} </div>
+    <div> Code 36: {% formfield player.person_36 %} </div>
+    <div> Code 37: {% formfield player.person_37 %} </div>
+    <div> Code 38: {% formfield player.person_38 %} </div>
+    <div> Code 39: {% formfield player.person_39 %} </div>
+    <div> Code 40: {% formfield player.person_40 %} </div>
+     
+</div>
+
+
+<br>
+<!--Next button-->
+<button class="otree-btn-next btn btn-primary next-button otree-next-button">
+    <span class="german"> Weiter </span>
+    <span class="english"> Next </span>
+</button>
+
+{% endblock %}

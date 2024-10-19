@@ -1,0 +1,124 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block app_scripts %}
+    <script>
+//The order of the questions is randomized and for 3 of the 14 questions there is another round of randomization w/ a second option
+// Timestamp
+    var time = new Date();
+    var time = time.toISOString();
+    document.getElementById("time").value = time;
+
+
+// German & English
+    var language = {{lang}};
+    var german_text = document.getElementsByClassName("german");
+    var eng_text = document.getElementsByClassName("english");
+
+    if (language == 0) {
+        for(var i = 0; i < german_text.length; i++){
+            german_text[i].style.display = "block";}
+    } else {
+        for(var i = 0; i < german_text.length; i++){
+            german_text[i].style.display = "none";}}
+
+    if (language == 1) {
+        for(var i = 0; i < eng_text.length; i++){
+            eng_text[i].style.display = "block";}
+    } else {
+        for(var i = 0; i < eng_text.length; i++){
+            eng_text[i].style.display = "none";}}
+
+
+    //Defining Variables for secound opportunity POP2/POP4/E1
+    var randomnumber_pop_2_2 = {{ randomnumber_pop_2_2 }}
+    var randomnumber_pop_4_2 = {{ randomnumber_pop_4_2 }}
+    var randomnumber_e_1_2 = {{ randomnumber_e_1_2 }}
+
+    //Defining Variables from Randomnumbers_qX
+    var randomnumber_q1 = {{ randomnumber_q1 }};
+    var randomnumber_q2 = {{ randomnumber_q2 }};
+    var randomnumber_q3 = {{ randomnumber_q3 }};
+    var randomnumber_q4 = {{ randomnumber_q4 }};
+    var randomnumber_q5 = {{ randomnumber_q5 }};
+    var randomnumber_q6 = {{ randomnumber_q6 }};
+    var randomnumber_q7 = {{ randomnumber_q7 }};
+    var randomnumber_q8 = {{ randomnumber_q8 }};
+    var randomnumber_q9 = {{ randomnumber_q9 }};
+    var randomnumber_q10 = {{ randomnumber_q10 }};
+    var randomnumber_q11 = {{ randomnumber_q11 }};
+    var randomnumber_q12 = {{ randomnumber_q12 }};
+    var randomnumber_q13 = {{ randomnumber_q13 }};
+    var randomnumber_q14 = {{ randomnumber_q14 }};
+
+    const random_variables = [randomnumber_q1,randomnumber_q2,randomnumber_q3,randomnumber_q4,randomnumber_q5,randomnumber_q6,randomnumber_q7,randomnumber_q8,randomnumber_q9,randomnumber_q10,randomnumber_q11,randomnumber_q12,randomnumber_q13,randomnumber_q14]
+    const id_names = ['one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirdteen','fourteen']
+
+    //defining questions
+    const POP1 = ["<p>Die Politiker im Parlament müssen dem Willen des Volkes folgen.","<p>The politicians in the parliament need to follow the will of the people.</p>"];
+    const POP2 = ["<p>Die Menschen, und nicht die Politiker, sollten unsere wichtigsten politischen Entscheidungen treffen.</p>","<p>The people, and not politicians, should make our most important policy decisions.</p>"];
+    const POP2_2 = ["<p>Politiker, und nicht das Volk, sollten unsere wichtigsten politischen Entscheidungen treffen.</p>","<p>Politicians, and not the people, should make our most important policy decisions.</p>"];
+    const POP3 = ["<p>Die politischen Unterschiede zwischen der Elite und dem Volk sind größer als die Unterschiede innerhalb des Volkes.</p>","<p>The political differences between the elite and the people are larger than the differences among the people.</p>"];
+    const POP4 = ["<p>Ich möchte lieber von einem normalen Bürger vertreten werden als von einem spezialisierten Politiker.</p>","<p>I would rather be represented by an ordinary citizen than by a specialized politician.</p>"];
+    const POP4_2 = ["<p>Ich lasse mich lieber von einem Fachpolitiker vertreten als von einem einfachen Bürger.</p>","<p>I would rather be represented by a specialized politician than by an ordinary citizen.</p>"];
+    const POP5 = ["<p>Gewählte Amtsträger reden zu viel und handeln zu wenig.</p>","<p>Elected officials talk too much and take too little action.</p>"];
+    const POP6 = ["<p>Politik ist letztlich ein Kampf zwischen Gut und Böse.</p>","<p>Politics is ultimately a struggle between good and evil.</p>"];
+    const POP7 = ["<p>Was man in der Politik Kompromiss nennt, ist in Wirklichkeit ein Verrat von Prinzipien.</p>","<p>What people call compromise in politics is really just selling out on one’s principles.</p>"];
+    const POP8 = ["<p>Interessengruppen haben zu viel Einfluss auf politische Entscheidungen.</p>","<p>Interest groups have too much influence over political decisions.</p>"];
+    const PLU1 = ["<p>In einer Demokratie ist es wichtig, Kompromisse zwischen unterschiedlichen Standpunkten zu schließen.</p>","<p>In a democracy it is important to make compromises among differing viewpoints.</p>"];
+    const PLU2 = ["<p>Es ist wichtig, sich die Meinung anderer Gruppen anzuhören.</p>","<p>It is important to listen to the opinion of other groups.</p>"];
+    const PLU3 = ["<p>Diversität schränkt meine Freiheit ein.</p>","<p>Diversity limits my freedom.</em></p>"];
+    const E1 = ["<p>Politiker sollten führen, statt dem Volk zu folgen.</p>","<p>Politicians should lead rather than follow the people.</p>"];
+    const E1_2 = ["<p>Politiker sollten dem Volk folgen, statt es zu führen.</p>","<p>Politicians should follow rather than lead the people.</p>"];
+    const E2 = ["<p>Unser Land würde besser regiert werden, wenn wichtige Entscheidungen erfolgreichen Geschäftsleuten überlassen werden würden.</p>","<p>Our country would be governed better if important decisions were left up to successful business people.</p>"];
+    const E3 = ["<p>Unser Land würde besser regiert werden, wenn wichtige Entscheidungen unabhängigen Experten überlassen würden.</p>","<p>Our country would be governed better if important decisions were left up to independent experts.</p>"];
+
+    const question_text = [POP1, POP2, POP3, POP4, POP5, POP6, POP7, POP8, PLU1, PLU2, PLU3, E1, E2, E3]
+
+    // Randomize the order in which the questions appear. 1st for loop iterates through the randomized variables
+    //      Second for loop iterates through the list of questions. First if statement is for German language...
+    for (let j = 0; j < random_variables.length; j++) {
+        for (let i = 0; i< question_text.length; i++) {
+            if (language == 0){
+                // Assign the location of the question to the text of a question except for in special cases
+                if (random_variables[j] == i+1 & i!=1 & i!=3 & i!=11) {
+                    document.getElementById(id_names[j]).innerHTML = question_text[i][0];}
+
+                if (i==1 & random_variables[j] == 2 & randomnumber_pop_2_2 == 1) {
+                    document.getElementById(id_names[j]).innerHTML = question_text[i][0];}
+                if (i==1 & random_variables[j] == 2 & randomnumber_pop_2_2 == 2) {
+                    document.getElementById(id_names[j]).innerHTML = POP2_2[0];}
+
+                if (i==3 & random_variables[j] == 4 & randomnumber_pop_4_2 == 1) {
+                    document.getElementById(id_names[j]).innerHTML = question_text[i][0];}
+                if (i==3  & random_variables[j] == 4 & randomnumber_pop_4_2 == 2) {
+                    document.getElementById(id_names[j]).innerHTML = POP4_2[0];}
+
+                if (i==11 & random_variables[j] == 12 & randomnumber_e_1_2 == 1) {
+                    document.getElementById(id_names[j]).innerHTML = question_text[i][0];}
+                if (i==11 & random_variables[j] == 12 & randomnumber_e_1_2 == 2) {
+                    document.getElementById(id_names[j]).innerHTML = E1_2[0];}
+            }
+            if (language == 1){
+                if (random_variables[j] == i+1 & i!=1 & i!=3 & i!=11) {
+                    document.getElementById(id_names[j]).innerHTML = question_text[i][1];}
+
+                if (i==1 & random_variables[j] == 2 & randomnumber_pop_2_2 == 1) {
+                    document.getElementById(id_names[j]).innerHTML = question_text[i][1];}
+                if (i==1 & random_variables[j] == 2 & randomnumber_pop_2_2 == 2) {
+                    document.getElementById(id_names[j]).innerHTML = POP2_2[0];}
+
+                if (i==3 & random_variables[j] == 4 & randomnumber_pop_4_2 == 1) {
+                    document.getElementById(id_names[j]).innerHTML = question_text[i][1];}
+                if (i==3  & random_variables[j] == 4 & randomnumber_pop_4_2 == 2) {
+                    document.getElementById(id_names[j]).innerHTML = POP4_2[0];}
+
+                if (i==11 & random_variables[j] == 12 & randomnumber_e_1_2 == 1) {
+                    document.getElementById(id_names[j]).innerHTML = question_text[i][1];}
+                if (i==11 & random_variables[j] == 12 & randomnumber_e_1_2 == 2) {
+                    document.getElementById(id_names[j]).innerHTML = E1_2[1];}
+            }
+        }}
+    </script>
+
+{% endblock %}

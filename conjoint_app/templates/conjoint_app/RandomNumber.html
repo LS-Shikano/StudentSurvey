@@ -1,0 +1,48 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+{% block title %}
+Student Survey January 2024
+{% endblock %}
+
+{% block content %}
+<input id="time" type="hidden" name="time_rnumber"/>
+<br>
+<h2 class="german"> Teilnahmecode  </h2> <h2 class="english"> Participant Code</h2>
+<hr>
+
+<div  class="mb-3 bg-light border pt-2 pb-2 px-2 ">
+    <p class="german">Bitte notieren Sie sich die folgende Nummer oder machen Sie einen Screenshot. Sie dient als Beleg dafür, dass Sie an der Befragung teilgenommen haben.</p>
+    <p class="english">Please write down the following number or take a screenshot. It serves as proof that you have particpiated in this survey</p>
+          <b>{{ player.rnumber }}</b>
+</div>
+
+<div  class="mb-3 bg-light border pt-2 pb-2 px-2 ">
+
+    <p class="german">Bitte geben Sie zunächst den Code, den Sie erhalten haben, in das Textfeld ein.</p>
+    <p class="english">First, please enter the code you have received in the text box.</p>
+    <input type="number" name="rnumbercheck" required="" id="id_rnumbercheck" class="form-control">
+    {{ formfield_errors 'rnumbercheck' }}
+</div>
+
+<div  class="mb-3 bg-light border pt-2 pb-2 px-2 ">
+
+    <p class="german">Jetzt können Sie zu anderen Personen im Raum gehen, die Sie persönlich kennen, und Ihre Codes austauschen. Machen Sie sich eine Notiz von den Codes und den Namen der Personen.
+    </p>
+    <p class="english">Now you can go to other people in the room that you know personally and exchange your codes. Make a note of the codes and names of the people.
+    </p>
+    <p class="german"> <span style="color: red;">Hinweis:</span> Bitte halten Sie die Notiz bis zum Semesterende griffbereit. Sie werden immer wieder danach gefragt.
+    </p>
+    <p class="english"> <span style="color: red;">Note:</span> Please keep the note at hand until the end of the semester. You will be asked for it repeatedly.
+    </p>
+</div>
+
+<br>
+
+   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+       <span class="german"> Weiter </span>
+       <span class="english"> Next </span>
+   </button>
+
+
+{% endblock %}

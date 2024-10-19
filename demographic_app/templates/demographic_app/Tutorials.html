@@ -1,0 +1,84 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+{% block title %}
+Student Survey January 2024
+{% endblock %}
+
+{% block content %}
+
+<input id="time" type="hidden" name="time_tutorial_expected_grade"/>
+
+<br>
+<h2 class="german"> Tutoratsgruppe </h2> <h2 class="english"> Tutorial group  </h2>
+<hr>
+
+<div  class="mb-3 border pt-2 pb-2 px-2 ">
+      <p class="german">An welcher Tutoriumsgruppe nehmen Sie teil?</p>
+      <p class="english">In which tutorial group do you participate?</p>
+
+      <input type="radio" name="tutorial" value="1"> Mon. 17:00-18:30, Julia King
+      <br>
+      <input type="radio" name="tutorial" value="2"> Wed. 08:15-09:45, Julia King
+      <br>
+      <input type="radio" name="tutorial" value="3"> Wed. 13:30-15:00, Matthis Piontek
+      <br>
+      <input type="radio" name="tutorial" value="4"> Wed. 17:00-18:30, Noah Kriegler
+      <br>
+      <input type="radio" name="tutorial" value="5"> Thu. 11:45-13:15, Johannes Hollunder
+      <br>
+      <input type="radio" name="tutorial" value="6"> Thu. 15:15-16:45, Jakob Staemmler
+      <br>
+      <input type="radio" name="tutorial" value="7"> Fri. 11:45-13:15, Johannes Hollunder
+      <br>
+      <input type="radio" name="tutorial" value="8"> Fri. 08.15-09.45, Eric Fröher
+      <br>
+      <input type="radio" name="tutorial" value="9"> Fri. 13.30-15.00, Mike Barth
+      <br>
+      <div class="german"><input type="radio" name="tutorial" value="10"> An keiner</div>
+      <br>
+      <div class="english"><input type="radio" name="tutorial" value="10"> None</div>
+      <br>
+      
+</div>
+
+<br>
+<h2 class="german"> Notenerwartung </h2> <h2 class="english"> Grade Expectations  </h2>
+<hr>
+
+<div  class="mb-3 border pt-2 pb-2 px-2 ">
+   <p class="german">Welche Note erwarten Sie für sich in der Klausur dieser Vorlesung am Ende des Semesters?</p>
+   <p class="english">What grade do you expect to receive in the final exam of this lecture at the end of the semester?</p>
+
+      <input type="radio" name="grade" value="1.0"> 1.0
+      <br>
+      <input type="radio" name="grade" value="1.3"> 1.3
+      <br>
+      <input type="radio" name="grade" value="1.7"> 1.7
+      <br>
+      <input type="radio" name="grade" value="2.0"> 2.0
+      <br>
+      <input type="radio" name="grade" value="2.3"> 2.3
+      <br>
+      <input type="radio" name="grade" value="2.7"> 2.7
+      <br>
+      <input type="radio" name="grade" value="3.0"> 3.0
+      <br>
+      <input type="radio" name="grade" value="3.3"> 3.3
+      <br>
+      <input type="radio" name="grade" value="3.7"> 3.7
+      <br>
+      <input type="radio" name="grade" value="4.0"> 4.0
+      <br>
+      <input type="radio" name="grade" value="5.0"> 5.0
+      <br>
+      <div class="german"><input type="radio" name="grade" value="-888"> Weiß nicht</div>
+      <div class="english"><input type="radio" name="grade" value="-888"> Don't know</div>
+</div>
+   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+       <span class="german"> Weiter </span>
+       <span class="english"> Next </span>
+   </button>
+
+
+{% endblock %}
