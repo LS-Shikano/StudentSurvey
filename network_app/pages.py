@@ -8,11 +8,6 @@ class Participantcode(Page): #2
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
     form_fields = ['time_participantcode', 'participantcode']
-    
-    def participantcode_error_message(self, value):
-        # Check if the input is exactly 3 letters long and contains only alphabetic characters
-        if len(value) != 3 or not value.isalpha() or not value.islower():
-            return "Please enter exactly three lowercase letters."
 
 class NetworkNamedPersons(Page): #4
     def vars_for_template(self):
