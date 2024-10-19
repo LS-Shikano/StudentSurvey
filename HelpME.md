@@ -26,10 +26,10 @@ contains .html files for the pages of the survey
 # Structure for Project
 
 ## Apps 
-conjoint_app: vorlesungdetails der beteiligten 
-political_app: mit fragen zu politischer einstellung 
-network_app: netzwerk items für die befragung 
-demographic_app: generelle demographische daten der befragten 
+- conjoint_app: details der beteiligten zu IT und random number 
+- demographic_app: demographische daten der befragten 
+- network_app: netzwerk items für die befragung
+- political_app: fragen zu politischer einstellung und Abschluss Seiten
 
 ***
 # BW-Cloud 
