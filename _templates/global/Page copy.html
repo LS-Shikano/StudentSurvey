@@ -1,0 +1,22 @@
+{% extends "otree/Page.html" %}
+{% load otree %}
+
+{% block global_styles  %}
+<style>
+.otree-title {
+        display: none;
+    }
+</style>
+
+{% endblock %}
+
+{% block global_scripts  %}
+{% endblock %}
+
+{% block app_scripts %}
+<script>
+    var time = new Date();
+    var time = time.toISOString();
+    document.getElementById("time").value = time;
+</script>
+{% endblock %}

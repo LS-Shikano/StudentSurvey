@@ -1,0 +1,119 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+{% block title %}
+Student Survey January 2024
+{% endblock %}
+
+{% block content %}
+<!--time stamp-->
+<input id="time" type="hidden" name="time_studentinteractions" />
+<br>
+
+<!--heading-->
+<h2 class="german">Gute Freundschaft</h2>
+<h2 class="english">Close friendship</h2>
+<hr>
+
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german">Mit welchen Personen, von denen Sie soeben die Codes erhalten haben, sind Sie gut befreundet?</p>
+    <p class="english">Which people you just received the codes from are you good friends with?</p>
+    <div><input type="checkbox" name="friends_1" value="1"> {{ player.person_1 }}</div>  
+    <div><input type="checkbox" name="friends_2" value="1"> {{ player.person_2 }}</div> 
+    <div><input type="checkbox" name="friends_3" value="1"> {{ player.person_3 }}</div>  
+    <div><input type="checkbox" name="friends_4" value="1"> {{ player.person_4 }}</div> 
+    <div><input type="checkbox" name="friends_5" value="1"> {{ player.person_5 }}</div> 
+    <div><input type="checkbox" name="friends_6" value="1"> {{ player.person_6 }}</div> 
+    <div><input type="checkbox" name="friends_7" value="1"> {{ player.person_7 }}</div> 
+    <div><input type="checkbox" name="friends_8" value="1"> {{ player.person_8 }}</div> 
+    <div><input type="checkbox" name="friends_9" value="1"> {{ player.person_9 }}</div> 
+    <div><input type="checkbox" name="friends_10" value="1"> {{ player.person_10 }}</div> 
+    <div><input type="checkbox" name="friends_11" value="1"> {{ player.person_11 }}</div> 
+    <div><input type="checkbox" name="friends_12" value="1"> {{ player.person_12 }}</div> 
+    <div><input type="checkbox" name="friends_13" value="1"> {{ player.person_13 }}</div> 
+    <div><input type="checkbox" name="friends_14" value="1"> {{ player.person_14 }}</div> 
+    <div><input type="checkbox" name="friends_15" value="1"> {{ player.person_15 }}</div> 
+    <div><input type="checkbox" name="friends_16" value="1"> {{ player.person_16 }}</div> 
+    <div><input type="checkbox" name="friends_17" value="1"> {{ player.person_17 }}</div> 
+    <div><input type="checkbox" name="friends_18" value="1"> {{ player.person_18 }}</div> 
+    <div><input type="checkbox" name="friends_19" value="1"> {{ player.person_19 }}</div> 
+    <div><input type="checkbox" name="friends_20" value="1"> {{ player.person_20 }}</div> 
+    <div><input type="checkbox" name="friends_21" value="1"> {{ player.person_21 }}</div> 
+    <div><input type="checkbox" name="friends_22" value="1"> {{ player.person_22 }}</div> 
+    <div><input type="checkbox" name="friends_23" value="1"> {{ player.person_23 }}</div> 
+    <div><input type="checkbox" name="friends_24" value="1"> {{ player.person_24 }}</div> 
+    <div><input type="checkbox" name="friends_25" value="1"> {{ player.person_25 }}</div> 
+    <div><input type="checkbox" name="friends_26" value="1"> {{ player.person_26 }}</div> 
+    <div><input type="checkbox" name="friends_27" value="1"> {{ player.person_27 }}</div> 
+    <div><input type="checkbox" name="friends_28" value="1"> {{ player.person_28 }}</div> 
+    <div><input type="checkbox" name="friends_29" value="1"> {{ player.person_29 }}</div> 
+    <div><input type="checkbox" name="friends_30" value="1"> {{ player.person_30 }}</div> 
+    <div><input type="checkbox" name="friends_31" value="1"> {{ player.person_31 }}</div> 
+    <div><input type="checkbox" name="friends_32" value="1"> {{ player.person_32 }}</div> 
+    <div><input type="checkbox" name="friends_33" value="1"> {{ player.person_33 }}</div> 
+    <div><input type="checkbox" name="friends_34" value="1"> {{ player.person_34 }}</div> 
+    <div><input type="checkbox" name="friends_35" value="1"> {{ player.person_35 }}</div> 
+    <div><input type="checkbox" name="friends_36" value="1"> {{ player.person_36 }}</div> 
+    <div><input type="checkbox" name="friends_37" value="1"> {{ player.person_37 }}</div> 
+    <div><input type="checkbox" name="friends_38" value="1"> {{ player.person_38 }}</div> 
+    <div><input type="checkbox" name="friends_39" value="1"> {{ player.person_39 }}</div> 
+    <div><input type="checkbox" name="friends_40" value="1"> {{ player.person_40 }}</div>  
+</div>
+<br>
+<!--heading-->
+<h2 class="german"> Politische Themen besprechen</h2>
+<h2 class="english"> Discussion of political issues</h2>
+<hr>
+
+<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+    <p class="german">Mit welchen Personen, von denen Sie soeben die Codes erhalten haben, sprechen Sie über politische Themen?</p>
+    <p class="english">Which people you just received the codes from do you talk to about political issues?</p>
+    <div><input type="checkbox" name="friends_politics_1" value="1"> {{ player.person_1 }}</div>  
+    <div><input type="checkbox" name="friends_politics_2" value="1"> {{ player.person_2 }}</div> 
+    <div><input type="checkbox" name="friends_politics_3" value="1"> {{ player.person_3 }}</div>  
+    <div><input type="checkbox" name="friends_politics_4" value="1"> {{ player.person_4 }}</div> 
+    <div><input type="checkbox" name="friends_politics_5" value="1"> {{ player.person_5 }}</div> 
+    <div><input type="checkbox" name="friends_politics_6" value="1"> {{ player.person_6 }}</div> 
+    <div><input type="checkbox" name="friends_politics_7" value="1"> {{ player.person_7 }}</div> 
+    <div><input type="checkbox" name="friends_politics_8" value="1"> {{ player.person_8 }}</div> 
+    <div><input type="checkbox" name="friends_politics_9" value="1"> {{ player.person_9 }}</div> 
+    <div><input type="checkbox" name="friends_politics_10" value="1"> {{ player.person_10 }}</div> 
+    <div><input type="checkbox" name="friends_politics_11" value="1"> {{ player.person_11 }}</div> 
+    <div><input type="checkbox" name="friends_politics_12" value="1"> {{ player.person_12 }}</div> 
+    <div><input type="checkbox" name="friends_politics_13" value="1"> {{ player.person_13 }}</div> 
+    <div><input type="checkbox" name="friends_politics_14" value="1"> {{ player.person_14 }}</div> 
+    <div><input type="checkbox" name="friends_politics_15" value="1"> {{ player.person_15 }}</div> 
+    <div><input type="checkbox" name="friends_politics_16" value="1"> {{ player.person_16 }}</div> 
+    <div><input type="checkbox" name="friends_politics_17" value="1"> {{ player.person_17 }}</div> 
+    <div><input type="checkbox" name="friends_politics_18" value="1"> {{ player.person_18 }}</div> 
+    <div><input type="checkbox" name="friends_politics_19" value="1"> {{ player.person_19 }}</div> 
+    <div><input type="checkbox" name="friends_politics_20" value="1"> {{ player.person_20 }}</div> 
+    <div><input type="checkbox" name="friends_politics_21" value="1"> {{ player.person_21 }}</div> 
+    <div><input type="checkbox" name="friends_politics_22" value="1"> {{ player.person_22 }}</div> 
+    <div><input type="checkbox" name="friends_politics_23" value="1"> {{ player.person_23 }}</div> 
+    <div><input type="checkbox" name="friends_politics_24" value="1"> {{ player.person_24 }}</div> 
+    <div><input type="checkbox" name="friends_politics_25" value="1"> {{ player.person_25 }}</div> 
+    <div><input type="checkbox" name="friends_politics_26" value="1"> {{ player.person_26 }}</div> 
+    <div><input type="checkbox" name="friends_politics_27" value="1"> {{ player.person_27 }}</div> 
+    <div><input type="checkbox" name="friends_politics_28" value="1"> {{ player.person_28 }}</div> 
+    <div><input type="checkbox" name="friends_politics_29" value="1"> {{ player.person_29 }}</div> 
+    <div><input type="checkbox" name="friends_politics_30" value="1"> {{ player.person_30 }}</div> 
+    <div><input type="checkbox" name="friends_politics_31" value="1"> {{ player.person_31 }}</div> 
+    <div><input type="checkbox" name="friends_politics_32" value="1"> {{ player.person_32 }}</div> 
+    <div><input type="checkbox" name="friends_politics_33" value="1"> {{ player.person_33 }}</div> 
+    <div><input type="checkbox" name="friends_politics_34" value="1"> {{ player.person_34 }}</div> 
+    <div><input type="checkbox" name="friends_politics_35" value="1"> {{ player.person_35 }}</div> 
+    <div><input type="checkbox" name="friends_politics_36" value="1"> {{ player.person_36 }}</div> 
+    <div><input type="checkbox" name="friends_politics_37" value="1"> {{ player.person_37 }}</div> 
+    <div><input type="checkbox" name="friends_politics_38" value="1"> {{ player.person_38 }}</div> 
+    <div><input type="checkbox" name="friends_politics_39" value="1"> {{ player.person_39 }}</div> 
+    <div><input type="checkbox" name="friends_politics_40" value="1"> {{ player.person_40 }}</div>  
+</div> 
+<br>
+<!--Next button-->
+<button class="otree-btn-next btn btn-primary next-button otree-next-button">
+    <span class="german"> Weiter </span>
+    <span class="english"> Next </span>
+</button>
+
+{% endblock %}

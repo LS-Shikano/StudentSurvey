@@ -1,0 +1,31 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+
+{% block title %}
+Student Survey January 2024
+{% endblock %}
+
+{% block content %}
+<br>
+<h2> Student Survey January 2024 </h2>
+<hr>
+    <input id="time" type="hidden" name="time_firstendpage"/>
+
+    <br>
+
+    <h4 class="german">Ende der Umfrage</h4>
+     <p class="german"> Vielen Dank für Ihre Teilnahme an dieser Befragung! Bitte klicken Sie auf "Beenden", um die Umfrage zu beenden. </p>
+
+    <h4 class="english"><em>End of Survey</em></h4>
+    <p class="english">Thank you for your participation in this survey! Please click "submit" to finish the survey. </p>
+
+<br>
+
+<button class="otree-btn-next btn btn-primary next-button otree-next-button">
+    <span class="german"> Beenden </span>
+    <span class="english"> Submit </span>
+</button>
+
+
+{% endblock %}

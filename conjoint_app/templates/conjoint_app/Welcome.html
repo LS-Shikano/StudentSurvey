@@ -1,0 +1,92 @@
+{% extends "global/Page.html" %}
+{% load otree static %}
+
+
+{% block styles %}
+<style>
+
+.otree-title{
+background: white;
+text-align: center;
+}
+
+</style>
+{% endblock %}
+
+{% block scripts %}
+
+<script>
+// Time stamp
+   var time = new Date();
+   var time = time.toISOString()
+   document.getElementById("time").value = time;
+
+    //catching the device type
+    var ua = navigator.userAgent;
+    var device_type = -999; //TODO: check if the default works; should we also have a try except in here?
+      if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) device_type = 1; //tablet, ipad;
+      if (/Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Kindle|Silk-Accelerated|(hpw|we{b)OS|Opera M(obi|ini)/.test(ua)) 
+        device_type = 2; //mobile phone
+      else device_type = 3; //desktop TODO: check if actually desktop
+    document.getElementById('device_type').value = device_type; 
+
+    //catching the operating system
+    var os = -999; // default of -999 is written so we know it worked
+        if (ua.indexOf("Win") != -1) os = 1; //windows
+        if (ua.indexOf("Mac") != -1) os = 2; //Macintosh
+        if (ua.indexOf("Linux") != -1) os = 3; //Linux;
+        if (ua.indexOf("Android") != -1) os = 4; // Android
+        if (ua.indexOf("like Mac") != -1) os = 5; //iOS
+    document.getElementById('operating_system').value = os;
+
+    //catching the browser type
+    var browser = -999; //default
+      if (ua.match(/chrome|chromium|crios/i)){browser = 1;} //chrome
+      if(ua.match(/firefox|fxios/i)){browser = 2;} //firefox
+      if(ua.match(/safari/i)){browser = 3;} //safari
+      if(ua.match(/opr\//i)){browser = 4;} //opera
+      if(ua.match(/edg/i)){browser = 5;} //edge
+    document.getElementById('browser').value = browser;    
+
+    </script>
+
+{% endblock %}
+
+
+{% block title %}
+Student Survey February 2024
+{% endblock %}
+
+{% block content %}
+
+<br>
+<h2> Student Survey February 2024 </h2>
+
+    <input id="device_type" type="hidden" name="device_type"/>
+    <input id="operating_system" type="hidden" name="operating_system"/>
+    <input id="browser" type="hidden" name="browser"/>
+    <input id="screen_height" type="hidden" name="screen_height"/>
+    <input id="screen_width" type="hidden" name="screen_width"/>
+    <input id="time" type="hidden" name="time_start"/>
+
+    <hr>
+<p> Herzlichen Dank für Ihre Teilnahme an dieser Befragung!</p>
+<p><em>   Thank you for participating in this survey! </em></p>
+
+<div class="mb-3 bg-light border pt-2 pb-2 px-2 ">
+<p class="mb-0">Bitte wählen Sie ihre präferierte Sprache aus.</p>
+<p><em> Please select your preferred language for the survey.</em></p>
+
+ <input type="radio" name="lang" value="0"> Deutsch
+<br>
+ <input type="radio" name="lang" value="1"> English
+</div>
+
+<p>Bitte klicken Sie nun auf den "Weiter/Next"-Button, um Ihr Einverständnis mit der Teilnahme an dieser Umfrage zu signalisieren und die Umfrage zu beginnen. </p>
+ <p> <em> Please click the "Weiter/Next" button to consent to participating in this survey and to start the survey.   </em></p>
+<br>
+   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+    Weiter / Next
+</button>
+
+{% endblock %}
