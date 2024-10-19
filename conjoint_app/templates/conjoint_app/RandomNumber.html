@@ -8,32 +8,33 @@ Student Survey January 2024
 {% block content %}
 <input id="time" type="hidden" name="time_rnumber"/>
 <br>
-<h2 class="german"> Teilnahmecode  </h2> <h2 class="english"> Participant Code</h2>
+<h2 class="german"> Teilnahmecode  </h2> <h2 class="english"> Participantion Code</h2>
 <hr>
 
 <div  class="mb-3 bg-light border pt-2 pb-2 px-2 ">
-    <p class="german">Bitte notieren Sie sich die folgende Nummer oder machen Sie einen Screenshot. Sie dient als Beleg dafür, dass Sie an der Befragung teilgenommen haben.</p>
-    <p class="english">Please write down the following number or take a screenshot. It serves as proof that you have particpiated in this survey</p>
+    <p class="german">Sie werden diesen 6-stelligen Code am ENDE DES SEMESTERS brauchen. Bitte notieren Sie sich die folgende Nummer oder machen Sie einen Screenshot. Sie dient als Beleg dafür, dass Sie an der Befragung teilgenommen haben und wird es ihnen erlauben ihre Bonuspunkte zu erhalten.</p>
+    <p class="english">You will need this 6-number code at the END OF THE SEMESTER. Please write it down or take a screenshot. It serves as proof that you have particpiated in this survey and will allow you to claim your bonus points.</p>
           <b>{{ player.rnumber }}</b>
 </div>
 
 <div  class="mb-3 bg-light border pt-2 pb-2 px-2 ">
 
-    <p class="german">Bitte geben Sie zunächst den Code, den Sie erhalten haben, in das Textfeld ein.</p>
-    <p class="english">First, please enter the code you have received in the text box.</p>
+    <p class="german">Bitte geben Sie zunächst zur Sicherheit den Code, den Sie gerade erhalten haben, in das Textfeld ein.</p>
+    <p class="english">First, please enter the code you have just received in the text box.</p>
     <input type="number" name="rnumbercheck" required="" id="id_rnumbercheck" class="form-control">
     {{ formfield_errors 'rnumbercheck' }}
+
+    <p class="german"> <span style="color: red;">Hinweis:</span> Bitte halten Sie die Notiz bis zum Semesterende griffbereit. Sie werden immer wieder danach gefragt.
+    </p>
+    <p class="english"> <span style="color: red;">Note:</span> Please keep the note at hand until the end of the semester. You will be asked for it again.
+    </p>
 </div>
 
 <div  class="mb-3 bg-light border pt-2 pb-2 px-2 ">
-
-    <p class="german">Jetzt können Sie zu anderen Personen im Raum gehen, die Sie persönlich kennen, und Ihre Codes austauschen. Machen Sie sich eine Notiz von den Codes und den Namen der Personen.
+    <h3 class="english"> Getting to know your Network </h3> <h3 class="german"> Lerne dein Netzwerk kennen </h3>
+    <p class="german">Jetzt können Sie zu anderen Personen im Raum gehen, die Sie persönlich kennen, und Ihre 3-Buchstaben Sozial-IDs austauschen. Das Urteil darüber ob sie mit einander bekannt sind bleibt ihnen überlassen. Machen Sie sich eine Notiz mit den überprüften Sozial-IDs und den Namen der Personen für die Fragen zum sozialen Netzwerk später in der Befragung.
     </p>
-    <p class="english">Now you can go to other people in the room that you know personally and exchange your codes. Make a note of the codes and names of the people.
-    </p>
-    <p class="german"> <span style="color: red;">Hinweis:</span> Bitte halten Sie die Notiz bis zum Semesterende griffbereit. Sie werden immer wieder danach gefragt.
-    </p>
-    <p class="english"> <span style="color: red;">Note:</span> Please keep the note at hand until the end of the semester. You will be asked for it repeatedly.
+    <p class="english">Now you can go to other people in the room that you know personally and exchange your 3-letter social codes. The judgement whether you know each other is up to you. After double checking make a note of the other social codes and the names of the people for the network questions later in the survey.
     </p>
 </div>
 

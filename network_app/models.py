@@ -32,6 +32,11 @@ class Group(BaseGroup):
 class Player(BasePlayer):
     ### Participant Code
     participantcode = models.StringField(blank=False, label="")
+    def participantcode_error_message(self, value):
+        # Check if the input is exactly 3 letters long and contains only alphabetic characters
+        if len(value) != 3 or not value.isalpha() or not value.islower():
+            return "Please enter exactly three lowercase letters."
+
     use_of_device = models.IntegerField(blank=True, max=3, min=1, label="")
 
     ### NetworkNamedPersons
