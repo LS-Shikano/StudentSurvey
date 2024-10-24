@@ -1,6 +1,6 @@
 # ToDo
 
-alten survey durchschauen wegen fragen 
+alten survey durchschauen wegen fragen die entfernt werden können 
     niedrige varianz
     niedrige response rate 
 
@@ -16,4 +16,4 @@ Coordinate Waves well with the timing
 
 ***
 
-Nomvember/ December/ January 
+Nomvember/ December/ January waves 
