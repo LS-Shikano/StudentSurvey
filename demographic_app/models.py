@@ -28,7 +28,7 @@ class Player(BasePlayer):
     #lang = models.IntegerField() 
 
     ### Gender_age
-    age = models.IntegerField(blank=True, max=6, min=1, label="")
+    age = models.IntegerField(label="")
     gender = models.IntegerField(blank=True, max=10, min=-999, label="")
     time_age = models.StringField(initial="-999")
 

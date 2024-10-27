@@ -12,8 +12,6 @@ liste mit random codes (3-stellige) manuell ausgegeben (Option!!!)
     hashfunktion mit matrikelnummer 
     personalisiert 
 
-Coordinate Waves well with the timing 
-
 ***
 
-Nomvember/ December/ January waves 
+Three waves: Nomvember/ December/ January 

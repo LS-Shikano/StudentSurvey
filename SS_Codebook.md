@@ -48,8 +48,10 @@ Example:
 
 #### Age
 - Variable: `age`
-- Varibale: `time_age`
+- Time answered: `time_age`
 - Page: GenderAge
+- Question: "Please enter your age in years."
+- Answer: `Integer`
 
 #### Gender 
 - Variable: `gender`

@@ -36,3 +36,8 @@ contains .html files for the pages of the survey
 
 - Tutorial: https://docs.google.com/document/d/15LBPx7tNg2OKvGvHQtcDP9UGkcVs5PnTwLOxPXhuUnM/edit?pli=1&tab=t.0
 
+***
+# Deadlines
+
+- Waves: Beginning of november/ December/ January
+- 
