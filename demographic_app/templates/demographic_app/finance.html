@@ -1,0 +1,39 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+
+{% block title %}
+Student Survey - University Konstanz
+{% endblock %}
+
+{% block content %}
+
+<br>
+<h2 class="english">Income</h2><h2 class="german">Einkommen</h2>
+<input id="time" type="hidden" name="time_age"/>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2">
+    <p class="german">Bitte geben Sie Ihr monatliches Einkommen in Euro(€) an.</p>
+    <p class="english">Please enter your monthly income in Euro(€).</p>
+    
+    <input type="number" name="income" placeholder="Enter">
+</div>
+
+<br>
+<h2 class="english">Rent</h2><h2 class="german">Miete</h2>
+<input id="time" type="hidden" name="time_age"/>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2">
+    <p class="german">Bitte geben Sie Ihre Monatsmiete in Euro(€) an.</p>
+    <p class="english">Please enter your monthly rent in Euro(€).</p>
+    
+    <input type="number" name="rent" placeholder="Enter">
+</div>
+
+
+   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+       <span class="german"> Weiter </span>
+       <span class="english"> Next </span>
+   </button>
+
+{% endblock %}

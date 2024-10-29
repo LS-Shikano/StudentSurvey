@@ -25,10 +25,15 @@ class Group(BaseGroup):
     pass
 
 class Player(BasePlayer):
+    rent = models.IntegerField(label="", initial="0")
+    income = models.IntegerField(label="", initial="0")
+
     #lang = models.IntegerField() 
+    level_father = models.IntegerField(blank=True, max=5, min=-999, label="")
+    level_mother = models.IntegerField(blank=True, max=5, min=-999, label="")
 
     ### Gender_age
-    age = models.IntegerField(label="")
+    age = models.IntegerField(label="", initial="0")
     gender = models.IntegerField(blank=True, max=10, min=-999, label="")
     time_age = models.StringField(initial="-999")
 

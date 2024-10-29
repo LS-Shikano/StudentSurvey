@@ -17,6 +17,12 @@ defines variables that will be saved
 contains .html files for the pages of the survey 
     boxes and containers for the different items 
 
+## Structure: 
+Session
+Subsession
+Groups (Control/Treatment)
+Player
+
 ## Resources 
 - Otree Tutorial for Experiments: https://github.com/CPHPeters/Guest_Lecture_Experiments
 - Run Otree: https://www.otreehub.com/studio/download
