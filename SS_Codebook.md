@@ -1,6 +1,6 @@
 # Codebook Student Survey 
 
-Codebook for the Student Survey
+Codebook for the Student Survey. 
 
 ## Apps
 - conjoint_app (CA)   
@@ -9,16 +9,20 @@ Codebook for the Student Survey
 - political_app (PA)
 
 ## Survey Items  
-Example: 
+Example: Attributes
 - Variable: `Name of the variable in code`
-- Question: _Question answered by participants_
-- Answers: _Possible options for answering the question_
+- Question: "Question answered by participants"
+- Labels: _Possible values and labels for answering the question_
 - Page: _Part of the Otree survey that contains the item_
+
+***
 
 ### CA - Conjoint App 
 
-#### Time Started
+#### Time Survey is Started
 - Variable: `time_start`
+- Question: NONE 
+- Labels: 
 - Page: Welcome 
 
 #### Language 
@@ -51,7 +55,7 @@ Example:
 - Time answered: `time_age`
 - Page: GenderAge
 - Question: "Please enter your age in years."
-- Answer: `Integer`
+- Labels: `INT`
 
 #### Gender 
 - Variable: `gender`
@@ -65,6 +69,30 @@ Example:
 - Variable: `grade`
 - Variable: `time_tutorial_expected_grade`
 - Page: Tutorials
+
+#### Education Level Father 
+- Question: "Education level needed for the occupation of father."
+- Variable: 'level_father'
+- Labels:  
+- Page: edu_level_family
+
+#### Education Level Mother  
+- Question: "Education level needed for the occupation of mother."
+- Variable: 'level_mother` 
+- Labels:  
+- Page: edu_level_family
+
+#### Income 
+- Question: "Please enter your monthly income in Euro(€)."
+- Variable: `income`
+- Labels: `INT` 
+- Page: finance
+
+#### Rent 
+- Question: "Please enter your monthly rent in Euro(€)."
+- Variable: `rent`
+- Labels:  `INT`
+- Page: finance 
 
 ***
 
@@ -131,3 +159,4 @@ Example:
 `time_firstendpage`
 
 `time_endpage`
+

@@ -4,7 +4,7 @@ SESSION_CONFIGS = [
      dict(
          name='shellproject',
          display_name='Shell Project',
-         app_sequence=['conjoint_app', 'demographic_app', 'network_app', 'political_app', 'vignett_app'],
+         app_sequence=['conjoint_app', 'demographic_app', 'network_app', 'political_app', 'end_app'],
          num_demo_participants=3,
      ),
 ]

@@ -82,7 +82,7 @@ class NetworkFriends(Page): #12
                    'value_opinion_10','value_opinion_11','value_opinion_12','value_opinion_13','value_opinion_14','value_opinion_15','value_opinion_16','value_opinion_17',
                    'value_opinion_18','value_opinion_19','value_opinion_20','value_opinion_21','value_opinion_22','value_opinion_23','value_opinion_24','value_opinion_25',
                    'value_opinion_26','value_opinion_27','value_opinion_28','value_opinion_29','value_opinion_30','value_opinion_31','value_opinion_32','value_opinion_33',
-                   'value_opinion_34','value_opinion_35','value_opinion_36','value_opinion_37','value_opinion_38','value_opinion_39','value_opinion_40','use_of_device']
+                   'value_opinion_34','value_opinion_35','value_opinion_36','value_opinion_37','value_opinion_38','value_opinion_39','value_opinion_40']
 
 class LeftrightSelfassessment(Page): #8
     def vars_for_template(self):

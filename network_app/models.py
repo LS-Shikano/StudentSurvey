@@ -37,8 +37,6 @@ class Player(BasePlayer):
         if len(value) != 3 or not value.isalpha() or not value.islower():
             return "Please enter exactly three lowercase letters."
 
-    use_of_device = models.IntegerField(blank=True, max=3, min=1, label="")
-
     ### NetworkNamedPersons
     person_1 = models.StringField(blank=False, initial="[x]", label="")
     person_2 = models.StringField(blank=False, initial="[x]", label="")

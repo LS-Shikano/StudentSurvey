@@ -6,16 +6,8 @@ from . import *
 
 class Welcome(Page): #1
     form_model = Player
-    form_fields = ['lang', 'time_start', 'device_type', 'operating_system', 'browser']
-    
+    form_fields = ['lang', 'time_start', 'device_type', 'operating_system', 'browser', 'use_of_device']
     def before_next_page(self):
         self.participant.vars['language'] = self.player.lang
 
-class RandomNumber(Page): #16
-    def vars_for_template(self):
-        return {'rnumber': safe_json(self.player.rnumber),
-                'lang': self.player.lang}
-    form_model = Player
-    form_fields = ['rnumbercheck', 'time_rnumber']
-
-page_sequence = [Welcome, RandomNumber] 
+page_sequence = [Welcome] 

@@ -80,8 +80,7 @@ class Player(BasePlayer):
     lr_AfD = models.IntegerField(blank=True, initial=-999)
     lr_BSW = models.IntegerField(blank=True, initial=-999)
 
-    time_firstendpage= models.StringField(initial="-999")
-    time_endpage= models.StringField(initial="-999")
+
     time_sundayquestion=models.StringField(initial="-999")
     time_scaloparty = models.StringField(initial="-999")
     time_scaloperson = models.StringField(initial="-999")

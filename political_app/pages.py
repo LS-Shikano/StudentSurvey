@@ -35,16 +35,6 @@ class PoliticalQuestions(Page): #10
     form_fields = ['politics_question_one', 'politics_question_two', 'politics_question_three', 'politics_question_four',
                    'politics_question_five', 'politics_question_six', 'politics_question_seven','time_political_qs']
 
-class FirstEndPage(Page): #14
-    def vars_for_template(self):
-        return {'lang': self.participant.vars.get('language')}
-    form_model = Player
-    form_fields = ['time_firstendpage']
 
-class End(Page): #15
-    def vars_for_template(self):
-        return {'lang': self.participant.vars.get('language')}
-    form_model = Player
-    form_fields = ['time_endpage']
 
-page_sequence = [Sonntagsfrage, ScaloParty, ScaloPerson, LeftRight, PoliticalQuestions, FirstEndPage, End]
+page_sequence = [Sonntagsfrage, ScaloParty, ScaloPerson, LeftRight, PoliticalQuestions]
