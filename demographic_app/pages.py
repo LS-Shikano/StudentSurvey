@@ -7,25 +7,24 @@ class GenderAge(Page): #3
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
-    form_fields = ['age', 'gender', 'time_age']
+    form_fields = ['age', 'gender']
 
 class Tutorials(Page): #13
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')} 
     form_model = Player
-    form_fields = ['tutorial', 'grade', 'time_tutorial_expected_grade']
+    form_fields = ['tutorial', 'grade']
 
-
-class edu_level_family(Page): #3
+class LevelFamily(Page): #3
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
-    form_fields = ['level_father', 'level_mother']
+    form_fields = ['edu_father', 'edu_mother', 'ocu_mother', 'ocu_father']
 
-class finance(Page): #3
+class Finance(Page): #3
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
     form_fields = ['rent', 'income']
 
-page_sequence = [GenderAge, Tutorials, edu_level_family, finance]
+page_sequence = [GenderAge, Tutorials, LevelFamily, Finance]

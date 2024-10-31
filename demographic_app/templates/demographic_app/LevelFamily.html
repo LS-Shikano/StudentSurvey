@@ -1,0 +1,88 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+
+{% block title %}
+Student Survey January 2024
+{% endblock %}
+
+{% block content %}
+
+<br>
+<h2 class="english">Occupation of Father</h2><h2 class="german">Beschäftigung des Vaters</h2>
+<input id="time" type="hidden" name="time_age"/>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2 ">
+    <p class="german">Bitte geben Sie ob ihr Vater einer Beschäftigung nachgeht.</p>
+    <p class="english">Please indicate if your father currently has an occupation.</p>
+    <div class="german"><input type="radio" name="ocu_father" value="0"> Nicht Beschäftigt</div>
+    <div class="english"><input type="radio" name="ocu_father" value="0"> No Occupation</div>
+    <div class="german"><input type="radio" name="ocu_father" value="1"> Beschäftigt</div>
+    <div class="english"><input type="radio" name="ocu_father" value="1"> Occupied</div>
+    <div class="german"><input type="radio" name="ocu_father" value="-999"> Keine Angabe</div>
+    <div class="english"><input type="radio" name="ocu_father" value="-999"> No answer</div>
+</div>
+
+<br>
+<h2 class="english">Education Level Father</h2><h2 class="german">Bildungsabschluss des Vaters</h2>
+<input id="time" type="hidden" name="time_age"/>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2 ">
+    <p class="german">Bitte geben Sie den höchsten Bildungsabschluss ihres Vaters an.</p>
+    <p class="english">Please select the education level closest to your fathers's highest qualification.</p>
+    <div class="german"><input type="radio" name="edu_father" value="0">Kein Bildungsabschluss</div>
+    <div class="english"><input type="radio" name="edu_father" value="0">No Formal Education</div>
+    <div class="german"><input type="radio" name="edu_father" value="1">Sekundarschulabschluss (z.B. Mittlere Reife, GCSE)</div>
+    <div class="english"><input type="radio" name="edu_father" value="1">Secondary School Diploma (e.g., Mittlere Reife, GCSE)</div>
+    <div class="german"><input type="radio" name="edu_father" value="2">Abitur oder Äquivalent (z.B. Abitur, A-Levels, Baccalauréat)</div>
+    <div class="english"><input type="radio" name="edu_father" value="2">High School Equivalent (e.g., Abitur, A-Levels, Baccalauréat)</div>
+    <div class="german"><input type="radio" name="edu_father" value="3">Universitätsabschluss (z.B. Bachelor, Diplom)</div>
+    <div class="english"><input type="radio" name="edu_father" value="3">University Degree (e.g., Bachelor’s, Diplom)</div>
+    <div class="german"><input type="radio" name="edu_father" value="4">Höherer Abschluss (z.B. Master, Ph.D.</div>
+    <div class="english"><input type="radio" name="edu_father" value="4">Postgraduate Degree (e.g., Master’s, Ph.D.)</div>    
+    <div class="german"><input type="radio" name="edu_father" value="-999"> Keine Angabe</div>
+    <div class="english"><input type="radio" name="edu_father" value="-999"> No answer</div>
+</div>
+
+<br>
+<h2 class="english">Occupation of Mother</h2><h2 class="german">Beschäftigung der Mutter</h2>
+<input id="time" type="hidden" name="time_age"/>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2 ">
+    <p class="german">Bitte geben Sie ob ihr Vater einer Beschäftigung nachgeht.</p>
+    <p class="english">Please indicate if your mother currently has an occupation.</p>
+    <div class="german"><input type="radio" name="ocu_mother" value="0"> Nicht Beschäftigt</div>
+    <div class="english"><input type="radio" name="ocu_mother" value="0"> No Occupation</div>
+    <div class="german"><input type="radio" name="ocu_mother" value="1"> Beschäftigt</div>
+    <div class="english"><input type="radio" name="ocu_mother" value="1"> Occupied</div>
+    <div class="german"><input type="radio" name="ocu_mother" value="-999"> Keine Angabe</div>
+    <div class="english"><input type="radio" name="ocu_mother" value="-999"> No answer</div>
+</div>
+
+<br>
+<h2 class="english">Education Level Mother</h2><h2 class="german">Bildungsabschluss der Mutter</h2>
+<input id="time" type="hidden" name="time_age"/>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2 ">
+    <p class="german">Bitte geben Sie den höchsten Bildungsabschluss ihrer Mutter an.</p>
+    <p class="english">Please select the education level closest to your mother's highest qualification.</p>
+    <div class="german"><input type="radio" name="edu_mother" value="0">Kein Bildungsabschluss</div>
+    <div class="english"><input type="radio" name="edu_mother" value="0">No Formal Education</div>
+    <div class="german"><input type="radio" name="edu_mother" value="1">Sekundarschulabschluss (z.B. Mittlere Reife, GCSE)</div>
+    <div class="english"><input type="radio" name="edu_mother" value="1">Secondary School Diploma (e.g., Mittlere Reife, GCSE)</div>
+    <div class="german"><input type="radio" name="edu_mother" value="2">Abitur oder Äquivalent (z.B. Abitur, A-Levels, Baccalauréat)</div>
+    <div class="english"><input type="radio" name="edu_mother" value="2">High School Equivalent (e.g., Abitur, A-Levels, Baccalauréat)</div>
+    <div class="german"><input type="radio" name="edu_mother" value="3">Universitätsabschluss (z.B. Bachelor, Diplom)</div>
+    <div class="english"><input type="radio" name="edu_mother" value="3">University Degree (e.g., Bachelor’s, Diplom)</div>
+    <div class="german"><input type="radio" name="edu_mother" value="4">Höherer Abschluss (z.B. Master, Ph.D.</div>
+    <div class="english"><input type="radio" name="edu_mother" value="4">Postgraduate Degree (e.g., Master’s, Ph.D.)</div>    
+    <div class="german"><input type="radio" name="edu_mother" value="-999"> Keine Angabe</div>
+    <div class="english"><input type="radio" name="edu_mother" value="-999"> No answer</div>
+</div>
+
+   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+       <span class="german"> Weiter </span>
+       <span class="english"> Next </span>
+   </button>
+
+{% endblock %}

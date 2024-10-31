@@ -70,6 +70,10 @@ Example: Attributes
 - Variable: `time_tutorial_expected_grade`
 - Page: Tutorials
 
+#### Occupation Father
+
+#### Occupation Mother
+
 #### Education Level Father 
 - Question: "Education level needed for the occupation of father."
 - Variable: 'level_father'

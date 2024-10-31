@@ -29,15 +29,15 @@ class Player(BasePlayer):
     income = models.IntegerField(label="", initial="0")
 
     #lang = models.IntegerField() 
-    level_father = models.IntegerField(blank=True, max=5, min=-999, label="")
-    level_mother = models.IntegerField(blank=True, max=5, min=-999, label="")
+    edu_father = models.IntegerField(blank=True, max=4, min=-999, label="")
+    edu_mother = models.IntegerField(blank=True, max=4, min=-999, label="")
+    ocu_father = models.IntegerField(blank=True, max=1, min=-999, label="")
+    ocu_mother = models.IntegerField(blank=True, max=1, min=-999, label="")
 
     ### Gender_age
     age = models.IntegerField(label="", initial="0")
     gender = models.IntegerField(blank=True, max=10, min=-999, label="")
-    time_age = models.StringField(initial="-999")
 
     ### Tutorials
-    tutorial = models.IntegerField(blank=True, max=10, min=1, label="")
+    tutorial = models.IntegerField(blank=True, max=8, min=-999, label="")
     grade = models.StringField(blank=True, label="")
-    time_tutorial_expected_grade=models.StringField(initial="-999")

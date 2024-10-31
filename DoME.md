@@ -20,18 +20,18 @@ Three waves: Nomvember/ December/ January
 
 ***
 - [ ] OTREE - Codebook befehl, automatisches 
-- [ ] Zeitfrage - Anfang / Ende
+- [ ] Zeitfrage - Anfang / Ende (Purged: conjoint, demographics)
 - [x] Participationcode am Ende!!!!
-- [ ] SOCIAL-ID exchange is the first thing 
-- [ ] Tutoren liste CDM page (update)
-- [ ] Education + Job 
-- [ ] Rent (option living wioth parents)
-- [ ] Income (specify what exactly)
+- [x] SOCIAL-ID exchange is the first thing 
+- [x] Tutoren liste CDM page (update)
+- [x] Education + Job 
+- [x] Rent (option living wioth parents)
+- [x] Income (specify what exactly)
 - [ ] network items, delete placeholder, introduce big table for all relations 
 - [ ] clubs societies (remove)
 - [ ] sports (remove)
 - [ ] youth parties (remove)
-
 - [ ] PLZ - Herkunft des studis am anfang (First wave!)
-- [ ] Use of device - item to the beginning 
+- [x] Use of device - item to the beginning 
 - [ ] Update People in List of candidates (lang raus)
+- [x] Problem mit doppelter Sprachanzeige (so halb gelöst... die alten dateien kopieren)
