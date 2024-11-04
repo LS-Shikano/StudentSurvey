@@ -27,4 +27,10 @@ class Finance(Page): #3
     form_model = Player
     form_fields = ['rent', 'income']
 
-page_sequence = [GenderAge, Tutorials, LevelFamily, Finance]
+class Postcode(Page):
+    def vars_for_template(self):
+        return {'lang': self.participant.vars.get('language')}
+    form_model = Player
+    form_fields = ['postcode']
+
+page_sequence = [GenderAge, Tutorials, LevelFamily, Finance, Postcode]

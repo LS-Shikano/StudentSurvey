@@ -38,6 +38,8 @@ class Player(BasePlayer):
     age = models.IntegerField(label="", initial="0")
     gender = models.IntegerField(blank=True, max=10, min=-999, label="")
 
+    postcode = models.IntegerField(label='', min=00, max=99)
+
     ### Tutorials
     tutorial = models.IntegerField(blank=True, max=8, min=-999, label="")
     grade = models.StringField(blank=True, label="")
