@@ -9,7 +9,7 @@ class RandomNumber(Page): #16
         return {'rnumber': safe_json(self.player.rnumber),
                 'lang': self.participant.vars.get('language')}
     form_model = Player
-    form_fields = ['rnumbercheck', 'time_rnumber']
+    form_fields = ['rnumbercheck']
 
 class FirstEndPage(Page): #14
     def vars_for_template(self):

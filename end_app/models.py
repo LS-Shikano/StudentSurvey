@@ -98,7 +98,7 @@ class Player(BasePlayer):
 
     time_firstendpage= models.StringField(initial="-999")
     time_endpage= models.StringField(initial="-999")
-    time_rnumber= models.StringField(initial="-999")
+    #time_rnumber= models.StringField(initial="-999")
 
     ###Randomnumbers definition
     randomnumber_q1 = models.IntegerField()

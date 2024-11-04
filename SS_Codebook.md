@@ -19,6 +19,9 @@ Example: Attributes
 
 ### CA - Conjoint App 
 
+#### Time Started
+- Variable: 
+
 #### Time Survey is Started
 - Variable: `time_start`
 - Question: NONE 
@@ -43,7 +46,6 @@ Example: Attributes
 
 #### Random Number Generation 
 - Variable: `rnumbercheck`
-- Variable: `time_rnumber`
 - Page: RandomNumber
 
 ***
@@ -67,10 +69,10 @@ Example: Attributes
 
 #### Expected Grade 
 - Variable: `grade`
-- Variable: `time_tutorial_expected_grade`
 - Page: Tutorials
 
 #### Occupation Father
+- Variable: 
 
 #### Occupation Mother
 

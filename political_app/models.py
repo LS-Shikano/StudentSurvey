@@ -48,11 +48,11 @@ class Player(BasePlayer):
 
     ### scalometer peps
     scalo_pep1 = models.StringField(blank=True, initial=-999) # Scholz
-    scalo_pep2 = models.StringField(blank=True, initial=-999) # Biden
+    scalo_pep2 = models.StringField(blank=True, initial=-999) # Harris 
     scalo_pep3 = models.StringField(blank=True, initial=-999) # Lauterbach
     scalo_pep4 = models.StringField(blank=True, initial=-999) # Lindner
     scalo_pep5 = models.StringField(blank=True, initial=-999) # Merz
-    scalo_pep6 = models.StringField(blank=True, initial=-999) # Lang 
+    scalo_pep6 = models.StringField(blank=True, initial=-999) # Zelenski  
     scalo_pep7 = models.StringField(blank=True, initial=-999) # Trump
     scalo_pep8 = models.StringField(blank=True, initial=-999) # Habeck
     scalo_pep9 = models.StringField(blank=True, initial=-999) # Thunberg
@@ -62,6 +62,7 @@ class Player(BasePlayer):
     scalo_pep13 = models.StringField(blank=True, initial=-999) # Baerbock
     scalo_pep14 = models.StringField(blank=True, initial=-999) # Weidel
     scalo_pep15 = models.StringField(blank=True, initial=-999) # Wagenknecht
+    scalo_pep16 = models.StringField(blank=True, initial=-999) # Netanjahu 
 
     politics_question_one = models.StringField(blank=True, initial='-999')
     politics_question_two = models.StringField(blank=True, initial='-999')
@@ -81,9 +82,9 @@ class Player(BasePlayer):
     lr_BSW = models.IntegerField(blank=True, initial=-999)
 
 
-    time_sundayquestion=models.StringField(initial="-999")
-    time_scaloparty = models.StringField(initial="-999")
-    time_scaloperson = models.StringField(initial="-999")
-    time_leftright = models.StringField(initial="-999")
-    time_pid = models.StringField(initial="-999")
-    time_political_qs = models.StringField(initial="-999")
+    #time_sundayquestion=models.StringField(initial="-999")
+    #time_scaloparty = models.StringField(initial="-999")
+    #time_scaloperson = models.StringField(initial="-999")
+    #time_leftright = models.StringField(initial="-999")
+    #time_pid = models.StringField(initial="-999")
+    #time_political_qs = models.StringField(initial="-999")
