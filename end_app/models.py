@@ -75,47 +75,49 @@ class Group(BaseGroup):
 
 
 class Player(BasePlayer):
-    # currently checking
     group_assignment = models.IntegerField()
-    #link_check = models.StringField(blank=True)
-    
     rnumber = models.IntegerField()
-    randomnumber_vl_1 = models.IntegerField()
-    randomnumber_vl_2 = models.IntegerField()
-    randomnumber_tut_1 = models.IntegerField()
-    randomnumber_tut_2 = models.IntegerField()
-    randomnumber_ex_1 = models.IntegerField()
-    randomnumber_ex_2 = models.IntegerField()
-    random_numbers_questions = models.IntegerField()
-    link_check = models.StringField()
 
-    ###RandomNumber
     ### zufällig generierte 6stellige Zufallszahl
     rnumbercheck = models.IntegerField(label="")
     def rnumbercheck_error_message(self, value):
         if value != self.rnumber:
             return "The confirmation number is wrong. Please try again!"
-
+        
+    feedback = models.LongStringField(blank=True)
+    
     time_firstendpage= models.StringField(initial="-999")
     time_endpage= models.StringField(initial="-999")
+
+
+
     #time_rnumber= models.StringField(initial="-999")
+    #link_check = models.StringField(blank=True)
+#     randomnumber_vl_1 = models.IntegerField()
+#     randomnumber_vl_2 = models.IntegerField()
+#     randomnumber_tut_1 = models.IntegerField()
+#     randomnumber_tut_2 = models.IntegerField()
+#     randomnumber_ex_1 = models.IntegerField()
+#     randomnumber_ex_2 = models.IntegerField()
+#     random_numbers_questions = models.IntegerField()
+#     link_check = models.StringField()
 
-    ###Randomnumbers definition
-    randomnumber_q1 = models.IntegerField()
-    randomnumber_q2 = models.IntegerField()
-    randomnumber_q3 = models.IntegerField()
-    randomnumber_q4 = models.IntegerField()
-    randomnumber_q5 = models.IntegerField()
-    randomnumber_q6 = models.IntegerField()
-    randomnumber_q7 = models.IntegerField()
-    randomnumber_q8 = models.IntegerField()
-    randomnumber_q9 = models.IntegerField()
-    randomnumber_q10 = models.IntegerField()
-    randomnumber_q11 = models.IntegerField()
-    randomnumber_q12 = models.IntegerField()
-    randomnumber_q13 = models.IntegerField()
-    randomnumber_q14 =models.IntegerField()
+#     ###Randomnumbers definition
+#     randomnumber_q1 = models.IntegerField()
+#     randomnumber_q2 = models.IntegerField()
+#     randomnumber_q3 = models.IntegerField()
+#     randomnumber_q4 = models.IntegerField()
+#     randomnumber_q5 = models.IntegerField()
+#     randomnumber_q6 = models.IntegerField()
+#     randomnumber_q7 = models.IntegerField()
+#     randomnumber_q8 = models.IntegerField()
+#     randomnumber_q9 = models.IntegerField()
+#     randomnumber_q10 = models.IntegerField()
+#     randomnumber_q11 = models.IntegerField()
+#     randomnumber_q12 = models.IntegerField()
+#     randomnumber_q13 = models.IntegerField()
+#     #randomnumber_q14 =models.IntegerField()
 
-    randomnumber_pop_2_2 = models.IntegerField()
-    randomnumber_pop_4_2 = models.IntegerField()
-    randomnumber_e_1_2 = models.IntegerField()
+#     #randomnumber_pop_2_2 = models.IntegerField()
+#     #randomnumber_pop_4_2 = models.IntegerField()
+#     #randomnumber_e_1_2 = models.IntegerField()

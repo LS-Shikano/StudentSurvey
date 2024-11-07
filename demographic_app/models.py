@@ -25,8 +25,8 @@ class Group(BaseGroup):
     pass
 
 class Player(BasePlayer):
-    rent = models.IntegerField(label="", initial="0")
-    income = models.IntegerField(label="", initial="0")
+    rent = models.IntegerField(blank=True, label="")
+    income = models.IntegerField(blank=True, label="")
 
     #lang = models.IntegerField() 
     edu_father = models.IntegerField(blank=True, max=4, min=-999, label="")
@@ -35,10 +35,10 @@ class Player(BasePlayer):
     ocu_mother = models.IntegerField(blank=True, max=1, min=-999, label="")
 
     ### Gender_age
-    age = models.IntegerField(label="", initial="0")
+    age = models.IntegerField(blank=True, label="")
     gender = models.IntegerField(blank=True, max=10, min=-999, label="")
 
-    postcode = models.IntegerField(label='', min=00, max=99)
+    postcode = models.IntegerField(blank=True, label='', min=00, max=99)
 
     ### Tutorials
     tutorial = models.IntegerField(blank=True, max=8, min=-999, label="")

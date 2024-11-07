@@ -35,5 +35,5 @@ Three waves: Nomvember/ December/ January
 - [x] Use of device - item to the beginning 
 - [x] Update People in List of candidates (lang raus, biden raus, harris + netanjahu + zelenski added)
 - [x] Problem mit doppelter Sprachanzeige (so halb gelöst... die alten dateien kopieren)
-- [ ] flexible amount of rows for network items!!!! (save variable of amount of people and access later on)
+- [x] flexible amount of rows for network items!!!! (save variable of amount of people and access later on)
 - [ ] final check of survey

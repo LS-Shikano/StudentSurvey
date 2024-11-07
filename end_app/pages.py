@@ -15,7 +15,7 @@ class FirstEndPage(Page): #14
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
-    form_fields = ['time_firstendpage']
+    form_fields = ['time_firstendpage', 'feedback']
 
 class End(Page): #15
     def vars_for_template(self):
