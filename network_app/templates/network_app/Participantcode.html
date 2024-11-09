@@ -9,20 +9,69 @@ Student Survey WS 2024
 {% block content %}
     <input id="time" type="hidden" name="time_participantcode"/>
     <br>
-<h2 class="german"> Teilnahmecode </h2><h2 class="english">  Participant Code</h2>
+<h2 class="german"> Sozial-ID </h2><h2 class="english">  Social-ID </h2>
     <hr>
 
 <div  class="mb-3 border pt-2 pb-2 px-2 ">
-    <p class="german">Bitte geben Sie zunächst ihren eigenen Sozial-Code (bestehend aus drei Buchstaben), den Sie erhalten haben, in das Textfeld ein.</p>
-    <p class="english">First, please enter your own social-ID (composed of three letters) you have received in the text box.</p>
+    <p class="german">Bitte tragen Sie nun Ihre eigene Sozial-ID in das Textfeld ein.Ihre Sozial-ID besteht aus drei Buchstaben und Zahlen.</p>
+    <p class="english">Please enter your own social-ID (composed of three letters and numbers).</p>
+
+    <div class="alert alert-primary" role="alert" style="display: none"> {{ form.participantcode.errors }}  </div>
+    <div style="display:flex; flex-direction: row; justify-content: left; align-items: center"> {% formfield player.participantcode %}  </div>
 </div>
-<div class="alert alert-primary" role="alert" style="display: none"> {{ form.participantcode.errors }}  </div>
-<div style="display:flex; flex-direction: row; justify-content: left; align-items: center"> {% formfield player.participantcode %}  </div>
+
+<br>
+<div>
+<h2 class="german"> Selbsteinordnung  </h2>
+<h2 class="english"> Self-assessment</h2>
+<input id="time" type="hidden" name="time_leftright_selfassessment"/>
+
+<div class="mb-3 border pt-2 pb-2 px-2">
+                <p class="german"> Viele Leute verwenden die Begriffe “links” (1) und “rechts” (11), wenn es darum geht, unterschiedliche politische Einstellungen zu kennzeichnen. Wenn Sie an Ihre eigenen politischen Ansichten denken, wo würden Sie sich auf dieser Skala einstufen?</p>
+                <p class="english"> A lot of people use the terms "left" (1) and "right" (11) when it comes to labeling different political attitudes. When you think of your own political views, where would you place yourself on this scale?</p>
+        <div class="table">
+            <table class="table">
+                <thead>
+                <tr>
+                    <td></td>
+                    <th><p>1</p></th>
+                    <th><p>2</p></th>
+                    <th><p>3</p></th>
+                    <th><p>4</p></th>
+                    <th><p>5</p></th>
+                    <th><p>6</p></th>
+                    <th><p>7</p></th>
+                    <th><p>8</p></th>
+                    <th><p>9</p></th>
+                    <th><p>10</p></th>
+                    <th><p>11</p></th>
+                </tr>
+                </thead>
+               <tbody>
+                    <tr>
+                        <th></th>
+                        <th><input type="radio" name="linksrechts_self" value="1"></th>
+                        <th><input type="radio" name="linksrechts_self" value="2"></th>
+                        <th><input type="radio" name="linksrechts_self" value="3"></th>
+                        <th><input type="radio" name="linksrechts_self" value="4"></th>
+                        <th><input type="radio" name="linksrechts_self" value="5"></th>
+                        <th><input type="radio" name="linksrechts_self" value="6"></th>
+                        <th><input type="radio" name="linksrechts_self" value="7"></th>
+                        <th><input type="radio" name="linksrechts_self" value="8"></th>
+                        <th><input type="radio" name="linksrechts_self" value="9"></th>
+                        <th><input type="radio" name="linksrechts_self" value="10"></th>
+                        <th><input type="radio" name="linksrechts_self" value="11"></th>
+                    </tr>                        
+                </tbody>
+            </table>
+        </div>
+    </fieldset>
+</div>
+</div>
 
 <div  class="mb-3 border pt-2 pb-2 px-2 ">
-    <p class="german">Auf den nächsten Seiten können Sie die Sozial-IDs ihres Netzwerkes angeben, welche Sie gesammelt haben. </p>
-    <p class="english">On the next pages you will be asked for the social-IDs of your network. </p> 
-    <br>
+    <p class="german">Auf der folgenden Seite können Sie die Sozial-IDs von Ihrem sozialen Netzwerkes angeben, welche Sie gesammelt haben.</p>
+    <p class="english">On the next page you can enter the social-IDs of your social network, that you have collected. </p> 
 </div>
 <br>
 

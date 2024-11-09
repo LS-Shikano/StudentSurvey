@@ -35,11 +35,10 @@ class Player(BasePlayer):
     ocu_mother = models.IntegerField(blank=True, max=1, min=-999, label="")
 
     ### Gender_age
-    age = models.IntegerField(blank=True, label="")
+    age = models.IntegerField(blank=True, label="", min=10, max=100)
     gender = models.IntegerField(blank=True, max=10, min=-999, label="")
 
     postcode = models.IntegerField(blank=True, label='', min=00, max=99)
 
-    ### Tutorials
     tutorial = models.IntegerField(blank=True, max=8, min=-999, label="")
     grade = models.StringField(blank=True, label="")

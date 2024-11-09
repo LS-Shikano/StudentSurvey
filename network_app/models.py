@@ -31,8 +31,9 @@ class Player(BasePlayer):
     participantcode = models.StringField(blank=False, label="")
     def participantcode_error_message(self, value):
         # Check if the input is exactly 3 letters long and contains only alphabetic characters
-        if len(value) != 3 or not value.isalpha() or not value.islower():
-            return "Please enter exactly three lowercase letters."
+        if len(value) != 3 or not value.isalnum():
+            return "Please enter exactly three lowercase letters or numbers."
+    linksrechts_self = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
 
     ### NetworkNamedPersons
     person_1 = models.StringField(blank=True, initial="x", label="")
@@ -247,7 +248,6 @@ class Player(BasePlayer):
     council_30 = models.BooleanField(blank=True, initial=False)
 
     ### LeftrightSelfassessment
-    linksrechts_self = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
     linksrechts_1 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
     linksrechts_2 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
     linksrechts_3 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
