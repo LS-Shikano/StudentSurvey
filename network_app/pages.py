@@ -17,7 +17,7 @@ class NetworkNamedPersons(Page): #4
                    'person_7', 'person_8', 'person_9', 'person_10', 'person_11', 'person_12',
                    'person_13', 'person_14', 'person_15', 'person_16', 'person_17', 'person_18',
                    'person_19', 'person_20', 'person_21', 'person_22', 'person_23', 'person_24',
-                   'person_25', 'person_26', 'person_27', 'person_28', 'person_29', 'person_30']
+                   'person_25', 'person_26', 'person_27', 'person_28', 'person_29', 'person_30']    
 
 
 class LeftrightNetworkAssessment(Page): #8
