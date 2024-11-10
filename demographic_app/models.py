@@ -25,8 +25,8 @@ class Group(BaseGroup):
     pass
 
 class Player(BasePlayer):
-    rent = models.IntegerField(blank=True, label="")
-    income = models.IntegerField(blank=True, label="")
+    rent = models.IntegerField(blank=True, label="", min=0, max=10000)
+    income = models.IntegerField(blank=True, label="", min=0, max=10000)
 
     #lang = models.IntegerField() 
     edu_father = models.IntegerField(blank=True, max=4, min=-999, label="")

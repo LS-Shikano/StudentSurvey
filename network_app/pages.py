@@ -7,7 +7,7 @@ class Participantcode(Page): #2
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
-    form_fields = ['participantcode', 'linksrechts_self']
+    form_fields = ['participantcode']
 
 class NetworkNamedPersons(Page): #4
     def vars_for_template(self):
@@ -20,13 +20,19 @@ class NetworkNamedPersons(Page): #4
                    'person_25', 'person_26', 'person_27', 'person_28', 'person_29', 'person_30']
 
 
-class LeftrightSelfassessment(Page): #8
+class LeftrightNetworkAssessment(Page): #8
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
     form_fields = ['linksrechts_1', 'linksrechts_2', 'linksrechts_3', 'linksrechts_4', 'linksrechts_5', 'linksrechts_6', 'linksrechts_7', 'linksrechts_8', 'linksrechts_9', 'linksrechts_10', 'linksrechts_11',
                    'linksrechts_12', 'linksrechts_13', 'linksrechts_14', 'linksrechts_15', 'linksrechts_16', 'linksrechts_17', 'linksrechts_18', 'linksrechts_19', 'linksrechts_20', 'linksrechts_21',
                    'linksrechts_22', 'linksrechts_23', 'linksrechts_24', 'linksrechts_25', 'linksrechts_26', 'linksrechts_27', 'linksrechts_28', 'linksrechts_29', 'linksrechts_30']
+
+class LeftrightSelfAssessment(Page): #8
+    def vars_for_template(self):
+        return {'lang': self.participant.vars.get('language')}
+    form_model = Player
+    form_fields = ['linksrechts_self']
 
 class SpecialNetworks(Page): #8
     def vars_for_template(self):
@@ -65,4 +71,4 @@ class SpecialNetworks(Page): #8
         'friend_30', 'value_30', 'politics_30', 'council_30', 'study_30']              
 
                    
-page_sequence = [Participantcode, NetworkNamedPersons, SpecialNetworks, LeftrightSelfassessment]
+page_sequence = [Participantcode, NetworkNamedPersons, SpecialNetworks, LeftrightSelfAssessment, LeftrightNetworkAssessment]

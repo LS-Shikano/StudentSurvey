@@ -35,4 +35,4 @@ class PoliticalQuestions(Page): #10
     form_fields = ['politics_question_one', 'politics_question_two', 'politics_question_three', 'politics_question_four',
                    'politics_question_five', 'politics_question_six', 'politics_question_seven']
 
-page_sequence = [Sonntagsfrage, ScaloParty, ScaloPerson, LeftRight, PoliticalQuestions]
+page_sequence = [LeftRight, Sonntagsfrage, ScaloParty, ScaloPerson, PoliticalQuestions]
