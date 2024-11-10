@@ -22,7 +22,7 @@ class ScaloPerson(Page): #7
     form_fields = ['scalo_pep1', 'scalo_pep2', 'scalo_pep3', 'scalo_pep4', 'scalo_pep5', 'scalo_pep6', 'scalo_pep7', 'scalo_pep8',
                    'scalo_pep9', 'scalo_pep10', 'scalo_pep11', 'scalo_pep12', 'scalo_pep13', 'scalo_pep14', 'scalo_pep15', 'scalo_pep16']
 
-class LeftRight(Page): #9
+class LeftRightParty(Page): #9
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
@@ -35,4 +35,4 @@ class PoliticalQuestions(Page): #10
     form_fields = ['politics_question_one', 'politics_question_two', 'politics_question_three', 'politics_question_four',
                    'politics_question_five', 'politics_question_six', 'politics_question_seven']
 
-page_sequence = [LeftRight, Sonntagsfrage, ScaloParty, ScaloPerson, PoliticalQuestions]
+page_sequence = [LeftRightParty, ScaloParty, ScaloPerson, PoliticalQuestions, Sonntagsfrage]
