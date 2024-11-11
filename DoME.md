@@ -46,10 +46,16 @@ Three waves: Nomvember/ December/ January
     - DK??
 - [x] I would ask differently. "Wie sehen Sie die folgenden Personen. Sie können mehr als eine Eigenschaft bei jeder Person angeben". or something like that. Response option should be correspondingly "Freund/in", "Ich schätze ihre/seine Meinung", "Ich diskutiere mit ihr/ihm über Politik", "Ich lerne zusammen", "Wir sind zusammen in der Fachschaft" or so. And the title "Spezielle Netzwerke" should be replaced by "Ihre Bekannten"
 - [x] Actually the students' anonymous code consists of lower case letters or numbers.
-- [ ] Doing Left-Right Self-assessment and the one of the other people on the same page is prone to bias (in my opinion); instead of making a relatively independent assessment the individual compares themself with other people and that might influence the answers
+- [x] Doing Left-Right Self-assessment and the one of the other people on the same page is prone to bias (in my opinion); instead of making a relatively independent assessment the individual compares themself with other people and that might influence the answers
 - [x] There is no age cap for the age question; I entered 140 and there was no warning
 - [x] Education Level Father - the text is really close to the bulletpoint; insert a space
 - [x] I get the same error: 'Application error (500) TemplateLoadError: Loader cannot locate the template file 'demographic_app/Finance.html'.'
 - [x] I got the same error at the end.
 - [x] On the first page (“Willkommen & Welcome”) it first says “Ihre Teilnahme” but in the next sentence it says “ihr die Daten über euer…”. Maybe that should be consistent with the rest regarding how the respondents are adressed.
 - [x] And I noticed some typos in the german version. For the “Selbsteinordnung” it says “Viel Leute” instead of “Viele Leute”. For the “Beschäftigung des Vaters” it says “Bitte geben Sie ob ihr Vater einer Beschäftigung nachgeht.”. And for the “Beschäftigung der Mutter” it says “Bitte geben Sie an ob ihr Vater einer Beschäftigung nachgeht”. And there is a parenthesis missing after Ph.D. for both
+
+***
+
+- xHere some further feedback. The anonymous code is here named "Sozial ID". This can be confusing. We should better not use such a term, but just name "Anonymous Code" or "Survey Code".
+- We have three different sets of left-right questions. First, self-placement. Second, placement of alteri in respondents' networks. Third, political parties. Between the second and third, we have like-dislike of individual parties and politicians. This should be reversed so that subjects can answer the left-right questions in a block. We should not better make the survey unnecescessarilly challenging for respondents.
+- xFor the rent (Miete) question, there is no upper limit. If you input a very large number, otree shows an error page subsequently. We should better set a realistic upper limit (e.g. 10T).
