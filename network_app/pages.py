@@ -71,4 +71,4 @@ class SpecialNetworks(Page): #8
         'friend_30', 'value_30', 'politics_30', 'council_30', 'study_30']              
 
                    
-page_sequence = [Participantcode, NetworkNamedPersons, SpecialNetworks, LeftrightSelfAssessment, LeftrightNetworkAssessment]
+page_sequence = [Participantcode, NetworkNamedPersons, SpecialNetworks, LeftrightNetworkAssessment] #LeftrightSelfAssessment
