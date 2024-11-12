@@ -21,7 +21,7 @@ class LevelFamily(Page): #3
     form_model = Player
     form_fields = ['edu_father', 'edu_mother', 'ocu_mother', 'ocu_father']
 
-class Finance(Page): #3
+class Financial(Page): #3
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
@@ -33,4 +33,4 @@ class Postcode(Page):
     form_model = Player
     form_fields = ['postcode']
 
-page_sequence = [GenderAge, Tutorials, LevelFamily, Finance, Postcode]
+page_sequence = [GenderAge, Tutorials, LevelFamily, Financial, Postcode]
