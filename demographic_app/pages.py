@@ -33,4 +33,4 @@ class Postcode(Page):
     form_model = Player
     form_fields = ['postcode']
 
-page_sequence = [GenderAge, Tutorials, LevelFamily, Financial, Postcode]
+page_sequence = [GenderAge, Tutorials, LevelFamily, Postcode]
