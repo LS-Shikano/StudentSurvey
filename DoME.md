@@ -59,3 +59,22 @@ Three waves: Nomvember/ December/ January
 - xHere some further feedback. The anonymous code is here named "Sozial ID". This can be confusing. We should better not use such a term, but just name "Anonymous Code" or "Survey Code".
 - We have three different sets of left-right questions. First, self-placement. Second, placement of alteri in respondents' networks. Third, political parties. Between the second and third, we have like-dislike of individual parties and politicians. This should be reversed so that subjects can answer the left-right questions in a block. We should not better make the survey unnecescessarilly challenging for respondents.
 - xFor the rent (Miete) question, there is no upper limit. If you input a very large number, otree shows an error page subsequently. We should better set a realistic upper limit (e.g. 10T).
+
+***
+
+1. Sign up for an anonymous code by registering yourself on a sheet (matrikelnummer - survey code)
+2. Exchange your code with other students whom you know 
+3. take a memo for all information above. keep it until the end of the semester 
+***
+maybe possible to generate and distribute codes automatically with email? 
+	send codes 
+***
+- Fixing the survey
+	- cant unselect relation in network item
+	- can not click "i dont know" for political parties 
+	- Somehow make it work that codes are distributed by program (next year)
+	- finance.html, leftrightSelfassesment
+	- zurück button 
+	- Question: Netzwerke der Messenger erstellen (whatsapp, signal, )
+- Vignette App erstellen 
+- Netzwerke erstellen 
