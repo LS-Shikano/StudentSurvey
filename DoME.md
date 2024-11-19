@@ -69,7 +69,7 @@ Three waves: Nomvember/ December/ January
 maybe possible to generate and distribute codes automatically with email? 
 	send codes 
 ***
-- Fixing the survey
+- Fixing the survey before analysing the first wave!
 	- cant unselect relation in network item
 	- can not click "i dont know" for political parties 
 	- Somehow make it work that codes are distributed by program (next year)
