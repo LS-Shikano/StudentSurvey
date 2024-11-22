@@ -36,6 +36,15 @@ class Player(BasePlayer):
     sunday_not_eligible = models.IntegerField(blank=True, max=8, min=1, label="")
     noteligible_sunday_party_vote = models.IntegerField(blank=True, max=8, min=1, label="")
 
+    lr_CDU = models.StringField(blank=True, initial=-999)
+    lr_CSU = models.StringField(blank=True, initial=-999)
+    lr_SPD = models.StringField(blank=True, initial=-999)
+    lr_Gruene = models.StringField(blank=True, initial=-999)
+    lr_FDP = models.StringField(blank=True, initial=-999)
+    lr_Linke = models.StringField(blank=True, initial=-999)
+    lr_AfD = models.StringField(blank=True, initial=-999)
+    lr_BSW = models.StringField(blank=True, initial=-999)
+
      ### scalometer parties
     scalo_cdu = models.StringField(blank=True)
     scalo_csu = models.StringField(blank=True)
@@ -72,14 +81,7 @@ class Player(BasePlayer):
     politics_question_six = models.StringField(blank=True, initial='-999')
     politics_question_seven = models.StringField(blank=True, initial='-999')
     
-    lr_CDU = models.IntegerField(blank=True, initial=-999)
-    lr_CSU = models.IntegerField(blank=True, initial=-999)
-    lr_SPD = models.IntegerField(blank=True, initial=-999)
-    lr_Gruene = models.IntegerField(blank=True, initial=-999)
-    lr_FDP = models.IntegerField(blank=True, initial=-999)
-    lr_Linke = models.IntegerField(blank=True, initial=-999)
-    lr_AfD = models.IntegerField(blank=True, initial=-999)
-    lr_BSW = models.IntegerField(blank=True, initial=-999)
+
 
 
     #time_sundayquestion=models.StringField(initial="-999")

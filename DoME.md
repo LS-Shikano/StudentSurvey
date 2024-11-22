@@ -70,10 +70,10 @@ maybe possible to generate and distribute codes automatically with email?
 	send codes 
 ***
 - Fixing the survey before analysing the first wave!
-	- cant unselect relation in network item
-	- can not click "i dont know" for political parties 
+	-x cant unselect relation in network item
+	-x can not click "i dont know" for political parties 
 	- Somehow make it work that codes are distributed by program (next year)
-	- finance.html, leftrightSelfassesment
+	- finance.html, leftrightSelfassesment (should change with deployed containers)
 	- zurück button 
 	- Question: Netzwerke der Messenger erstellen (whatsapp, signal, )
 - Vignette App erstellen 
