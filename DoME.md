@@ -68,6 +68,16 @@ Three waves: Nomvember/ December/ January
 
 ***
 - Fixing the survey before analysing the first wave!
+<<<<<<< HEAD
+=======
+	-x cant unselect relation in network item
+	-x can not click "i dont know" for political parties 
+	- Somehow make it work that codes are distributed by program (next year)
+	- finance.html, leftrightSelfassesment (should change with deployed containers)
+	- zurück button 
+	- Question: Netzwerke der Messenger erstellen (whatsapp, signal, )
+- Vignette App erstellen 
+>>>>>>> 52568e226d8b5e1f550b1fa437ebfe9f37108d40
 - Netzwerke erstellen 
 	-x cant unselect relation in network item
 	-x can not click "i dont know" for political parties 

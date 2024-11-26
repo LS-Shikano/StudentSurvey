@@ -1,0 +1,41 @@
+{% extends "global/LanguageVersion_Global.html" %}
+{% load otree static %}
+
+
+{% block title %}
+Student Survey - University Konstanz
+{% endblock %}
+
+{% block content %}
+
+<br>
+<h2 class="english">Experiment</h2><h2 class="german">Experiment</h2>
+<input id="time" type="hidden" name="time_experiment"/>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2">
+    <p class="german"> Bitte beantworten Sie die folgende Frage.</p>
+    <p class="english"> Please answer the following question.</p>
+
+    <div class="german"><input type="radio" name="harassment" value="1"> 1</div>
+    <div class="english"><input type="radio" name="harassment" value="1"> The instructor did the {{ player.part8 }}.</div>
+    <div class="german"><input type="radio" name="harassment" value="2"> 2</div>
+    <div class="english"><input type="radio" name="harassment" value="2"> It is very likely that the instructor did the {{ player.part8 }}.</div>
+    <div class="german"><input type="radio" name="harassment" value="3"> 3</div>
+    <div class="english"><input type="radio" name="harassment" value="3"> It is rather likely that the instructor did the {{ player.part8 }}.    </div>
+    <div class="german"><input type="radio" name="harassment" value="4"> 4</div>
+    <div class="english"><input type="radio" name="harassment" value="4"> it is rather unlikely that the instructor did the {{ player.part8 }}.    </div>
+    <div class="german"><input type="radio" name="harassment" value="5"> 5</div>
+    <div class="english"><input type="radio" name="harassment" value="5"> it is very unlikely that the instructor did the {{ player.part8 }}.</div>
+    <div class="german"><input type="radio" name="harassment" value="6"> 6</div>
+    <div class="english"><input type="radio" name="harassment" value="6"> The instructor did not do the {{ player.part8 }}.    </div>
+    <div class="german"><input type="radio" name="harassment" value="-999"> -999</div>
+    <div class="english"><input type="radio" name="harassment" value="-999"> I can say anything.</div>
+</div>
+
+
+   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+       <span class="german"> Weiter </span>
+       <span class="english"> Next </span>
+   </button>
+
+{% endblock %}

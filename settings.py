@@ -1,11 +1,14 @@
-from os import environ
+import os
+import warnings
+#import custom_python.get_config as cf
 
 SESSION_CONFIGS = [
      dict(
          name='shellproject',
          display_name='Shell Project',
          app_sequence=['conjoint_app', 
-                       'demographic_app', 
+                       'demographic_app',                    
+                       'vignett_app', 
                        'network_app', 
                        'political_app', 
                        'end_app'],
@@ -33,10 +36,53 @@ LANGUAGE_CODE = 'en'
 REAL_WORLD_CURRENCY_CODE = 'USD'
 USE_POINTS = True
 
-ADMIN_USERNAME = 'admin'
+ADMIN_USERNAME = "admin"
 # for security, best to set admin password in an environment variable
-ADMIN_PASSWORD = environ.get('OTREE_ADMIN_PASSWORD')
+ADMIN_PASSWORD = os.environ.get("OTREE_ADMIN_PASSWORD")
 
-DEMO_PAGE_INTRO_HTML = """ """
+OTREE_AUTH_LEVEL = os.environ.get('OTREE_AUTH_LEVEL', None)
 
-SECRET_KEY = '3238401680076'
+
+match os.environ.get("OTREE_REST_KEY"):
+    case "" | None:
+        SECRET_KEY = "5903222485487"
+        warnings.warn(
+            "Environmental variable for REST key not set. Using default.",
+            stacklevel=1,
+        )
+    case _:
+        SECRET_KEY = os.environ.get("OTREE_REST_KEY")
+
+# Database credentials
+if (
+    os.environ.get("POSTGRES_PASSWORD")
+    and os.environ.get("POSTGRES_USER")
+    and os.environ.get("POSTGRES_DB")
+):
+    os.environ["DATABASE_URL"] = (
+        "postgres://"
+        + os.environ.get("POSTGRES_USER")
+        + ":"
+        + os.environ.get("POSTGRES_PASSWORD")
+        + "@db/"
+        + os.environ.get("POSTGRES_DB")
+    )
+elif (
+    os.environ.get("POSTGRES_PASSWORD")
+    or os.environ.get("POSTGRES_USER")
+    or os.environ.get("POSTGRES_DB")
+):
+    warnings.warn(
+        """To use Postgres, the environmental variables DATABASE_URL,
+        POSTGRES_USER, and POSTGRES_DB must all be set""",
+        stacklevel=1,
+    )
+elif os.environ.get("DATABASE_URL"):
+    pass
+else:
+    warnings.warn(
+        """Using SQLite, because no Postgres credentials are specified. This is
+        fine for local use, but can lead to performance degradation in
+        production.""",
+        stacklevel=1,
+    )
