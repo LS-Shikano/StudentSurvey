@@ -65,16 +65,16 @@ Three waves: Nomvember/ December/ January
 1. Sign up for an anonymous code by registering yourself on a sheet (matrikelnummer - survey code)
 2. Exchange your code with other students whom you know 
 3. take a memo for all information above. keep it until the end of the semester 
-***
-maybe possible to generate and distribute codes automatically with email? 
-	send codes 
+
 ***
 - Fixing the survey before analysing the first wave!
-	- cant unselect relation in network item
-	- can not click "i dont know" for political parties 
-	- Somehow make it work that codes are distributed by program (next year)
-	- finance.html, leftrightSelfassesment
-	- zurück button 
-	- Question: Netzwerke der Messenger erstellen (whatsapp, signal, )
-- Vignette App erstellen 
 - Netzwerke erstellen 
+	-x cant unselect relation in network item
+	-x can not click "i dont know" for political parties 
+	-x finance.html, leftrightSelfassesment (should change with deployed containers)
+	-x zurück button (sehr aufwendig in Otree, sogar das beispiel nutzt ein einzelnes HTML dokument mit tabs)
+
+- Question: Netzwerke der Messenger erstellen (whatsapp, signal, )
+- Vignette App erstellen 
+
+- Somehow make it work that codes are distributed by program (next year)
