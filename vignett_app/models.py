@@ -25,9 +25,17 @@ class Constants(BaseConstants):
     text_options_part4 = ['kindergarten', 'school']
     text_options_part5 = ['study', 'experiment', 'simulation']
     text_options_part6 = ['study', 'experiment', 'simulation']  # Options for Part 2
-    text_options_part7 = ['discriminated', 'sexually harassed']
-    text_options_part8 = ['discriminatory gestures', 'harassment behavior']
+    text_options_part7_mapped = {
+        'showed a discriminatory note against': ['discriminated'],
+        'committed a sexual harassment': ['sexually harassed']    }
+    text_options_part8_mapped = {
+        'discriminated': ['discriminatory gestures'],
+        'sexually harassed': ['harassment behavior']    }
     text_options_part9 = ['she', 'he']
+    text_options_part10 = ['showed a discriminatory note against', 'committed a sexual harassment']
+    text_options_part11_mapped = {
+        'showed a discriminatory note against' : ['Asian people', 'African people', 'South European people', 'Jewish people', 'Arab people'],
+        'committed a sexual harassment': ['harassment behavior']    }
 
 class Subsession(BaseSubsession):
     def creating_session(self):
@@ -39,9 +47,11 @@ class Subsession(BaseSubsession):
             player.part4 = random.choice(Constants.text_options_part4)
             player.part5 = random.choice(Constants.text_options_part5)
             player.part6 = random.choice(Constants.text_options_part6)
-            player.part7 = random.choice(Constants.text_options_part7)
-            player.part8 = random.choice(Constants.text_options_part8)
+            player.part10 = random.choice(Constants.text_options_part10)
+            player.part7 = random.choice(Constants.text_options_part7_mapped[player.part10])
+            player.part8 = random.choice(Constants.text_options_part8_mapped[player.part7])
             player.part9 = random.choice(Constants.text_options_part9)
+            player.part11 = random.choice(Constants.text_options_part11_mapped[player.part10])
 
 class Group(BaseGroup):
     pass
@@ -49,12 +59,14 @@ class Group(BaseGroup):
 
 class Player(BasePlayer):
     harrassment = models.IntegerField(blank=True, max=5, min=-999, label="")
-    part1 = models.StringField()  # Randomized part of the text
+    part1 = models.StringField() 
     part2 = models.StringField()
-    part3 = models.StringField()  # Randomized part of the text
+    part3 = models.StringField()  
     part4 = models.StringField()
-    part5 = models.StringField()  # Randomized part of the text
+    part5 = models.StringField() 
     part6 = models.StringField()
-    part7 = models.StringField()  # Randomized part of the text
-    part8 = models.StringField()  # Randomized part of the text
-    part9 = models.StringField()  # Randomized part of the tex
+    part10 = models.StringField()
+    part7 = models.StringField()  
+    part8 = models.StringField()  
+    part9 = models.StringField()  
+    part11 = models.StringField()
