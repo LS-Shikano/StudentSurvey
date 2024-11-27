@@ -11,8 +11,10 @@ class HarassmentVignette(Page):
 
 
 class Manipulation(Page):
-    pass
-
+    def vars_for_template(self):
+        return {'lang': self.participant.vars.get('language')}
+    form_model = Player
+    form_fields = []
 
 class Results(Page):
     pass

@@ -5,7 +5,7 @@
 {% block title %}
 Student Survey - University Konstanz
 {% endblock %}
-
+ 
 {% block content %}
 
 <br>
@@ -13,23 +13,23 @@ Student Survey - University Konstanz
 <input id="time" type="hidden" name="time_experiment"/>
 <hr>
 <div class="mb-3 border pt-2 pb-2 px-2">
-    <p class="german"> Bitte beantworten Sie die folgende Frage.</p>
-    <p class="english"> Please answer the following question.</p>
+    <p class="german"> Was denken Sie, nachdem Sie diese Geschichte gelesen haben? Hat {{ player.g_gender_instructor_mapped_3 }} {{ player.g_kind_of_abuse_mapped_4 }} Verhalten gezeigt?</p>
+    <p class="english"> Having read this story, what do you think of that? Did the instructor commit the {{ player.part8 }}?</p>
 
-    <div class="german"><input type="radio" name="harassment" value="1"> 1</div>
+    <div class="german"><input type="radio" name="harassment" value="1"> {{ player.g_gender_instructor_mapped_4 }} hat {{ player.g_kind_of_abuse_mapped_4 }} Verhalten gezeigt.</div>
     <div class="english"><input type="radio" name="harassment" value="1"> The instructor did the {{ player.part8 }}.</div>
-    <div class="german"><input type="radio" name="harassment" value="2"> 2</div>
+    <div class="german"><input type="radio" name="harassment" value="2"> Es ist sehr wahrscheinlich, dass {{ player.g_gender_instructor_mapped_3 }} {{ player.g_kind_of_abuse_mapped_4 }} Verhalten gezeigt hat.</div>
     <div class="english"><input type="radio" name="harassment" value="2"> It is very likely that the instructor did the {{ player.part8 }}.</div>
-    <div class="german"><input type="radio" name="harassment" value="3"> 3</div>
+    <div class="german"><input type="radio" name="harassment" value="3"> Es ist eher wahrscheinlich, dass {{ player.g_gender_instructor_mapped_3 }} {{ player.g_kind_of_abuse_mapped_4 }}  Verhalten gezeigt hat. </div>
     <div class="english"><input type="radio" name="harassment" value="3"> It is rather likely that the instructor did the {{ player.part8 }}.    </div>
-    <div class="german"><input type="radio" name="harassment" value="4"> 4</div>
-    <div class="english"><input type="radio" name="harassment" value="4"> it is rather unlikely that the instructor did the {{ player.part8 }}.    </div>
-    <div class="german"><input type="radio" name="harassment" value="5"> 5</div>
-    <div class="english"><input type="radio" name="harassment" value="5"> it is very unlikely that the instructor did the {{ player.part8 }}.</div>
-    <div class="german"><input type="radio" name="harassment" value="6"> 6</div>
+    <div class="german"><input type="radio" name="harassment" value="4"> Es ist eher unwahrscheinlich, dass {{ player.g_gender_instructor_mapped_3 }} {{ player.g_kind_of_abuse_mapped_4 }}  Verhalten gezeigt hat.</div>
+    <div class="english"><input type="radio" name="harassment" value="4"> It is rather unlikely that the instructor did the {{ player.part8 }}.    </div>
+    <div class="german"><input type="radio" name="harassment" value="5"> Es ist sehr unwahrscheinlich, dass {{ player.g_gender_instructor_mapped_3 }} {{ player.g_kind_of_abuse_mapped_4 }}  Verhalten gezeigt hat.</div>
+    <div class="english"><input type="radio" name="harassment" value="5"> It is very unlikely that the instructor did the {{ player.part8 }}.</div>
+    <div class="german"><input type="radio" name="harassment" value="6"> {{ player.g_gender_instructor_mapped_4 }} hat kein {{ player.g_kind_of_abuse_mapped_4 }}  Verhalten gezeigt.</div>
     <div class="english"><input type="radio" name="harassment" value="6"> The instructor did not do the {{ player.part8 }}.    </div>
-    <div class="german"><input type="radio" name="harassment" value="-999"> -999</div>
-    <div class="english"><input type="radio" name="harassment" value="-999"> I can say anything.</div>
+    <div class="german"><input type="radio" name="harassment" value="-999"> Ich kann dazu nichts sagen.</div>
+    <div class="english"><input type="radio" name="harassment" value="-999"> I can't say anything.</div>
 </div>
 
 
