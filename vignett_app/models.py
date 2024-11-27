@@ -26,10 +26,7 @@ class Constants(BaseConstants):
         '4-year-old child': ['kindergarten'],
         '9-year-old child': ['school'],
         '14-year-old teenager': ['school']    }
-    text_options_part5_mapped = {
-        'she' : ['She'],
-        'he' : ['He']
-    }
+    text_options_part5 = ['She','He']
     text_options_part6 = ['her', 'his'] 
     text_options_part7_mapped = {
         'showed a discriminatory note against': ['discriminated'],
@@ -55,7 +52,7 @@ class Subsession(BaseSubsession):
             player.part3 = random.choice(Constants.text_options_part3)
             player.part4 = random.choice(Constants.text_options_part4_mapped[player.part1])
             player.part9 = random.choice(Constants.text_options_part9)
-            player.part5 = random.choice(Constants.text_options_part5_mapped[player.part9])
+            player.part5 = random.choice(Constants.text_options_part5)
             player.part6 = random.choice(Constants.text_options_part6)
             player.part10 = random.choice(Constants.text_options_part10)
             player.part7 = random.choice(Constants.text_options_part7_mapped[player.part10])
