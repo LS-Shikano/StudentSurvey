@@ -104,19 +104,19 @@ class Constants(BaseConstants):
     g_kind_of_abuse = ['sexuell übergriffiges Verhalten', 'eine diskriminierende Haltung gegenüber ']
     g_kind_of_abuse_mapped = {
         'sexuell übergriffiges Verhalten': [''],
-        'eine diskriminierende Haltung gegenüber': ['afrikanischen Menschen', 'asiatischen Menschen', 'südeuropäischen Meschen', 'jüdischen Menschen', 'arabischen Menschen']
+        'eine diskriminierende Haltung gegenüber ': ['afrikanischen Menschen', 'asiatischen Menschen', 'südeuropäischen Meschen', 'jüdischen Menschen', 'arabischen Menschen']
       }
     g_kind_of_abuse_mapped_2 = {
         'sexuell übergriffiges Verhalten': ['dem selben übergriffigen Verhalten'],
-        'eine diskriminierende Haltung gegenüber': ['denselben diskriminierenden Übergriffen']
+        'eine diskriminierende Haltung gegenüber ': ['denselben diskriminierenden Übergriffen']
     }
     g_kind_of_abuse_mapped_3 = {
         'sexuell übergriffiges Verhalten': ['belästigten'],
-        'eine diskriminierende Haltung gegenüber': ['diskriminierten']
+        'eine diskriminierende Haltung gegenüber ': ['diskriminierten']
     }
     g_kind_of_abuse_mapped_4 = {
         'sexuell übergriffiges Verhalten': ['übergriffiges'],
-        'eine diskriminierende Haltung gegenüber': ['diskriminierendes']
+        'eine diskriminierende Haltung gegenüber ': ['diskriminierendes']
     }
 
     g_gender_instructor = ['den Gruppenleiter', 'die Gruppenleiterin']
