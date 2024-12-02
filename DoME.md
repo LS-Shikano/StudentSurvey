@@ -68,16 +68,6 @@ Three waves: Nomvember/ December/ January
 
 ***
 - Fixing the survey before analysing the first wave!
-<<<<<<< HEAD
-=======
-	-x cant unselect relation in network item
-	-x can not click "i dont know" for political parties 
-	- Somehow make it work that codes are distributed by program (next year)
-	- finance.html, leftrightSelfassesment (should change with deployed containers)
-	- zurück button 
-	- Question: Netzwerke der Messenger erstellen (whatsapp, signal, )
-- Vignette App erstellen 
->>>>>>> 52568e226d8b5e1f550b1fa437ebfe9f37108d40
 - Netzwerke erstellen 
 	-x cant unselect relation in network item
 	-x can not click "i dont know" for political parties 
@@ -88,3 +78,22 @@ Three waves: Nomvember/ December/ January
 - Vignette App erstellen 
 
 - Somehow make it work that codes are distributed by program (next year)
+
+***
+Network item regarding contact between network 
+
+
+Vignette App Blueprint: https://docs.google.com/document/d/1BRRiqEtoOX3URnHSSgDCcNFG5OksqOhchNA4S4MAbEc/edit?tab=t.0
+    https://docs.google.com/document/d/1BRRiqEtoOX3URnHSSgDCcNFG5OksqOhchNA4S4MAbEc/edit?tab=t.0
+
+***
+- Social Media Question
+- Political Questions 
+	- Petitionen Demo Unterschrift als eine Multiantwort frage
+- Studiengang (Radio mit Textfeld)
+	- Politik als Hauptfach 
+	- Politik als Nebenfach
+	- SEDS
+	- Wirtschaftspädagogik
+	- Lehreramt 
+	- Sonstige (Textfeld)
