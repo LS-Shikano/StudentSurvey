@@ -7,7 +7,7 @@ SESSION_CONFIGS = [
          name='shellproject',
          display_name='Shell Project',
          app_sequence=['conjoint_app', 
-                       #'demographic_app',                    
+                       'demographic_app',                    
                        'vignett_app', 
                        'network_app', 
                        'political_app', 

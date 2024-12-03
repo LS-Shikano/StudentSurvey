@@ -87,13 +87,18 @@ Vignette App Blueprint: https://docs.google.com/document/d/1BRRiqEtoOX3URnHSSgDC
     https://docs.google.com/document/d/1BRRiqEtoOX3URnHSSgDCcNFG5OksqOhchNA4S4MAbEc/edit?tab=t.0
 
 ***
-- Social Media Question
-- Political Questions 
+-x Social Media Question
+-x Political Questions 
 	- Petitionen Demo Unterschrift als eine Multiantwort frage
-- Studiengang (Radio mit Textfeld)
+-x Studiengang (Radio mit Textfeld)
 	- Politik als Hauptfach 
 	- Politik als Nebenfach
 	- SEDS
 	- Wirtschaftspädagogik
 	- Lehreramt 
 	- Sonstige (Textfeld)
+- Berufsfragen überarbeiten!
+
+
+
+    

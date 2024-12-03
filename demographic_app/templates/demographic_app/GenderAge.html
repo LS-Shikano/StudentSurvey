@@ -35,6 +35,27 @@ Student Survey - University Konstanz
     <div class="english"><input type="radio" name="gender" value="-999"> No answer</div>
 </div>
 
+<br>
+<h2 class="english"> Study Program</h2><h2 class="german"> Studiengang</h2>
+<hr>
+<div class="mb-3 border pt-2 pb-2 px-2 ">
+    <p class="german"> In welchem der Studiengänge sind sie eingeschrieben?</p>
+    <p class="english"> In which of the study programs are you enrolled?</p>
+    <div class="german"><input type="radio" name="study_program" value="1"> Politikwissenschaften als Hauptfach</div>
+    <div class="english"><input type="radio" name="study_program" value="1"> Political Science as major</div>
+    <div class="german"><input type="radio" name="study_program" value="2"> Politikwissenschaften als Nebenfach</div>
+    <div class="english"><input type="radio" name="study_program" value="2"> Political Science as minor</div>
+    <div class="german"><input type="radio" name="study_program" value="3"> Wirtschaftspädagogik</div>
+    <div class="english"><input type="radio" name="study_program" value="3"> Wirtschaftspädagogik</div>
+    <div class="german"><input type="radio" name="study_program" value="4"> Lehramt</div>
+    <div class="english"><input type="radio" name="study_program" value="4"> Teaching</div>
+    <div class="german"><input type="radio" name="study_program" value="5"> Social and Economic Data Science (SEDS)</div>
+    <div class="english"><input type="radio" name="study_program" value="5"> Social and Economic Data Science (SEDS)</div>
+    <div class="german"><input type="radio" name="study_program" value="-999"> Keine Angabe</div>
+    <div class="english"><input type="radio" name="study_program" value="-999"> No answer</div>
+    <div>{% formfield player.study_program_other %}</div>
+</div>
+
 <button class="otree-btn-next btn btn-primary next-button otree-next-button">
     <span class="german"> Weiter </span>
     <span class="english"> Next </span>

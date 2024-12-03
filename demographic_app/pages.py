@@ -7,7 +7,7 @@ class GenderAge(Page): #3
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
-    form_fields = ['age', 'gender']
+    form_fields = ['age', 'gender', 'study_program', 'study_program_other']
 
 class Tutorials(Page): #13
     def vars_for_template(self):
@@ -33,4 +33,13 @@ class Postcode(Page):
     form_model = Player
     form_fields = ['postcode']
 
-page_sequence = [GenderAge, Tutorials, LevelFamily, Financial, Postcode]
+class Participation(Page):
+    def vars_for_template(self):
+        return {'lang': self.participant.vars.get('language')}
+    form_model = Player
+    form_fields = ['participation_demonstration',
+                   'participation_demonstration_1','petition_signatory','petition_signatory_1', 'social_networks_1','social_networks_2',
+                   'social_networks_3','social_networks_4','social_networks_5','social_networks_6','social_networks_7','social_networks_8',
+                   'social_networks_9', 'social_networks_10', 'social_networks_11']
+
+page_sequence = [GenderAge, Tutorials, LevelFamily, Financial, Postcode, Participation]
