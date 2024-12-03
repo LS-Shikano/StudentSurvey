@@ -43,6 +43,7 @@ class Constants(BaseConstants):
     text_options_part12_mapped = {
         'his': ['His'],
         'her': ['Her']    }
+    text_options_part13 = ['His', 'Her']
     
 #German part
     g_age_child = ['Ein 4-jähriges Kind', 'Ein 9-jähriges Kind', 'Ein 14-jähriges Kind'] 
@@ -142,6 +143,7 @@ class Constants(BaseConstants):
         'Der Direktor': ['Er'],
         'Die Direktorin': ['Sie']
     }
+    g_gender_second_child = ['Ihre', 'Seine']
 
     
 class Subsession(BaseSubsession):
@@ -160,6 +162,7 @@ class Subsession(BaseSubsession):
             player.part8 = random.choice(Constants.text_options_part8_mapped[player.part7])
             player.part11 = random.choice(Constants.text_options_part11_mapped[player.part10])
             player.part12 = random.choice(Constants.text_options_part12_mapped[player.part6])
+            player.part13 = random.choice(Constants.text_options_part13)
             player.g_age_child = random.choice(Constants.g_age_child)
             player.g_age_child_mapped = random.choice(Constants.g_age_child_mapped[player.g_age_child])
             player.g_school_mapped = random.choice(Constants.g_school_mapped[player.g_age_child])
@@ -187,7 +190,7 @@ class Subsession(BaseSubsession):
             player.g_gender_instructor_mapped_4 = random.choice(Constants.g_gender_instructor_mapped_4[player.g_gender_instructor])
             player.g_gender_external_director = random.choice(Constants.g_gender_external_director)
             player.g_gender_external_director_mapped = random.choice(Constants.g_gender_external_director_mapped[player.g_gender_external_director])
-
+            player.g_gender_second_child = random.choice(Constants.g_gender_second_child)
 
 
 
@@ -197,7 +200,7 @@ class Group(BaseGroup):
 
 
 class Player(BasePlayer):
-    harrassment = models.IntegerField(blank=True, max=5, min=-999, label="")
+    harassment = models.IntegerField(blank=True, max=9, min=-999, label="")
     part1 = models.StringField() 
     part2 = models.StringField()
     part3 = models.StringField()  
@@ -210,6 +213,7 @@ class Player(BasePlayer):
     part8 = models.StringField()  
     part11 = models.StringField()
     part12 = models.StringField()
+    part13 = models.StringField()
     g_age_child = models.StringField()
     g_age_child_mapped = models.StringField()
     g_school_mapped_2 = models.StringField()
@@ -237,6 +241,7 @@ class Player(BasePlayer):
     g_gender_instructor_mapped_4 = models.StringField()
     g_gender_external_director = models.StringField()
     g_gender_external_director_mapped = models.StringField()
+    g_gender_second_child = models.StringField()
 
 
 
