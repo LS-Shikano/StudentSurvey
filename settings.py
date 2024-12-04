@@ -16,6 +16,15 @@ SESSION_CONFIGS = [
      ),
 ]
 
+ROOMS = [
+    dict(
+        name='PolVer',
+        display_name='Political Science class',
+        participant_label_file='_rooms/code_list.txt',
+    ),
+    dict(name='live_demo', display_name='Room for live demo (no participant labels)'),
+]
+
 # if you set a property in SESSION_CONFIG_DEFAULTS, it will be inherited by all configs
 # in SESSION_CONFIGS, except those that explicitly override it.
 # the session config can be accessed from methods in your apps as self.session.config,

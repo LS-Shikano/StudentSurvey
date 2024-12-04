@@ -32,14 +32,12 @@ class Group(BaseGroup):
     pass
 
 class Player(BasePlayer):
-    ### Variable fuer Smartphone
     device_type = models.IntegerField()
     operating_system = models.IntegerField()
     browser = models.IntegerField()
     lang = models.IntegerField()
     language = models.IntegerField() 
     use_of_device = models.IntegerField(blank=True, max=3, min=1, label="")
-    ### Time stamp variablen
     time_start = models.StringField(initial="-999")
-
+    participant_label = models.StringField()
 

@@ -9,5 +9,7 @@ class Welcome(Page): #1
     form_fields = ['lang', 'time_start', 'device_type', 'operating_system', 'browser', 'use_of_device']
     def before_next_page(self):
         self.participant.vars['language'] = self.player.lang
+        self.player.participant_label = self.participant.label
+
 
 page_sequence = [Welcome] 
