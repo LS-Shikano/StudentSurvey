@@ -35,6 +35,7 @@ class Player(BasePlayer):
     sunday_party_vote = models.IntegerField(blank=True, max=8, min=1, label="")
     sunday_not_eligible = models.IntegerField(blank=True, max=8, min=1, label="")
     noteligible_sunday_party_vote = models.IntegerField(blank=True, max=8, min=1, label="")
+    reason_no_vote = models.StringField(blank=True, label="")
 
     lr_CDU = models.StringField(blank=True, initial=-999)
     lr_CSU = models.StringField(blank=True, initial=-999)

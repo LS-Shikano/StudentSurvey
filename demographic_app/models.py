@@ -39,7 +39,7 @@ class Player(BasePlayer):
     gender = models.IntegerField(blank=True, max=10, min=-999, label="")
 
     study_program = models.IntegerField(blank=True, max=6, min=-999, label="")
-    study_program_other = models.StringField(blank=True, label="Other/Andere")
+    study_program_other = models.StringField(blank=True, label="")
 
     postcode = models.IntegerField(blank=True, label='', min=00, max=99)
 
@@ -56,7 +56,7 @@ class Player(BasePlayer):
     social_networks_8 = models.IntegerField(blank=True, max=2, min=1, label="")
     social_networks_9 = models.IntegerField(blank=True, max=2, min=1, label="")
     social_networks_10 = models.IntegerField(blank=True, max=2, min=1, label="")
-    social_networks_11 = models.StringField(blank=True, label="Other/Andere")
+    social_networks_11 = models.StringField(blank=True, label="")
 
     participation_demonstration = models.IntegerField(blank=True, max=2, min=1, label="")
     participation_demonstration_1 = models.IntegerField(blank=True, max=2, min=1, label="")

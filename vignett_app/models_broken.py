@@ -30,7 +30,7 @@ class Constants(BaseConstants):
     text_options_part5 = ['She','He']
     text_options_part6 = ['her', 'his'] 
     text_options_part7_mapped = {
-        'showed a discriminatory note against': ['discriminated'],
+        'showed a discriminatory notes against': ['discriminated'],
         'committed sexual harassment': ['sexually harassed']    }
     text_options_part8_mapped = {
         'discriminated': ['discriminatory note'],
@@ -108,7 +108,7 @@ class Constants(BaseConstants):
         'eine diskriminierende Haltung gegenüber ': ['afrikanischen Menschen', 'asiatischen Menschen', 'südeuropäischen Meschen', 'jüdischen Menschen', 'arabischen Menschen']
       }
     g_kind_of_abuse_mapped_2 = {
-        'sexuell übergriffiges Verhalten': ['demselben übergriffigen Verhalten'],
+        'sexuell übergriffiges Verhalten': ['dem selben übergriffigen Verhalten'],
         'eine diskriminierende Haltung gegenüber ': ['denselben diskriminierenden Handlungen']
     }
     g_kind_of_abuse_mapped_3 = {

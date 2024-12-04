@@ -21,8 +21,7 @@ ROOMS = [
         name='PolVer',
         display_name='Political Science class',
         participant_label_file='_rooms/code_list.txt',
-    ),
-    dict(name='live_demo', display_name='Room for live demo (no participant labels)'),
+    )
 ]
 
 # if you set a property in SESSION_CONFIG_DEFAULTS, it will be inherited by all configs

@@ -9,7 +9,7 @@ Student Survey - University Konstanz
 {% block content %}
 
 <br>
-<h2 class="english">Age</h2><h2 class="german">Alter</h2>
+<h3 class="english">Age</h3><h3 class="german">Alter</h3>
 <input id="time" type="hidden" name="time_age"/>
 <hr>
 <div class="mb-3 border pt-2 pb-2 px-2">
@@ -20,7 +20,7 @@ Student Survey - University Konstanz
 </div>
 
 <br>
-<h2 class="english"> Gender</h2><h2 class="german"> Geschlecht</h2>
+<h3 class="english"> Gender</h3><h3 class="german"> Geschlecht</h3>
 <hr>
 <div class="mb-3 border pt-2 pb-2 px-2 ">
     <p class="german"> Mit welcher der folgenden Kategorien identifizieren Sie sich selbst.</p>
@@ -36,15 +36,15 @@ Student Survey - University Konstanz
 </div>
 
 <br>
-<h2 class="english"> Study Program</h2><h2 class="german"> Studiengang</h2>
+<h3 class="english"> Study Program</h3><h3 class="german"> Studiengang</h3>
 <hr>
 <div class="mb-3 border pt-2 pb-2 px-2 ">
     <p class="german"> In welchem der Studiengänge sind sie eingeschrieben?</p>
     <p class="english"> In which of the study programs are you enrolled?</p>
     <div class="german"><input type="radio" name="study_program" value="1"> Politikwissenschaften als Hauptfach</div>
-    <div class="english"><input type="radio" name="study_program" value="1"> Political Science as major</div>
+    <div class="english"><input type="radio" name="study_program" value="1"> Political Science as major subject</div>
     <div class="german"><input type="radio" name="study_program" value="2"> Politikwissenschaften als Nebenfach</div>
-    <div class="english"><input type="radio" name="study_program" value="2"> Political Science as minor</div>
+    <div class="english"><input type="radio" name="study_program" value="2"> Political Science as minor subject</div>
     <div class="german"><input type="radio" name="study_program" value="3"> Wirtschaftspädagogik</div>
     <div class="english"><input type="radio" name="study_program" value="3"> Wirtschaftspädagogik</div>
     <div class="german"><input type="radio" name="study_program" value="4"> Lehramt</div>
@@ -53,7 +53,8 @@ Student Survey - University Konstanz
     <div class="english"><input type="radio" name="study_program" value="5"> Social and Economic Data Science (SEDS)</div>
     <div class="german"><input type="radio" name="study_program" value="-999"> Keine Angabe</div>
     <div class="english"><input type="radio" name="study_program" value="-999"> No answer</div>
-    <div>{% formfield player.study_program_other %}</div>
+    <div class="german">Andere: {% formfield player.study_program_other %}</div>
+    <div class="english">Other: {% formfield player.study_program_other %}</div>
 </div>
 
 <button class="otree-btn-next btn btn-primary next-button otree-next-button">

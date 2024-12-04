@@ -7,7 +7,7 @@ class Sonntagsfrage(Page): #5
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
-    form_fields = ['sunday_poll', 'sunday_party_vote', 'sunday_not_eligible', 'noteligible_sunday_party_vote']
+    form_fields = ['sunday_poll', 'sunday_party_vote', 'sunday_not_eligible', 'noteligible_sunday_party_vote', 'reason_no_vote']
 
 class ScaloParty(Page): #6
     def vars_for_template(self):

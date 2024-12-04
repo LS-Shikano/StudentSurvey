@@ -128,8 +128,8 @@ function popout5() {
 
 {% block content %}
 
-<h2 class="german"> Sonntagsfrage </h2>
-<h2 class="english"> German Sunday Poll</h2>
+<h3 class="german"> Sonntagsfrage </h3>
+<h3 class="english"> German Sunday Poll</h3>
 <hr>
 
 <input id="time" type="hidden" name="time_sundayquestion"/>
@@ -216,6 +216,11 @@ function popout5() {
 
 <div id="divstu33" style="display: none">
     <br>
+    <p class="german">Warum würden Sie nicht wählen gehen?</p>
+    <p class="english">Why would you not voting?</p>
+
+    <div class="german">{% formfield player.reason_no_vote %}</div>
+    <div class="english">{% formfield player.reason_no_vote %}</div>
 </div>
 
 <div id="divstu44" style="display: none">
