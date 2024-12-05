@@ -10,7 +10,9 @@ class Welcome(Page): #1
     
     def before_next_page(self):
         self.participant.vars['language'] = self.player.lang
-        self.participant.vars['participant_label'] = self.participant.label
+
+        #participant_label = self.participant.label
+        #self.player.vars['participant_label'] = participant_label
 
 
 page_sequence = [Welcome] 
