@@ -1,65 +1,148 @@
 {% extends "global/LanguageVersion_Global.html" %}
 {% load otree static %}
 
+{% block styles %}
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p, label {
+    font-family: 'Verdana', sans-serif;
+    color: #555;
+    line-height: 1.5;
+}
+
+.mb-3 {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
+    border-radius: 5px;
+    padding: 15px;
+    background: #f9f9f9; /* Light background for contrast */
+}
+
+input[type="number"], input[type="radio"], input[type="text"] {
+    margin-top: 5px;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+input[type="number"]:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.otree-btn-next {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    display: block;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.otree-btn-next:hover {
+    background-color: #0056b3; /* Darker shade for hover */
+    transform: scale(1.05);
+}
+
+div.german, div.english {
+    margin: 5px 0;
+}
+</style>
+{% endblock %}
 
 {% block title %}
 Student Survey - University Konstanz
 {% endblock %}
 
 {% block content %}
+<div class="container">
 
-<br>
-<h3 class="english">Age</h3><h3 class="german">Alter</h3>
-<input id="time" type="hidden" name="time_age"/>
-<hr>
-<div class="mb-3 border pt-2 pb-2 px-2">
-    <p class="german"> Bitte geben Sie Ihr Alter in Jahren an.</p>
-    <p class="english"> Please enter your age in years.</p>
-    <input type="number" name="age" placeholder="Enter">
-    {{ formfield_errors 'age' }}
+    <br>
+    <!-- <h3 class="english">Age</h3>
+    <h3 class="german">Alter</h3> -->
+    <input id="time" type="hidden" name="time_age"/>
+    <hr>
+    <div class="mb-3 border pt-2 pb-2 px-2">
+        <p class="german"> Bitte geben Sie Ihr Alter in Jahren an.</p>
+        <p class="english"> Please enter your age in years.</p>
+        <input type="number" name="age" placeholder="Enter">
+        {{ formfield_errors 'age' }}
+    </div>
+
+    <br>
+    <!-- <h3 class="english">Gender</h3>
+    <h3 class="german">Geschlecht</h3> -->
+    <hr>
+    <div class="mb-3 border pt-2 pb-2 px-2">
+        <p class="german"> Mit welcher der folgenden Kategorien identifizieren Sie sich selbst?</p>
+        <p class="english"> Please indicate with which of the following categories you identify?</p>
+        <div class="german"><input type="radio" name="gender" value="1"> Weiblich</div>
+        <div class="english"><input type="radio" name="gender" value="1"> Female</div>
+        <div class="german"><input type="radio" name="gender" value="2"> Männlich</div>
+        <div class="english"><input type="radio" name="gender" value="2"> Male</div>
+        <div class="german"><input type="radio" name="gender" value="3"> Divers</div>
+        <div class="english"><input type="radio" name="gender" value="3"> Diverse</div>
+        <div class="german"><input type="radio" name="gender" value="-999"> Keine Angabe</div>
+        <div class="english"><input type="radio" name="gender" value="-999"> No answer</div>
+    </div>
+
+    <br>
+    <!-- <h3 class="english">Study Program</h3>
+    <h3 class="german">Studiengang</h3> -->
+    <hr>
+    <div class="mb-3 border pt-2 pb-2 px-2">
+        <p class="german"> In welchem der Studiengänge sind Sie eingeschrieben?</p>
+        <p class="english"> In which of the study programs are you enrolled?</p>
+        <div class="german"><input type="radio" name="study_program" value="1"> Politikwissenschaften als Hauptfach</div>
+        <div class="english"><input type="radio" name="study_program" value="1"> Political Science as major subject</div>
+        <div class="german"><input type="radio" name="study_program" value="2"> Politikwissenschaften als Nebenfach</div>
+        <div class="english"><input type="radio" name="study_program" value="2"> Political Science as minor subject</div>
+        <div class="german"><input type="radio" name="study_program" value="3"> Wirtschaftspädagogik</div>
+        <div class="english"><input type="radio" name="study_program" value="3"> Wirtschaftspädagogik</div>
+        <div class="german"><input type="radio" name="study_program" value="4"> Lehramt</div>
+        <div class="english"><input type="radio" name="study_program" value="4"> Teaching</div>
+        <div class="german"><input type="radio" name="study_program" value="5"> Social and Economic Data Science (SEDS)</div>
+        <div class="english"><input type="radio" name="study_program" value="5"> Social and Economic Data Science (SEDS)</div>
+        <div class="german"><input type="radio" name="study_program" value="-999"> Keine Angabe</div>
+        <div class="english"><input type="radio" name="study_program" value="-999"> No answer</div>
+        <div class="german">Andere: {% formfield player.study_program_other %}</div>
+        <div class="english">Other: {% formfield player.study_program_other %}</div>
+    </div>
+
+    <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+        <span class="german"> Weiter </span>
+        <span class="english"> Next </span>
+    </button>
+
 </div>
-
-<br>
-<h3 class="english"> Gender</h3><h3 class="german"> Geschlecht</h3>
-<hr>
-<div class="mb-3 border pt-2 pb-2 px-2 ">
-    <p class="german"> Mit welcher der folgenden Kategorien identifizieren Sie sich selbst.</p>
-    <p class="english"> Please indicate with which of the following categories you identify.</p>
-    <div class="german"><input type="radio" name="gender" value="1"> Weiblich</div>
-    <div class="english"><input type="radio" name="gender" value="1"> Female</div>
-    <div class="german"><input type="radio" name="gender" value="2"> Männlich</div>
-    <div class="english"><input type="radio" name="gender" value="2"> Male</div>
-    <div class="german"><input type="radio" name="gender" value="3"> Divers</div>
-    <div class="english"><input type="radio" name="gender" value="3"> Diverse</div>
-    <div class="german"><input type="radio" name="gender" value="-999"> Keine Angabe</div>
-    <div class="english"><input type="radio" name="gender" value="-999"> No answer</div>
-</div>
-
-<br>
-<h3 class="english"> Study Program</h3><h3 class="german"> Studiengang</h3>
-<hr>
-<div class="mb-3 border pt-2 pb-2 px-2 ">
-    <p class="german"> In welchem der Studiengänge sind sie eingeschrieben?</p>
-    <p class="english"> In which of the study programs are you enrolled?</p>
-    <div class="german"><input type="radio" name="study_program" value="1"> Politikwissenschaften als Hauptfach</div>
-    <div class="english"><input type="radio" name="study_program" value="1"> Political Science as major subject</div>
-    <div class="german"><input type="radio" name="study_program" value="2"> Politikwissenschaften als Nebenfach</div>
-    <div class="english"><input type="radio" name="study_program" value="2"> Political Science as minor subject</div>
-    <div class="german"><input type="radio" name="study_program" value="3"> Wirtschaftspädagogik</div>
-    <div class="english"><input type="radio" name="study_program" value="3"> Wirtschaftspädagogik</div>
-    <div class="german"><input type="radio" name="study_program" value="4"> Lehramt</div>
-    <div class="english"><input type="radio" name="study_program" value="4"> Teaching</div>
-    <div class="german"><input type="radio" name="study_program" value="5"> Social and Economic Data Science (SEDS)</div>
-    <div class="english"><input type="radio" name="study_program" value="5"> Social and Economic Data Science (SEDS)</div>
-    <div class="german"><input type="radio" name="study_program" value="-999"> Keine Angabe</div>
-    <div class="english"><input type="radio" name="study_program" value="-999"> No answer</div>
-    <div class="german">Andere: {% formfield player.study_program_other %}</div>
-    <div class="english">Other: {% formfield player.study_program_other %}</div>
-</div>
-
-<button class="otree-btn-next btn btn-primary next-button otree-next-button">
-    <span class="german"> Weiter </span>
-    <span class="english"> Next </span>
-</button>
-
 {% endblock %}

@@ -1,38 +1,110 @@
 {% extends "global/LanguageVersion_Global.html" %}
 {% load otree static %}
 
+{% block styles %}
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p, label {
+    font-family: 'Verdana', sans-serif;
+    color: #555;
+    line-height: 1.5;
+}
+
+.mb-3 {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
+    border-radius: 5px;
+    padding: 15px;
+    background: #f9f9f9; /* Light background for contrast */
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+input[type="number"]:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.otree-btn-next {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    display: block;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.otree-btn-next:hover {
+    background-color: #0056b3; /* Darker shade for hover */
+    transform: scale(1.05);
+}
+</style>
+{% endblock %}
+
 {% block title %}
 Student Survey - University Konstanz
 {% endblock %}
 
 {% block content %}
+<div class="container">
 
-<br>
-<h3 class="english"> Income</h3>
-<h3 class="german"> Einkommen</h3>
-<hr>
-<div class="mb-3 border pt-2 pb-2 px-2">
-    <p class="german"> Bitte geben Sie Ihr verfügbares monatliches Einkommen in Euro(€) an.</p>
-    <p class="english"> Please enter your monthly disposable income in euros (€).</p>
-    <input type="number" name="income" placeholder="Enter">
+    <!-- <br>
+    <h3 class="english"> Income</h3>
+    <h3 class="german"> Einkommen</h3>
+    <hr> -->
+    <div class="mb-3 border pt-2 pb-2 px-2">
+        <p class="german"> Bitte geben Sie Ihr verfügbares monatliches Einkommen in Euro(€) an.</p>
+        <p class="english"> Please enter your monthly disposable income in euros (€).</p>
+        <input type="number" name="income" placeholder="Enter">
+    </div>
+
+    <br>
+    <!-- <h3 class="english"> Rent</h3>
+    <h3 class="german"> Miete</h3> -->
+    <input id="time" type="hidden" name="time_age"/>
+    <hr>
+    <div class="mb-3 border pt-2 pb-2 px-2">
+        <p class="german"> Bitte geben Sie Ihre Monatsmiete in Euro(€) an. Wenn Sie zu Hause leben und keine Miete zahlen, geben Sie "0" an.</p>
+        <p class="english"> Please enter your monthly rent, in euros (€). If you live at home and do not pay rent, enter "0".</p>
+        <input type="number" name="rent" placeholder="Enter">
+    </div>
+
+    <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+        <span class="german"> Weiter </span>
+        <span class="english"> Next </span>
+    </button>
+
 </div>
-
-<br>
-<h3 class="english"> Rent</h3>
-<h3 class="german"> Miete</h3>
-<input id="time" type="hidden" name="time_age"/>
-<hr>
-<div class="mb-3 border pt-2 pb-2 px-2">
-    <p class="german"> Bitte geben Sie Ihre Monatsmiete in Euro(€) an. Wenn sie zu Hause leben und keine Miete zahlen, geben sie "0" an</p>
-    <p class="english"> Please enter your monthly rent, in euros (€). If you live at home and do not pay rent enter "0".</p>
-    
-    <input type="number" name="rent" placeholder="Enter">
-</div>
-
-
-   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
-       <span class="german"> Weiter </span>
-       <span class="english"> Next </span>
-   </button>
-
 {% endblock %}

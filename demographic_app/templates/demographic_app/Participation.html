@@ -1,6 +1,71 @@
 {% extends "global/LanguageVersion_Global.html" %}
 {% load otree static %}
 
+{% block styles %}
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p, label {
+    font-family: 'Verdana', sans-serif;
+    color: #555;
+    line-height: 1.5;
+}
+
+.mb-3 {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
+    border-radius: 5px;
+    padding: 15px;
+    background: #f9f9f9; /* Light background for contrast */
+}
+
+input[type="radio"], input[type="text"] {
+    margin-top: 5px;
+}
+
+hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.otree-btn-next {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    display: block;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.otree-btn-next:hover {
+    background-color: #0056b3; /* Darker shade for hover */
+    transform: scale(1.05);
+}
+
+div.german, div.english {
+    margin: 5px 0;
+}
+</style>
+{% endblock %}
+
 {% block title %}
 Student Survey - University Konstanz
 {% endblock %}
@@ -200,117 +265,119 @@ Student Survey - University Konstanz
 {% endblock %}
 
 {% block content %}
-<input id="time" type="hidden" name="time_interest_uni"/>
-<h3 class="german"> Demonstrationen </h3><h3 class="english"> Demonstrations</h3>
-<hr>
-<div class="mb-3 border pt-2 pb-2 px-2 ">
-    <p class="german">Haben Sie schon einmal an einer Demonstration teilgenommen?</p>
-    <p class="english">Have you ever participated in a demonstration?</p>
+<div class="container">
+    <input id="time" type="hidden" name="time_interest_uni"/>
+    <!-- <h3 class="german"> Demonstrationen </h3><h3 class="english"> Demonstrations</h3> -->
+    <hr>
+    <div class="mb-3 border pt-2 pb-2 px-2 ">
+        <p class="german">Haben Sie schon einmal an einer Demonstration teilgenommen?</p>
+        <p class="english">Have you ever participated in a demonstration?</p>
+            
+        <div class="german"><input id="ans1" type="radio" name="participation_demonstration" value="1" onclick="popout()">Ja</div>
+        <div class="english"><input id="ans11" type="radio" name="participation_demonstration" value="1" onclick="popout()"> Yes</div>
+        <div class="german"><input id="ans2" type="radio" name="participation_demonstration" value="2" onclick="popout()"> Nein</div>
+        <div class="english"><input id="ans22" type="radio" name="participation_demonstration" value="2" onclick="popout()"> No</div>
+
+    <div id="divans1" style="display: none">
+    <p class="german">Ihre Teilnahme an dieser  Demonstration erfolgte</p>
+    <p class="english">Your participation in this demonstration was</p>
+        <div class="german"><input type="radio" name="participation_demonstration_1" value="1"> aus Eigeninitiative</div>
+        <div class="english"><input type="radio" name="participation_demonstration_1" value="1"> on your own initiative</div>
+        <div class="german"><input type="radio" name="participation_demonstration_1" value="2"> weil Sie jemanden auf diese Demonstration begleitet haben</div>
+        <div class="english"><input type="radio" name="participation_demonstration_1" value="2"> because you accompanied someone to this demonstration</div>
+        <br>
+    </div>
+    <div id="divans2" style="display: none">
+        <br>
+    </div>      
+    <div id="divans11" style="display: none">
+    <p class="german">Ihre Teilnahme an dieser  Demonstration erfolgte</p>
+    <p class="english">Your participation in this demonstration was</p>
+        <div class="german"><input type="radio" name="participation_demonstration_1" value="1"> aus Eigeninitiative</div>
+        <div class="english"><input type="radio" name="participation_demonstration_1" value="1"> on your own initiative</div>
+        <div class="german"><input type="radio" name="participation_demonstration_1" value="2"> weil Sie jemanden auf diese Demonstration begleitet haben</div>
+        <div class="english"><input type="radio" name="participation_demonstration_1" value="2"> because you accompanied someone to this demonstration</div>
+        <br>
+    </div>
+    <div id="divans22" style="display: none">
+        <br>
+    </div>
+    </div>
+
+
+    <br>
+    <!-- <h3 class="german"> Petitionen  </h3><h3 class="english">Petitions</h3> -->
+    <hr>
+    <div class="mb-3 border pt-2 pb-2 px-2 ">
+        <p class="german">Haben Sie schon einmal eine Petition unterschrieben?</p>
+        <p class="english">Have you ever signed a petition?</p>
         
-    <div class="german"><input id="ans1" type="radio" name="participation_demonstration" value="1" onclick="popout()">Ja</div>
-    <div class="english"><input id="ans11" type="radio" name="participation_demonstration" value="1" onclick="popout()"> Yes</div>
-    <div class="german"><input id="ans2" type="radio" name="participation_demonstration" value="2" onclick="popout()"> Nein</div>
-    <div class="english"><input id="ans22" type="radio" name="participation_demonstration" value="2" onclick="popout()"> No</div>
+        <div class="german"><input id="ans3" type="radio" name="petition_signatory" value="1" onclick="popout1()"> Ja</div>
+        <div class="english"><input id="ans33" type="radio" name="petition_signatory" value="1" onclick="popout1()"> Yes</div>
+        <div class="german"><input id="ans4" type="radio" name="petition_signatory" value="2" onclick="popout1()"> Nein</div>
+        <div class="english"><input id="ans44" type="radio" name="petition_signatory" value="2" onclick="popout1()"> No</div>
 
-<div id="divans1" style="display: none">
-<p class="german">Ihre Teilnahme an dieser  Demonstration erfolgte</p>
-<p class="english">Your participation in this demonstration was</p>
-    <div class="german"><input type="radio" name="participation_demonstration_1" value="1"> aus Eigeninitiative</div>
-    <div class="english"><input type="radio" name="participation_demonstration_1" value="1"> on your own initiative</div>
-    <div class="german"><input type="radio" name="participation_demonstration_1" value="2"> weil Sie jemanden auf diese Demonstration begleitet haben</div>
-    <div class="english"><input type="radio" name="participation_demonstration_1" value="2"> because you accompanied someone to this demonstration</div>
+    <div id="divans3" style="display: none">
+                <p class="german">Sie sind auf diese Petition</p>
+                <p class="english">You have become aware of this petition</p>
+                <div class="german"><input type="radio" name="petition_signatory_1" value="1"> selbst aufmerksam geworden</div>
+                <div class="english"><input type="radio" name="petition_signatory_1" value="1"> yourself</div>
+                <div class="german"><input type="radio" name="petition_signatory_1" value="2"> aufmerksam gemacht worden</div>
+                <div class="english"><input type="radio" name="petition_signatory_1" value="2"> through others</div>
+        <br>
+    </div>
+    <div id="divans4" style="display: none">
+    </div>  
+    <div id="divans33" style="display: none">
+                <p class="german">Sie sind auf diese Petition</p>
+                <p class="english">You have become aware of this petition</p>
+                <div class="german"><input type="radio" name="petition_signatory_1" value="1"> selbst aufmerksam geworden</div>
+                <div class="english"><input type="radio" name="petition_signatory_1" value="1"> yourself</div>
+                <div class="german"><input type="radio" name="petition_signatory_1" value="2"> aufmerksam gemacht worden</div>
+                <div class="english"><input type="radio" name="petition_signatory_1" value="2"> through others</div>
+        <br>
+    </div>
+    <div id="divans44" style="display: none">
+        <br>
+    </div>
+    </div>
+
+
     <br>
-</div>
-<div id="divans2" style="display: none">
+    <!-- <h3 class="german">Soziale Plattformen </h3><h3 class="english">Social Platforms</h3> -->
+    <hr>
+    <div class="mb-3 border pt-2 pb-2 px-2 ">
+        <p class="german">Welche der sozialen Plattformen nutzen Sie? (Mehrfachnennung möglich, sonstige können in das Textfeld eingetragen werden)</p>
+        <p class="english">Which of the social platforms do you use? (Multiple choices possible, enter other platforms in the field.)</p>
+        <div class="german"><input type="checkbox" name="social_networks_1" value="1"> Facebook</div>
+        <div class="english"><input type="checkbox" name="social_networks_1" value="1"> Facebook</div>
+        <div class="german"><input type="checkbox" name="social_networks_2" value="1"> Twitter</div>
+        <div class="english"><input type="checkbox" name="social_networks_2" value="1"> Twitter</div>
+        <div class="german"><input type="checkbox" name="social_networks_3" value="1"> LinkedIn</div>
+        <div class="english"><input type="checkbox" name="social_networks_3" value="1"> LinkedIn</div>
+        <div class="german"><input type="checkbox" name="social_networks_4" value="1"> Instagram</div>
+        <div class="english"><input type="checkbox" name="social_networks_4" value="1"> Instagram</div>
+        <div class="german"><input type="checkbox" name="social_networks_5" value="1"> Signal</div>
+        <div class="english"><input type="checkbox" name="social_networks_5" value="1"> Signal</div>
+        <div class="german"><input type="checkbox" name="social_networks_6" value="1"> YouTube</div>
+        <div class="english"><input type="checkbox" name="social_networks_6" value="1"> YouTube</div>
+        <div class="german"><input type="checkbox" name="social_networks_7" value="1"> Snapchat</div>
+        <div class="english"><input type="checkbox" name="social_networks_7" value="1"> Snapchat</div>
+        <div class="german"><input type="checkbox" name="social_networks_8" value="1"> WhatsApp</div>
+        <div class="english"><input type="checkbox" name="social_networks_8" value="1"> WhatsApp</div>
+        <div class="german"><input type="checkbox" name="social_networks_9" value="1"> TikTok</div>
+        <div class="english"><input type="checkbox" name="social_networks_9" value="1"> TikTok</div>
+        <div class="german"><input type="checkbox" name="social_networks_10" value="1"> Telegram</div>
+        <div class="english"><input type="checkbox" name="social_networks_10" value="1"> Telegram</div>
+        <div class="german">Andere: {% formfield player.social_networks_11 %}</div>
+        <div class="english">Other: {% formfield player.social_networks_11 %}</div>
+    </div>
+
     <br>
-</div>      
-<div id="divans11" style="display: none">
-<p class="german">Ihre Teilnahme an dieser  Demonstration erfolgte</p>
-<p class="english">Your participation in this demonstration was</p>
-    <div class="german"><input type="radio" name="participation_demonstration_1" value="1"> aus Eigeninitiative</div>
-    <div class="english"><input type="radio" name="participation_demonstration_1" value="1"> on your own initiative</div>
-    <div class="german"><input type="radio" name="participation_demonstration_1" value="2"> weil Sie jemanden auf diese Demonstration begleitet haben</div>
-    <div class="english"><input type="radio" name="participation_demonstration_1" value="2"> because you accompanied someone to this demonstration</div>
-    <br>
-</div>
-<div id="divans22" style="display: none">
-    <br>
-</div>
-</div>
 
-
-<br>
-<h3 class="german"> Petitionen  </h3><h3 class="english">Petitions</h3>
-<hr>
-<div class="mb-3 border pt-2 pb-2 px-2 ">
-    <p class="german">Haben Sie schon einmal eine Petition unterschrieben?</p>
-    <p class="english">Have you ever signed a petition?</p>
-     
-    <div class="german"><input id="ans3" type="radio" name="petition_signatory" value="1" onclick="popout1()"> Ja</div>
-    <div class="english"><input id="ans33" type="radio" name="petition_signatory" value="1" onclick="popout1()"> Yes</div>
-    <div class="german"><input id="ans4" type="radio" name="petition_signatory" value="2" onclick="popout1()"> Nein</div>
-    <div class="english"><input id="ans44" type="radio" name="petition_signatory" value="2" onclick="popout1()"> No</div>
-
-<div id="divans3" style="display: none">
-            <p class="german">Sie sind auf diese Petition</p>
-            <p class="english">You have become aware of this petition</p>
-            <div class="german"><input type="radio" name="petition_signatory_1" value="1"> selbst aufmerksam geworden</div>
-            <div class="english"><input type="radio" name="petition_signatory_1" value="1"> yourself</div>
-            <div class="german"><input type="radio" name="petition_signatory_1" value="2"> aufmerksam gemacht worden</div>
-            <div class="english"><input type="radio" name="petition_signatory_1" value="2"> through others</div>
-    <br>
+    <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+        <span class="german"> Weiter </span>
+        <span class="english"> Next </span>
+    </button>
 </div>
-<div id="divans4" style="display: none">
-</div>  
-<div id="divans33" style="display: none">
-            <p class="german">Sie sind auf diese Petition</p>
-            <p class="english">You have become aware of this petition</p>
-            <div class="german"><input type="radio" name="petition_signatory_1" value="1"> selbst aufmerksam geworden</div>
-            <div class="english"><input type="radio" name="petition_signatory_1" value="1"> yourself</div>
-            <div class="german"><input type="radio" name="petition_signatory_1" value="2"> aufmerksam gemacht worden</div>
-            <div class="english"><input type="radio" name="petition_signatory_1" value="2"> through others</div>
-    <br>
-</div>
-<div id="divans44" style="display: none">
-    <br>
-</div>
-</div>
-
-
-<br>
-<h3 class="german">Soziale Plattformen </h3><h3 class="english">Social Platforms</h3>
-<hr>
-<div class="mb-3 border pt-2 pb-2 px-2 ">
-    <p class="german">Welche der sozialen Plattformen nutzen Sie? (Mehrfachnennung möglich, sonstige können in das Textfeld eingetragen werden)</p>
-    <p class="english">Which of the social platforms do you use? (Multiple choices possible, enter other platforms in the field.)</p>
-    <div class="german"><input type="checkbox" name="social_networks_1" value="1"> Facebook</div>
-    <div class="english"><input type="checkbox" name="social_networks_1" value="1"> Facebook</div>
-    <div class="german"><input type="checkbox" name="social_networks_2" value="1"> Twitter</div>
-    <div class="english"><input type="checkbox" name="social_networks_2" value="1"> Twitter</div>
-    <div class="german"><input type="checkbox" name="social_networks_3" value="1"> LinkedIn</div>
-    <div class="english"><input type="checkbox" name="social_networks_3" value="1"> LinkedIn</div>
-    <div class="german"><input type="checkbox" name="social_networks_4" value="1"> Instagram</div>
-    <div class="english"><input type="checkbox" name="social_networks_4" value="1"> Instagram</div>
-    <div class="german"><input type="checkbox" name="social_networks_5" value="1"> Signal</div>
-    <div class="english"><input type="checkbox" name="social_networks_5" value="1"> Signal</div>
-    <div class="german"><input type="checkbox" name="social_networks_6" value="1"> YouTube</div>
-    <div class="english"><input type="checkbox" name="social_networks_6" value="1"> YouTube</div>
-    <div class="german"><input type="checkbox" name="social_networks_7" value="1"> Snapchat</div>
-    <div class="english"><input type="checkbox" name="social_networks_7" value="1"> Snapchat</div>
-    <div class="german"><input type="checkbox" name="social_networks_8" value="1"> WhatsApp</div>
-    <div class="english"><input type="checkbox" name="social_networks_8" value="1"> WhatsApp</div>
-    <div class="german"><input type="checkbox" name="social_networks_9" value="1"> TikTok</div>
-    <div class="english"><input type="checkbox" name="social_networks_9" value="1"> TikTok</div>
-    <div class="german"><input type="checkbox" name="social_networks_10" value="1"> Telegram</div>
-    <div class="english"><input type="checkbox" name="social_networks_10" value="1"> Telegram</div>
-    <div class="german">Andere: {% formfield player.social_networks_11 %}</div>
-    <div class="english">Other: {% formfield player.social_networks_11 %}</div>
-</div>
-
-<br>
-
-   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
-       <span class="german"> Weiter </span>
-       <span class="english"> Next </span>
-   </button>
 {% endblock %}

@@ -1,34 +1,100 @@
 {% extends "global/LanguageVersion_Global.html" %}
 {% load otree static %}
 
+{% block styles %}
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p, label {
+    font-family: 'Verdana', sans-serif;
+    color: #555;
+    line-height: 1.5;
+}
+
+.mb-3 {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
+    border-radius: 5px;
+    padding: 15px;
+    background: #f9f9f9; /* Light background for contrast */
+}
+
+input[type="radio"], input[type="text"] {
+    margin-top: 5px;
+}
+
+hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.otree-btn-next {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    display: block;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.otree-btn-next:hover {
+    background-color: #0056b3; /* Darker shade for hover */
+    transform: scale(1.05);
+}
+
+div.german, div.english {
+    margin: 5px 0;
+}
+</style>
+{% endblock %}
+
 {% block title %}
 Student Survey - University Konstanz
 {% endblock %}
 
 {% block content %}
-<br>
-<hr>
-    <input id="time" type="hidden" name="time_firstendpage"/>
+<div class="container">
+    <br>
+    <hr>
+        <input id="time" type="hidden" name="time_firstendpage"/>
+        <br>
+
+        <h4 class="german">Kommentare und Anmerkungen</h4>
+        <p class="german">Falls Sie Ideen, Kommentare oder Anmerkungen haben, teilen Sie diese gerne mit uns.</p>
+        <h4 class="english">Survey Feedback</h4>
+        <p class="english">If you have any ideas or feedback for us please feel free to share it.</p>
+        <div class="form-group">
+            {% formfield "feedback" %}
+        </div>
+
+        <h4 class="german"> Ende der Umfrage</h4>
+        <p class="german"> Vielen herzlichen Dank für Ihre Aufmerksamkeit und die Teilnahme an dieser Befragung! Bitte klicken Sie auf "Abschicken", um die Umfrage zu beenden. </p>
+        <h4 class="english"><em> End of the Survey</em></h4>
+        <p class="english"> Thank you very much for your attention and participation in this survey! Please click "submit" to finish the survey. </p>
     <br>
 
-    <h4 class="german">Kommentare und Anmerkungen</h4>
-    <p class="german">Falls Sie Kommentare oder Anmerken haben teilen Sie diese gerne mit uns.</p>
-    <h4 class="english">Survey Feedback</h4>
-    <p class="english">If you have any feedback for us please feel free to share it.</p>
-    <div class="form-group">
-        {% formfield "feedback" %}
-    </div>
-
-    <h4 class="german"> Ende der Umfrage</h4>
-    <p class="german"> Vielen herzlichen Dank für Ihre Aufmerksamkeit und die Teilnahme an dieser Befragung! Bitte klicken Sie auf "Abschicken", um die Umfrage zu beenden. </p>
-    <h4 class="english"><em> End of the Survey</em></h4>
-    <p class="english"> Thank you very much for your attention and participation in this survey! Please click "submit" to finish the survey. </p>
-<br>
-
-<button class="otree-btn-next btn btn-primary next-button otree-next-button">
-    <span class="german"> Abschicken </span>
-    <span class="english"> Submit </span>
-</button>
-
+    <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+        <span class="german"> Abschicken </span>
+        <span class="english"> Submit </span>
+    </button>
+</div>
 
 {% endblock %}

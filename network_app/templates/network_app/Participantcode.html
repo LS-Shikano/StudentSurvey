@@ -1,31 +1,96 @@
 {% extends "global/LanguageVersion_Global.html" %}
 {% load otree static %}
 
+{% block styles %}
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p, label {
+    font-family: 'Verdana', sans-serif;
+    color: #555;
+    line-height: 1.5;
+}
+
+.mb-3 {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
+    border-radius: 5px;
+    padding: 15px;
+    background: #f9f9f9; /* Light background for contrast */
+}
+
+input[type="radio"], input[type="text"] {
+    margin-top: 5px;
+}
+
+hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.otree-btn-next {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    display: block;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.otree-btn-next:hover {
+    background-color: #0056b3; /* Darker shade for hover */
+    transform: scale(1.05);
+}
+
+div.german, div.english {
+    margin: 5px 0;
+}
+</style>
+{% endblock %}
 
 {% block title %}
 Student Survey - University Konstanz
 {% endblock %}
 
 {% block content %}
-    <input id="time" type="hidden" name="time_participantcode"/>
+<div class="container">
+        <input id="time" type="hidden" name="time_participantcode"/>
+        <br>
+    <!-- <h3 class="german"> Umfragecode </h3><h3 class="english">  Survey Code </h3> -->
+        <hr>
+
+    <div  class="mb-3 border pt-2 pb-2 px-2 ">
+        <p class="german">Bitte tragen Sie nun Ihren eigenen Umfragecode in das Textfeld ein. Ihr Umfragecode besteht aus drei Buchstaben und Zahlen. Auf der folgenden Seite können Sie die Umfrage Codes von Ihrem sozialen Netzwerk angeben.</p>
+        <p class="english">Please enter your own survey code (composed of three letters and numbers). On the following page, you can enter the survey codes of your social network.</p>
+
+        <div class="alert alert-primary" role="alert" style="display: none"> {{ form.participantcode.errors }}  </div>
+        <div style="display:flex; flex-direction: row; justify-content: left; align-items: center"> {% formfield player.participantcode %}  </div>
+    </div>
+
+
     <br>
-<h3 class="german"> Umfragecode </h3><h3 class="english">  Survey Code </h3>
-    <hr>
 
-<div  class="mb-3 border pt-2 pb-2 px-2 ">
-    <p class="german">Bitte tragen Sie nun Ihren eigenen Umfragecode in das Textfeld ein. Ihr Umfrage Code besteht aus drei Buchstaben und Zahlen. Auf der folgenden Seite können Sie die Umfrage Codes von Ihrem sozialen Netzwerk angeben.</p>
-    <p class="english">Please enter your own survey code (composed of three letters and numbers). On the following page, you can enter the survey codes of your social network.</p>
-
-    <div class="alert alert-primary" role="alert" style="display: none"> {{ form.participantcode.errors }}  </div>
-    <div style="display:flex; flex-direction: row; justify-content: left; align-items: center"> {% formfield player.participantcode %}  </div>
+    <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+        <span class="german"> Weiter </span>
+        <span class="english"> Next </span>
+    </button>
 </div>
-
-
-<br>
-
-   <button class="otree-btn-next btn btn-primary next-button otree-next-button">
-       <span class="german"> Weiter </span>
-       <span class="english"> Next </span>
-   </button>
-
 {% endblock %}

@@ -1,61 +1,129 @@
 {% extends "global/LanguageVersion_Global.html" %}
 {% load otree static %}
 
+{% block styles %}
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p, label {
+    font-family: 'Verdana', sans-serif;
+    color: #555;
+    line-height: 1.5;
+}
+
+.mb-3 {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
+    border-radius: 5px;
+    padding: 15px;
+    background: #f9f9f9; /* Light background for contrast */
+}
+
+input[type="radio"], input[type="text"] {
+    margin-top: 5px;
+}
+
+hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.otree-btn-next {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    display: block;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.otree-btn-next:hover {
+    background-color: #0056b3; /* Darker shade for hover */
+    transform: scale(1.05);
+}
+
+div.german, div.english {
+    margin: 5px 0;
+}
+</style>
+{% endblock %}
+
 {% block title %}
 Student Survey - University Konstanz
 {% endblock %}
 
 {% block content %}
-<input id="time" type="hidden" name="time_networknamedstudents" />
-<br>
-<h3 class="german">Bekanntschafts Netzwerk</h3>
-<h3 class="english">Network of Aquaintances</h3>
-<hr>
 
-<div class="mb-1 border pt-2 pb-2 ps-2 px-2">
-    <p class="german">Bitte teilen Sie nun die Umfragecodes, welche Sie zuvor gesammelt und ausgetauscht haben mit uns. Tragen Sie in jedes Feld genau eine Person ein und merken Sie sich wer diese Person ist.</p>
-    <p class="german">Bitte lassen Sie in den Feldern die Sie nicht nutzen frei.</p>
-    <p class="english">Now we ask you to share the survey codes with us that you have collected. Please enter the social codes into the fields below.</p>
-    <p class="english">Please leave the fields empty that you are not using.</p>
+<div class="container">
+    <input id="time" type="hidden" name="time_networknamedstudents" />
+    <br>
+    <!-- <h3 class="german">Bekanntschafts Netzwerk</h3>
+    <h3 class="english">Network of Aquaintances</h3> -->
+    <hr>
 
-    <div> Code 1: {% formfield player.person_1 %} </div>
-    <div> Code 2: {% formfield player.person_2 %} </div>
-    <div> Code 3: {% formfield player.person_3 %} </div>
-    <div> Code 4: {% formfield player.person_4 %} </div>
-    <div> Code 5: {% formfield player.person_5 %} </div>
-    <div> Code 6: {% formfield player.person_6 %} </div>
-    <div> Code 7: {% formfield player.person_7 %} </div>
-    <div> Code 8: {% formfield player.person_8 %} </div>
-    <div> Code 9: {% formfield player.person_9 %} </div>
-    <div> Code 10: {% formfield player.person_10 %} </div>
-    <div> Code 11: {% formfield player.person_11 %} </div>
-    <div> Code 12: {% formfield player.person_12 %} </div>
-    <div> Code 13: {% formfield player.person_13 %} </div>
-    <div> Code 14: {% formfield player.person_14 %} </div>
-    <div> Code 15: {% formfield player.person_15 %} </div>
-    <div> Code 16: {% formfield player.person_16 %} </div>
-    <div> Code 17: {% formfield player.person_17 %} </div>
-    <div> Code 18: {% formfield player.person_18 %} </div>
-    <div> Code 19: {% formfield player.person_19 %} </div>
-    <div> Code 20: {% formfield player.person_20 %} </div>
-    <div> Code 21: {% formfield player.person_21 %} </div>
-    <div> Code 22: {% formfield player.person_22 %} </div>
-    <div> Code 23: {% formfield player.person_23 %} </div>
-    <div> Code 24: {% formfield player.person_24 %} </div>
-    <div> Code 25: {% formfield player.person_25 %} </div>
-    <div> Code 26: {% formfield player.person_26 %} </div>
-    <div> Code 27: {% formfield player.person_27 %} </div>
-    <div> Code 28: {% formfield player.person_28 %} </div>
-    <div> Code 29: {% formfield player.person_29 %} </div>
-    <div> Code 30: {% formfield player.person_30 %} </div>
+    <div class="mb-1 border pt-2 pb-2 ps-2 px-2">
+        <p class="german">Bitte teilen Sie nun die Umfragecodes, welche Sie zuvor gesammelt und ausgetauscht haben mit uns. Tragen Sie in jedes Feld genau eine Person ein und merken Sie sich, wer diese Person ist.</p>
+        <p class="german">Bitte lassen Sie unbenutzte Feldern frei.</p>
+        <p class="english">Now we ask you to share the survey codes with us that you have collected. Please enter the social codes into the fields below.</p>
+        <p class="english">Please leave the unused fields empty.</p>
+
+        <div> Code 1: {% formfield player.person_1 %} </div>
+        <div> Code 2: {% formfield player.person_2 %} </div>
+        <div> Code 3: {% formfield player.person_3 %} </div>
+        <div> Code 4: {% formfield player.person_4 %} </div>
+        <div> Code 5: {% formfield player.person_5 %} </div>
+        <div> Code 6: {% formfield player.person_6 %} </div>
+        <div> Code 7: {% formfield player.person_7 %} </div>
+        <div> Code 8: {% formfield player.person_8 %} </div>
+        <div> Code 9: {% formfield player.person_9 %} </div>
+        <div> Code 10: {% formfield player.person_10 %} </div>
+        <div> Code 11: {% formfield player.person_11 %} </div>
+        <div> Code 12: {% formfield player.person_12 %} </div>
+        <div> Code 13: {% formfield player.person_13 %} </div>
+        <div> Code 14: {% formfield player.person_14 %} </div>
+        <div> Code 15: {% formfield player.person_15 %} </div>
+        <div> Code 16: {% formfield player.person_16 %} </div>
+        <div> Code 17: {% formfield player.person_17 %} </div>
+        <div> Code 18: {% formfield player.person_18 %} </div>
+        <div> Code 19: {% formfield player.person_19 %} </div>
+        <div> Code 20: {% formfield player.person_20 %} </div>
+        <div> Code 21: {% formfield player.person_21 %} </div>
+        <div> Code 22: {% formfield player.person_22 %} </div>
+        <div> Code 23: {% formfield player.person_23 %} </div>
+        <div> Code 24: {% formfield player.person_24 %} </div>
+        <div> Code 25: {% formfield player.person_25 %} </div>
+        <div> Code 26: {% formfield player.person_26 %} </div>
+        <div> Code 27: {% formfield player.person_27 %} </div>
+        <div> Code 28: {% formfield player.person_28 %} </div>
+        <div> Code 29: {% formfield player.person_29 %} </div>
+        <div> Code 30: {% formfield player.person_30 %} </div>
+    </div>
+
+
+    <br>
+    <!--Next button-->
+    <button class="otree-btn-next btn btn-primary next-button otree-next-button">
+        <span class="german"> Weiter </span>
+        <span class="english"> Next </span>
+    </button>
 </div>
-
-
-<br>
-<!--Next button-->
-<button class="otree-btn-next btn btn-primary next-button otree-next-button">
-    <span class="german"> Weiter </span>
-    <span class="english"> Next </span>
-</button>
 
 {% endblock %}

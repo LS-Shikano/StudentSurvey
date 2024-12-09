@@ -98,7 +98,6 @@ Vignette App Blueprint: https://docs.google.com/document/d/1BRRiqEtoOX3URnHSSgDC
 	- Lehreramt 
 	- Sonstige (Textfeld)
 - Berufsfragen überarbeiten!
-
-
-
-    
+***
+Removed Subtitles for Questions 
+Feedback from Slack channel 

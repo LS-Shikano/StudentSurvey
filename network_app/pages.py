@@ -77,22 +77,6 @@ class SpecialNetworks(Page): #8
         'friend_28', 'value_28', 'politics_28', 'council_28', 'study_28',
         'friend_29', 'value_29', 'politics_29', 'council_29', 'study_29',
         'friend_30', 'value_30', 'politics_30', 'council_30', 'study_30']              
-
-class SentimentNetworks(Page): #8
-    def vars_for_template(self):
-        return {'lang': self.participant.vars.get('language')}
-    form_model = Player
-    form_fields = ['like_1', 'like_2', 'like_3', 'like_4', 'like_5',
-                   'like_6', 'like_7', 'like_8', 'like_9', 'like_10',
-                   'like_11', 'like_12', 'like_13', 'like_14', 'like_15',
-                   'like_16', 'like_17', 'like_18', 'like_19', 'like_20',
-                   'like_21', 'like_22', 'like_23', 'like_24', 'like_25',
-                   'like_26', 'like_27', 'like_28', 'like_29', 'like_30',
-                   'dislike_1', 'dislike_2', 'dislike_3', 'dislike_4', 'dislike_5',
-                   'dislike_6', 'dislike_7', 'dislike_8', 'dislike_9', 'dislike_10',
-                   'dislike_11', 'dislike_12', 'dislike_13', 'dislike_14', 'dislike_15',
-                   'dislike_16', 'dislike_17', 'dislike_18', 'dislike_19', 'dislike_20',
-                   'dislike_21', 'dislike_22', 'dislike_23', 'dislike_24', 'dislike_25',
-                   'dislike_26', 'dislike_27', 'dislike_28', 'dislike_29', 'dislike_30']  
+ 
                    
-page_sequence = [Participantcode, NetworkNamedPersons, SpecialNetworks, SentimentAssesment, LeftrightSelfAssessment ,LeftrightNetworkAssessment] 
+page_sequence = [NetworkNamedPersons, SpecialNetworks, SentimentAssesment, LeftrightSelfAssessment ,LeftrightNetworkAssessment] 
