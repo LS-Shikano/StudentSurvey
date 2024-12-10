@@ -1,0 +1,1 @@
+we generate a nan code for player 130! thats why the value is missing
