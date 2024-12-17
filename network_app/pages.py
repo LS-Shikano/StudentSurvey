@@ -9,15 +9,16 @@ class Participantcode(Page): #2
     form_model = Player
     form_fields = ['participantcode']
 
-class NetworkNamedPersons(Page): #4
-    def vars_for_template(self):
-        return {'lang': self.participant.vars.get('language')}
+class NetworkNamedPersons(Page):
     form_model = Player
     form_fields = ['person_1', 'person_2', 'person_3', 'person_4', 'person_5', 'person_6',
                    'person_7', 'person_8', 'person_9', 'person_10', 'person_11', 'person_12',
                    'person_13', 'person_14', 'person_15', 'person_16', 'person_17', 'person_18',
                    'person_19', 'person_20', 'person_21', 'person_22', 'person_23', 'person_24',
                    'person_25', 'person_26', 'person_27', 'person_28', 'person_29', 'person_30']    
+
+    def vars_for_template(self):
+        return {'lang': self.participant.vars.get('language')}
 
 
 class LeftrightNetworkAssessment(Page): #8

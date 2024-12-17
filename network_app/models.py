@@ -9,6 +9,13 @@ from otree.api import (
     currency_range,
 )
 
+# Open the file in read mode and read its lines into a list
+with open('_rooms/code_listx.txt', 'r') as file:
+    lines = file.readlines()
+
+# Optionally, you can remove the newline characters from each line
+codes = [line.strip() for line in lines]
+
 
 doc = """
 Your app description
@@ -28,45 +35,165 @@ class Group(BaseGroup):
 
 class Player(BasePlayer):
     ### Participant Code
-    participantcode = models.StringField(blank=False, label="")
+    participantcode = models.StringField(blank=False, label="Participant Code")
+
     def participantcode_error_message(self, value):
-        # Check if the input is exactly 3 letters long and contains only alphabetic characters
-        if len(value) != 3 or not value.isalnum():
-            return "Please enter exactly three lowercase letters or numbers."
-    linksrechts_self = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-
-
-    ### NetworkNamedPersons
+        # Check if the input is exactly 3 letters long and contains only alphanumeric characters
+        if value not in codes:
+            return "Please enter a valid code."
+    
+    # NetworkNamedPersons fields
     person_1 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
     person_2 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
-    person_3 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_4 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_5 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_6 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_7 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_8 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_9 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_10 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_11 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_12 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_13 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_14 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_15 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_16 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_17 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_18 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_19 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_20 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_21 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_22 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_23 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_24 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_25 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_26 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_27 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_28 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_29 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
-    person_30 = models.StringField(blank=True,  label="", max_length=3, min_length=3, initial="x")
+    person_3 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_4 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_5 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_6 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_7 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_8 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_9 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_10 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_11 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_12 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_13 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_14 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_15 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_16 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_17 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_18 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_19 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_20 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_21 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_22 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_23 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_24 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_25 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_26 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_27 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_28 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_29 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+    person_30 = models.StringField(blank=True, label="", max_length=3, min_length=3, initial="x")
+
+    def person_1_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_2_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_3_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_4_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_5_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_6_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_7_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_8_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_9_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_10_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_11_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_12_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_13_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_14_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_15_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_16_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_17_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_18_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_19_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_20_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_21_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_22_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_23_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_24_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_25_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_26_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_27_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_28_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_29_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
+    def person_30_error_message(self, value):
+        if value not in codes:
+            return "Please enter exactly three lowercase letters or numbers."
+
 
     friend_1 = models.BooleanField(blank=True, initial=False)
     value_1 = models.BooleanField(blank=True, initial=False)    
@@ -249,127 +376,65 @@ class Player(BasePlayer):
     council_30 = models.BooleanField(blank=True, initial=False)
 
     ### LeftrightSelfassessment
-    linksrechts_1 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_2 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_3 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_4 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_5 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_6 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_7 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_8 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_9 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_10 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_11 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_12 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_13 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_14 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_15 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_16 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_17 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_18 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_19 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_20 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_21 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_22 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_23 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_24 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0) 
-    linksrechts_25 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_26 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_27 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_28 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_29 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-    linksrechts_30 = models.IntegerField(blank=True, max=11, min=1, label="", initial=0)
-
-    like_1 = models.BooleanField(blank=True, initial=False)
-    like_2 = models.BooleanField(blank=True, initial=False)
-    like_3 = models.BooleanField(blank=True, initial=False)
-    like_4 = models.BooleanField(blank=True, initial=False)
-    like_5 = models.BooleanField(blank=True, initial=False)
-    like_6 = models.BooleanField(blank=True, initial=False)
-    like_7 = models.BooleanField(blank=True, initial=False)
-    like_8 = models.BooleanField(blank=True, initial=False)
-    like_9 = models.BooleanField(blank=True, initial=False)
-    like_10 = models.BooleanField(blank=True, initial=False)
-    like_11 = models.BooleanField(blank=True, initial=False)
-    like_12 = models.BooleanField(blank=True, initial=False)
-    like_13 = models.BooleanField(blank=True, initial=False)
-    like_14 = models.BooleanField(blank=True, initial=False)
-    like_15 = models.BooleanField(blank=True, initial=False)
-    like_16 = models.BooleanField(blank=True, initial=False)
-    like_17 = models.BooleanField(blank=True, initial=False)
-    like_18 = models.BooleanField(blank=True, initial=False)
-    like_19 = models.BooleanField(blank=True, initial=False)
-    like_20 = models.BooleanField(blank=True, initial=False)
-    like_21 = models.BooleanField(blank=True, initial=False)
-    like_22 = models.BooleanField(blank=True, initial=False)
-    like_23 = models.BooleanField(blank=True, initial=False)
-    like_24 = models.BooleanField(blank=True, initial=False) 
-    like_25 = models.BooleanField(blank=True, initial=False)
-    like_26 = models.BooleanField(blank=True, initial=False)
-    like_27 = models.BooleanField(blank=True, initial=False)
-    like_28 = models.BooleanField(blank=True, initial=False)
-    like_29 = models.BooleanField(blank=True, initial=False)
-    like_30 = models.BooleanField(blank=True, initial=False)
-
-    dislike_1 = models.BooleanField(blank=True, initial=False)
-    dislike_2 = models.BooleanField(blank=True, initial=False)
-    dislike_3 = models.BooleanField(blank=True, initial=False)
-    dislike_4 = models.BooleanField(blank=True, initial=False)
-    dislike_5 = models.BooleanField(blank=True, initial=False)
-    dislike_6 = models.BooleanField(blank=True, initial=False)
-    dislike_7 = models.BooleanField(blank=True, initial=False)
-    dislike_8 = models.BooleanField(blank=True, initial=False)
-    dislike_9 = models.BooleanField(blank=True, initial=False)
-    dislike_10 = models.BooleanField(blank=True, initial=False)
-    dislike_11 = models.BooleanField(blank=True, initial=False)
-    dislike_12 = models.BooleanField(blank=True, initial=False)
-    dislike_13 = models.BooleanField(blank=True, initial=False)
-    dislike_14 = models.BooleanField(blank=True, initial=False)
-    dislike_15 = models.BooleanField(blank=True, initial=False)
-    dislike_16 = models.BooleanField(blank=True, initial=False)
-    dislike_17 = models.BooleanField(blank=True, initial=False)
-    dislike_18 = models.BooleanField(blank=True, initial=False)
-    dislike_19 = models.BooleanField(blank=True, initial=False)
-    dislike_20 = models.BooleanField(blank=True, initial=False)
-    dislike_21 = models.BooleanField(blank=True, initial=False)
-    dislike_22 = models.BooleanField(blank=True, initial=False)
-    dislike_23 = models.BooleanField(blank=True, initial=False)
-    dislike_24 = models.BooleanField(blank=True, initial=False) 
-    dislike_25 = models.BooleanField(blank=True, initial=False)
-    dislike_26 = models.BooleanField(blank=True, initial=False)
-    dislike_27 = models.BooleanField(blank=True, initial=False)
-    dislike_28 = models.BooleanField(blank=True, initial=False)
-    dislike_29 = models.BooleanField(blank=True, initial=False)
-    dislike_30 = models.BooleanField(blank=True, initial=False)
+    linksrechts_1 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_2 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_3 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_4 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_5 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_6 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_7 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_8 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_9 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_10 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_11 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_12 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_13 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_14 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_15 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_16 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_17 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_18 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_19 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_20 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_21 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_22 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_23 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_24 = models.IntegerField(blank=True, max=11, min=1, label="") 
+    linksrechts_25 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_26 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_27 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_28 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_29 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_30 = models.IntegerField(blank=True, max=11, min=1, label="")
 
    ### LeftrightSelfassessment
-    sentiment_1 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_2 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_3 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_4 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_5 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_6 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_7 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_8 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_9 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_10 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_11 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_12 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_13 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_14 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_15 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_16 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_17 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_18 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_19 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_20 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_21 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_22 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_23 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_24 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0) 
-    sentiment_25 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_26 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_27 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_28 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_29 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
-    sentiment_30 = models.IntegerField(blank=True, max=2, min=-2, label="", initial=0)
+    sentiment_1 = models.IntegerField(blank=True, max=2, min=-2, label="", )
+    sentiment_2 = models.IntegerField(blank=True, max=2, min=-2, label="", )
+    sentiment_3 = models.IntegerField(blank=True, max=2, min=-2, label="", )
+    sentiment_4 = models.IntegerField(blank=True, max=2, min=-2, label="", )
+    sentiment_5 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_6 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_7 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_8 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_9 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_10 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_11 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_12 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_13 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_14 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_15 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_16 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_17 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_18 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_19 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_20 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_21 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_22 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_23 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_24 = models.IntegerField(blank=True, max=2, min=-2, label="") 
+    sentiment_25 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_26 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_27 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_28 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_29 = models.IntegerField(blank=True, max=2, min=-2, label="")
+    sentiment_30 = models.IntegerField(blank=True, max=2, min=-2, label="")

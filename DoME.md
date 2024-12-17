@@ -101,3 +101,6 @@ Vignette App Blueprint: https://docs.google.com/document/d/1BRRiqEtoOX3URnHSSgDC
 ***
 Removed Subtitles for Questions 
 Feedback from Slack channel 
+
+***
+- added check against codelist for participantcode as well as aquaintances
