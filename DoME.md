@@ -1,3 +1,5 @@
+# DEADLINE: End of January
+***
 # ToDo
 
 alten survey durchschauen wegen fragen die entfernt werden können 
@@ -104,3 +106,28 @@ Feedback from Slack channel
 
 ***
 - added check against codelist for participantcode as well as aquaintances
+
+***
+
+- Student Survey Pipeline 
+- Full Data Pipeline for Cleaning 
+- Network Analysis 
+	- Visualizations
+	- Metrics and Hypothesis testing 
+		- Homophily 
+	- Time Analysis 
+	- Link Predictions 
+- Third Wave
+	- Prepare apps and get survey ready
+	- Troubleshooting for W3 
+		- What caused server shut down in W2? Logs!
+	- Note at the end 
+	- Erstihof question 
+		- Details 
+	- Deadline: last week january 
+	- Meeting: First Week January 
+	- Good Ideas 
+		- Nice Attributes for the network 
+- Layers of the Network
+	- Layers in Time 
+	- Layers in Kinds of Relations 

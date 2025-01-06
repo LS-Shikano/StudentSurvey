@@ -1,0 +1,75 @@
+---
+title: "ERGM"
+format: html
+editor: visual
+---
+
+```{r}
+library(reticulate)
+#use_python("/Users/ramius/.pyenv/versions/3.12.0/bin", required = TRUE)
+#library(devtools)
+#install_github("zalmquist/networkdata")
+
+install.packages("jsonlite")
+install.packages("igraph")
+library(jsonlite)
+library(networkdata)
+# Load libraries
+library(igraph)
+library(statnet)
+
+
+```
+
+------------------------------------------------------------------------
+
+```{r}
+
+```
+
+```{r}
+
+
+# Read graph from GML file using igraph
+G_igraph <- read.graph("graph.gml", format = "gml")
+
+# Ensure the graph is treated as undirected or directed
+G_statnet <- as.network(G_igraph, directed = is.directed(G_igraph))
+# Run a simple ERGM to summarize the edges
+summary(G_statnet ~ edges)
+
+```
+
+```{r}
+# Convert igraph graph to adjacency matrix
+adj_matrix <- as.matrix(get.adjacency(G_igraph))
+
+# Convert the adjacency matrix to a statnet network object
+G_statnet <- as.network(adj_matrix, directed = is_directed(G_igraph))
+
+# Check the summary
+summary(G_statnet ~ edges)
+
+```
+
+```{r}
+G_igraph
+```
+
+```{r}
+plot(bott[[1]])
+```
+
+```{r}
+summary(G~edges)
+```
+
+```{r}
+bottmodel.01 <- ergm(G~edges)
+summary(bottmodel.01)
+```
+
+```{r}
+bottmodel.02 <- ergm(bott[[4]]~edges+triangle)
+summary(bottmodel.02)
+```

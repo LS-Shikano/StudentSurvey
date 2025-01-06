@@ -1,1262 +1,2368 @@
 {
-    "wer": {
+    "NaN": {
+        "leftrightself": 0,
+        "gender": NaN,
+        "income": NaN,
+        "rent": NaN,
+        "grade": NaN,
+        "partyvote": NaN,
+        "age": NaN,
+        "ocu_father": NaN,
+        "ocu_mother": NaN,
+        "edu_father": NaN,
+        "edz_mother": NaN
+    },
+    "Wer": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": NaN,
         "rent": NaN,
-        "grade": 3.0
+        "grade": 3.0,
+        "partyvote": NaN,
+        "age": 45.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 0.0,
+        "edu_father": 3.0,
+        "edz_mother": 2.0
     },
-    "ttz": {
+    "Ttz": {
         "leftrightself": 0,
         "gender": 1.0,
         "income": NaN,
         "rent": NaN,
-        "grade": 2.7
+        "grade": 2.7,
+        "partyvote": NaN,
+        "age": 56.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 1.0
     },
     "kru": {
         "leftrightself": 0,
         "gender": 1.0,
         "income": NaN,
         "rent": NaN,
-        "grade": -888.0
-    },
-    "4yx": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "qew": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "k9w": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "3ab": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "ngv": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "k4w": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 4.0
-    },
-    "dnk": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "tdq": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "rf4": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "b3p": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "4x3": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "gcu": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.3
-    },
-    "c9f": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "yuc": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "ent": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "eh3": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "bs3": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "t94": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "gye": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "tpu": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "wfr": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "m49": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "ugr": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "yg9": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "xyb": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 4.0
-    },
-    "ktd": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "mry": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "dss": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "qay": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "hn9": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "qx3": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "mcb": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "ryn": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "nut": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "fqt": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "hof": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "mdx": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "bqr": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "spg": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "4yf": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "hvs": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "rht": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "9he": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "dmd": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "tuw": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "cnu": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "v3e": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "e4u": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "yer": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "vrm": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "vnb": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "3x9": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "hmu": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "kwc": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "uge": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 4.0
-    },
-    "ecd": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "49w": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "ahn": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "bpy": {
-        "leftrightself": 0,
-        "gender": -999.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "pgx": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "rbb": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "3eh": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "fv4": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "sva": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "fvy": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.7
-    },
-    "3xt": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.7
-    },
-    "yfk": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "hch": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "uhg": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "ktb": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "nrn": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "mbv": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "th3": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "dxh": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "evs": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "crq": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "knc": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "yte": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "ngr": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "pkt": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "bey": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "ddh": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "9ra": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "ebs": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "h9k": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "gga": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "saf": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "whx": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "hhb": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "buv": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "vxf": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 4.0
-    },
-    "ceh": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "cpk": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "kry": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "ywc": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "qhv": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.3
-    },
-    "9xy": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "kmw": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "h9x": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "e3v": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.7
-    },
-    "vgv": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "wrc": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "amu": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.7
-    },
-    "mhp": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "ucp": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "ffe": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "fep": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "gth": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "4dk": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "3md": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "gb4": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "dbk": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "9fx": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "3hc": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "9ut": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.7
-    },
-    "hmt": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "uqy": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 4.0
-    },
-    "add": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "kvq": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "tcc": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "bgq": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "39b": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "hoc": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.7
-    },
-    "vgg": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "avr": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "qqt": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "mw9": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "bqh": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "udg": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "bga": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "uwx": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "vkv": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "rxs": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "wen": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.7
-    },
-    "byq": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
-    },
-    "ack": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "4ww": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "hry": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "knb": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "vtt": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.7
-    },
-    "3fv": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "p49": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "av4": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "qxn": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "rbc": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "np4": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "cfw": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "dyb": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "gpt": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "afp": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "asv": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.3
-    },
-    "cyg": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "xyg": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "yqq": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "tfp": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "dph": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 1.3
-    },
-    "abc": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.7
-    },
-    "ech": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "p23": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.3
-    },
-    "hqf": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "yfg": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "mwh": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "nek": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
-    },
-    "ara": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 3.0
-    },
-    "gdg": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.7
+        "grade": -888.0,
+        "partyvote": 3.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
     },
     "xtk": {
         "leftrightself": 0,
         "gender": 1.0,
         "income": NaN,
         "rent": NaN,
-        "grade": -888.0
+        "grade": -888.0,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "4yx": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 27.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 0.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "qew": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": 5.0,
+        "age": 19.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "k9w": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "3ab": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "ngv": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 5.0,
+        "age": 19.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 2.0
+    },
+    "k4w": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 4.0,
+        "partyvote": 2.0,
+        "age": 26.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 2.0
+    },
+    "dnk": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 0.0
+    },
+    "tdq": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": NaN,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "rf4": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": NaN,
+        "age": 27.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 0.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "b3p": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 25.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "4x3": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 8.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "gcu": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.3,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 4.0
+    },
+    "c9f": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 1.0,
+        "age": 23.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "yuc": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "Ent": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 5.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
     },
     "9fs": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": NaN,
         "rent": NaN,
-        "grade": -888.0
+        "grade": -888.0,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 0.0,
+        "edu_father": 1.0,
+        "edz_mother": 4.0
     },
-    "4gw": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": 2.0
-    },
-    "mbf": {
+    "eh3": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": NaN,
         "rent": NaN,
-        "grade": 1.3
+        "grade": 2.3,
+        "partyvote": 2.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 4.0,
+        "edz_mother": 1.0
     },
     "ytr": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": NaN,
         "rent": NaN,
-        "grade": -888.0
+        "grade": -888.0,
+        "partyvote": 6.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
     },
-    "sbf": {
+    "bs3": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "t94": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "gye": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": NaN,
         "rent": NaN,
-        "grade": 2.3
+        "grade": -888.0,
+        "partyvote": 3.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
     },
-    "ydy": {
+    "tpu": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": NaN,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "wfr": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": NaN,
         "rent": NaN,
-        "grade": 2.7
+        "grade": 2.7,
+        "partyvote": 2.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 4.0,
+        "edz_mother": 2.0
     },
-    "3ya": {
+    "m49": {
         "leftrightself": 0,
-        "gender": 2.0,
+        "gender": 1.0,
         "income": NaN,
         "rent": NaN,
-        "grade": 3.0
-    },
-    "cyw": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": NaN,
-        "rent": NaN,
-        "grade": -888.0
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 23.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
     },
     "dxp": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": NaN,
         "rent": NaN,
-        "grade": -888.0
+        "grade": -888.0,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "ugr": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 4.0,
+        "edz_mother": -999.0
+    },
+    "yg9": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 7.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "3ya": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 3.0,
+        "age": 25.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "xyb": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 4.0,
+        "partyvote": NaN,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "ktd": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 3.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "mry": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "dss": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": NaN,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "qay": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 5.0,
+        "age": 22.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 0.0,
+        "edu_father": 3.0,
+        "edz_mother": 0.0
+    },
+    "hn9": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 6.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "qx3": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "mcb": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 4.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "ryn": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 3.0,
+        "age": 24.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "nut": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 4.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "fqt": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 23.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "Hof": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 3.0,
+        "age": 24.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 0.0,
+        "edu_father": 0.0,
+        "edz_mother": 0.0
+    },
+    "Mdx": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 2.0,
+        "age": 19.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": -999.0,
+        "edz_mother": 1.0
+    },
+    "bqr": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 5.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "spg": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 4.0
+    },
+    "4yf": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 5.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 2.0
+    },
+    "hvs": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 2.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 2.0
+    },
+    "RHT": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": -999.0,
+        "edz_mother": 3.0
+    },
+    "9he": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 2.0,
+        "age": 23.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "4gw": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 1.0,
+        "age": 18.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "dmd": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": NaN,
+        "age": 19.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "tuw": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "ara": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 6.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "cnu": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "v3e": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 2.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 3.0
+    },
+    "e4u": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 26.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 4.0
+    },
+    "yer": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "vrm": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "vnb": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": NaN,
+        "age": 22.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 0.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "3x9": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 8.0,
+        "age": 23.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "Hmu": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": 1.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "yfg": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": NaN,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "kwc": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 3.0,
+        "age": 18.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 4.0
+    },
+    "uge": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 4.0,
+        "partyvote": 2.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "ecd": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 5.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 2.0
+    },
+    "49w": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "ahn": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": 8.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "bpy": {
+        "leftrightself": 0,
+        "gender": -999.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "pgx": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "rbb": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 3.0
+    },
+    "3eh": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 3.0
+    },
+    "fv4": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "sva": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "fvy": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.7,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "3xt": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.7,
+        "partyvote": 2.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "yfk": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "hch": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 4.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "uhg": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "ktb": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": NaN,
+        "age": 19.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 1.0,
+        "edu_father": -999.0,
+        "edz_mother": 1.0
+    },
+    "nrn": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "mbv": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 2.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "th3": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 8.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "dxh": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 4.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 2.0
+    },
+    "evs": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 7.0,
+        "age": 22.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 0.0,
+        "edu_father": 3.0,
+        "edz_mother": 2.0
+    },
+    "crq": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 2.0
+    },
+    "knc": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "yte": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 1.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "ngr": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "pkt": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 4.0,
+        "age": 23.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "cyw": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 8.0,
+        "age": 26.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 4.0
+    },
+    "bey": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "ddh": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "9ra": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 5.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "ebs": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "h9k": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "sbf": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 2.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 1.0
+    },
+    "gga": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": NaN,
+        "age": 18.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "saf": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 2.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 1.0
+    },
+    "whx": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": NaN,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "hhb": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 7.0,
+        "age": 19.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 1.0,
+        "edu_father": -999.0,
+        "edz_mother": 1.0
+    },
+    "buv": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": -999.0,
+        "edu_father": 4.0,
+        "edz_mother": 1.0
+    },
+    "vxf": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 4.0,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "ceh": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 8.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 1.0
+    },
+    "cpk": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 2.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 4.0
+    },
+    "kry": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "ywc": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": NaN,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "qhv": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.3,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 1.0
+    },
+    "9xy": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "kmw": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 2.0,
+        "age": 28.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "h9x": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "e3v": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.7,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "gdg": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
     },
     "vcb": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": NaN,
         "rent": NaN,
-        "grade": 3.0
+        "grade": 3.0,
+        "partyvote": 2.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
     },
-    "luk": {
+    "vgv": {
         "leftrightself": 0,
         "gender": 1.0,
         "income": NaN,
         "rent": NaN,
-        "grade": 2.7
+        "grade": -888.0,
+        "partyvote": 1.0,
+        "age": 18.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 1.0,
+        "edu_father": -999.0,
+        "edz_mother": 1.0
+    },
+    "wrc": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 1.0
+    },
+    "amu": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.7,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "ydy": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 21.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 1.0,
+        "edu_father": -999.0,
+        "edz_mother": 4.0
+    },
+    "mhp": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": NaN,
+        "age": 21.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 0.0,
+        "edu_father": 3.0,
+        "edz_mother": 2.0
+    },
+    "UCP": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 1.0,
+        "edu_father": -999.0,
+        "edz_mother": 1.0
+    },
+    "ffe": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "Fep": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "gth": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": NaN,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 3.0
+    },
+    "4dk": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "3md": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "gb4": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": NaN,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 2.0
+    },
+    "mwh": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": NaN,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 1.0
+    },
+    "dbk": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 2.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "9fx": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "3hc": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 24.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "9ut": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.7,
+        "partyvote": 2.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "hmt": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 5.0,
+        "age": 22.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 3.0
+    },
+    "uqy": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 4.0,
+        "partyvote": 5.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 3.0
+    },
+    "add": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "kvq": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "tcc": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "bgq": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "39b": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "hoc": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.7,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "vgg": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 3.0
+    },
+    "avr": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": NaN,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "qqt": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": NaN,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "mw9": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 1.0
+    },
+    "bqh": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 4.0
+    },
+    "Udg": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 4.0
+    },
+    "bga": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "uwx": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 3.0
+    },
+    "vkv": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": NaN,
+        "age": 21.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 1.0,
+        "edu_father": -999.0,
+        "edz_mother": 4.0
+    },
+    "rxs": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 1.0,
+        "age": NaN,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "wen": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.7,
+        "partyvote": NaN,
+        "age": 25.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "byq": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": -888.0,
+        "partyvote": 5.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "ack": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 2.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "4ww": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 5.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "hry": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": 3.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "nek": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": NaN,
+        "age": 24.0,
+        "ocu_father": 1.0,
+        "ocu_mother": -999.0,
+        "edu_father": -999.0,
+        "edz_mother": 3.0
+    },
+    "Knb": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "vtt": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.7,
+        "partyvote": NaN,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "3fv": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 2.0,
+        "edz_mother": 2.0
+    },
+    "p49": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 1.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "av4": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 0.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "mbf": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.3,
+        "partyvote": 4.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "qxn": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": NaN,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "rbc": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 3.0,
+        "age": 19.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 3.0,
+        "edz_mother": 4.0
+    },
+    "9gt": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 4.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "np4": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 7.0,
+        "age": 23.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "cfw": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 4.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 0.0,
+        "edu_father": 2.0,
+        "edz_mother": 4.0
+    },
+    "Dyb": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 5.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "gpt": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 2.0,
+        "age": 25.0,
+        "ocu_father": 1.0,
+        "ocu_mother": -999.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "afp": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "asv": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.3,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "cyg": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 21.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "xyg": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 2.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 4.0
+    },
+    "yqq": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 1.0,
+        "age": 20.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "tfp": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": 2.0,
+        "age": 28.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 3.0
+    },
+    "dph": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 1.3,
+        "partyvote": 5.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 4.0,
+        "edz_mother": 3.0
+    },
+    "abc": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.7,
+        "partyvote": 7.0,
+        "age": 25.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 1.0,
+        "edz_mother": 1.0
+    },
+    "ech": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.0,
+        "partyvote": 2.0,
+        "age": 18.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "p23": {
+        "leftrightself": 0,
+        "gender": 2.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 3.3,
+        "partyvote": 2.0,
+        "age": 26.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 1.0
+    },
+    "LUK": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.7,
+        "partyvote": 3.0,
+        "age": 23.0,
+        "ocu_father": 1.0,
+        "ocu_mother": 1.0,
+        "edu_father": 3.0,
+        "edz_mother": 3.0
+    },
+    "hqf": {
+        "leftrightself": 0,
+        "gender": 1.0,
+        "income": NaN,
+        "rent": NaN,
+        "grade": 2.0,
+        "partyvote": NaN,
+        "age": 24.0,
+        "ocu_father": -999.0,
+        "ocu_mother": 0.0,
+        "edu_father": -999.0,
+        "edz_mother": 0.0
     }
 }

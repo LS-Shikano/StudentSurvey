@@ -406,6 +406,7 @@ class Player(BasePlayer):
     linksrechts_28 = models.IntegerField(blank=True, max=11, min=1, label="")
     linksrechts_29 = models.IntegerField(blank=True, max=11, min=1, label="")
     linksrechts_30 = models.IntegerField(blank=True, max=11, min=1, label="")
+    linksrechts_self = models.IntegerField(blank=True, max=11, min=1, label="")
 
    ### LeftrightSelfassessment
     sentiment_1 = models.IntegerField(blank=True, max=2, min=-2, label="", )
