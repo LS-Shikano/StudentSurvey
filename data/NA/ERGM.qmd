@@ -7,69 +7,68 @@ editor: visual
 ```{r}
 library(reticulate)
 #use_python("/Users/ramius/.pyenv/versions/3.12.0/bin", required = TRUE)
-#library(devtools)
-#install_github("zalmquist/networkdata")
-
-install.packages("jsonlite")
-install.packages("igraph")
+library(devtools)
+library(networkdata)
 library(jsonlite)
 library(networkdata)
 # Load libraries
 library(igraph)
 library(statnet)
-
-
 ```
 
 ------------------------------------------------------------------------
 
 ```{r}
-
+setwd("/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA")
 ```
 
 ```{r}
-
-
 # Read graph from GML file using igraph
 G_igraph <- read.graph("graph.gml", format = "gml")
 
-# Ensure the graph is treated as undirected or directed
-G_statnet <- as.network(G_igraph, directed = is.directed(G_igraph))
-# Run a simple ERGM to summarize the edges
-summary(G_statnet ~ edges)
-
+summary(G_igraph)
 ```
 
 ```{r}
 # Convert igraph graph to adjacency matrix
-adj_matrix <- as.matrix(get.adjacency(G_igraph))
+adj_matrix <- as.matrix(as_adjacency_matrix(G_igraph))
 
 # Convert the adjacency matrix to a statnet network object
 G_statnet <- as.network(adj_matrix, directed = is_directed(G_igraph))
-
-# Check the summary
-summary(G_statnet ~ edges)
-
 ```
 
 ```{r}
-G_igraph
+# Step 3: Extract node attributes from igraph
+node_attributes <- vertex_attr(G_igraph)
+
+for (attr_name in names(node_attributes)) {
+  set.vertex.attribute(G_statnet, attr_name, node_attributes[[attr_name]])
+}
 ```
 
 ```{r}
-plot(bott[[1]])
+# Step 3: Check the summary of the network object
+summary(G_statnet)
+class(G_statnet)
 ```
 
 ```{r}
-summary(G~edges)
+surveymodel.01 <- ergm(G_statnet~edges)
+summary(surveymodel.01)
 ```
 
 ```{r}
-bottmodel.01 <- ergm(G~edges)
-summary(bottmodel.01)
+bottmodel.03 <- ergm(G_statnet~edges+nodecov('age'))
+summary(bottmodel.03)
 ```
 
+------------------------------------------------------------------------
+
 ```{r}
-bottmodel.02 <- ergm(bott[[4]]~edges+triangle)
-summary(bottmodel.02)
+# Read graph from GML file using igraph
+Gmulti_igraph <- read.graph("multiplex_graph.gml", format = "gml")
+
+summary(Gmulti_igraph)
+# Step 2: Convert the igraph object to a statnet network object
+#Gmulti_statnet <- as.network(Gmulti_igraph, directed = is.directed(G_igraph))
 ```
