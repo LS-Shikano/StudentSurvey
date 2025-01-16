@@ -9,6 +9,12 @@ class GenderAge(Page): #3
     form_model = Player
     form_fields = ['age', 'gender', 'study_program', 'study_program_other']
 
+class FreshersCamp(Page):
+    def vars_for_template(self):
+        return {'lang': self.participant.vars.get('language')} 
+    form_model = Player
+    form_fields = ['fresherscamp_student', 'freshersweek_student']
+
 class Tutorials(Page): #13
     def vars_for_template(self):
         return {'lang': self.participant.vars.get('language')} 
@@ -38,8 +44,19 @@ class Participation(Page):
         return {'lang': self.participant.vars.get('language')}
     form_model = Player
     form_fields = ['participation_demonstration',
-                   'participation_demonstration_1','petition_signatory','petition_signatory_1', 'social_networks_1','social_networks_2',
-                   'social_networks_3','social_networks_4','social_networks_5','social_networks_6','social_networks_7','social_networks_8',
-                   'social_networks_9', 'social_networks_10', 'social_networks_11']
+                   'participation_demonstration_1',
+                   'petition_signatory',
+                   'petition_signatory_1', 
+                   'social_networks_1',
+                   'social_networks_2',
+                   'social_networks_3',
+                   'social_networks_4',
+                   'social_networks_5',
+                   'social_networks_6',
+                   'social_networks_7',
+                   'social_networks_8',
+                   'social_networks_9', 
+                   'social_networks_10', 
+                   'social_networks_11']
 
-page_sequence = [GenderAge, Tutorials, LevelFamily, Financial, Postcode, Participation]
+page_sequence = [GenderAge, Tutorials, FreshersCamp, LevelFamily, Financial, Postcode, Participation]

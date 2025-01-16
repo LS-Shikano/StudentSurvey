@@ -34,6 +34,19 @@ p, label {
     background: #f9f9f9; /* Light background for contrast */
 }
 
+.form-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.form-column {
+    flex: 1; /* Allows columns to share equal width */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 input[type="radio"], input[type="text"] {
     margin-top: 5px;
 }
@@ -64,6 +77,7 @@ div.german, div.english {
     margin: 5px 0;
 }
 </style>
+    
 {% endblock %}
 
 {% block title %}
@@ -89,36 +103,38 @@ Student Survey - University Konstanz
         <div class="form-container">
             <div class="form-column">
                 {% formfield player.person_1 %}  
-                {% formfield player.person_2 %} 
-                {% formfield player.person_3 %} 
                 {% formfield player.person_4 %} 
-                {% formfield player.person_5 %} 
-                {% formfield player.person_6 %} 
                 {% formfield player.person_7 %} 
-                {% formfield player.person_8 %} 
-                {% formfield player.person_9 %} 
                 {% formfield player.person_10 %} 
-                {% formfield player.person_11 %} 
-                {% formfield player.person_12 %} 
-                {% formfield player.person_13 %}
-                {% formfield player.person_14 %}
-                {% formfield player.person_15 %}
+                {% formfield player.person_13 %} 
+                {% formfield player.person_16 %} 
+                {% formfield player.person_19 %} 
+                {% formfield player.person_22 %} 
+                {% formfield player.person_25 %} 
+                {% formfield player.person_28 %} 
             </div>
             <div class="form-column">
-                {% formfield player.person_16 %}
+                {% formfield player.person_2 %}
+                {% formfield player.person_5 %}
+                {% formfield player.person_8 %}
+                {% formfield player.person_11 %}
+                {% formfield player.person_14 %}
                 {% formfield player.person_17 %}
-                {% formfield player.person_18 %}
-                {% formfield player.person_19 %}
                 {% formfield player.person_20 %}
-                {% formfield player.person_21 %}
-                {% formfield player.person_22 %}
                 {% formfield player.person_23 %}
-                {% formfield player.person_24 %}
-                {% formfield player.person_25 %}
                 {% formfield player.person_26 %}
-                {% formfield player.person_27 %}
-                {% formfield player.person_28 %}
                 {% formfield player.person_29 %}
+            </div>
+            <div class="form-column">
+                {% formfield player.person_3 %}
+                {% formfield player.person_6 %}
+                {% formfield player.person_9 %}
+                {% formfield player.person_12 %}
+                {% formfield player.person_15 %}
+                {% formfield player.person_18 %}
+                {% formfield player.person_21 %}
+                {% formfield player.person_24 %}
+                {% formfield player.person_27 %}
                 {% formfield player.person_30 %}
             </div>
         </div>

@@ -46,6 +46,10 @@ class Player(BasePlayer):
     tutorial = models.IntegerField(blank=True, max=8, min=-999, label="")
     grade = models.StringField(blank=True, label="")
 
+    ### FreshersCamp
+    fresherscamp_student = models.IntegerField(blank=True, max= 5, min=1, label="")
+    freshersweek_student = models.IntegerField(blank=True, max= 2, min=1, label="")
+
     social_networks_1 = models.IntegerField(blank=True, max=2, min=1, label="")
     social_networks_2 = models.IntegerField(blank=True, max=2, min=1, label="")
     social_networks_3 = models.IntegerField(blank=True, max=2, min=1, label="")
