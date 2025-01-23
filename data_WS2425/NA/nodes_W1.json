@@ -52,7 +52,7 @@
         "edz_mother": 1.0
     },
     "qew": {
-        "leftrightself": 0,
+        "leftrightself": 1,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -65,7 +65,7 @@
         "edz_mother": 4.0
     },
     "k9w": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -117,7 +117,7 @@
         "edz_mother": 2.0
     },
     "dnk": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -130,7 +130,7 @@
         "edz_mother": 0.0
     },
     "tdq": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -169,7 +169,7 @@
         "edz_mother": 1.0
     },
     "4x3": {
-        "leftrightself": 0,
+        "leftrightself": 7,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -195,7 +195,7 @@
         "edz_mother": 4.0
     },
     "c9f": {
-        "leftrightself": 0,
+        "leftrightself": 11,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -208,7 +208,7 @@
         "edz_mother": 1.0
     },
     "yuc": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -221,7 +221,7 @@
         "edz_mother": 4.0
     },
     "ent": {
-        "leftrightself": 0,
+        "leftrightself": 1,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -260,7 +260,7 @@
         "edz_mother": 1.0
     },
     "t94": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -273,7 +273,7 @@
         "edz_mother": 2.0
     },
     "gye": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -312,7 +312,7 @@
         "edz_mother": 2.0
     },
     "m49": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -325,7 +325,7 @@
         "edz_mother": 4.0
     },
     "ugr": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -351,7 +351,7 @@
         "edz_mother": 1.0
     },
     "xyb": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -364,7 +364,7 @@
         "edz_mother": 4.0
     },
     "ktd": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -377,7 +377,7 @@
         "edz_mother": 3.0
     },
     "mry": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -390,7 +390,7 @@
         "edz_mother": 1.0
     },
     "dss": {
-        "leftrightself": 0,
+        "leftrightself": 1,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -416,7 +416,7 @@
         "edz_mother": 0.0
     },
     "hn9": {
-        "leftrightself": 0,
+        "leftrightself": 11,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -429,7 +429,7 @@
         "edz_mother": 1.0
     },
     "qx3": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -442,7 +442,7 @@
         "edz_mother": 1.0
     },
     "mcb": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -468,7 +468,7 @@
         "edz_mother": 2.0
     },
     "nut": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -481,7 +481,7 @@
         "edz_mother": 4.0
     },
     "fqt": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -507,7 +507,7 @@
         "edz_mother": 0.0
     },
     "mdx": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -520,7 +520,7 @@
         "edz_mother": 1.0
     },
     "bqr": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -533,7 +533,7 @@
         "edz_mother": 1.0
     },
     "spg": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -546,7 +546,7 @@
         "edz_mother": 4.0
     },
     "4yf": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -598,7 +598,7 @@
         "edz_mother": 1.0
     },
     "dmd": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -611,7 +611,7 @@
         "edz_mother": 3.0
     },
     "tuw": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -624,7 +624,7 @@
         "edz_mother": 4.0
     },
     "cnu": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -637,7 +637,7 @@
         "edz_mother": 3.0
     },
     "v3e": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -650,7 +650,7 @@
         "edz_mother": 3.0
     },
     "e4u": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -663,7 +663,7 @@
         "edz_mother": 4.0
     },
     "yer": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -676,7 +676,7 @@
         "edz_mother": 1.0
     },
     "vrm": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -715,7 +715,7 @@
         "edz_mother": 1.0
     },
     "hmu": {
-        "leftrightself": 0,
+        "leftrightself": 9,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -728,7 +728,7 @@
         "edz_mother": 1.0
     },
     "kwc": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -767,7 +767,7 @@
         "edz_mother": 2.0
     },
     "49w": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -793,7 +793,7 @@
         "edz_mother": 1.0
     },
     "bpy": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": -999.0,
         "income": -999,
         "rent": -999,
@@ -806,7 +806,7 @@
         "edz_mother": 3.0
     },
     "pgx": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -819,7 +819,7 @@
         "edz_mother": 1.0
     },
     "rbb": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -832,7 +832,7 @@
         "edz_mother": 3.0
     },
     "3eh": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -845,7 +845,7 @@
         "edz_mother": 3.0
     },
     "fv4": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -871,7 +871,7 @@
         "edz_mother": 3.0
     },
     "fvy": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -884,7 +884,7 @@
         "edz_mother": 3.0
     },
     "3xt": {
-        "leftrightself": 0,
+        "leftrightself": 8,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -897,7 +897,7 @@
         "edz_mother": 3.0
     },
     "yfk": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -923,7 +923,7 @@
         "edz_mother": 2.0
     },
     "uhg": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -936,7 +936,7 @@
         "edz_mother": 4.0
     },
     "ktb": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -949,7 +949,7 @@
         "edz_mother": 1.0
     },
     "nrn": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -962,7 +962,7 @@
         "edz_mother": 1.0
     },
     "mbv": {
-        "leftrightself": 0,
+        "leftrightself": 7,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -988,7 +988,7 @@
         "edz_mother": 1.0
     },
     "dxh": {
-        "leftrightself": 0,
+        "leftrightself": 7,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1001,7 +1001,7 @@
         "edz_mother": 2.0
     },
     "evs": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1014,7 +1014,7 @@
         "edz_mother": 2.0
     },
     "crq": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1053,7 +1053,7 @@
         "edz_mother": 4.0
     },
     "ngr": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1092,7 +1092,7 @@
         "edz_mother": 4.0
     },
     "ddh": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1105,7 +1105,7 @@
         "edz_mother": 2.0
     },
     "9ra": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1118,7 +1118,7 @@
         "edz_mother": 2.0
     },
     "ebs": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1131,7 +1131,7 @@
         "edz_mother": 1.0
     },
     "h9k": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1157,7 +1157,7 @@
         "edz_mother": 3.0
     },
     "saf": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1170,7 +1170,7 @@
         "edz_mother": 1.0
     },
     "whx": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1183,7 +1183,7 @@
         "edz_mother": 1.0
     },
     "hhb": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1196,7 +1196,7 @@
         "edz_mother": 1.0
     },
     "buv": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1222,7 +1222,7 @@
         "edz_mother": 3.0
     },
     "ceh": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1235,7 +1235,7 @@
         "edz_mother": 1.0
     },
     "cpk": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1248,7 +1248,7 @@
         "edz_mother": 4.0
     },
     "kry": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1261,7 +1261,7 @@
         "edz_mother": 3.0
     },
     "ywc": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1274,7 +1274,7 @@
         "edz_mother": 2.0
     },
     "qhv": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1313,7 +1313,7 @@
         "edz_mother": 1.0
     },
     "h9x": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1339,7 +1339,7 @@
         "edz_mother": 4.0
     },
     "vgv": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1352,7 +1352,7 @@
         "edz_mother": 1.0
     },
     "wrc": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1365,7 +1365,7 @@
         "edz_mother": 1.0
     },
     "amu": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1378,7 +1378,7 @@
         "edz_mother": 4.0
     },
     "mhp": {
-        "leftrightself": 0,
+        "leftrightself": 6,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1391,7 +1391,7 @@
         "edz_mother": 2.0
     },
     "ucp": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1404,7 +1404,7 @@
         "edz_mother": 1.0
     },
     "ffe": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1417,7 +1417,7 @@
         "edz_mother": 1.0
     },
     "fep": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1469,7 +1469,7 @@
         "edz_mother": 1.0
     },
     "gb4": {
-        "leftrightself": 0,
+        "leftrightself": 1,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1482,7 +1482,7 @@
         "edz_mother": 2.0
     },
     "dbk": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1560,7 +1560,7 @@
         "edz_mother": 3.0
     },
     "add": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1573,7 +1573,7 @@
         "edz_mother": 4.0
     },
     "kvq": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1586,7 +1586,7 @@
         "edz_mother": 1.0
     },
     "tcc": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1612,7 +1612,7 @@
         "edz_mother": 2.0
     },
     "39b": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1638,7 +1638,7 @@
         "edz_mother": 3.0
     },
     "vgg": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1677,7 +1677,7 @@
         "edz_mother": 2.0
     },
     "mw9": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1690,7 +1690,7 @@
         "edz_mother": 1.0
     },
     "bqh": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1703,7 +1703,7 @@
         "edz_mother": 4.0
     },
     "udg": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1716,7 +1716,7 @@
         "edz_mother": 4.0
     },
     "bga": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1729,7 +1729,7 @@
         "edz_mother": 4.0
     },
     "uwx": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1755,7 +1755,7 @@
         "edz_mother": 4.0
     },
     "rxs": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1768,7 +1768,7 @@
         "edz_mother": 3.0
     },
     "wen": {
-        "leftrightself": 0,
+        "leftrightself": 7,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1781,7 +1781,7 @@
         "edz_mother": 3.0
     },
     "byq": {
-        "leftrightself": 0,
+        "leftrightself": 1,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1820,7 +1820,7 @@
         "edz_mother": 1.0
     },
     "hry": {
-        "leftrightself": 0,
+        "leftrightself": 7,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1833,7 +1833,7 @@
         "edz_mother": 3.0
     },
     "knb": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1846,7 +1846,7 @@
         "edz_mother": 1.0
     },
     "vtt": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1872,7 +1872,7 @@
         "edz_mother": 2.0
     },
     "p49": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1885,7 +1885,7 @@
         "edz_mother": 3.0
     },
     "av4": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1898,7 +1898,7 @@
         "edz_mother": 3.0
     },
     "qxn": {
-        "leftrightself": 0,
+        "leftrightself": 9,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1937,7 +1937,7 @@
         "edz_mother": 1.0
     },
     "cfw": {
-        "leftrightself": 0,
+        "leftrightself": 7,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1950,7 +1950,7 @@
         "edz_mother": 4.0
     },
     "dyb": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1963,7 +1963,7 @@
         "edz_mother": 3.0
     },
     "gpt": {
-        "leftrightself": 0,
+        "leftrightself": 8,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -1976,7 +1976,7 @@
         "edz_mother": 1.0
     },
     "afp": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -1989,7 +1989,7 @@
         "edz_mother": 1.0
     },
     "asv": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -2028,7 +2028,7 @@
         "edz_mother": 4.0
     },
     "yqq": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -2041,7 +2041,7 @@
         "edz_mother": 3.0
     },
     "tfp": {
-        "leftrightself": 0,
+        "leftrightself": 11,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2054,7 +2054,7 @@
         "edz_mother": 3.0
     },
     "dph": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2080,7 +2080,7 @@
         "edz_mother": 1.0
     },
     "ech": {
-        "leftrightself": 0,
+        "leftrightself": 8,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2106,7 +2106,7 @@
         "edz_mother": 1.0
     },
     "hqf": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -2119,7 +2119,7 @@
         "edz_mother": 0.0
     },
     "yfg": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -2132,7 +2132,7 @@
         "edz_mother": 1.0
     },
     "mwh": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -2158,7 +2158,7 @@
         "edz_mother": 3.0
     },
     "ara": {
-        "leftrightself": 0,
+        "leftrightself": 8,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2171,7 +2171,7 @@
         "edz_mother": 3.0
     },
     "gdg": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -2184,7 +2184,7 @@
         "edz_mother": 3.0
     },
     "xtk": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -2197,7 +2197,7 @@
         "edz_mother": 4.0
     },
     "9fs": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2210,7 +2210,7 @@
         "edz_mother": 4.0
     },
     "4gw": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
@@ -2223,7 +2223,7 @@
         "edz_mother": 2.0
     },
     "mbf": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2236,7 +2236,7 @@
         "edz_mother": 3.0
     },
     "ytr": {
-        "leftrightself": 0,
+        "leftrightself": 8,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2262,7 +2262,7 @@
         "edz_mother": 1.0
     },
     "ydy": {
-        "leftrightself": 0,
+        "leftrightself": 2,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2275,7 +2275,7 @@
         "edz_mother": 4.0
     },
     "3ya": {
-        "leftrightself": 0,
+        "leftrightself": 4,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2288,7 +2288,7 @@
         "edz_mother": 4.0
     },
     "cyw": {
-        "leftrightself": 0,
+        "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2301,7 +2301,7 @@
         "edz_mother": 4.0
     },
     "dxp": {
-        "leftrightself": 0,
+        "leftrightself": 3,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
@@ -2314,7 +2314,7 @@
         "edz_mother": 1.0
     },
     "vcb": {
-        "leftrightself": 0,
+        "leftrightself": 7,
         "gender": 2.0,
         "income": -999,
         "rent": -999,

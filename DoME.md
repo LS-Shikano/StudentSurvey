@@ -14,17 +14,13 @@ network among student + performance (build up this area)
 3. take a memo for all information above. keep it until the end of the semester 
 
 - Löwenstein Distance for code generation 
-
-liste mit random codes (3-stellige) manuell ausgegeben (Option!!!)
-    hashfunktion mit matrikelnummer 
-    personalisiert 
+- liste mit random codes (3-stellige) manuell ausgegeben (Option!!!)
+- hashfunktion mit matrikelnummer / personalisiert 
 
 
 ## Vignette App
+- [Vignette App Blueprint](https://docs.google.com/document/d/1BRRiqEtoOX3URnHSSgDCcNFG5OksqOhchNA4S4MAbEc/edit?tab=t.0)
 
-[Vignette App Blueprint](https://docs.google.com/document/d/1BRRiqEtoOX3URnHSSgDCcNFG5OksqOhchNA4S4MAbEc/edit?tab=t.0)
-
-Feedback Vignette 
 - Opinion or fact
 - is there a narrotor
 - what are the sides to be believed
@@ -50,6 +46,11 @@ Feedback Vignette
 	- missing values are filled with 0 or -999?
 *Probably better to leave this for now so there is not more confusion and then change it for next year*
 
+## Survey
+- participantscodes nicer solution not scrolling hell
+- [Preventing Duplicates in OTree](https://otree.readthedocs.io/en/latest/misc/tips_and_tricks.html#many-fields)
+- _Add latency as meta variable_
+
 ## Analysis 
 - Homophily related to politics and other attributes and connected to other relations 
 	- comparison of different homophilies and which ones are stronger -> which edges get build -> influence on attributes 
@@ -61,12 +62,6 @@ Feedback Vignette
 - Sommer Semester and Presentation: June/July
 
 ## Third Wave
-**Deadline: last week january **
-- participantscodes niucer solution not scrolling hell
-	- [Preventing Duplicates in OTree](https://otree.readthedocs.io/en/latest/misc/tips_and_tricks.html#many-fields)
-
-- _add question about workshop for NA and Groupwork on the network_
-- _Add latency as meta variable_
+**Deadline: last week january**
 - **remove redundant information from previous waves???**
-
 - setting up two instances if one of them fails!!!
