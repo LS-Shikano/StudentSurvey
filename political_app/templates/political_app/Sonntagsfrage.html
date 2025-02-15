@@ -2,68 +2,7 @@
 {% load otree static %}
 
 {% block styles %}
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h3 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-p, label {
-    font-family: 'Verdana', sans-serif;
-    color: #555;
-    line-height: 1.5;
-}
-
-.mb-3 {
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
-    border-radius: 5px;
-    padding: 15px;
-    background: #f9f9f9; /* Light background for contrast */
-}
-
-input[type="radio"], input[type="text"] {
-    margin-top: 5px;
-}
-
-hr {
-    border: 1px solid #ddd;
-    margin: 20px 0;
-}
-
-.otree-btn-next {
-    background-color: #007bff; /* Bootstrap primary color */
-    color: white;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    display: block;
-    margin: 20px auto;
-    width: fit-content;
-}
-
-.otree-btn-next:hover {
-    background-color: #0056b3; /* Darker shade for hover */
-    transform: scale(1.05);
-}
-
-div.german, div.english {
-    margin: 5px 0;
-}
-</style>
+<link rel="stylesheet" href="{{ static 'ballot/ballot.css' }}">
 {% endblock %}
 
 {% block title %}
@@ -211,7 +150,6 @@ function popout5() {
             <div class="german"><input id = "stu4" type="radio" name="sunday_poll" value="4" onclick="popout4()"> Nicht wahlberechtigt</div>
             <div class="english"><input id = "stu44" type="radio" name="sunday_poll" value="4" onclick="popout4()"> Not eligible to vote </div>
 
-
     <div id="divstu1" style="display: none">
                 <p class="german">Und welche Partei würden Sie wählen?</p>
                 <p class="english">And which party would you vote for?</p>
@@ -298,7 +236,7 @@ function popout5() {
                 <div class="english"><input id = "stu55" type="radio" name="sunday_not_eligible" value="1" onclick="popout5()"> Yes</div>
                 <div class="german"><input id = "stu6" type="radio" name="sunday_not_eligible" value="2" onclick="popout5()"> Nein</div>
                 <div class="english"><input id = "stu66" type="radio" name="sunday_not_eligible" value="2" onclick="popout5()"> No</div>
-                <div class="german"><input id = "stu7" type="radio" name="sunday_not_eligible" value="3" onclick="popout5()"> Weiß nicht</div>
+                <div class="german"><input id = "stu7" type="radio" name="sunday_not_eligible" value="" onclick="popout5()"> Weiß nicht</div>
                 <div class="english"><input id = "stu77" type="radio" name="sunday_not_eligible" value="3" onclick="popout5()"> Don't know</div>
     </div>
         
@@ -306,8 +244,8 @@ function popout5() {
     <div id="divstu5" style="display: none">
                 <p class="german">Und welche Partei würden Sie wählen?</p>
                 <p class="english">And which party would you vote for?</p>
-                <div class="german"><input type="radio" name="noteligible_sunday_party_vote" value="1"> uSPD</div>
-                <div class="english"><input type="radio" name="noteligible_sunday_party_vote" value="1"> uSPD</div>
+                <div class="german"><input type="radio" name="noteligible_sunday_party_vote" value="1"> SPD</div>
+                <div class="english"><input type="radio" name="noteligible_sunday_party_vote" value="1"> SPD</div>
                 <div class="german"><input type="radio" name="noteligible_sunday_party_vote" value="2"> CDU/CSU</div>
                 <div class="english"><input type="radio" name="noteligible_sunday_party_vote" value="2"> CDU/CSU</div>
                 <div class="german"><input type="radio" name="noteligible_sunday_party_vote" value="3"> Bündnis 90/Die Grünen</div>

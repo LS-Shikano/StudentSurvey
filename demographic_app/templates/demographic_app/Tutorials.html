@@ -2,68 +2,7 @@
 {% load otree static %}
 
 {% block styles %}
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h3 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-p, label {
-    font-family: 'Verdana', sans-serif;
-    color: #555;
-    line-height: 1.5;
-}
-
-.mb-3 {
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
-    border-radius: 5px;
-    padding: 15px;
-    background: #f9f9f9; /* Light background for contrast */
-}
-
-input[type="radio"], input[type="text"] {
-    margin-top: 5px;
-}
-
-hr {
-    border: 1px solid #ddd;
-    margin: 20px 0;
-}
-
-.otree-btn-next {
-    background-color: #007bff; /* Bootstrap primary color */
-    color: white;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    display: block;
-    margin: 20px auto;
-    width: fit-content;
-}
-
-.otree-btn-next:hover {
-    background-color: #0056b3; /* Darker shade for hover */
-    transform: scale(1.05);
-}
-
-div.german, div.english {
-    margin: 5px 0;
-}
-</style>
+<link rel="stylesheet" href="{{ static 'ballot/ballot.css' }}">
 {% endblock %}
 
 {% block title %}
@@ -74,13 +13,9 @@ Student Survey - University Konstanz
 <div class="container">
    <input id="time" type="hidden" name="time_tutorial_expected_grade"/>
 
-   <br>
-   <!-- <h3 class="german"> Tutoratsgruppen </h3> <h3 class="english"> Tutorial Groups  </h3> -->
-   <hr>
-
 
    <div  class="mb-3 border pt-2 pb-2 px-2 ">
-      <p class="german">An welchen Tutorium nehmen Sie teil?</p>
+      <p class="german">An welchem Tutorium nehmen Sie teil?</p>
       <p class="english">In which tutorial do you participate?</p>
 
       <input type="radio" name="tutorial" value="1"> Wed, 15.15-16.45, Aytac, Robin
@@ -105,11 +40,6 @@ Student Survey - University Konstanz
       <br>  
    </div>
 
-
-   <br>
-   <!-- <h3 class="german"> Notenerwartung </h3> 
-   <h3 class="english"> Grade Expectations  </h3> -->
-   <hr>
 
    <div  class="mb-3 border pt-2 pb-2 px-2 ">
       <p class="german"> Welche Note erwarten Sie für sich in der Klausur dieser Vorlesung am Ende des Semesters?</p>

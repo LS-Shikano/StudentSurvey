@@ -80,6 +80,6 @@ class SpecialNetworks(Page): #8
         'friend_30', 'value_30', 'politics_30', 'council_30', 'study_30']              
  
                    
-page_sequence = [Participantcode, NetworkNamedPersons, SpecialNetworks, SentimentAssesment, LeftrightSelfAssessment ,LeftrightNetworkAssessment] 
+page_sequence = [NetworkNamedPersons, SpecialNetworks, SentimentAssesment, LeftrightSelfAssessment ,LeftrightNetworkAssessment] 
 
 # docker compose up -d --build 

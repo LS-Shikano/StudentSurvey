@@ -2,75 +2,7 @@
 {% load otree static %}
 
 {% block styles %}
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h3 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-p, label {
-    font-family: 'Verdana', sans-serif;
-    color: #555;
-    line-height: 1.5;
-}
-
-.mb-3 {
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
-    border-radius: 5px;
-    padding: 15px;
-    background: #f9f9f9; /* Light background for contrast */
-}
-
-input[type="number"] {
-    width: 100%;
-    padding: 10px;
-    margin-top: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 14px;
-    box-sizing: border-box;
-}
-
-input[type="number"]:focus {
-    border-color: #007bff;
-    outline: none;
-}
-
-hr {
-    border: 1px solid #ddd;
-    margin: 20px 0;
-}
-
-.otree-btn-next {
-    background-color: #007bff; /* Bootstrap primary color */
-    color: white;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    display: block;
-    margin: 20px auto;
-    width: fit-content;
-}
-
-.otree-btn-next:hover {
-    background-color: #0056b3; /* Darker shade for hover */
-    transform: scale(1.05);
-}
-</style>
+<link rel="stylesheet" href="{{ static 'ballot/ballot.css' }}">
 {% endblock %}
 
 {% block title %}
@@ -81,24 +13,22 @@ Survey January 2024
 <div class="container">
 <!--time stamp-->
 <input id="time" type="hidden" name="time_fresherscamp" />
-<br>
 
 <div class="mb-3 border pt-2 pb-2 px-2">
-    <p class="german">Waren Sie zu Beginn Ihres ersten Semesters auf einem Erstihof?</p>
-    <p class="english">Did you go to a freshers camp at the beginning of your first semester?</p>            
-    <div class="german"><input type="radio" name="fresherscamp_student" value="1"> Hof 1</div>
-    <div class="english"><input type="radio" name="fresherscamp_student" value="1"> Camp 1</div>
-    <div class="german"><input type="radio" name="fresherscamp_student" value="2"> Hof 2</div>
-    <div  class="english"><input type="radio" name="fresherscamp_student" value="2"> Camp 2</div>
-    <div class="german"><input type="radio" name="fresherscamp_student" value="3"> Hof 3</div>
-    <div class="english"><input type="radio" name="fresherscamp_student" value="3"> Camp 3</div>
-    <div class="german"><input type="radio" name="fresherscamp_student" value="4"> Hof 4</div>
-    <div  class="english"><input type="radio" name="fresherscamp_student" value="4"> Camp 4</div>
+    <p class="german">Waren Sie zu Beginn diesen Semesters auf dem Erstihof?</p>
+    <p class="english">Did you go to a freshers camp at the beginning of this semester?</p>            
+    <div class="german"><input type="radio" name="fresherscamp_student" value="1"> Hof 1: Oktober 6, 2024 - Oktober 8, 2024</div>
+    <div class="english"><input type="radio" name="fresherscamp_student" value="1"> Camp 1: October 6, 2024 - October 8, 2024</div>
+    <div class="german"><input type="radio" name="fresherscamp_student" value="2"> Hof 2: Oktober 7, 2024 - Oktober 9, 2024</div>
+    <div  class="english"><input type="radio" name="fresherscamp_student" value="2"> Camp 2: October 7, 2024 - October 9, 2024</div>
+    <div class="german"><input type="radio" name="fresherscamp_student" value="3"> Hof 3: Oktober 9, 2024 - Oktober 11, 2024</div>
+    <div class="english"><input type="radio" name="fresherscamp_student" value="3"> Camp 3: October 9, 2024 - October 11, 2024</div>
+    <div class="german"><input type="radio" name="fresherscamp_student" value="4"> Hof 4: Oktober 11, 2024 - Oktober 13, 2024</div>
+    <div  class="english"><input type="radio" name="fresherscamp_student" value="4"> Camp 4: October 11, 2024 - October 13, 2024</div>
     <div class="german"><input type="radio" name="fresherscamp_student" value="0"> Nein</div>
     <div class="english"><input type="radio" name="fresherscamp_student" value="0"> No</div>        
 </div>
 
-<br>
 
 <div class="mb-3 border pt-2 pb-2 px-2">
     <p class="german">Haben Sie an Veranstaltungen der Erstiwoche teilgenommen?</p>
@@ -109,7 +39,6 @@ Survey January 2024
     <div  class="english"><input type="radio" name="freshersweek_student" value="0"> No</div>
 </div>
 
-<br>
 
 
 <!--Next button-->

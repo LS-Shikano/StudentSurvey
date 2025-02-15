@@ -2,68 +2,7 @@
 {% load otree static %}
 
 {% block styles %}
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h3 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-p, label {
-    font-family: 'Verdana', sans-serif;
-    color: #555;
-    line-height: 1.5;
-}
-
-.mb-3 {
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
-    border-radius: 5px;
-    padding: 15px;
-    background: #f9f9f9; /* Light background for contrast */
-}
-
-input[type="radio"], input[type="text"] {
-    margin-top: 5px;
-}
-
-hr {
-    border: 1px solid #ddd;
-    margin: 20px 0;
-}
-
-.otree-btn-next {
-    background-color: #007bff; /* Bootstrap primary color */
-    color: white;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    display: block;
-    margin: 20px auto;
-    width: fit-content;
-}
-
-.otree-btn-next:hover {
-    background-color: #0056b3; /* Darker shade for hover */
-    transform: scale(1.05);
-}
-
-div.german, div.english {
-    margin: 5px 0;
-}
-</style>
+<link rel="stylesheet" href="{{ static 'ballot/ballot.css' }}">
 {% endblock %}
 
 {% block title %}
@@ -98,6 +37,21 @@ Student Survey January WS 2024
     </div>
 
     <br>
+
+    <div class="mb-3 border pt-2 pb-2 px-2">
+        <p class="german"> Nun noch die wichtigste Frage. Wenn Sie sich entscheiden <b>müssten</b>, wen mögen Sie lieber, Hunde oder Katzen?</p>
+        <p class="english"> Now the most important question. If you <b>had</b> to decide, who do you prefer, dogs or cats?</p>
+        <div class="german"><input type="radio" name="catdog" value="1"> Natürlich Katzen, keine Frage!</div>
+        <div class="english"><input type="radio" name="catdog" value="1"> Cats of course!</div>
+        <div class="german"><input type="radio" name="catdog" value="2"> Natürlich Hunde, keine Frage!</div>
+        <div class="english"><input type="radio" name="catdog" value="2"> Dogs of course!</div>
+        <div class="german"><input type="radio" name="catdog" value="3"> Wer würde solch eine Entscheidung verlangen, ich liebe beide gleich viel!</div>
+        <div class="english"><input type="radio" name="catdog" value="3"> How can you make me chose, I love them both equally!</div>
+        <div class="german"><input type="radio" name="catdog" value="4"> Ich mag beide nicht!</div>
+        <div class="english"><input type="radio" name="catdog" value="4"> Neither!</div>
+        <div class="german"><input type="radio" name="catdog" value="-999"> Keine Angabe...</div>
+        <div class="english"><input type="radio" name="catdog" value="-999"> No Answer...</div>
+    </div>
 
     <button class="otree-btn-next btn btn-primary next-button otree-next-button">
         <span class="german"> Weiter </span>

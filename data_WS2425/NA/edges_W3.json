@@ -1,0 +1,6518 @@
+{
+    "xtk": {
+        "ngv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "qx3": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "ywc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "nrn": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "pgx": {
+        "asv": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "gb4": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        }
+    },
+    "amu": {
+        "xvg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "3md": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "qx3": {
+        "ngv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "xtk": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "ywc": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "yfk": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "3eh": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "39b": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "tuw": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "ebs": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "ech": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "xwx": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "knb": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "3eh": {
+        "vrm": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "ycm": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "fv4": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "tdq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "buv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "qx3": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "3fv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "mw9": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "ent": {
+        "buv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "fv4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "tdq": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "mw9": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "add": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "dph": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 1.0
+        },
+        "h9x": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "gth": {
+        "tpu": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "xyb": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "dmd": {
+        "9gt": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        },
+        "4ww": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "rbc": {
+        "vgv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "3md": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "tdq": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "cnu": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "ent": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "fv4": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "buv": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "ugr": {
+        "spg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "evs": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "4dk": {
+        "gdg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "k9w": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "knc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "3x9": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "rxs": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        }
+    },
+    "ddh": {},
+    "gdg": {
+        "k9w": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "4dk": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "knc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        }
+    },
+    "dph": {
+        "add": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "ycm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "e3v": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "rht": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "v3e": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "saf": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 2.0
+        },
+        "kwc": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "bqh": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        }
+    },
+    "ebs": {
+        "tuw": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "k9w": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "39b": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "ech": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "qx3": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "4yf": {
+        "bey": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "3hc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        }
+    },
+    "hry": {
+        "hhb": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "kry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "ceh": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "ddh": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "4rp": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 2.0
+        }
+    },
+    "ech": {
+        "39b": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "k9w": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "ywc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "qx3": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "ebs": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "tuw": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "ngv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": -2.0
+        },
+        "xtk": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "nrn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 0.0
+        },
+        "3eh": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "wen": {
+        "ydy": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        }
+    },
+    "qew": {
+        "3ab": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "tdq": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "dxp": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "tcc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "bga": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "gye": {
+        "tdq": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "ddh": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "rbc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 1.0
+        }
+    },
+    "bqr": {
+        "ytr": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "knb": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        }
+    },
+    "39b": {
+        "ech": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "k9w": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "tuw": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": -999
+        },
+        "ebs": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "qx3": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "saf": {
+        "e3v": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "fep": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "v3e": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "fvy": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "cpk": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "whx": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "dph": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "av4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "9rd": {
+        "xwx": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "eh3": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "dph": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "ent": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        }
+    },
+    "ara": {},
+    "mwh": {
+        "yfg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "tpf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 0.0
+        },
+        "gga": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "49w": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "ahn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "tcc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "dnk": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "eh3": {
+        "9rd": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 9.0,
+            "sentiment": 1.0
+        },
+        "dph": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        },
+        "ent": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        }
+    },
+    "yfg": {
+        "mwh": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "tpf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "gga": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "49w": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "9ra": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "ahn": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "tcc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "dnk": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "av4": {
+        "saf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "e3v": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "vcb": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "qxn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 0.0
+        },
+        "v3e": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "cpk": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        }
+    },
+    "vtt": {
+        "tpf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "ktb": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "ny3": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "vgv": {
+        "3md": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "amu": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "rbc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "xvg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "9ra": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "v3e": {
+        "saf": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "e3v": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "av4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "vcb": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "qxn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "tpu": {
+        "gth": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "xyb": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "vcb": {
+        "av4": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        }
+    },
+    "kru": {
+        "bs3": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "kmw": {
+        "cyw": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        },
+        "3x9": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "add": {
+        "ycm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "fv4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "rht": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "gb4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "bqh": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "kwc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "ecd": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        }
+    },
+    "xyb": {
+        "tpu": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "gth": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "yer": {
+        "ktd": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        }
+    },
+    "yg9": {
+        "fv4": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "wrc": {
+        "rbc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "np4": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "rht": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "ucp": {
+        "rht": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        }
+    },
+    "ktb": {
+        "vtt": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "tpf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "ny3": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "sva": {
+        "9xy": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "bga": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        }
+    },
+    "hnc": {
+        "udg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "ack": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "h9x": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "nan": {
+        "gb4": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "asv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        }
+    },
+    "k4w": {},
+    "ycm": {
+        "gb4": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "pgx": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "asv": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "3eh": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "fv4": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "tdq": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "buv": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "3fv": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "mw9": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "add": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "e3v": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "ent": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "xwx": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "cpk": {
+        "saf": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        },
+        "e3v": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "av4": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "vcb": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 2.0
+        },
+        "qxn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        },
+        "v3e": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        }
+    },
+    "whx": {
+        "crq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "hqf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        }
+    },
+    "hch": {
+        "qhv": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "yfk": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        },
+        "cfw": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 9.0,
+            "sentiment": 0.0
+        }
+    },
+    "9fx": {
+        "fv4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "uge": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "3x9": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        }
+    },
+    "fvy": {
+        "3xt": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": -999
+        }
+    },
+    "buv": {
+        "ent": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "fv4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "xwx": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "3eh": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "tdq": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "vrm": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "3fv": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "mw9": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "add": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 1.0
+        },
+        "dph": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 0.0
+        },
+        "rbc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "xtk": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "h9x": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "knb": {
+        "bga": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "3eh": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "mw9": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "fv4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "tuw": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "3fv": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "add": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        }
+    },
+    "gb4": {
+        "asv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "pgx": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        }
+    },
+    "3md": {
+        "xvg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "yqq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "9ra": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "vgv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "amu": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "hmt": {
+        "ydy": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "9ra": {
+        "yqq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "p49": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "xvg": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "amu": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "asv": {
+        "pgx": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "gb4": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        }
+    },
+    "e3v": {
+        "cpk": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "fvy": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "fep": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "crq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "saf": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 2.0
+        },
+        "av4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "vcb": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 2.0
+        },
+        "qxn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "v3e": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "ycm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "3eh": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "pgx": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "tdq": {
+        "gye": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "ddh": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "rbc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "kry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "hry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "cnu": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        }
+    },
+    "uge": {
+        "ngr": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "h9x": {
+        "ack": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "yfk": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "udg": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "rxs": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "ent": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "dnk": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "ngv": {
+        "xtk": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "qx3": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "ywc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "nrn": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "ywc": {
+        "nrn": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "qx3": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "xtk": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "ngv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        }
+    },
+    "nrn": {
+        "ngv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "xtk": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "qx3": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "ywc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "ny3": {
+        "vtt": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "ktb": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "vkv": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "b3p": {
+        "9he": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "kmw": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "4yx": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "ytr": {
+        "bqr": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "tdq": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "mdx": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "4ww": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "uwx": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "rf4": {},
+    "h9k": {
+        "rxs": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "yfk": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "udg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "h9x": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "nut": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        },
+        "qhv": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "4rp": {
+        "hry": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 2.0
+        }
+    },
+    "knc": {
+        "gdg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "k9w": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "4dk": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "bs3": {
+        "kru": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "yfk": {
+        "hch": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "qhv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "h9k": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "rxs": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "ack": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "cfw": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 11.0,
+            "sentiment": -2.0
+        },
+        "h9x": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "qx3": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "mhp": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "mbv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 9.0,
+            "sentiment": 1.0
+        },
+        "nut": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        }
+    },
+    "qhv": {
+        "yfk": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "hch": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "rxs": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "cfw": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "mbv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 9.0,
+            "sentiment": 1.0
+        },
+        "h9k": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        }
+    },
+    "ack": {
+        "udg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "hnc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "fep": {
+        "e3v": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "av4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "ktd": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "mry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "vcb": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "qxn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "dph": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "v3e": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "cyw": {
+        "kmw": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "4yx": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "udg": {
+        "rxs": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "hnc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "ack": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "h9x": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 0.0
+        }
+    },
+    "mdx": {
+        "hn9": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 10.0,
+            "sentiment": 1.0
+        },
+        "qxn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 9.0,
+            "sentiment": 1.0
+        },
+        "e3v": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "uwx": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 0.0
+        },
+        "9ut": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "dxh": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "ytr": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "mcb": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "4ww": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "bgq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "nut": {
+        "49w": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "tcc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "dnk": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "ahn": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "yfk": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "3fv": {
+        "mw9": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "add": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "9he": {
+        "b3p": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "kmw": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "4yx": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "hn9": {
+        "qxn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "vcb": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "9ut": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "dxh": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": -999
+        },
+        "mcb": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "uwx": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        }
+    },
+    "bgq": {
+        "9xy": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "sva": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "e4u": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "mdx": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "uwx": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "qxn": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "mcb": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "bqh": {
+        "add": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        }
+    },
+    "9fs": {
+        "qew": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "tcc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "dxp": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "3ab": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "mbv": {
+        "3xt": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 2.0
+        },
+        "cfw": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 9.0,
+            "sentiment": 1.0
+        },
+        "qhv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "yfk": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "mw9": {
+        "3fv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "3ab": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "fv4": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "9ut": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 8.0,
+            "sentiment": 0.0
+        }
+    },
+    "xwx": {
+        "dph": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "3eh": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "fv4": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "tcc": {
+        "dnk": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "bga": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "nut": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 0.0
+        },
+        "qew": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 1.0
+        },
+        "dxp": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "3ab": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "9fs": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "tuw": {
+        "ebs": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "k9w": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "ech": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 2.0
+        }
+    },
+    "cfw": {
+        "mbv": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "3xt": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "mhp": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "yfk": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "hch": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "ucp": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "4ww": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "qhv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "uge": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "nut": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "uwx": {
+        "qxn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "mdx": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "mcb": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "bgq": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "hn9": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "9ut": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        }
+    },
+    "dnk": {
+        "bga": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "tcc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "nut": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "49w": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "ahn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "9xy": {
+        "e4u": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "bgq": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "sva": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        }
+    },
+    "4yx": {
+        "b3p": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "kmw": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 9.0,
+            "sentiment": 1.0
+        },
+        "9he": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "crq": {
+        "fep": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "saf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "e3v": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "av4": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "vcb": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "qxn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "v3e": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "whx": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "vkv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "mhp": {
+        "cfw": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "mbv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "yfk": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "hch": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "whx": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "dxh": {
+        "hn9": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 10.0,
+            "sentiment": 1.0
+        },
+        "9ut": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "mcb": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "qxn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "ecd": {
+        "bqh": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "kwc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "add": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "cyg": {
+        "uqy": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "cnu": {
+        "ddh": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "tdq": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "hhb": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "kry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "hry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "rbc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "3ab": {
+        "dxp": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "qew": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "9fs": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        }
+    },
+    "xnc": {
+        "hhb": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "kry": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "cnu": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "tdq": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "rbc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "vrm": {
+        "add": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "kwc": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "bqh": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "uqy": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "dxp": {
+        "tcc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "qew": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "3ab": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "9fs": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "qqt": {
+        "np4": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "ryn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        }
+    },
+    "3x9": {
+        "kmw": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "uge": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "4dk": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        }
+    },
+    "dyb": {
+        "ukm": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        }
+    },
+    "qxn": {
+        "hn9": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 11.0,
+            "sentiment": 1.0
+        },
+        "9ut": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "dxh": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "mcb": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "uwx": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "afp": {
+        "knb": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "bga": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "dnk": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "dxp": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "3ab": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "qew": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 1.0
+        }
+    },
+    "mcb": {
+        "qxn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "uwx": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "9ut": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "dxh": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "hn9": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 9.0,
+            "sentiment": 1.0
+        }
+    },
+    "49w": {
+        "nut": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "tcc": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 0.0
+        },
+        "dnk": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 1.0
+        },
+        "ahn": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "qqt": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 0.0
+        }
+    },
+    "ahn": {
+        "3x9": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 11.0,
+            "sentiment": -2.0
+        },
+        "mry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "ktd": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "9fx": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": -999
+        },
+        "ngr": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        }
+    },
+    "ceh": {
+        "kry": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "hry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": -2.0
+        },
+        "ddh": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "ngv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        }
+    },
+    "t94": {
+        "ffe": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "byq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 1.0
+        },
+        "m49": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "uhg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "3xt": {
+        "mbv": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        },
+        "cfw": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 9.0,
+            "sentiment": 0.0
+        }
+    },
+    "spg": {
+        "ugr": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "evs": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "kry": {
+        "ceh": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "hry": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "hhb": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 8.0,
+            "sentiment": 1.0
+        }
+    },
+    "m49": {
+        "ffe": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "byq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 0.0
+        },
+        "uhg": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "t94": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "hhb": {
+        "cnu": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "tdq": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "gye": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "rbc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "ydy": {
+        "wen": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "hmt": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "9fu": {
+        "gth": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "rht": {
+        "ucp": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "add": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "bqh": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        }
+    },
+    "ukm": {
+        "e3v": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "dyb": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "ffe": {
+        "byq": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 0.0
+        },
+        "m49": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "uhg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "t94": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "ngr": {
+        "ahn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "ktd": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "mry": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "vnb": {
+        "rbc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "qxn": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "ytr": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        },
+        "bqr": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "4gw": {
+        "vgg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "vgv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "3md": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        }
+    },
+    "ryn": {
+        "qay": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "sva": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "fv4": {
+        "buv": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "ent": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "9fx": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "tdq": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "hqf": {
+        "qqt": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        }
+    },
+    "uqy": {
+        "cyg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "ecd": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "kwc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "bqh": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "evs": {
+        "spg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": -999
+        },
+        "ugr": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": -999
+        }
+    },
+    "kwc": {
+        "ecd": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "bqh": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "add": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "cyg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "uqy": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "vrm": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "uhg": {
+        "ffe": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "byq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 1.0
+        },
+        "m49": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "t94": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        }
+    },
+    "ktd": {
+        "mry": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "yuc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "fep": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "yer": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "vgg": {
+        "4gw": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "9ra": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "yuc": {
+        "ktd": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "mry": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "9ut": {
+        "uwx": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "mcb": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 2.0
+        },
+        "qxn": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 2.0
+        },
+        "dph": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 2.0
+        },
+        "dxh": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        }
+    },
+    "mry": {
+        "ktd": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "yuc": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        }
+    },
+    "vkv": {
+        "crq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "4ww": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "ny3": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "xvg": {
+        "p49": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "yqq": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "vgg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "4gw": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "9ra": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "amu": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "dss": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "fep": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "dss": {
+        "qay": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "xvg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 2.0
+        },
+        "9ra": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "rxs": {
+        "udg": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "h9k": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "yfk": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "h9x": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "qhv": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "4dk": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "byq": {
+        "ffe": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 0.0
+        },
+        "m49": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        },
+        "uhg": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "t94": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        }
+    },
+    "4ww": {
+        "mdx": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "9gt": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 9.0,
+            "sentiment": 1.0
+        },
+        "dmd": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "9fx": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "gga": {
+        "tpf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "yfg": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "fep": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "bpy": {
+        "sbf": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "bxg": {
+        "np4": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "p49": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "qay": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "yqq": {
+        "p49": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "9ra": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "wng": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 1.0
+        }
+    },
+    "p49": {
+        "xvg": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "yqq": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "9ra": {
+            "friend": false,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "qay": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "np4": {
+        "qqt": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "wrc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        },
+        "bxg": {
+            "friend": true,
+            "value": false,
+            "politics": true,
+            "study": true,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "sbf": {
+        "bpy": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        },
+        "wrc": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "ktd": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "gcu": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    },
+    "gcu": {},
+    "qay": {
+        "p49": {
+            "friend": true,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 2.0
+        },
+        "ryn": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        },
+        "dss": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "9gt": {
+        "tpf": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 0.0
+        }
+    },
+    "wng": {},
+    "k9w": {
+        "gdg": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "4dk": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "knc": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "tuw": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 2.0,
+            "sentiment": 1.0
+        },
+        "ech": {
+            "friend": false,
+            "value": true,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 5.0,
+            "sentiment": 1.0
+        }
+    },
+    "mag": {
+        "ech": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
+        "tuw": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "39b": {
+            "friend": true,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "mbf": {},
+    "bey": {
+        "4yf": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "3hc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": true,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 2.0
+        }
+    },
+    "3hc": {
+        "bey": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 2.0
+        },
+        "4yf": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "e4u": {
+        "9xy": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 1.0
+        }
+    },
+    "bga": {
+        "dnk": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "afp": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
+        },
+        "knb": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        },
+        "tcc": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 2.0
+        },
+        "qew": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 1.0,
+            "sentiment": 0.0
+        },
+        "dxp": {
+            "friend": true,
+            "value": true,
+            "politics": true,
+            "study": false,
+            "council": true,
+            "leftright": 3.0,
+            "sentiment": 1.0
+        }
+    },
+    "tpf": {
+        "gga": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "ktb": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "4ww": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "9gt": {
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        }
+    }
+}

@@ -2,68 +2,7 @@
 {% load otree static %}
 
 {% block styles %}
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h3 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-p, label {
-    font-family: 'Verdana', sans-serif;
-    color: #555;
-    line-height: 1.5;
-}
-
-.mb-3 {
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
-    border-radius: 5px;
-    padding: 15px;
-    background: #f9f9f9; /* Light background for contrast */
-}
-
-input[type="radio"], input[type="text"] {
-    margin-top: 5px;
-}
-
-hr {
-    border: 1px solid #ddd;
-    margin: 20px 0;
-}
-
-.otree-btn-next {
-    background-color: #007bff; /* Bootstrap primary color */
-    color: white;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    display: block;
-    margin: 20px auto;
-    width: fit-content;
-}
-
-.otree-btn-next:hover {
-    background-color: #0056b3; /* Darker shade for hover */
-    transform: scale(1.05);
-}
-
-div.german, div.english {
-    margin: 5px 0;
-}
-</style>
+<link rel="stylesheet" href="{{ static 'ballot/ballot.css' }}">
 {% endblock %}
 
 {% block title %}
@@ -304,10 +243,6 @@ Student Survey - University Konstanz
     </div>
     </div>
 
-
-    <br>
-    <!-- <h3 class="german"> Petitionen  </h3><h3 class="english">Petitions</h3> -->
-    <hr>
     <div class="mb-3 border pt-2 pb-2 px-2 ">
         <p class="german">Haben Sie schon einmal eine Petition unterschrieben?</p>
         <p class="english">Have you ever signed a petition?</p>
@@ -343,9 +278,7 @@ Student Survey - University Konstanz
     </div>
 
 
-    <br>
-    <!-- <h3 class="german">Soziale Plattformen </h3><h3 class="english">Social Platforms</h3> -->
-    <hr>
+
     <div class="mb-3 border pt-2 pb-2 px-2 ">
         <p class="german">Welche der sozialen Plattformen nutzen Sie? (Mehrfachnennung möglich, sonstige können in das Textfeld eingetragen werden)</p>
         <p class="english">Which of the social platforms do you use? (Multiple choices possible, enter other platforms in the field.)</p>
@@ -369,8 +302,7 @@ Student Survey - University Konstanz
         <div class="english"><input type="checkbox" name="social_networks_9" value="1"> TikTok</div>
         <div class="german"><input type="checkbox" name="social_networks_10" value="1"> Telegram</div>
         <div class="english"><input type="checkbox" name="social_networks_10" value="1"> Telegram</div>
-        <div class="german">Andere: {% formfield player.social_networks_11 %}</div>
-        <div class="english">Other: {% formfield player.social_networks_11 %}</div>
+        <div>{% formfield player.social_networks_11 %}</div>
     </div>
 
     <br>

@@ -2,81 +2,7 @@
 {% load otree static %}
 
 {% block styles %}
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h3 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-p, label {
-    font-family: 'Verdana', sans-serif;
-    color: #555;
-    line-height: 1.5;
-}
-
-.mb-3 {
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
-    border-radius: 5px;
-    padding: 15px;
-    background: #f9f9f9; /* Light background for contrast */
-}
-
-.form-container {
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-}
-
-.form-column {
-    flex: 1; /* Allows columns to share equal width */
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-input[type="radio"], input[type="text"] {
-    margin-top: 5px;
-}
-
-hr {
-    border: 1px solid #ddd;
-    margin: 20px 0;
-}
-
-.otree-btn-next {
-    background-color: #007bff; /* Bootstrap primary color */
-    color: white;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    display: block;
-    margin: 20px auto;
-    width: fit-content;
-}
-
-.otree-btn-next:hover {
-    background-color: #0056b3; /* Darker shade for hover */
-    transform: scale(1.05);
-}
-
-div.german, div.english {
-    margin: 5px 0;
-}
-</style>
+<link rel="stylesheet" href="{{ static 'ballot/ballot.css' }}">
     
 {% endblock %}
 
@@ -95,9 +21,12 @@ Student Survey - University Konstanz
     <hr>
 
     <div class="mb-1 border pt-2 pb-2 ps-2 px-2">
-        <p class="german">Bitte teilen Sie nun die Umfragecodes, welche Sie zuvor gesammelt und ausgetauscht haben mit uns. Tragen Sie in jedes Feld genau eine Person ein und merken Sie sich, wer diese Person ist.</p>
+        <p class="german">Bitte teilen Sie nun die Umfragecodes, welche Sie zuvor gesammelt und ausgetauscht haben mit uns.</p>
+        <p class="german">Tragen Sie in jedes Feld genau eine Person ein und merken Sie sich, wer diese Person ist.</p>
         <p class="german">Bitte lassen Sie unbenutzte Feldern frei.</p>
-        <p class="english">Now we ask you to share the survey codes with us that you have collected. Please enter the codes into the fields below and remember which Person has which code.</p>
+
+        <p class="english">Now we ask you to share the survey codes with us that you have collected.</p>
+        <p class="english">Enter the codes into the fields below and remember which Person has which code.</p>
         <p class="english">Please leave the unused fields empty.</p>
     
         <div class="form-container">

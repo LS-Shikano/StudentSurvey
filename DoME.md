@@ -50,6 +50,7 @@ network among student + performance (build up this area)
 - participantscodes nicer solution not scrolling hell
 - [Preventing Duplicates in OTree](https://otree.readthedocs.io/en/latest/misc/tips_and_tricks.html#many-fields)
 - _Add latency as meta variable_
+- Develop new variables and concepts for the Survey [Adversity Quotient](https://menchb.github.io/aq-test/)
 
 ## Analysis 
 - Homophily related to politics and other attributes and connected to other relations 
@@ -65,3 +66,6 @@ network among student + performance (build up this area)
 **Deadline: last week january**
 - **remove redundant information from previous waves???**
 - setting up two instances if one of them fails!!!
+
+***
+- Covid Late Damages Questions for next years! 

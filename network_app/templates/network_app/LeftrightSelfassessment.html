@@ -2,68 +2,7 @@
 {% load otree static %}
 
 {% block styles %}
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h3 {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    margin-bottom: 10px;
-}
-
-p, label {
-    font-family: 'Verdana', sans-serif;
-    color: #555;
-    line-height: 1.5;
-}
-
-.mb-3 {
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow */
-    border-radius: 5px;
-    padding: 15px;
-    background: #f9f9f9; /* Light background for contrast */
-}
-
-input[type="radio"], input[type="text"] {
-    margin-top: 5px;
-}
-
-hr {
-    border: 1px solid #ddd;
-    margin: 20px 0;
-}
-
-.otree-btn-next {
-    background-color: #007bff; /* Bootstrap primary color */
-    color: white;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    display: block;
-    margin: 20px auto;
-    width: fit-content;
-}
-
-.otree-btn-next:hover {
-    background-color: #0056b3; /* Darker shade for hover */
-    transform: scale(1.05);
-}
-
-div.german, div.english {
-    margin: 5px 0;
-}
-</style>
+<link rel="stylesheet" href="{{ static 'ballot/ballot.css' }}">
 {% endblock %}
 
 {% block title %}
@@ -71,7 +10,7 @@ Student Survey - University Konstanz
 {% endblock %}
 
 {% block content %}
-<div class="container">
+<div class="table">
     <br>
     <div>
     <!-- <h3 class="german"> Eigene Links-Rechts-Orientierung </h3>
@@ -79,14 +18,13 @@ Student Survey - University Konstanz
     <input id="time" type="hidden" name="time_leftright_selfassessment"/>
 
     <div class="mb-3 border pt-2 pb-2 px-2">
-                    <p class="german"> Viele Leute verwenden die Begriffe links (1) und rechts (11), wenn es darum geht, unterschiedliche politische Einstellungen zu kennzeichnen. Wenn Sie an Ihre eigenen politischen Ansichten denken, wo würden Sie sich auf dieser Skala einstufen?</p>
+                    <p class="german"> Viele Leute verwenden die Begriffe links (1) und rechts (11), wenn es darum geht, unterschiedliche politische Einstellungen zu kennzeichnen. Wenn Sie an Ihre eigenen politischen Ansichten denken, wo würden Sie sich selbst auf dieser Skala einstufen?</p>
                     <p class="english"> A lot of people use the terms left" (1) and right (11) when it comes to labeling different political attitudes. When you think of your own political views, where would you place yourself on this scale?</p>
             <div class="table">
                 <table class="table">
                     <thead>
                     <tr>
-                        <td></td>
-                        <th><p>1</p></th>
+                        <th><p class="german">1: Links</p><p class="english">1: Left</p></th>
                         <th><p>2</p></th>
                         <th><p>3</p></th>
                         <th><p>4</p></th>
@@ -96,12 +34,11 @@ Student Survey - University Konstanz
                         <th><p>8</p></th>
                         <th><p>9</p></th>
                         <th><p>10</p></th>
-                        <th><p>11</p></th>
+                        <th><p class="german">11: Rechts</p><p class="english">11: Right</p></th>
                     </tr>
                     </thead>
                 <tbody>
                         <tr>
-                            <th></th>
                             <th><input type="radio" name="linksrechts_self" value="1"></th>
                             <th><input type="radio" name="linksrechts_self" value="2"></th>
                             <th><input type="radio" name="linksrechts_self" value="3"></th>

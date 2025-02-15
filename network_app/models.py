@@ -76,123 +76,123 @@ class Player(BasePlayer):
 
     def person_1_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_2_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_3_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_4_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_5_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_6_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_7_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_8_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_9_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_10_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_11_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_12_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_13_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_14_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_15_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_16_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_17_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_18_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_19_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_20_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_21_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_22_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_23_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_24_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_25_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_26_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_27_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_28_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_29_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
     def person_30_error_message(self, value):
         if value not in codes:
-            return "Please enter exactly three lowercase letters or numbers."
+            return "Please enter a valid code."
 
 
     friend_1 = models.BooleanField(blank=True, initial=False)

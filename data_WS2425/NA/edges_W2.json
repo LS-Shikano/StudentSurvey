@@ -6751,6 +6751,15 @@
             "council": false,
             "leftright": 7,
             "sentiment": 0
+        },
+        "ny3": {
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 3,
+            "sentiment": 0
         }
     },
     "gcu": {},
