@@ -375,7 +375,6 @@ class Player(BasePlayer):
     study_30 = models.BooleanField(blank=True, initial=False) 
     council_30 = models.BooleanField(blank=True, initial=False)
 
-    ### LeftrightSelfassessment
     linksrechts_1 = models.IntegerField(blank=True, max=11, min=1, label="")
     linksrechts_2 = models.IntegerField(blank=True, max=11, min=1, label="")
     linksrechts_3 = models.IntegerField(blank=True, max=11, min=1, label="")
@@ -406,9 +405,9 @@ class Player(BasePlayer):
     linksrechts_28 = models.IntegerField(blank=True, max=11, min=1, label="")
     linksrechts_29 = models.IntegerField(blank=True, max=11, min=1, label="")
     linksrechts_30 = models.IntegerField(blank=True, max=11, min=1, label="")
+    
     linksrechts_self = models.IntegerField(blank=True, max=11, min=1, label="")
 
-   ### LeftrightSelfassessment
     sentiment_1 = models.IntegerField(blank=True, max=2, min=-2, label="", )
     sentiment_2 = models.IntegerField(blank=True, max=2, min=-2, label="", )
     sentiment_3 = models.IntegerField(blank=True, max=2, min=-2, label="", )

@@ -69,3 +69,4 @@ network among student + performance (build up this area)
 
 ***
 - Covid Late Damages Questions for next years! 
+- Q:"i knew this person before the semester started" 

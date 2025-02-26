@@ -25,7 +25,7 @@ Example: Attributes
 #### Time Survey is Started
 - Variable: `time_start`
 - Question: NONE 
-- Labels: 
+- Labels and Values: 
 - Page: Welcome 
 
 #### Language 
