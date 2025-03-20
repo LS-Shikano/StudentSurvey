@@ -53,7 +53,13 @@ Example: Attributes
 ### DA - Demographic App 
 
 #### Age
-- Variable: `age`
+- Title: Age
+- Variable: `demographic_app.1.player.age`
+- Question: "Bitte geben Sie Ihr Alter in Jahren an" 
+- Labels and Values: Field (min 10, max 100)
+- Page: GenderAge - DemographicApp - W1, W2
+
+
 - Time answered: `time_age`
 - Page: GenderAge
 - Question: "Please enter your age in years."

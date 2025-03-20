@@ -3,7 +3,7 @@ import networkx as nx
 
 # Function to process the graph creation
 def process_graph(edges_file, nodes_file, graph_filename, multiplex_filename):
-    # Load data from JSON files
+    # Load data_WS2425 from JSON files
     with open(edges_file, 'r') as json_file:
         edges_dict = json.load(json_file)
 
@@ -24,12 +24,12 @@ def process_graph(edges_file, nodes_file, graph_filename, multiplex_filename):
 
     # Create the directed multigraph (multiplex) and add edges for each type
     G_multi = nx.MultiDiGraph()
-    edge_types = ["friend", "value", "politics", "study", "council", "leftright", "sentiment"]
+    edge_types = ["aquaintance", "leftright", "sentiment", "friend", "value", "politics", "study", "council"]
     for source, targets in edges_dict.items():
         for target, edge_attributes in targets.items():
             for edge_type in edge_types:
                 if edge_type in edge_attributes:
-                    if edge_type in ["friend", "value", "politics", "study", "council"]:
+                    if edge_type in ["friend", "value", "politics", "study", "council", "aquaintance"]:
                         if edge_attributes[edge_type]:
                             G_multi.add_edge(source, target, type=edge_type)
                     elif edge_type == "leftright" and edge_attributes[edge_type] is not None:
@@ -47,15 +47,22 @@ def process_graph(edges_file, nodes_file, graph_filename, multiplex_filename):
 
 # Process W2 and W1 datasets
 process_graph(
-    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA/edges_W2.json',
-    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA/nodes_W2.json',
-    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA/graph_edge_attributes_w2.gml',
-    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA/multiplex_graph_w2.gml'
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/edges_W1.json',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/nodes_W1.json',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/graph_edge_attributes_w1.gml',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/multiplex_graph_w1.gml'
 )
 
 process_graph(
-    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA/edges_W1.json',
-    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA/nodes_W1.json',
-    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA/graph_edge_attributes_w1.gml',
-    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA/multiplex_graph_w1.gml'
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/edges_W2.json',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/nodes_W2.json',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/graph_edge_attributes_w2.gml',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/multiplex_graph_w2.gml'
+)
+
+process_graph(
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/edges_W3.json',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/nodes_W3.json',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/graph_edge_attributes_w3.gml',
+    '/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA/multiplex_graph_w3.gml'
 )

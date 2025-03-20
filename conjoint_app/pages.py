@@ -6,13 +6,17 @@ from . import *
 
 class Welcome(Page): #1
     form_model = Player
-    form_fields = ['lang', 'time_start', 'device_type', 'operating_system', 'browser', 'use_of_device']
+    form_fields = ['lang', 
+                   'time_start', 
+                   'device_type', 
+                   'operating_system', 
+                   'browser', 
+                   'use_of_device']
     
     def before_next_page(self):
         self.participant.vars['language'] = self.player.lang
 
         participant_label = self.participant.label
         self.participant.vars['participant_label'] = participant_label
-
 
 page_sequence = [Welcome] 

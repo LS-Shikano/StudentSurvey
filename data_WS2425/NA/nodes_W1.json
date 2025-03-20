@@ -1,42 +1,23 @@
 {
-    "wer": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 3.0,
-        "partyvote": -999,
-        "age": 45.0,
-        "ocu_father": 0.0,
-        "ocu_mother": 0.0,
-        "edu_father": 3.0,
-        "edz_mother": 2.0
-    },
-    "ttz": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.7,
-        "partyvote": -999,
-        "age": 56.0,
-        "ocu_father": 0.0,
-        "ocu_mother": 1.0,
-        "edu_father": 2.0,
-        "edz_mother": 1.0
-    },
     "kru": {
         "leftrightself": 0,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 3.0,
         "age": 22.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 2,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "4yx": {
         "leftrightself": 0,
@@ -49,7 +30,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 0.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 2,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "qew": {
         "leftrightself": 1,
@@ -62,7 +50,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "k9w": {
         "leftrightself": 5,
@@ -75,7 +70,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 3,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "3ab": {
         "leftrightself": 0,
@@ -88,7 +90,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "ngv": {
         "leftrightself": 0,
@@ -101,7 +110,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "k4w": {
         "leftrightself": 0,
@@ -114,7 +130,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 3,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "dnk": {
         "leftrightself": 3,
@@ -127,7 +150,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 0.0
+        "edu_mother": 0.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "tdq": {
         "leftrightself": 2,
@@ -140,20 +170,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 0.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 3,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "rf4": {
         "leftrightself": 0,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": -999,
         "age": 27.0,
         "ocu_father": 0.0,
         "ocu_mother": 0.0,
         "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 3,
+        "politics_question_six": 3,
+        "politics_question_seven": -999
     },
     "b3p": {
         "leftrightself": 0,
@@ -166,20 +210,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
-    },
-    "4x3": {
-        "leftrightself": 7,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.0,
-        "partyvote": 8.0,
-        "age": 22.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 3,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "gcu": {
         "leftrightself": 0,
@@ -192,20 +230,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 4.0
-    },
-    "c9f": {
-        "leftrightself": 11,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 3.0,
-        "partyvote": 1.0,
-        "age": 23.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "yuc": {
         "leftrightself": 3,
@@ -218,7 +250,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 4,
+        "politics_question_four": 1,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "ent": {
         "leftrightself": 1,
@@ -231,7 +270,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "eh3": {
         "leftrightself": 0,
@@ -244,7 +290,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 0.0,
         "edu_father": 4.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "bs3": {
         "leftrightself": 0,
@@ -257,7 +310,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "t94": {
         "leftrightself": 4,
@@ -270,20 +330,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 5,
+        "politics_question_two": 1,
+        "politics_question_three": 5,
+        "politics_question_four": 1,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "gye": {
         "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 3.0,
         "age": 18.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 3,
+        "politics_question_two": 1,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "tpu": {
         "leftrightself": 0,
@@ -296,20 +370,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
-    },
-    "wfr": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.7,
-        "partyvote": 2.0,
-        "age": 21.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 0.0,
-        "edu_father": 4.0,
-        "edz_mother": 2.0
+        "edu_mother": 4.0,
+        "politics_question_one": 2,
+        "politics_question_two": -999,
+        "politics_question_three": 3,
+        "politics_question_four": 3,
+        "politics_question_five": 2,
+        "politics_question_six": 2,
+        "politics_question_seven": 3
     },
     "m49": {
         "leftrightself": 2,
@@ -322,7 +390,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "ugr": {
         "leftrightself": 3,
@@ -335,7 +410,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 0.0,
         "edu_father": 4.0,
-        "edz_mother": -999.0
+        "edu_mother": -999.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "yg9": {
         "leftrightself": 0,
@@ -348,7 +430,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 1,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "xyb": {
         "leftrightself": 3,
@@ -361,7 +450,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 2,
+        "politics_question_two": -999,
+        "politics_question_three": 2,
+        "politics_question_four": 2,
+        "politics_question_five": 2,
+        "politics_question_six": 2,
+        "politics_question_seven": 4
     },
     "ktd": {
         "leftrightself": 4,
@@ -374,7 +470,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "mry": {
         "leftrightself": 5,
@@ -387,7 +490,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "dss": {
         "leftrightself": 1,
@@ -400,7 +510,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 3,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "qay": {
         "leftrightself": 0,
@@ -413,7 +530,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 0.0,
         "edu_father": 3.0,
-        "edz_mother": 0.0
+        "edu_mother": 0.0,
+        "politics_question_one": 3,
+        "politics_question_two": -999,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 4
     },
     "hn9": {
         "leftrightself": 11,
@@ -426,7 +550,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 5,
+        "politics_question_four": 1,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "qx3": {
         "leftrightself": 3,
@@ -439,7 +570,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 4
     },
     "mcb": {
         "leftrightself": 6,
@@ -452,20 +590,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "ryn": {
         "leftrightself": 0,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 3.0,
         "age": 24.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 3,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "nut": {
         "leftrightself": 5,
@@ -478,33 +630,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
-    },
-    "fqt": {
-        "leftrightself": 3,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.7,
-        "partyvote": 3.0,
-        "age": 23.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 1.0
-    },
-    "hof": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.0,
-        "partyvote": 3.0,
-        "age": 24.0,
-        "ocu_father": -999.0,
-        "ocu_mother": 0.0,
-        "edu_father": 0.0,
-        "edz_mother": 0.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "mdx": {
         "leftrightself": 6,
@@ -517,7 +650,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": -999.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "bqr": {
         "leftrightself": 5,
@@ -530,7 +670,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "spg": {
         "leftrightself": 4,
@@ -543,7 +690,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "4yf": {
         "leftrightself": 4,
@@ -556,33 +710,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 2.0
-    },
-    "hvs": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.0,
-        "partyvote": 2.0,
-        "age": 22.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 3.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 3,
+        "politics_question_four": 1,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "rht": {
         "leftrightself": 0,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 3.0,
         "age": 20.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": -999.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "9he": {
         "leftrightself": 0,
@@ -595,7 +750,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": -999,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "dmd": {
         "leftrightself": 6,
@@ -608,7 +770,14 @@
         "ocu_father": -999.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 3,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "tuw": {
         "leftrightself": 3,
@@ -621,7 +790,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "cnu": {
         "leftrightself": 3,
@@ -634,7 +810,14 @@
         "ocu_father": -999.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "v3e": {
         "leftrightself": 5,
@@ -647,7 +830,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 5,
+        "politics_question_three": 5,
+        "politics_question_four": 5,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "e4u": {
         "leftrightself": 5,
@@ -660,7 +850,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 3,
+        "politics_question_two": 2,
+        "politics_question_three": 3,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "yer": {
         "leftrightself": 4,
@@ -673,7 +870,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "vrm": {
         "leftrightself": 3,
@@ -686,7 +890,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 2,
+        "politics_question_four": 3,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "vnb": {
         "leftrightself": 0,
@@ -699,7 +910,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 0.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": -999,
+        "politics_question_three": 5,
+        "politics_question_four": -999,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "3x9": {
         "leftrightself": 0,
@@ -712,33 +930,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 0.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
-    },
-    "hmu": {
-        "leftrightself": 9,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 3.7,
-        "partyvote": 1.0,
-        "age": 18.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 3,
+        "politics_question_two": 2,
+        "politics_question_three": 3,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 3
     },
     "kwc": {
         "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 3.0,
         "age": 18.0,
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "uge": {
         "leftrightself": 0,
@@ -751,33 +970,54 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": -999,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "ecd": {
         "leftrightself": 0,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 5.0,
         "age": 19.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "49w": {
         "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 1.0,
         "age": 19.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "ahn": {
         "leftrightself": 0,
@@ -790,7 +1030,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 1,
+        "politics_question_five": 5,
+        "politics_question_six": 3,
+        "politics_question_seven": 2
     },
     "bpy": {
         "leftrightself": 3,
@@ -803,7 +1050,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "pgx": {
         "leftrightself": 3,
@@ -816,20 +1070,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
-    },
-    "rbb": {
-        "leftrightself": 5,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.7,
-        "partyvote": 3.0,
-        "age": 20.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 2.0,
-        "edz_mother": 3.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "3eh": {
         "leftrightself": 4,
@@ -842,7 +1090,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "fv4": {
         "leftrightself": 3,
@@ -855,7 +1110,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 1,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": -999,
+        "politics_question_seven": -999
     },
     "sva": {
         "leftrightself": 0,
@@ -868,7 +1130,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": -999
     },
     "fvy": {
         "leftrightself": 6,
@@ -881,7 +1150,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 3
     },
     "3xt": {
         "leftrightself": 8,
@@ -894,7 +1170,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "yfk": {
         "leftrightself": 3,
@@ -907,7 +1190,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "hch": {
         "leftrightself": 0,
@@ -920,7 +1210,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 2,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "uhg": {
         "leftrightself": 3,
@@ -933,7 +1230,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 2,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "ktb": {
         "leftrightself": 3,
@@ -946,7 +1250,14 @@
         "ocu_father": -999.0,
         "ocu_mother": 1.0,
         "edu_father": -999.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 1,
+        "politics_question_two": -999,
+        "politics_question_three": 4,
+        "politics_question_four": -999,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 4
     },
     "nrn": {
         "leftrightself": 3,
@@ -959,7 +1270,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "mbv": {
         "leftrightself": 7,
@@ -972,20 +1290,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
-    },
-    "th3": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": -888.0,
-        "partyvote": 8.0,
-        "age": 22.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "dxh": {
         "leftrightself": 7,
@@ -998,7 +1310,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "evs": {
         "leftrightself": 6,
@@ -1011,7 +1330,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 0.0,
         "edu_father": 3.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": -999,
+        "politics_question_four": 2,
+        "politics_question_five": 3,
+        "politics_question_six": -999,
+        "politics_question_seven": 3
     },
     "crq": {
         "leftrightself": 4,
@@ -1024,7 +1350,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 2,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "knc": {
         "leftrightself": 0,
@@ -1037,20 +1370,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
-    },
-    "yte": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.3,
-        "partyvote": 1.0,
-        "age": 22.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "ngr": {
         "leftrightself": 5,
@@ -1063,20 +1390,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
-    },
-    "pkt": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.0,
-        "partyvote": 4.0,
-        "age": 23.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 3,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 1,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "bey": {
         "leftrightself": 0,
@@ -1089,7 +1410,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 4
     },
     "ddh": {
         "leftrightself": 2,
@@ -1102,7 +1430,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "9ra": {
         "leftrightself": 3,
@@ -1115,7 +1450,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 2,
+        "politics_question_two": 1,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": -999,
+        "politics_question_six": -999,
+        "politics_question_seven": -999
     },
     "ebs": {
         "leftrightself": 4,
@@ -1128,7 +1470,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "h9k": {
         "leftrightself": 3,
@@ -1141,7 +1490,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "gga": {
         "leftrightself": 0,
@@ -1154,7 +1510,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 3,
+        "politics_question_two": 3,
+        "politics_question_three": 2,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "saf": {
         "leftrightself": 6,
@@ -1167,20 +1530,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "whx": {
         "leftrightself": 2,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": -999,
         "age": 19.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 3,
+        "politics_question_two": -999,
+        "politics_question_three": 2,
+        "politics_question_four": -999,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 4
     },
     "hhb": {
         "leftrightself": 6,
@@ -1193,7 +1570,14 @@
         "ocu_father": -999.0,
         "ocu_mother": 1.0,
         "edu_father": -999.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "buv": {
         "leftrightself": 3,
@@ -1206,20 +1590,14 @@
         "ocu_father": 1.0,
         "ocu_mother": -999.0,
         "edu_father": 4.0,
-        "edz_mother": 1.0
-    },
-    "vxf": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 4.0,
-        "partyvote": 3.0,
-        "age": 21.0,
-        "ocu_father": 0.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": -999,
+        "politics_question_three": 2,
+        "politics_question_four": -999,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": -999
     },
     "ceh": {
         "leftrightself": 3,
@@ -1232,7 +1610,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 3,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 3,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "cpk": {
         "leftrightself": 5,
@@ -1245,7 +1630,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 3,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "kry": {
         "leftrightself": 6,
@@ -1258,7 +1650,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": -999,
+        "politics_question_two": 2,
+        "politics_question_three": 1,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 3
     },
     "ywc": {
         "leftrightself": 6,
@@ -1271,7 +1670,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 2,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 3
     },
     "qhv": {
         "leftrightself": 4,
@@ -1284,7 +1690,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 1,
+        "politics_question_two": -999,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "9xy": {
         "leftrightself": 0,
@@ -1297,7 +1710,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "kmw": {
         "leftrightself": 0,
@@ -1310,7 +1730,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 3,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "h9x": {
         "leftrightself": 5,
@@ -1323,7 +1750,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 2,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "e3v": {
         "leftrightself": 0,
@@ -1336,20 +1770,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "vgv": {
         "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 1.0,
         "age": 18.0,
         "ocu_father": -999.0,
         "ocu_mother": 1.0,
         "edu_father": -999.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "wrc": {
         "leftrightself": 4,
@@ -1362,7 +1810,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 2,
+        "politics_question_four": 3,
+        "politics_question_five": 3,
+        "politics_question_six": 2,
+        "politics_question_seven": 4
     },
     "amu": {
         "leftrightself": 5,
@@ -1375,7 +1830,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "mhp": {
         "leftrightself": 6,
@@ -1388,7 +1850,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 0.0,
         "edu_father": 3.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": -999,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "ucp": {
         "leftrightself": 4,
@@ -1401,7 +1870,14 @@
         "ocu_father": -999.0,
         "ocu_mother": 1.0,
         "edu_father": -999.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "ffe": {
         "leftrightself": 3,
@@ -1414,7 +1890,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "fep": {
         "leftrightself": 4,
@@ -1427,7 +1910,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 5,
+        "politics_question_two": 1,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "gth": {
         "leftrightself": 0,
@@ -1440,7 +1930,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 3,
+        "politics_question_four": -999,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "4dk": {
         "leftrightself": 0,
@@ -1453,7 +1950,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "3md": {
         "leftrightself": 0,
@@ -1466,7 +1970,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "gb4": {
         "leftrightself": 1,
@@ -1479,20 +1990,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 2.0
-    },
-    "dbk": {
-        "leftrightself": 3,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.0,
-        "partyvote": 2.0,
-        "age": 19.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 3,
+        "politics_question_six": 2,
+        "politics_question_seven": 4
     },
     "9fx": {
         "leftrightself": 0,
@@ -1505,7 +2010,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "3hc": {
         "leftrightself": 0,
@@ -1518,7 +2030,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "9ut": {
         "leftrightself": 0,
@@ -1531,7 +2050,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "hmt": {
         "leftrightself": 0,
@@ -1544,7 +2070,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "uqy": {
         "leftrightself": 0,
@@ -1557,7 +2090,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 4
     },
     "add": {
         "leftrightself": 2,
@@ -1570,20 +2110,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
-    },
-    "kvq": {
-        "leftrightself": 3,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.3,
-        "partyvote": 3.0,
-        "age": 20.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "tcc": {
         "leftrightself": 3,
@@ -1596,7 +2130,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "bgq": {
         "leftrightself": 0,
@@ -1609,7 +2150,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 1,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "39b": {
         "leftrightself": 3,
@@ -1622,20 +2170,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
-    },
-    "hoc": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 1.7,
-        "partyvote": 3.0,
-        "age": 19.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "vgg": {
         "leftrightself": 5,
@@ -1648,20 +2190,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 3.0
-    },
-    "avr": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 3.0,
-        "partyvote": -999,
-        "age": 21.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 4.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "qqt": {
         "leftrightself": 0,
@@ -1674,7 +2210,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 0.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 2,
+        "politics_question_two": 3,
+        "politics_question_three": 1,
+        "politics_question_four": 1,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "mw9": {
         "leftrightself": 3,
@@ -1687,7 +2230,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "bqh": {
         "leftrightself": 2,
@@ -1700,7 +2250,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": -999,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 3,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "udg": {
         "leftrightself": 5,
@@ -1713,7 +2270,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 2,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "bga": {
         "leftrightself": 4,
@@ -1726,7 +2290,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "uwx": {
         "leftrightself": 5,
@@ -1739,7 +2310,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 3,
+        "politics_question_six": 3,
+        "politics_question_seven": 4
     },
     "vkv": {
         "leftrightself": 0,
@@ -1752,20 +2330,34 @@
         "ocu_father": -999.0,
         "ocu_mother": 1.0,
         "edu_father": -999.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": -999,
+        "politics_question_seven": 4
     },
     "rxs": {
         "leftrightself": 3,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 1.0,
         "age": -999,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": -999
     },
     "wen": {
         "leftrightself": 7,
@@ -1778,20 +2370,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "byq": {
         "leftrightself": 1,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 5.0,
         "age": 19.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 1,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "ack": {
         "leftrightself": 0,
@@ -1804,7 +2410,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 3,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "4ww": {
         "leftrightself": 0,
@@ -1817,7 +2430,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "hry": {
         "leftrightself": 7,
@@ -1830,7 +2450,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 0.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "knb": {
         "leftrightself": 2,
@@ -1843,7 +2470,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "vtt": {
         "leftrightself": 5,
@@ -1856,7 +2490,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 2,
+        "politics_question_two": 4,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 5
     },
     "3fv": {
         "leftrightself": 0,
@@ -1869,7 +2510,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "p49": {
         "leftrightself": 3,
@@ -1882,7 +2530,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 3,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "av4": {
         "leftrightself": 3,
@@ -1895,7 +2550,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "qxn": {
         "leftrightself": 9,
@@ -1908,7 +2570,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 3,
+        "politics_question_four": 1,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "rbc": {
         "leftrightself": 0,
@@ -1921,7 +2590,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 0.0,
         "edu_father": 3.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 3,
+        "politics_question_five": 3,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "np4": {
         "leftrightself": 0,
@@ -1934,7 +2610,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     },
     "cfw": {
         "leftrightself": 7,
@@ -1947,7 +2630,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 0.0,
         "edu_father": 2.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "dyb": {
         "leftrightself": 3,
@@ -1960,20 +2650,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
-    },
-    "gpt": {
-        "leftrightself": 8,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.0,
-        "partyvote": 2.0,
-        "age": 25.0,
-        "ocu_father": 1.0,
-        "ocu_mother": -999.0,
-        "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "afp": {
         "leftrightself": 3,
@@ -1986,7 +2670,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 3,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "asv": {
         "leftrightself": 2,
@@ -1999,7 +2690,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 3,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 2,
+        "politics_question_six": 2,
+        "politics_question_seven": 4
     },
     "cyg": {
         "leftrightself": 0,
@@ -2012,20 +2710,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
-    },
-    "xyg": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 3.3,
-        "partyvote": 2.0,
-        "age": 18.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 3,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "yqq": {
         "leftrightself": 4,
@@ -2038,20 +2730,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
-    },
-    "tfp": {
-        "leftrightself": 11,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.0,
-        "partyvote": 2.0,
-        "age": 28.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "dph": {
         "leftrightself": 2,
@@ -2064,20 +2750,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
-    },
-    "abc": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 3.7,
-        "partyvote": 7.0,
-        "age": 25.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "ech": {
         "leftrightself": 8,
@@ -2090,20 +2770,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
-    },
-    "p23": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 3.3,
-        "partyvote": 2.0,
-        "age": 26.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 3.0,
-        "edz_mother": 1.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 4,
+        "politics_question_five": 3,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "hqf": {
         "leftrightself": 5,
@@ -2116,7 +2790,14 @@
         "ocu_father": -999.0,
         "ocu_mother": 0.0,
         "edu_father": -999.0,
-        "edz_mother": 0.0
+        "edu_mother": 0.0,
+        "politics_question_one": 3,
+        "politics_question_two": 3,
+        "politics_question_three": 3,
+        "politics_question_four": 3,
+        "politics_question_five": 3,
+        "politics_question_six": 3,
+        "politics_question_seven": 3
     },
     "yfg": {
         "leftrightself": 4,
@@ -2129,7 +2810,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "mwh": {
         "leftrightself": 3,
@@ -2142,20 +2830,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 1.0
-    },
-    "nek": {
-        "leftrightself": 0,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.7,
-        "partyvote": 4.0,
-        "age": 24.0,
-        "ocu_father": 1.0,
-        "ocu_mother": -999.0,
-        "edu_father": -999.0,
-        "edz_mother": 3.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 3,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "ara": {
         "leftrightself": 8,
@@ -2168,7 +2850,14 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "gdg": {
         "leftrightself": 3,
@@ -2181,33 +2870,54 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 4,
+        "politics_question_two": 4,
+        "politics_question_three": 3,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "xtk": {
         "leftrightself": 4,
         "gender": 1.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 3.0,
         "age": 20.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 3,
+        "politics_question_three": 3,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "9fs": {
         "leftrightself": 4,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 3.0,
         "age": 21.0,
         "ocu_father": 0.0,
         "ocu_mother": 0.0,
         "edu_father": 1.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 1,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "4gw": {
         "leftrightself": 5,
@@ -2220,7 +2930,14 @@
         "ocu_father": 0.0,
         "ocu_mother": 1.0,
         "edu_father": 2.0,
-        "edz_mother": 2.0
+        "edu_mother": 2.0,
+        "politics_question_one": 5,
+        "politics_question_two": 4,
+        "politics_question_three": 5,
+        "politics_question_four": 5,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 5
     },
     "mbf": {
         "leftrightself": 5,
@@ -2233,20 +2950,34 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 4,
+        "politics_question_four": 4,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 4
     },
     "ytr": {
         "leftrightself": 8,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 6.0,
         "age": 19.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 5,
+        "politics_question_two": 2,
+        "politics_question_three": 5,
+        "politics_question_four": 1,
+        "politics_question_five": 4,
+        "politics_question_six": 3,
+        "politics_question_seven": 4
     },
     "sbf": {
         "leftrightself": 0,
@@ -2259,59 +2990,54 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 4.0,
-        "edz_mother": 1.0
-    },
-    "ydy": {
-        "leftrightself": 2,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.7,
-        "partyvote": 1.0,
-        "age": 21.0,
-        "ocu_father": -999.0,
-        "ocu_mother": 1.0,
-        "edu_father": -999.0,
-        "edz_mother": 4.0
-    },
-    "3ya": {
-        "leftrightself": 4,
-        "gender": 2.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 3.0,
-        "partyvote": 3.0,
-        "age": 25.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 4.0,
-        "edz_mother": 4.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 1,
+        "politics_question_three": 3,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 4,
+        "politics_question_seven": 3
     },
     "cyw": {
         "leftrightself": 5,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 8.0,
         "age": 26.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 4.0
+        "edu_mother": 4.0,
+        "politics_question_one": 3,
+        "politics_question_two": 1,
+        "politics_question_three": 2,
+        "politics_question_four": 1,
+        "politics_question_five": 3,
+        "politics_question_six": 3,
+        "politics_question_seven": 3
     },
     "dxp": {
         "leftrightself": 3,
         "gender": 2.0,
         "income": -999,
         "rent": -999,
-        "grade": -888.0,
+        "grade": -999,
         "partyvote": 3.0,
         "age": 19.0,
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 1.0,
-        "edz_mother": 1.0
+        "edu_mother": 1.0,
+        "politics_question_one": 4,
+        "politics_question_two": 2,
+        "politics_question_three": 4,
+        "politics_question_four": 2,
+        "politics_question_five": 5,
+        "politics_question_six": 4,
+        "politics_question_seven": 4
     },
     "vcb": {
         "leftrightself": 7,
@@ -2324,19 +3050,13 @@
         "ocu_father": 1.0,
         "ocu_mother": 1.0,
         "edu_father": 3.0,
-        "edz_mother": 3.0
-    },
-    "luk": {
-        "leftrightself": 0,
-        "gender": 1.0,
-        "income": -999,
-        "rent": -999,
-        "grade": 2.7,
-        "partyvote": 3.0,
-        "age": 23.0,
-        "ocu_father": 1.0,
-        "ocu_mother": 1.0,
-        "edu_father": 3.0,
-        "edz_mother": 3.0
+        "edu_mother": 3.0,
+        "politics_question_one": 5,
+        "politics_question_two": 3,
+        "politics_question_three": 5,
+        "politics_question_four": 2,
+        "politics_question_five": 4,
+        "politics_question_six": 5,
+        "politics_question_seven": 5
     }
 }

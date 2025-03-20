@@ -1,0 +1,283 @@
+---
+title: "SS_Analysis"
+format: html
+editor: visual
+---
+
+```{r}
+#install.packages("RSiena")
+```
+
+```{r}
+#library(reticulate)
+#use_python("/Users/ramius/.pyenv/versions/3.12.0/bin", required = TRUE)
+
+library(networkdata)
+library(network)
+library(intergraph)
+library(jsonlite)
+library(tidyverse)
+
+num_cores <- parallel::detectCores()
+```
+
+------------------------------------------------------------------------
+
+```{r}
+setwd("~/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA")
+```
+
+```{r}
+nodes_W1_json <- fromJSON("nodes_W1.json")
+edges_W1_json <- fromJSON("edges_W1.json")
+
+nodes_W2_json <- fromJSON("nodes_W2.json")
+edges_W2_json <- fromJSON("edges_W2.json")
+
+nodes_W3_json <- fromJSON("nodes_W3.json")
+edges_W3_json <- fromJSON("edges_W3.json")
+```
+
+```{r}
+# Function to convert JSON-like list to network graph
+edge_json_to_frame <- function(json_data) {
+  # Initialize an empty edge list
+  edge_list <- data.frame(from = character(), to = character(), relation = character(), value = character(), stringsAsFactors = FALSE)
+
+  # Loop through each person's connections
+  for (person in names(json_data)) {
+    connections <- json_data[[person]]  # Get this person's connections
+
+    for (contact in names(connections)) {
+      for (relation in names(connections[[contact]])) {
+        value <- connections[[contact]][[relation]]  # Get the value (TRUE/FALSE or numeric)
+
+        # Store everything (TRUE, FALSE, numeric) as characters
+        if (!is.null(value)) {
+          edge_list <- rbind(edge_list, data.frame(from = person, to = contact, relation = relation, value = as.character(value), stringsAsFactors = FALSE))
+        }
+      }
+    }
+  }
+
+  return(edge_list)
+}
+```
+
+```{r}
+node_json_to_frame <- function(json_data) {
+  # Get all unique attribute names
+  all_attributes <- unique(unlist(lapply(json_data, names)))
+
+  # Create an empty data frame with all attributes as columns
+  node_list <- data.frame(id = names(json_data), stringsAsFactors = FALSE)
+
+  # Add empty columns for each attribute
+  for (attr in all_attributes) {
+    node_list[[attr]] <- NA
+  }
+
+  # Populate the data frame
+  for (person in names(json_data)) {
+    attributes <- json_data[[person]]
+
+    for (attr in names(attributes)) {
+      node_list[node_list$id == person, attr] <- attributes[[attr]]
+    }
+  }
+
+  return(node_list)
+}
+```
+
+```{r}
+df_nodes_W1 <- node_json_to_frame(nodes_W1_json)
+df_nodes_W2 <- node_json_to_frame(nodes_W2_json)
+df_nodes_W3 <- node_json_to_frame(nodes_W3_json)
+
+df_edges_W1 <- edge_json_to_frame(edges_W1_json)
+df_edges_W2 <- edge_json_to_frame(edges_W2_json)
+df_edges_W3 <- edge_json_to_frame(edges_W3_json)
+```
+
+```{r}
+
+df_to_net <- function(df, id_list) {
+  # Initialize an empty list to store networks
+  net_list <- list()
+  
+  df <- df[df$value != FALSE, ]
+  
+  # Step 2: Loop through each unique 'relation' value
+  for (name in unique(df$relation)) {
+    # Filter data for the current relation
+    df_filtered <- df[df$relation == name, ]
+    
+    if (all(df_filtered$value != TRUE)) {
+      edgelist <- data.frame(from = df_filtered$from, 
+                             to = df_filtered$to,
+                             weight = df_filtered$value)
+      net <- network(x = edgelist, directed = TRUE, vertices = data.frame(id_list))
+    }
+    else {
+      edgelist <- data.frame(from = df_filtered$from, to = df_filtered$to)
+      net <- network(x = edgelist, directed = TRUE, vertices = data.frame(id_list))
+    }
+    
+    # Store the igraph network in the list
+    net_list[[name]] <- net
+  }
+  
+  return(net_list)
+}
+```
+
+```{r}
+networks_W1 <- df_to_net(df_edges_W1, df_nodes_W1$id)
+networks_W2 <- df_to_net(df_edges_W2, df_nodes_W2$id)
+networks_W3 <- df_to_net(df_edges_W3, df_nodes_W3$id)
+```
+
+```{r}
+wave_generator <- function(df_nodes, df_relations, base) {
+  # Create a copy of the base network
+  wave_net <- base
+  
+  # Loop through node attributes and set them in the network
+  for (name in names(df_nodes)) {
+    # Ensure you're referencing the column properly
+    network::set.vertex.attribute(wave_net, name, df_nodes[[name]])
+  }
+  
+  # Loop through relations and set them as edge attributes
+  for (relation in names(df_relations)) {
+    # Set edge attribute for the given relation
+    network::set.network.attribute(wave_net, relation, df_relations[[relation]])
+  }
+  
+  return(wave_net)
+}
+```
+
+```{r}
+
+# Example call to the function with df_nodes_W1 and networks_W1
+W1 <- wave_generator(df_nodes_W1, networks_W1, networks_W1$friend)
+W2 <- wave_generator(df_nodes_W2, networks_W2, networks_W2$friend)
+W3 <- wave_generator(df_nodes_W3, networks_W3, networks_W3$friend)
+```
+
+------------------------------------------------------------------------
+
+```{r}
+set.seed(1012)
+
+mod_homoph_mutual1 <- ergm(W3 ~ edges + 
+                             absdiff("age") + 
+                             absdiff("leftrightself") + 
+                             absdiff("grade") +
+                             absdiff("politics_question_one") +
+                             absdiff("politics_question_two") +
+                             absdiff("politics_question_three") +
+                             absdiff("politics_question_four") +
+                             absdiff("politics_question_five") +
+                             absdiff("politics_question_six") +
+                             absdiff("politics_question_seven") +
+                             absdiff("rent") +
+                             absdiff("semester_of_study") +
+                             nodematch("gender") +
+                             nodematch("study_program") +
+                             nodematch("fresherscamp_student") +
+                             nodematch("freshersweek_student") +
+                             nodematch("partyvote") +
+                             nodefactor("partyvote") +
+                             mutual,
+                             #gwesp(decay = .1, fixed = T), 
+                           control = control.ergm(MCMC.burnin = 10000, 
+                                                    MCMC.samplesize = 2000, 
+                                                    parallel = 4, 
+                                                    parallel.type = "FORK"))
+
+summary(mod_homoph_mutual1)
+```
+
+```{r}
+mcmc.diagnostics(mod_homoph_mutual1, vars.per.page = 4)
+
+```
+
+```{r}
+
+gof_mod_homoph_mutual1 <- gof(mod_homoph_mutual1, 
+                              GOF = ~ distance + espartners + model,
+                              control = control.gof.ergm(seed = 110))
+
+par(mfrow = c(1, 3)) 
+plot(gof_mod_homoph_mutual1)
+```
+
+------------------------------------------------------------------------
+
+```{r}
+library(sna)
+library(networkDynamic)
+
+net_dynamic_friend <- networkDynamic(network.list = list(W1, W2, W3))
+```
+
+```{r}
+library(tergm) 
+library(tsna)
+
+stergm_mod1 <- tergm(net_dynamic_friend ~ Form(~ edges) + Persist(~ edges),
+                     estimate = "CMLE", times = 0:2)
+
+summary(stergm_mod1)
+```
+
+```{r}
+stergm_mod3 <- tergm(net_dynamic_friend ~ 
+                        Form(~ edges +
+                               nodefactor("gender") +
+                               edgecov("value") +
+                               edgecov("politics") +
+                               edgecov("study") +
+                               absdiff("age") + 
+                               absdiff("leftrightself") + 
+                               absdiff("grade") + 
+                               nodefactor("partyvote")) +  
+                        Persist(~ edges + 
+                                  nodefactor("gender") +
+                                  edgecov("value") +
+                                  edgecov("politics") +
+                                  edgecov("study") +
+                                  absdiff("age") + 
+                                  absdiff("leftrightself") +
+                                  absdiff("grade") + 
+                                  nodefactor("partyvote")),  
+                      estimate = "CMLE", times = 0:2, 
+                      control = control.tergm(CMLE.ergm = 
+                                           control.ergm(MCMC.burnin = 50000, 
+                                                    MCMC.interval = 3000, 
+                                                    MCMC.samplesize = 6500)))
+
+summary(stergm_mod3)
+```
+
+```{r}
+set.seed(107)
+
+stergm_mod4 <- tergm(net_dynamic_friend ~ 
+                        Form(~ edges + 
+                               nodefactor("gender") +  
+                               edgecov("seating") + 
+                               gwesp(decay = .5, fixed = T)) + 
+                        Persist(~ edges +
+                                  nodefactor("gender") +
+                                  edgecov("seating")),
+                      estimate = "CMLE", times = 0:3, 
+                      control = control.tergm(CMLE.ergm = 
+                                           control.ergm(MCMC.burnin = 50000, 
+                                                    MCMC.interval = 3000, 
+                                                    MCMC.samplesize = 6500)))
+```

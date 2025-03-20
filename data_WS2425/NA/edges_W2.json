@@ -1,6 +1,7 @@
 {
     "ddh": {
         "ceh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -10,6 +11,7 @@
             "sentiment": 2
         },
         "kry": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -19,6 +21,7 @@
             "sentiment": 1
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -28,6 +31,7 @@
             "sentiment": 2
         },
         "hhb": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -37,6 +41,7 @@
             "sentiment": 2
         },
         "tdq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -46,6 +51,7 @@
             "sentiment": 2
         },
         "rbc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -55,6 +61,7 @@
             "sentiment": 2
         },
         "cnu": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -64,9 +71,9 @@
             "sentiment": 2
         }
     },
-    "evh": {},
     "bs3": {
         "kru": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -76,6 +83,7 @@
             "sentiment": 2
         },
         "k4w": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -85,6 +93,7 @@
             "sentiment": 0
         },
         "tuw": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -96,6 +105,7 @@
     },
     "k4w": {
         "yfg": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -105,6 +115,7 @@
             "sentiment": 1
         },
         "e4u": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -116,6 +127,7 @@
     },
     "39b": {
         "ech": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -125,6 +137,7 @@
             "sentiment": 1
         },
         "k9w": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -134,6 +147,7 @@
             "sentiment": 1
         },
         "tuw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -143,6 +157,7 @@
             "sentiment": 0
         },
         "ebs": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -152,6 +167,7 @@
             "sentiment": 1
         },
         "qx3": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -163,6 +179,7 @@
     },
     "m49": {
         "ffe": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -172,6 +189,7 @@
             "sentiment": 1
         },
         "byq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -181,6 +199,7 @@
             "sentiment": 1
         },
         "uhg": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -190,6 +209,7 @@
             "sentiment": 1
         },
         "t94": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -201,6 +221,7 @@
     },
     "cyw": {
         "kmw": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -210,6 +231,7 @@
             "sentiment": 2
         },
         "4yx": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -221,6 +243,7 @@
     },
     "bqr": {
         "ytr": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -230,6 +253,7 @@
             "sentiment": 1
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -239,6 +263,7 @@
             "sentiment": 1
         },
         "knb": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -250,15 +275,7 @@
     },
     "e4u": {
         "9xy": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 2,
-            "sentiment": 1
-        },
-        "pkt": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -270,6 +287,7 @@
     },
     "vgv": {
         "3md": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -279,6 +297,7 @@
             "sentiment": 2
         },
         "amu": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -288,6 +307,7 @@
             "sentiment": 1
         },
         "rbc": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -295,19 +315,11 @@
             "council": true,
             "leftright": 5,
             "sentiment": 1
-        },
-        "xvg": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 2
         }
     },
     "xtk": {
         "ngv": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -317,6 +329,7 @@
             "sentiment": 1
         },
         "qx3": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -326,6 +339,7 @@
             "sentiment": 0
         },
         "ywc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -335,6 +349,7 @@
             "sentiment": 2
         },
         "nrn": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -346,6 +361,7 @@
     },
     "uhg": {
         "ffe": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -355,6 +371,7 @@
             "sentiment": 2
         },
         "byq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -364,6 +381,7 @@
             "sentiment": 2
         },
         "m49": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -373,6 +391,7 @@
             "sentiment": 2
         },
         "t94": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -384,6 +403,7 @@
     },
     "4gw": {
         "vgg": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -393,6 +413,7 @@
             "sentiment": 2
         },
         "vgv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -401,16 +422,8 @@
             "leftright": 4,
             "sentiment": 0
         },
-        "dbk": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 0
-        },
         "3md": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -420,6 +433,7 @@
             "sentiment": 0
         },
         "9ra": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -431,6 +445,7 @@
     },
     "qqt": {
         "np4": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -440,6 +455,7 @@
             "sentiment": 0
         },
         "ryn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -451,6 +467,7 @@
     },
     "v3e": {
         "saf": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -460,6 +477,7 @@
             "sentiment": 2
         },
         "e3v": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -469,6 +487,7 @@
             "sentiment": 2
         },
         "av4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -478,6 +497,7 @@
             "sentiment": 2
         },
         "vcb": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -487,6 +507,7 @@
             "sentiment": 2
         },
         "qxn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -498,6 +519,7 @@
     },
     "gdg": {
         "k9w": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -507,6 +529,7 @@
             "sentiment": 1
         },
         "4dk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -516,6 +539,7 @@
             "sentiment": 1
         },
         "knc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -525,6 +549,7 @@
             "sentiment": 1
         },
         "gcu": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -534,28 +559,9 @@
             "sentiment": 2
         }
     },
-    "pkt": {
-        "ara": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 0
-        },
-        "9he": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 7,
-            "sentiment": 0
-        }
-    },
     "afp": {
         "knb": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -565,6 +571,7 @@
             "sentiment": 1
         },
         "bga": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -574,6 +581,7 @@
             "sentiment": 1
         },
         "dnk": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -583,6 +591,7 @@
             "sentiment": 1
         },
         "dxp": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -592,6 +601,7 @@
             "sentiment": 1
         },
         "3ab": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -601,6 +611,7 @@
             "sentiment": 1
         },
         "qew": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -612,6 +623,7 @@
     },
     "vnb": {
         "ytr": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -621,6 +633,7 @@
             "sentiment": 1
         },
         "rbc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -630,6 +643,7 @@
             "sentiment": 1
         },
         "ara": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -639,6 +653,7 @@
             "sentiment": 1
         },
         "bqr": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -648,6 +663,7 @@
             "sentiment": 1
         },
         "qxn": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -659,16 +675,8 @@
     },
     "ara": {},
     "4ww": {
-        "9gt": {
-            "friend": true,
-            "value": false,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 8,
-            "sentiment": 1
-        },
         "dmd": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -678,6 +686,7 @@
             "sentiment": 1
         },
         "ytr": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -687,6 +696,7 @@
             "sentiment": 1
         },
         "uwx": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -696,6 +706,7 @@
             "sentiment": 1
         },
         "mdx": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -707,6 +718,7 @@
     },
     "4dk": {
         "k9w": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -716,6 +728,7 @@
             "sentiment": 1
         },
         "knc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -725,6 +738,7 @@
             "sentiment": 1
         },
         "3x9": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -734,6 +748,7 @@
             "sentiment": 1
         },
         "rxs": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -745,6 +760,7 @@
     },
     "mhp": {
         "cfw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -754,6 +770,7 @@
             "sentiment": 0
         },
         "mbv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -763,6 +780,7 @@
             "sentiment": 0
         },
         "yfk": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -772,6 +790,7 @@
             "sentiment": 0
         },
         "hch": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -781,6 +800,7 @@
             "sentiment": 0
         },
         "whx": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -791,16 +811,8 @@
         }
     },
     "dmd": {
-        "9gt": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 8,
-            "sentiment": 1
-        },
         "4ww": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -812,6 +824,7 @@
     },
     "gth": {
         "tpu": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -821,6 +834,7 @@
             "sentiment": 1
         },
         "xyb": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -832,6 +846,7 @@
     },
     "byq": {
         "t94": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -841,6 +856,7 @@
             "sentiment": 2
         },
         "m49": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -850,6 +866,7 @@
             "sentiment": 2
         },
         "ffe": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -859,6 +876,7 @@
             "sentiment": 2
         },
         "uhg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -870,6 +888,7 @@
     },
     "knb": {
         "afp": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -879,6 +898,7 @@
             "sentiment": 0
         },
         "bga": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -888,6 +908,7 @@
             "sentiment": 2
         },
         "3eh": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -897,6 +918,7 @@
             "sentiment": 1
         },
         "fv4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -906,6 +928,7 @@
             "sentiment": 2
         },
         "3fv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -915,6 +938,7 @@
             "sentiment": 1
         },
         "mw9": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -924,6 +948,7 @@
             "sentiment": 2
         },
         "add": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -935,6 +960,7 @@
     },
     "ngv": {
         "xtk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -944,6 +970,7 @@
             "sentiment": 2
         },
         "qx3": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -953,6 +980,7 @@
             "sentiment": 1
         },
         "ywc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -962,6 +990,7 @@
             "sentiment": 2
         },
         "nrn": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -973,6 +1002,7 @@
     },
     "ceh": {
         "kry": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -982,6 +1012,7 @@
             "sentiment": 2
         },
         "gye": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -991,6 +1022,7 @@
             "sentiment": 1
         },
         "hry": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1001,46 +1033,9 @@
         }
     },
     "hmt": {},
-    "yte": {
-        "39b": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "qx3": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "tuw": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 2
-        },
-        "ech": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 8,
-            "sentiment": 2
-        }
-    },
     "ngr": {
         "hmt": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1050,6 +1045,7 @@
             "sentiment": 2
         },
         "ktd": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1059,6 +1055,7 @@
             "sentiment": 0
         },
         "ahn": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1070,6 +1067,7 @@
     },
     "9fx": {
         "uge": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1081,6 +1079,7 @@
     },
     "ryn": {
         "qqt": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1090,6 +1089,7 @@
             "sentiment": 0
         },
         "qay": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1099,6 +1099,7 @@
             "sentiment": 0
         },
         "sva": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1110,6 +1111,7 @@
     },
     "wrc": {
         "rbc": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -1119,6 +1121,7 @@
             "sentiment": 1
         },
         "np4": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1128,6 +1131,7 @@
             "sentiment": 2
         },
         "rht": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -1137,28 +1141,9 @@
             "sentiment": 1
         }
     },
-    "9gt": {
-        "9fx": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
-        }
-    },
     "yer": {
-        "hmu": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 10,
-            "sentiment": 2
-        },
         "ktd": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1170,6 +1155,7 @@
     },
     "tpu": {
         "gth": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1179,6 +1165,7 @@
             "sentiment": 2
         },
         "xyb": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1189,16 +1176,8 @@
         }
     },
     "p49": {
-        "xvg": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
         "yqq": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1208,6 +1187,7 @@
             "sentiment": 1
         },
         "9ra": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1219,6 +1199,7 @@
     },
     "tdq": {
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1228,6 +1209,7 @@
             "sentiment": 2
         },
         "ddh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -1237,6 +1219,7 @@
             "sentiment": 0
         },
         "cnu": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1248,6 +1231,7 @@
     },
     "yg9": {
         "fv4": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1258,19 +1242,9 @@
         }
     },
     "vcb": {},
-    "bxg": {
-        "np4": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 1
-        }
-    },
     "ech": {
         "39b": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1280,6 +1254,7 @@
             "sentiment": 1
         },
         "k9w": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -1289,6 +1264,7 @@
             "sentiment": 1
         },
         "tuw": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1298,6 +1274,7 @@
             "sentiment": 2
         },
         "ebs": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1309,6 +1286,7 @@
     },
     "3md": {
         "vgv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1318,15 +1296,7 @@
             "sentiment": 2
         },
         "amu": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "dbk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1336,18 +1306,10 @@
             "sentiment": 1
         },
         "9ra": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "xvg": {
-            "friend": true,
-            "value": true,
-            "politics": true,
             "study": true,
             "council": true,
             "leftright": 3,
@@ -1356,6 +1318,7 @@
     },
     "bgq": {
         "9xy": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1365,6 +1328,7 @@
             "sentiment": 1
         },
         "sva": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -1374,6 +1338,7 @@
             "sentiment": 1
         },
         "e4u": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1385,6 +1350,7 @@
     },
     "asv": {
         "pgx": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1394,6 +1360,7 @@
             "sentiment": 2
         },
         "gb4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1403,6 +1370,7 @@
             "sentiment": 2
         },
         "dph": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1414,6 +1382,7 @@
     },
     "hry": {
         "hhb": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1423,6 +1392,7 @@
             "sentiment": 0
         },
         "kry": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1432,6 +1402,7 @@
             "sentiment": 1
         },
         "ceh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1441,6 +1412,7 @@
             "sentiment": 1
         },
         "ddh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -1450,6 +1422,7 @@
             "sentiment": 1
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -1461,6 +1434,7 @@
     },
     "sva": {
         "9xy": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -1470,6 +1444,7 @@
             "sentiment": 1
         },
         "bgq": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -1481,6 +1456,7 @@
     },
     "xyb": {
         "tpu": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1490,6 +1466,7 @@
             "sentiment": 2
         },
         "gth": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1501,6 +1478,7 @@
     },
     "ytr": {
         "bqr": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -1510,6 +1488,7 @@
             "sentiment": 0
         },
         "gye": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1519,6 +1498,7 @@
             "sentiment": 1
         },
         "tdq": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1528,6 +1508,7 @@
             "sentiment": 0
         },
         "mdx": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1537,6 +1518,7 @@
             "sentiment": 1
         },
         "4ww": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -1546,6 +1528,7 @@
             "sentiment": 1
         },
         "uwx": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1557,6 +1540,7 @@
     },
     "3eh": {
         "vrm": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1564,26 +1548,9 @@
             "council": false,
             "leftright": 4,
             "sentiment": 1
-        },
-        "kvq": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "ycm": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 7,
-            "sentiment": 2
         },
         "fv4": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1593,6 +1560,7 @@
             "sentiment": 0
         },
         "tdq": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1602,6 +1570,7 @@
             "sentiment": 0
         },
         "buv": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1611,6 +1580,7 @@
             "sentiment": 0
         },
         "gye": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1620,6 +1590,7 @@
             "sentiment": 0
         },
         "qx3": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1629,6 +1600,7 @@
             "sentiment": 1
         },
         "3fv": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1638,6 +1610,7 @@
             "sentiment": 0
         },
         "mw9": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1649,6 +1622,7 @@
     },
     "k9w": {
         "tuw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -1658,6 +1632,7 @@
             "sentiment": 1
         },
         "ech": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -1669,6 +1644,7 @@
     },
     "t94": {
         "ffe": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1678,6 +1654,7 @@
             "sentiment": 1
         },
         "byq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1687,6 +1664,7 @@
             "sentiment": 0
         },
         "m49": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1696,6 +1674,7 @@
             "sentiment": 2
         },
         "uhg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1707,6 +1686,7 @@
     },
     "9fs": {
         "3ab": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1716,6 +1696,7 @@
             "sentiment": 2
         },
         "dxp": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1725,6 +1706,7 @@
             "sentiment": 2
         },
         "qew": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1734,6 +1716,7 @@
             "sentiment": 2
         },
         "tcc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1745,6 +1728,7 @@
     },
     "ktb": {
         "vtt": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1752,28 +1736,11 @@
             "council": false,
             "leftright": 5,
             "sentiment": 2
-        },
-        "tpf": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 1
-        },
-        "ny3": {
-            "friend": true,
-            "value": false,
-            "politics": true,
-            "study": true,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
         }
     },
     "bga": {
         "dnk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1783,6 +1750,7 @@
             "sentiment": 1
         },
         "afp": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -1792,6 +1760,7 @@
             "sentiment": 1
         },
         "knb": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1801,6 +1770,7 @@
             "sentiment": 1
         },
         "tcc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1810,6 +1780,7 @@
             "sentiment": 2
         },
         "qew": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1819,6 +1790,7 @@
             "sentiment": 1
         },
         "dxp": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1830,6 +1802,7 @@
     },
     "mcb": {
         "hn9": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1839,6 +1812,7 @@
             "sentiment": 1
         },
         "qxn": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1848,6 +1822,7 @@
             "sentiment": 1
         },
         "9ut": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1857,6 +1832,7 @@
             "sentiment": 1
         },
         "dxh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1866,6 +1842,7 @@
             "sentiment": 1
         },
         "uwx": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -1877,6 +1854,7 @@
     },
     "ffe": {
         "byq": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1886,6 +1864,7 @@
             "sentiment": 2
         },
         "m49": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1895,6 +1874,7 @@
             "sentiment": 2
         },
         "uhg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1904,6 +1884,7 @@
             "sentiment": 2
         },
         "t94": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -1915,6 +1896,7 @@
     },
     "kwc": {
         "ecd": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1924,6 +1906,7 @@
             "sentiment": 2
         },
         "bqh": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1933,6 +1916,7 @@
             "sentiment": 2
         },
         "cyg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1942,6 +1926,7 @@
             "sentiment": 2
         },
         "uqy": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -1953,6 +1938,7 @@
     },
     "kru": {
         "bs3": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -1962,6 +1948,7 @@
             "sentiment": 2
         },
         "k4w": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1971,6 +1958,7 @@
             "sentiment": 0
         },
         "tuw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1982,6 +1970,7 @@
     },
     "mbf": {
         "eh3": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -1993,6 +1982,7 @@
     },
     "gb4": {
         "pgx": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2002,6 +1992,7 @@
             "sentiment": 2
         },
         "asv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2011,6 +2002,7 @@
             "sentiment": 2
         },
         "dph": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2022,6 +2014,7 @@
     },
     "yuc": {
         "mry": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2031,6 +2024,7 @@
             "sentiment": 2
         },
         "ktd": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2042,6 +2036,7 @@
     },
     "49w": {
         "nut": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2051,6 +2046,7 @@
             "sentiment": 2
         },
         "tcc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2060,6 +2056,7 @@
             "sentiment": 0
         },
         "dnk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2069,6 +2066,7 @@
             "sentiment": 2
         },
         "ahn": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2078,6 +2076,7 @@
             "sentiment": 2
         },
         "mwh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2088,16 +2087,8 @@
         }
     },
     "yfg": {
-        "tpf": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 0
-        },
         "mwh": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2107,6 +2098,7 @@
             "sentiment": 1
         },
         "gga": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2116,6 +2108,7 @@
             "sentiment": 1
         },
         "ahn": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -2125,6 +2118,7 @@
             "sentiment": 1
         },
         "49w": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -2134,6 +2128,7 @@
             "sentiment": 1
         },
         "k4w": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2145,6 +2140,7 @@
     },
     "tcc": {
         "dnk": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -2154,6 +2150,7 @@
             "sentiment": 1
         },
         "bga": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -2163,6 +2160,7 @@
             "sentiment": 1
         },
         "qew": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -2172,6 +2170,7 @@
             "sentiment": 1
         },
         "dxp": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2181,6 +2180,7 @@
             "sentiment": 2
         },
         "3ab": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2190,6 +2190,7 @@
             "sentiment": 2
         },
         "9fs": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2202,6 +2203,7 @@
     "wen": {},
     "vgg": {
         "4gw": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2210,16 +2212,8 @@
             "leftright": 6,
             "sentiment": 2
         },
-        "dbk": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 1
-        },
         "9ra": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2230,25 +2224,8 @@
         }
     },
     "vtt": {
-        "ny3": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 0
-        },
-        "tpf": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 7,
-            "sentiment": 1
-        },
         "ktb": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2260,6 +2237,7 @@
     },
     "mwh": {
         "yfg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -2269,6 +2247,7 @@
             "sentiment": 2
         },
         "9ra": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2277,16 +2256,8 @@
             "leftright": 4,
             "sentiment": 0
         },
-        "tpf": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 0
-        },
         "gga": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2296,6 +2267,7 @@
             "sentiment": 0
         },
         "49w": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2305,6 +2277,7 @@
             "sentiment": 1
         },
         "ahn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2316,6 +2289,7 @@
     },
     "buv": {
         "ent": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2325,6 +2299,7 @@
             "sentiment": 2
         },
         "fv4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2334,6 +2309,7 @@
             "sentiment": 2
         },
         "tdq": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2343,6 +2319,7 @@
             "sentiment": 1
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2352,6 +2329,7 @@
             "sentiment": 1
         },
         "dph": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2361,6 +2339,7 @@
             "sentiment": 1
         },
         "add": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2370,6 +2349,7 @@
             "sentiment": 1
         },
         "rbc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2379,6 +2359,7 @@
             "sentiment": 1
         },
         "xtk": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -2390,6 +2371,7 @@
     },
     "bey": {
         "4yf": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2399,6 +2381,7 @@
             "sentiment": 2
         },
         "3hc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2410,6 +2393,7 @@
     },
     "gye": {
         "ceh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2419,6 +2403,7 @@
             "sentiment": 1
         },
         "ddh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2428,6 +2413,7 @@
             "sentiment": 2
         },
         "kry": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2439,6 +2425,7 @@
     },
     "3x9": {
         "uge": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2448,6 +2435,7 @@
             "sentiment": 1
         },
         "kmw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2457,6 +2445,7 @@
             "sentiment": 0
         },
         "4dk": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -2464,19 +2453,11 @@
             "council": false,
             "leftright": 5,
             "sentiment": 1
-        },
-        "3ya": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 7,
-            "sentiment": 0
         }
     },
     "qxn": {
         "hn9": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2486,6 +2467,7 @@
             "sentiment": 1
         },
         "9ut": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2495,6 +2477,7 @@
             "sentiment": 1
         },
         "dxh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2504,6 +2487,7 @@
             "sentiment": 1
         },
         "mcb": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2513,6 +2497,7 @@
             "sentiment": 1
         },
         "uwx": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2522,6 +2507,7 @@
             "sentiment": 1
         },
         "v3e": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2531,6 +2517,7 @@
             "sentiment": 0
         },
         "vcb": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2540,6 +2527,7 @@
             "sentiment": 0
         },
         "av4": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2549,6 +2537,7 @@
             "sentiment": 0
         },
         "cpk": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2560,6 +2549,7 @@
     },
     "fep": {
         "saf": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2569,6 +2559,7 @@
             "sentiment": 2
         },
         "e3v": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2578,6 +2569,7 @@
             "sentiment": 1
         },
         "av4": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2587,6 +2579,7 @@
             "sentiment": 1
         },
         "ktd": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2596,6 +2589,7 @@
             "sentiment": 1
         },
         "mry": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2605,6 +2599,7 @@
             "sentiment": 1
         },
         "vcb": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2614,6 +2609,7 @@
             "sentiment": 1
         },
         "qxn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2623,6 +2619,7 @@
             "sentiment": 1
         },
         "dph": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2632,6 +2629,7 @@
             "sentiment": 2
         },
         "v3e": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -2643,6 +2641,7 @@
     },
     "4yf": {
         "bey": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -2652,6 +2651,7 @@
             "sentiment": 2
         },
         "3hc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -2663,6 +2663,7 @@
     },
     "np4": {
         "qqt": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2672,6 +2673,7 @@
             "sentiment": 1
         },
         "wrc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2679,28 +2681,11 @@
             "council": false,
             "leftright": 6,
             "sentiment": 2
-        },
-        "kvq": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 7,
-            "sentiment": 0
-        },
-        "bxg": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 7,
-            "sentiment": 1
         }
     },
     "qew": {
         "3ab": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2710,6 +2695,7 @@
             "sentiment": 2
         },
         "tdq": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -2719,6 +2705,7 @@
             "sentiment": 1
         },
         "dxp": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2728,6 +2715,7 @@
             "sentiment": 2
         },
         "tcc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2739,6 +2727,7 @@
     },
     "ent": {
         "fv4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2748,6 +2737,7 @@
             "sentiment": 2
         },
         "tdq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2757,6 +2747,7 @@
             "sentiment": 1
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -2766,6 +2757,7 @@
             "sentiment": 1
         },
         "mw9": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2775,6 +2767,7 @@
             "sentiment": 1
         },
         "add": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2784,6 +2777,7 @@
             "sentiment": 1
         },
         "h9x": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -2791,19 +2785,11 @@
             "council": true,
             "leftright": 4,
             "sentiment": 1
-        },
-        "xwx": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 5,
-            "sentiment": 1
         }
     },
     "cfw": {
         "mbv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -2813,6 +2799,7 @@
             "sentiment": 1
         },
         "3xt": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -2822,6 +2809,7 @@
             "sentiment": 1
         },
         "mhp": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2831,6 +2819,7 @@
             "sentiment": 0
         },
         "yfk": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2840,6 +2829,7 @@
             "sentiment": 0
         },
         "hch": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2849,6 +2839,7 @@
             "sentiment": 0
         },
         "ucp": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2858,6 +2849,7 @@
             "sentiment": 1
         },
         "4ww": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2867,6 +2859,7 @@
             "sentiment": 0
         },
         "qhv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2876,6 +2869,7 @@
             "sentiment": 0
         },
         "uge": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2885,6 +2879,7 @@
             "sentiment": 1
         },
         "nut": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -2897,6 +2892,7 @@
     "rf4": {},
     "hch": {
         "qhv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -2905,16 +2901,8 @@
             "leftright": 5,
             "sentiment": 2
         },
-        "avr": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
-        },
         "cfw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2926,6 +2914,7 @@
     },
     "mry": {
         "ktd": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2935,6 +2924,7 @@
             "sentiment": 2
         },
         "ngr": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2944,6 +2934,7 @@
             "sentiment": 0
         },
         "ahn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2953,6 +2944,7 @@
             "sentiment": 0
         },
         "fep": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2962,6 +2954,7 @@
             "sentiment": 1
         },
         "yuc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2971,6 +2964,7 @@
             "sentiment": 2
         },
         "sbf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -2982,6 +2976,7 @@
     },
     "dss": {
         "qay": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -2993,6 +2988,7 @@
     },
     "nut": {
         "49w": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3002,6 +2998,7 @@
             "sentiment": 2
         },
         "tcc": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3011,6 +3008,7 @@
             "sentiment": 1
         },
         "dnk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3020,6 +3018,7 @@
             "sentiment": 2
         },
         "ahn": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3029,6 +3028,7 @@
             "sentiment": 1
         },
         "mwh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3038,6 +3038,7 @@
             "sentiment": 0
         },
         "yfk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3049,6 +3050,7 @@
     },
     "fv4": {
         "buv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3058,6 +3060,7 @@
             "sentiment": 2
         },
         "ent": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3067,6 +3070,7 @@
             "sentiment": 2
         },
         "9fx": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3076,6 +3080,7 @@
             "sentiment": 2
         },
         "tdq": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3085,6 +3090,7 @@
             "sentiment": 1
         },
         "vrm": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -3094,6 +3100,7 @@
             "sentiment": 1
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3103,6 +3110,7 @@
             "sentiment": 1
         },
         "3fv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3112,6 +3120,7 @@
             "sentiment": 1
         },
         "mw9": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3121,6 +3130,7 @@
             "sentiment": 1
         },
         "dph": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3130,6 +3140,7 @@
             "sentiment": 1
         },
         "add": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3139,6 +3150,7 @@
             "sentiment": 1
         },
         "knb": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -3148,6 +3160,7 @@
             "sentiment": 2
         },
         "rbc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3159,6 +3172,7 @@
     },
     "9xy": {
         "e4u": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3168,6 +3182,7 @@
             "sentiment": 0
         },
         "bgq": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -3177,6 +3192,7 @@
             "sentiment": 1
         },
         "sva": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -3188,6 +3204,7 @@
     },
     "rht": {
         "add": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3197,6 +3214,7 @@
             "sentiment": 1
         },
         "vrm": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3206,6 +3224,7 @@
             "sentiment": 1
         },
         "3eh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -3217,6 +3236,7 @@
     },
     "mdx": {
         "4ww": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -3226,6 +3246,7 @@
             "sentiment": 1
         },
         "hn9": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3235,6 +3256,7 @@
             "sentiment": 1
         },
         "qxn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3244,6 +3266,7 @@
             "sentiment": 1
         },
         "uwx": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -3253,6 +3276,7 @@
             "sentiment": 2
         },
         "dph": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -3262,6 +3286,7 @@
             "sentiment": 1
         },
         "9ut": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -3271,6 +3296,7 @@
             "sentiment": 2
         },
         "dxh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3282,6 +3308,7 @@
     },
     "9ra": {
         "yqq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -3291,15 +3318,7 @@
             "sentiment": 2
         },
         "p49": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 2,
-            "sentiment": 2
-        },
-        "dbk": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -3309,6 +3328,7 @@
             "sentiment": 2
         },
         "amu": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3320,6 +3340,7 @@
     },
     "ywc": {
         "nrn": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3329,6 +3350,7 @@
             "sentiment": 2
         },
         "qx3": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3338,6 +3360,7 @@
             "sentiment": 1
         },
         "xtk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3347,6 +3370,7 @@
             "sentiment": 1
         },
         "ngv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3358,6 +3382,7 @@
     },
     "e3v": {
         "cpk": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -3367,6 +3392,7 @@
             "sentiment": 1
         },
         "fvy": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3376,6 +3402,7 @@
             "sentiment": 0
         },
         "fep": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3385,6 +3412,7 @@
             "sentiment": 1
         },
         "crq": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3394,6 +3422,7 @@
             "sentiment": 0
         },
         "saf": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3403,6 +3432,7 @@
             "sentiment": 2
         },
         "av4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3412,6 +3442,7 @@
             "sentiment": 2
         },
         "vcb": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3421,6 +3452,7 @@
             "sentiment": 2
         },
         "qxn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3430,6 +3462,7 @@
             "sentiment": 0
         },
         "v3e": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3439,15 +3472,7 @@
             "sentiment": 2
         },
         "3eh": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 2
-        },
-        "ycm": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -3459,6 +3484,7 @@
     },
     "hqf": {
         "crq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -3470,6 +3496,7 @@
     },
     "bpy": {
         "sbf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3481,6 +3508,7 @@
     },
     "3hc": {
         "bey": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3490,6 +3518,7 @@
             "sentiment": 2
         },
         "4yf": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3501,6 +3530,7 @@
     },
     "cpk": {
         "saf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3510,6 +3540,7 @@
             "sentiment": 0
         },
         "e3v": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -3519,6 +3550,7 @@
             "sentiment": 1
         },
         "av4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3528,6 +3560,7 @@
             "sentiment": 2
         },
         "vcb": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -3537,6 +3570,7 @@
             "sentiment": 2
         },
         "qxn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3546,6 +3580,7 @@
             "sentiment": 0
         },
         "v3e": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -3557,6 +3592,7 @@
     },
     "pgx": {
         "asv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3566,6 +3602,7 @@
             "sentiment": 2
         },
         "gb4": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -3577,6 +3614,7 @@
     },
     "h9k": {
         "rxs": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -3586,6 +3624,7 @@
             "sentiment": 1
         },
         "yfk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3595,6 +3634,7 @@
             "sentiment": 2
         },
         "udg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3604,6 +3644,7 @@
             "sentiment": 1
         },
         "h9x": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -3613,6 +3654,7 @@
             "sentiment": 0
         },
         "nut": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -3622,6 +3664,7 @@
             "sentiment": 1
         },
         "qhv": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -3631,64 +3674,9 @@
             "sentiment": 2
         }
     },
-    "xvg": {
-        "yqq": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "dbk": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 2,
-            "sentiment": 1
-        },
-        "vgg": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 0
-        },
-        "4gw": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 0
-        },
-        "9ra": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 2
-        },
-        "amu": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 2
-        }
-    },
     "nrn": {
         "ngv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3698,6 +3686,7 @@
             "sentiment": 2
         },
         "xtk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3707,6 +3696,7 @@
             "sentiment": 2
         },
         "qx3": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -3716,6 +3706,7 @@
             "sentiment": 1
         },
         "ywc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3727,6 +3718,7 @@
     },
     "ebs": {
         "tuw": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3736,6 +3728,7 @@
             "sentiment": 2
         },
         "k9w": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -3745,6 +3738,7 @@
             "sentiment": 1
         },
         "39b": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -3754,6 +3748,7 @@
             "sentiment": 1
         },
         "ech": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3765,6 +3760,7 @@
     },
     "3fv": {
         "mw9": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3774,6 +3770,7 @@
             "sentiment": 2
         },
         "3ab": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -3783,6 +3780,7 @@
             "sentiment": 2
         },
         "vrm": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -3792,6 +3790,7 @@
             "sentiment": 2
         },
         "add": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3803,6 +3802,7 @@
     },
     "uge": {
         "hry": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -3814,6 +3814,7 @@
     },
     "av4": {
         "saf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -3823,6 +3824,7 @@
             "sentiment": 0
         },
         "e3v": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -3834,6 +3836,7 @@
     },
     "9ut": {
         "qxn": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3843,6 +3846,7 @@
             "sentiment": 2
         },
         "dxh": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3852,6 +3856,7 @@
             "sentiment": 2
         },
         "mcb": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3861,6 +3866,7 @@
             "sentiment": 2
         },
         "uwx": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3870,6 +3876,7 @@
             "sentiment": 2
         },
         "hn9": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3879,28 +3886,9 @@
             "sentiment": 2
         }
     },
-    "9fu": {
-        "vxf": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 11,
-            "sentiment": 2
-        },
-        "wfr": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 11,
-            "sentiment": 2
-        }
-    },
     "dyb": {
         "ecd": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -3910,6 +3898,7 @@
             "sentiment": 2
         },
         "kwc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -3919,64 +3908,9 @@
             "sentiment": 2
         }
     },
-    "kvq": {
-        "3eh": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "vrm": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "rht": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 0
-        },
-        "sva": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 5,
-            "sentiment": 0
-        },
-        "np4": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "bxg": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 1
-        }
-    },
     "mw9": {
         "3fv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -3986,6 +3920,7 @@
             "sentiment": 2
         },
         "3ab": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -3995,6 +3930,7 @@
             "sentiment": 1
         },
         "fv4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4004,6 +3940,7 @@
             "sentiment": 1
         },
         "9ut": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -4013,6 +3950,7 @@
             "sentiment": 0
         },
         "ent": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4023,16 +3961,8 @@
         }
     },
     "amu": {
-        "xvg": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 2
-        },
         "yqq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4042,6 +3972,7 @@
             "sentiment": 2
         },
         "9ra": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4051,6 +3982,7 @@
             "sentiment": 2
         },
         "vgv": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4060,6 +3992,7 @@
             "sentiment": 1
         },
         "3md": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4071,6 +4004,7 @@
     },
     "mbv": {
         "3xt": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4080,6 +4014,7 @@
             "sentiment": 2
         },
         "cfw": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4089,6 +4024,7 @@
             "sentiment": 2
         },
         "qhv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4098,6 +4034,7 @@
             "sentiment": 0
         },
         "yfk": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4108,16 +4045,8 @@
         }
     },
     "rxs": {
-        "avr": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 2
-        },
         "udg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4127,6 +4056,7 @@
             "sentiment": 2
         },
         "h9k": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4136,6 +4066,7 @@
             "sentiment": 1
         },
         "yfk": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4145,6 +4076,7 @@
             "sentiment": 1
         },
         "h9x": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4154,6 +4086,7 @@
             "sentiment": 2
         },
         "qhv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4163,6 +4096,7 @@
             "sentiment": 1
         },
         "4dk": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4174,6 +4108,7 @@
     },
     "yfk": {
         "hch": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4183,6 +4118,7 @@
             "sentiment": 1
         },
         "qhv": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4192,6 +4128,7 @@
             "sentiment": 2
         },
         "h9k": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4201,6 +4138,7 @@
             "sentiment": 2
         },
         "rxs": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4210,6 +4148,7 @@
             "sentiment": 2
         },
         "ack": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4219,6 +4158,7 @@
             "sentiment": 1
         },
         "cfw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4228,6 +4168,7 @@
             "sentiment": -2
         },
         "h9x": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4237,6 +4178,7 @@
             "sentiment": 2
         },
         "qx3": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4246,6 +4188,7 @@
             "sentiment": 1
         },
         "mhp": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4255,6 +4198,7 @@
             "sentiment": 0
         },
         "mbv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4264,6 +4208,7 @@
             "sentiment": 1
         },
         "nut": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -4273,19 +4218,9 @@
             "sentiment": 1
         }
     },
-    "fqt": {
-        "hmt": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 1
-        }
-    },
     "cyg": {
         "uqy": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4295,6 +4230,7 @@
             "sentiment": 1
         },
         "dyb": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4306,6 +4242,7 @@
     },
     "3xt": {
         "mbv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -4315,6 +4252,7 @@
             "sentiment": 1
         },
         "cfw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -4326,6 +4264,7 @@
     },
     "crq": {
         "fep": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4335,6 +4274,7 @@
             "sentiment": 1
         },
         "saf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4344,6 +4284,7 @@
             "sentiment": 1
         },
         "e3v": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4353,6 +4294,7 @@
             "sentiment": 1
         },
         "av4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4362,6 +4304,7 @@
             "sentiment": 2
         },
         "vcb": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4371,6 +4314,7 @@
             "sentiment": 1
         },
         "qxn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4380,6 +4324,7 @@
             "sentiment": 0
         },
         "v3e": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4389,6 +4334,7 @@
             "sentiment": 1
         },
         "whx": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4398,6 +4344,7 @@
             "sentiment": 2
         },
         "vkv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4408,16 +4355,8 @@
         }
     },
     "qhv": {
-        "avr": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 2
-        },
         "yfk": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4427,6 +4366,7 @@
             "sentiment": 2
         },
         "hch": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4436,6 +4376,7 @@
             "sentiment": 2
         },
         "rxs": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4445,6 +4386,7 @@
             "sentiment": 1
         },
         "cfw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4454,6 +4396,7 @@
             "sentiment": 0
         },
         "mbv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4463,6 +4406,7 @@
             "sentiment": 1
         },
         "h9k": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -4472,37 +4416,9 @@
             "sentiment": 1
         }
     },
-    "3ya": {
-        "uge": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 2
-        },
-        "b3p": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 0
-        },
-        "4dk": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 0
-        }
-    },
     "uqy": {
         "cyg": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4512,6 +4428,7 @@
             "sentiment": 2
         },
         "bqh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4521,6 +4438,7 @@
             "sentiment": 2
         },
         "kwc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4530,6 +4448,7 @@
             "sentiment": 2
         },
         "ecd": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4541,6 +4460,7 @@
     },
     "add": {
         "fv4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4550,6 +4470,7 @@
             "sentiment": 1
         },
         "vrm": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4559,6 +4480,7 @@
             "sentiment": 2
         },
         "3fv": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4568,6 +4490,7 @@
             "sentiment": 1
         },
         "mw9": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4577,6 +4500,7 @@
             "sentiment": 2
         },
         "rht": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4586,6 +4510,7 @@
             "sentiment": 2
         },
         "dph": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4595,6 +4520,7 @@
             "sentiment": 2
         },
         "bqh": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4606,6 +4532,7 @@
     },
     "qay": {
         "dss": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4615,6 +4542,7 @@
             "sentiment": 1
         },
         "p49": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -4624,6 +4552,7 @@
             "sentiment": 2
         },
         "ryn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4633,6 +4562,7 @@
             "sentiment": 0
         },
         "whx": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -4644,6 +4574,7 @@
     },
     "udg": {
         "rxs": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4652,16 +4583,8 @@
             "leftright": 2,
             "sentiment": 1
         },
-        "hnc": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
         "ack": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4671,6 +4594,7 @@
             "sentiment": 2
         },
         "h9x": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4682,6 +4606,7 @@
     },
     "dph": {
         "ecd": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4691,6 +4616,7 @@
             "sentiment": 2
         },
         "v3e": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4700,6 +4626,7 @@
             "sentiment": 2
         },
         "qxn": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -4709,6 +4636,7 @@
             "sentiment": 1
         },
         "saf": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -4718,6 +4646,7 @@
             "sentiment": 1
         },
         "fep": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4727,6 +4656,7 @@
             "sentiment": 1
         },
         "gb4": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4736,6 +4666,7 @@
             "sentiment": 2
         },
         "add": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": true,
@@ -4747,6 +4678,7 @@
     },
     "kmw": {
         "cyw": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4756,6 +4688,7 @@
             "sentiment": 1
         },
         "3x9": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -4767,6 +4700,7 @@
     },
     "3ab": {
         "dxp": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4776,6 +4710,7 @@
             "sentiment": 2
         },
         "3fv": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4785,6 +4720,7 @@
             "sentiment": 2
         },
         "qew": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4794,6 +4730,7 @@
             "sentiment": 2
         },
         "9fs": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -4805,6 +4742,7 @@
     },
     "saf": {
         "e3v": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4814,6 +4752,7 @@
             "sentiment": 2
         },
         "fep": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4823,6 +4762,7 @@
             "sentiment": 2
         },
         "crq": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -4832,6 +4772,7 @@
             "sentiment": 2
         },
         "fvy": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -4841,6 +4782,7 @@
             "sentiment": 0
         },
         "cpk": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -4850,6 +4792,7 @@
             "sentiment": 0
         },
         "whx": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -4859,6 +4802,7 @@
             "sentiment": 0
         },
         "dph": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4866,66 +4810,11 @@
             "council": true,
             "leftright": 1,
             "sentiment": 2
-        }
-    },
-    "nan": {
-        "bqr": {
-            "friend": false,
-            "value": false,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 1,
-            "sentiment": 0
-        },
-        "dph": {
-            "friend": false,
-            "value": false,
-            "politics": true,
-            "study": false,
-            "council": true,
-            "leftright": 1,
-            "sentiment": 2
-        },
-        "gb4": {
-            "friend": false,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 2
-        },
-        "asv": {
-            "friend": false,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 2
-        },
-        "fep": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
         }
     },
     "gga": {
-        "tpf": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 0
-        },
         "yfg": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4935,6 +4824,7 @@
             "sentiment": 0
         },
         "fep": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4942,39 +4832,11 @@
             "council": false,
             "leftright": 6,
             "sentiment": 1
-        }
-    },
-    "hnc": {
-        "udg": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
-        },
-        "ack": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
-        },
-        "h9x": {
-            "friend": false,
-            "value": false,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 0
         }
     },
     "ugr": {
         "spg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -4984,6 +4846,7 @@
             "sentiment": 2
         },
         "evs": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -4995,6 +4858,7 @@
     },
     "dxp": {
         "3ab": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5004,6 +4868,7 @@
             "sentiment": 2
         },
         "tcc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5013,6 +4878,7 @@
             "sentiment": 2
         },
         "9fs": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5022,6 +4888,7 @@
             "sentiment": 2
         },
         "qew": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5033,6 +4900,7 @@
     },
     "ktd": {
         "mry": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -5041,16 +4909,8 @@
             "leftright": 5,
             "sentiment": 2
         },
-        "3ya": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 0
-        },
         "ngr": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5060,6 +4920,7 @@
             "sentiment": 0
         },
         "ahn": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5069,6 +4930,7 @@
             "sentiment": 0
         },
         "fep": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -5078,6 +4940,7 @@
             "sentiment": 2
         },
         "yuc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -5087,6 +4950,7 @@
             "sentiment": 2
         },
         "sbf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5096,15 +4960,7 @@
             "sentiment": 1
         },
         "yer": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 1
-        },
-        "hmu": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5116,6 +4972,7 @@
     },
     "evs": {
         "spg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5125,6 +4982,7 @@
             "sentiment": 2
         },
         "ugr": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -5136,6 +4994,7 @@
     },
     "vrm": {
         "rht": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5145,6 +5004,7 @@
             "sentiment": 1
         },
         "3fv": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5154,6 +5014,7 @@
             "sentiment": 1
         },
         "3eh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5165,6 +5026,7 @@
     },
     "ack": {
         "udg": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5172,19 +5034,11 @@
             "council": false,
             "leftright": 4,
             "sentiment": 1
-        },
-        "hnc": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 1
         }
     },
     "9he": {
         "kmw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5194,6 +5048,7 @@
             "sentiment": 1
         },
         "4yx": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5203,6 +5058,7 @@
             "sentiment": 0
         },
         "b3p": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -5214,6 +5070,7 @@
     },
     "whx": {
         "crq": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5223,6 +5080,7 @@
             "sentiment": 1
         },
         "saf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5232,6 +5090,7 @@
             "sentiment": 0
         },
         "hqf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5243,6 +5102,7 @@
     },
     "ecd": {
         "kwc": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5252,6 +5112,7 @@
             "sentiment": 2
         },
         "bqh": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5261,6 +5122,7 @@
             "sentiment": 2
         },
         "cyg": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5270,6 +5132,7 @@
             "sentiment": 2
         },
         "uqy": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5281,6 +5144,7 @@
     },
     "spg": {
         "ugr": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5290,6 +5154,7 @@
             "sentiment": 1
         },
         "evs": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -5301,6 +5166,7 @@
     },
     "h9x": {
         "ack": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5310,6 +5176,7 @@
             "sentiment": 2
         },
         "yfk": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5319,6 +5186,7 @@
             "sentiment": 1
         },
         "udg": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5328,6 +5196,7 @@
             "sentiment": 1
         },
         "rxs": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5337,6 +5206,7 @@
             "sentiment": 2
         },
         "ent": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5346,6 +5216,7 @@
             "sentiment": 2
         },
         "dnk": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5356,16 +5227,8 @@
         }
     },
     "rbc": {
-        "yte": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 1
-        },
         "vgv": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5375,6 +5238,7 @@
             "sentiment": 1
         },
         "3md": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -5384,6 +5248,7 @@
             "sentiment": 1
         },
         "tdq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5393,6 +5258,7 @@
             "sentiment": 1
         },
         "cnu": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5402,6 +5268,7 @@
             "sentiment": 1
         },
         "ent": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5411,6 +5278,7 @@
             "sentiment": 1
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5420,6 +5288,7 @@
             "sentiment": 1
         },
         "fv4": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5429,6 +5298,7 @@
             "sentiment": 1
         },
         "buv": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5440,6 +5310,7 @@
     },
     "qx3": {
         "39b": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -5449,6 +5320,7 @@
             "sentiment": 1
         },
         "ebs": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5458,6 +5330,7 @@
             "sentiment": 1
         },
         "ech": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5466,16 +5339,8 @@
             "leftright": 10,
             "sentiment": 1
         },
-        "hmu": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 2,
-            "sentiment": 1
-        },
         "3eh": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5484,16 +5349,8 @@
             "leftright": 5,
             "sentiment": 1
         },
-        "xwx": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 7,
-            "sentiment": 1
-        },
         "yfk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -5505,6 +5362,7 @@
     },
     "hhb": {
         "hry": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5514,6 +5372,7 @@
             "sentiment": 1
         },
         "kry": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5523,6 +5382,7 @@
             "sentiment": 1
         },
         "cnu": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5532,6 +5392,7 @@
             "sentiment": 2
         },
         "tdq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5541,6 +5402,7 @@
             "sentiment": 2
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5550,6 +5412,7 @@
             "sentiment": 2
         },
         "rbc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5561,6 +5424,7 @@
     },
     "hn9": {
         "qxn": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -5570,6 +5434,7 @@
             "sentiment": 1
         },
         "dxh": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -5579,6 +5444,7 @@
             "sentiment": 1
         },
         "9ut": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -5588,6 +5454,7 @@
             "sentiment": 1
         },
         "mcb": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -5597,6 +5464,7 @@
             "sentiment": 1
         },
         "av4": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5606,6 +5474,7 @@
             "sentiment": 1
         },
         "dph": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5616,16 +5485,8 @@
         }
     },
     "bqh": {
-        "ukm": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 1
-        },
         "add": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5635,6 +5496,7 @@
             "sentiment": 2
         },
         "dph": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5644,46 +5506,9 @@
             "sentiment": 2
         }
     },
-    "avr": {
-        "qhv": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 2
-        },
-        "yfk": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 1
-        },
-        "hch": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 1
-        },
-        "rxs": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 2
-        }
-    },
     "ucp": {
         "cfw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -5693,6 +5518,7 @@
             "sentiment": 1
         },
         "rht": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -5702,6 +5528,7 @@
             "sentiment": 1
         },
         "vrm": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -5711,6 +5538,7 @@
             "sentiment": 1
         },
         "ktd": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5720,6 +5548,7 @@
             "sentiment": 1
         },
         "3eh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5731,6 +5560,7 @@
     },
     "dxh": {
         "hn9": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5740,6 +5570,7 @@
             "sentiment": 2
         },
         "9ut": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5749,6 +5580,7 @@
             "sentiment": 2
         },
         "mcb": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5758,6 +5590,7 @@
             "sentiment": 2
         },
         "qxn": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5767,6 +5600,7 @@
             "sentiment": 2
         },
         "vcb": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5776,28 +5610,9 @@
             "sentiment": 2
         }
     },
-    "wfr": {
-        "vxf": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 8,
-            "sentiment": 2
-        },
-        "ecd": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 0
-        }
-    },
     "fvy": {
         "saf": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5807,6 +5622,7 @@
             "sentiment": 0
         },
         "e3v": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5816,6 +5632,7 @@
             "sentiment": 0
         },
         "av4": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5825,6 +5642,7 @@
             "sentiment": 0
         },
         "vcb": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5836,6 +5654,7 @@
     },
     "b3p": {
         "9he": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -5845,6 +5664,7 @@
             "sentiment": 1
         },
         "4yx": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -5852,19 +5672,11 @@
             "council": true,
             "leftright": 4,
             "sentiment": 0
-        },
-        "3ya": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 5,
-            "sentiment": 0
         }
     },
     "cnu": {
         "ddh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5874,6 +5686,7 @@
             "sentiment": 1
         },
         "tdq": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5883,6 +5696,7 @@
             "sentiment": 2
         },
         "gye": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5892,6 +5706,7 @@
             "sentiment": 1
         },
         "hhb": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5901,6 +5716,7 @@
             "sentiment": 2
         },
         "kry": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5910,6 +5726,7 @@
             "sentiment": 1
         },
         "hry": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -5919,6 +5736,7 @@
             "sentiment": 1
         },
         "9ut": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -5928,6 +5746,7 @@
             "sentiment": 0
         },
         "rbc": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -5935,188 +5754,12 @@
             "council": false,
             "leftright": 5,
             "sentiment": 2
-        }
-    },
-    "xwx": {
-        "dph": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 2
-        },
-        "ent": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 2
-        },
-        "qx3": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 2
-        },
-        "vrm": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 0,
-            "sentiment": 2
-        },
-        "3fv": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 2
-        },
-        "add": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 2,
-            "sentiment": 2
-        },
-        "mw9": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 2
-        },
-        "gye": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 2
-        },
-        "buv": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 2
-        },
-        "tdq": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 2
-        },
-        "fv4": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 2
-        },
-        "3eh": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 2
-        },
-        "knb": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 2
-        }
-    },
-    "9rd": {
-        "xwx": {
-            "friend": false,
-            "value": false,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "eh3": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 7,
-            "sentiment": 1
-        },
-        "dph": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 0
-        },
-        "ent": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 0
-        }
-    },
-    "hmu": {
-        "yer": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "qx3": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 0
         }
     },
     "dnk": {},
     "kry": {
         "ceh": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -6126,6 +5769,7 @@
             "sentiment": 2
         },
         "hry": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -6135,6 +5779,7 @@
             "sentiment": 1
         },
         "hhb": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -6144,6 +5789,7 @@
             "sentiment": 1
         },
         "gye": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -6155,6 +5801,7 @@
     },
     "ahn": {
         "nut": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -6164,6 +5811,7 @@
             "sentiment": 2
         },
         "49w": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -6173,6 +5821,7 @@
             "sentiment": 2
         },
         "tcc": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": true,
@@ -6182,6 +5831,7 @@
             "sentiment": 0
         },
         "dnk": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -6191,6 +5841,7 @@
             "sentiment": 2
         },
         "ngr": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -6202,6 +5853,7 @@
     },
     "4yx": {
         "9he": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6211,6 +5863,7 @@
             "sentiment": 1
         },
         "b3p": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6220,6 +5873,7 @@
             "sentiment": 0
         },
         "kmw": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6231,6 +5885,7 @@
     },
     "tuw": {
         "ebs": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -6240,6 +5895,7 @@
             "sentiment": 2
         },
         "k9w": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -6249,6 +5905,7 @@
             "sentiment": 1
         },
         "39b": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6258,6 +5915,7 @@
             "sentiment": 0
         },
         "ech": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": true,
@@ -6265,19 +5923,11 @@
             "council": true,
             "leftright": 8,
             "sentiment": 2
-        },
-        "yte": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 5,
-            "sentiment": 2
         }
     },
     "sbf": {
         "bpy": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -6287,6 +5937,7 @@
             "sentiment": 1
         },
         "wrc": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6296,6 +5947,7 @@
             "sentiment": 0
         },
         "ktd": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6305,6 +5957,7 @@
             "sentiment": 0
         },
         "gcu": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": false,
@@ -6315,16 +5968,8 @@
         }
     },
     "yqq": {
-        "wng": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 6,
-            "sentiment": 1
-        },
         "p49": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6334,6 +5979,7 @@
             "sentiment": 0
         },
         "9ra": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6341,50 +5987,11 @@
             "council": false,
             "leftright": 3,
             "sentiment": 1
-        }
-    },
-    "wng": {
-        "p49": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "yqq": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "9ra": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        }
-    },
-    "vxf": {
-        "wfr": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 2
         }
     },
     "uwx": {
         "mdx": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6394,6 +6001,7 @@
             "sentiment": 0
         },
         "ytr": {
+            "aquaintance": true,
             "friend": false,
             "value": true,
             "politics": true,
@@ -6403,6 +6011,7 @@
             "sentiment": 0
         },
         "qxn": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -6412,6 +6021,7 @@
             "sentiment": 1
         },
         "9ut": {
+            "aquaintance": true,
             "friend": true,
             "value": true,
             "politics": false,
@@ -6421,6 +6031,7 @@
             "sentiment": 2
         },
         "dxh": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6430,6 +6041,7 @@
             "sentiment": 0
         },
         "mcb": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6439,302 +6051,10 @@
             "sentiment": 1
         }
     },
-    "4kk": {},
-    "4rp": {
-        "tcc": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 1
-        },
-        "qew": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
-        },
-        "dxp": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 7,
-            "sentiment": 1
-        },
-        "3ab": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 1
-        },
-        "9fs": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 6,
-            "sentiment": 1
-        }
-    },
-    "ukm": {
-        "bqh": {
-            "friend": false,
-            "value": true,
-            "politics": false,
-            "study": true,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 1
-        }
-    },
-    "duv": {
-        "ngr": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 0,
-            "sentiment": 0
-        },
-        "hmt": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 0,
-            "sentiment": 0
-        }
-    },
-    "tpf": {
-        "gga": {
-            "friend": false,
-            "value": false,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "ktb": {
-            "friend": false,
-            "value": false,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "4ww": {
-            "friend": false,
-            "value": false,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
-        },
-        "9gt": {
-            "friend": false,
-            "value": false,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
-        }
-    },
-    "eh3": {
-        "9rd": {
-            "friend": true,
-            "value": false,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 8,
-            "sentiment": 1
-        }
-    },
-    "ycm": {
-        "gb4": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "pgx": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 2
-        },
-        "asv": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "3eh": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "fv4": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": false,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "tdq": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "vrm": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": false,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 1
-        },
-        "buv": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "gye": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "3fv": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 3,
-            "sentiment": 2
-        },
-        "add": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 2
-        },
-        "dph": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 1
-        },
-        "e3v": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 5,
-            "sentiment": 1
-        },
-        "ent": {
-            "friend": true,
-            "value": true,
-            "politics": true,
-            "study": true,
-            "council": true,
-            "leftright": 2,
-            "sentiment": 1
-        },
-        "xwx": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": true,
-            "leftright": 4,
-            "sentiment": 1
-        }
-    },
-    "ny3": {
-        "ktb": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
-        },
-        "vtt": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 1
-        },
-        "vkv": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 7,
-            "sentiment": 1
-        }
-    },
+    "eh3": {},
     "vkv": {
         "crq": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
@@ -6744,27 +6064,20 @@
             "sentiment": 0
         },
         "4ww": {
+            "aquaintance": true,
             "friend": false,
             "value": false,
             "politics": false,
             "study": true,
             "council": false,
             "leftright": 7,
-            "sentiment": 0
-        },
-        "ny3": {
-            "friend": false,
-            "value": false,
-            "politics": false,
-            "study": true,
-            "council": false,
-            "leftright": 3,
             "sentiment": 0
         }
     },
     "gcu": {},
     "knc": {
         "gdg": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -6774,6 +6087,7 @@
             "sentiment": 2
         },
         "k9w": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -6783,6 +6097,7 @@
             "sentiment": 2
         },
         "4dk": {
+            "aquaintance": true,
             "friend": true,
             "value": false,
             "politics": false,
@@ -6790,35 +6105,6 @@
             "council": false,
             "leftright": 3,
             "sentiment": 0
-        }
-    },
-    "dbk": {
-        "4gw": {
-            "friend": false,
-            "value": true,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "vgg": {
-            "friend": false,
-            "value": true,
-            "politics": true,
-            "study": false,
-            "council": false,
-            "leftright": 4,
-            "sentiment": 1
-        },
-        "yqq": {
-            "friend": true,
-            "value": true,
-            "politics": false,
-            "study": false,
-            "council": false,
-            "leftright": 5,
-            "sentiment": 2
         }
     }
 }

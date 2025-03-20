@@ -5,7 +5,11 @@ editor: visual
 ---
 
 ```{r}
-library(reticulate)
+install.packages("RSiena")
+```
+
+```{r}
+#library(reticulate)
 #use_python("/Users/ramius/.pyenv/versions/3.12.0/bin", required = TRUE)
 library(devtools)
 library(networkdata)
@@ -14,33 +18,31 @@ library(networkdata)
 # Load libraries
 library(igraph)
 library(statnet)
+library(intergraph)
+#library(RSiena)
 ```
 
 ------------------------------------------------------------------------
 
 ```{r}
-setwd("/Users/ramius/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data/NA")
+setwd("~/Desktop/CodeVault/01_Project/Work/Susumu/Student_Survey/StudentSurvey_GitDock/data_WS2425/NA")
 ```
 
 ```{r}
 # Read graph from GML file using igraph
-G_igraph <- read.graph("graph.gml", format = "gml")
-
-summary(G_igraph)
+G_multi_w3 <- read.graph("multiplex_graph_w3.gml", format = "gml")
 ```
 
 ```{r}
-# Convert igraph graph to adjacency matrix
-adj_matrix <- as.matrix(as_adjacency_matrix(G_igraph))
-
-# Convert the adjacency matrix to a statnet network object
-G_statnet <- as.network(adj_matrix, directed = is_directed(G_igraph))
+G_statnet_w3 <- asNetwork(G_multi_w3)
 ```
 
 ```{r}
-# Step 3: Extract node attributes from igraph
-node_attributes <- vertex_attr(G_igraph)
 
+```
+
+```{r}
+# Step 3: Set the vertex attributes
 for (attr_name in names(node_attributes)) {
   set.vertex.attribute(G_statnet, attr_name, node_attributes[[attr_name]])
 }
@@ -53,7 +55,7 @@ class(G_statnet)
 ```
 
 ```{r}
-surveymodel.01 <- ergm(G_statnet~edges)
+surveymodel.01 <- ergm(G_multi_w3~edges)
 summary(surveymodel.01)
 ```
 

@@ -10,10 +10,6 @@ graph [
     grade 2.0
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 2.0
   ]
   node [
     id 1
@@ -25,10 +21,6 @@ graph [
     grade 3.0
     partyvote 3.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father -999.0
-    edz_mother -999.0
   ]
   node [
     id 2
@@ -40,10 +32,6 @@ graph [
     grade 3.0
     partyvote 8.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
   ]
   node [
     id 3
@@ -55,10 +43,6 @@ graph [
     grade 3.0
     partyvote 3.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 4
@@ -70,10 +54,6 @@ graph [
     grade 2.0
     partyvote 7.0
     age 19.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 2.0
   ]
   node [
     id 5
@@ -85,10 +65,6 @@ graph [
     grade 2.3
     partyvote -999
     age 19.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 6
@@ -100,10 +76,6 @@ graph [
     grade 2.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 7
@@ -115,10 +87,6 @@ graph [
     grade 3.0
     partyvote 3.0
     age 19.0
-    ocu_father -999.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 8
@@ -130,10 +98,6 @@ graph [
     grade 3.0
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
     id 9
@@ -145,10 +109,6 @@ graph [
     grade 4.0
     partyvote 5.0
     age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 0.0
   ]
   node [
     id 10
@@ -160,10 +120,6 @@ graph [
     grade 4.0
     partyvote 2.0
     age 26.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 2.0
   ]
   node [
     id 11
@@ -175,10 +131,6 @@ graph [
     grade 2.7
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
     id 12
@@ -190,10 +142,6 @@ graph [
     grade 2.0
     partyvote 1.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
     id 13
@@ -205,10 +153,6 @@ graph [
     grade 2.0
     partyvote 3.0
     age 26.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 14
@@ -217,13 +161,9 @@ graph [
     gender 1.0
     income 400.0
     rent 0.0
-    grade -888.0
+    grade -999
     partyvote 3.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 2.0
   ]
   node [
     id 15
@@ -235,10 +175,6 @@ graph [
     grade 4.0
     partyvote 2.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 16
@@ -250,10 +186,6 @@ graph [
     grade 2.7
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
   ]
   node [
     id 17
@@ -265,10 +197,6 @@ graph [
     grade 3.0
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
     id 18
@@ -280,10 +208,6 @@ graph [
     grade 3.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
     id 19
@@ -295,10 +219,6 @@ graph [
     grade 2.3
     partyvote 3.0
     age 23.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
     id 20
@@ -310,10 +230,6 @@ graph [
     grade 3.3
     partyvote 1.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
     id 21
@@ -322,13 +238,9 @@ graph [
     gender 1.0
     income 800.0
     rent 412.0
-    grade -888.0
+    grade -999
     partyvote 5.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 22
@@ -340,10 +252,6 @@ graph [
     grade 2.3
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 23
@@ -355,10 +263,6 @@ graph [
     grade 2.7
     partyvote 3.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
     id 24
@@ -367,13 +271,9 @@ graph [
     gender 2.0
     income 1200.0
     rent 0.0
-    grade -888.0
+    grade -999
     partyvote 2.0
     age 26.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 3.0
   ]
   node [
     id 25
@@ -385,10 +285,6 @@ graph [
     grade 2.3
     partyvote 8.0
     age 28.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
     id 26
@@ -400,10 +296,6 @@ graph [
     grade 2.3
     partyvote 3.0
     age 27.0
-    ocu_father 0.0
-    ocu_mother 0.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
     id 27
@@ -415,10 +307,6 @@ graph [
     grade 2.7
     partyvote 5.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
     id 28
@@ -427,13 +315,9 @@ graph [
     gender 2.0
     income 1500.0
     rent 350.0
-    grade -888.0
+    grade -999
     partyvote 6.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 4.0
-    edz_mother 2.0
   ]
   node [
     id 29
@@ -445,10 +329,6 @@ graph [
     grade 2.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
     id 30
@@ -460,28 +340,9 @@ graph [
     grade 2.3
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
     id 31
-    label "pkt"
-    leftrightself 7
-    gender 1.0
-    income 520.0
-    rent 370.0
-    grade 2.0
-    partyvote 4.0
-    age 23.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
-  ]
-  node [
-    id 32
     label "vgv"
     leftrightself 4
     gender 1.0
@@ -490,13 +351,9 @@ graph [
     grade 2.7
     partyvote 3.0
     age 18.0
-    ocu_father -999.0
-    ocu_mother 1.0
-    edu_father -999.0
-    edz_mother 1.0
   ]
   node [
-    id 33
+    id 32
     label "3md"
     leftrightself 3
     gender 1.0
@@ -505,13 +362,9 @@ graph [
     grade 3.0
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 34
+    id 33
     label "amu"
     leftrightself 6
     gender 1.0
@@ -520,43 +373,20 @@ graph [
     grade 2.0
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 35
-    label "xvg"
-    leftrightself 3
-    gender 1.0
-    income 300.0
-    rent 450.0
-    grade 3.3
-    partyvote 3.0
-    age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
-  ]
-  node [
-    id 36
+    id 34
     label "xtk"
     leftrightself 4
     gender 1.0
     income 500.0
     rent 590.0
-    grade -888.0
+    grade -999
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 37
+    id 35
     label "ngv"
     leftrightself 2
     gender 1.0
@@ -565,13 +395,9 @@ graph [
     grade 3.0
     partyvote 5.0
     age 19.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 2.0
   ]
   node [
-    id 38
+    id 36
     label "ywc"
     leftrightself 5
     gender 1.0
@@ -580,13 +406,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 2.0
   ]
   node [
-    id 39
+    id 37
     label "nrn"
     leftrightself 3
     gender 1.0
@@ -595,13 +417,9 @@ graph [
     grade 2.3
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 40
+    id 38
     label "4gw"
     leftrightself 5
     gender 1.0
@@ -610,13 +428,9 @@ graph [
     grade 2.0
     partyvote 1.0
     age 19.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 2.0
   ]
   node [
-    id 41
+    id 39
     label "vgg"
     leftrightself 3
     gender 1.0
@@ -625,28 +439,9 @@ graph [
     grade 2.7
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 3.0
   ]
   node [
-    id 42
-    label "dbk"
-    leftrightself 5
-    gender 1.0
-    income 450.0
-    rent 450.0
-    grade 3.3
-    partyvote 8.0
-    age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 2.0
-  ]
-  node [
-    id 43
+    id 40
     label "9ra"
     leftrightself 2
     gender 1.0
@@ -655,13 +450,9 @@ graph [
     grade 2.7
     partyvote 5.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 2.0
   ]
   node [
-    id 44
+    id 41
     label "qqt"
     leftrightself 3
     gender 1.0
@@ -670,13 +461,9 @@ graph [
     grade 2.3
     partyvote -999
     age 21.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 45
+    id 42
     label "np4"
     leftrightself 5
     gender 1.0
@@ -685,13 +472,9 @@ graph [
     grade 2.3
     partyvote 1.0
     age 23.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 46
+    id 43
     label "ryn"
     leftrightself 4
     gender 1.0
@@ -700,13 +483,9 @@ graph [
     grade 1.0
     partyvote 3.0
     age 24.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 2.0
   ]
   node [
-    id 47
+    id 44
     label "v3e"
     leftrightself 6
     gender 1.0
@@ -715,13 +494,9 @@ graph [
     grade 3.3
     partyvote 1.0
     age 20.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 1.0
   ]
   node [
-    id 48
+    id 45
     label "saf"
     leftrightself 6
     gender 1.0
@@ -730,13 +505,9 @@ graph [
     grade 2.0
     partyvote 2.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
-    id 49
+    id 46
     label "e3v"
     leftrightself 5
     gender 2.0
@@ -745,13 +516,9 @@ graph [
     grade 1.7
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 50
+    id 47
     label "av4"
     leftrightself 4
     gender 2.0
@@ -760,13 +527,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 51
+    id 48
     label "vcb"
     leftrightself 6
     gender 2.0
@@ -775,13 +538,9 @@ graph [
     grade 3.3
     partyvote 2.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 0.0
   ]
   node [
-    id 52
+    id 49
     label "qxn"
     leftrightself 8
     gender 2.0
@@ -790,13 +549,9 @@ graph [
     grade 3.0
     partyvote -999
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 53
+    id 50
     label "gdg"
     leftrightself 4
     gender 1.0
@@ -805,13 +560,9 @@ graph [
     grade 2.0
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 54
+    id 51
     label "4dk"
     leftrightself 4
     gender 2.0
@@ -820,13 +571,9 @@ graph [
     grade 3.3
     partyvote 1.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 55
+    id 52
     label "knc"
     leftrightself 3
     gender 1.0
@@ -835,13 +582,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 56
+    id 53
     label "gcu"
     leftrightself 4
     gender 2.0
@@ -850,43 +593,9 @@ graph [
     grade 2.0
     partyvote 3.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 57
-    label "ara"
-    leftrightself 7
-    gender 2.0
-    income 200.0
-    rent 406.0
-    grade 4.0
-    partyvote 6.0
-    age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 4.0
-  ]
-  node [
-    id 58
-    label "9he"
-    leftrightself 7
-    gender 1.0
-    income 1000.0
-    rent 450.0
-    grade 2.0
-    partyvote 2.0
-    age 23.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
-  ]
-  node [
-    id 59
+    id 54
     label "afp"
     leftrightself 4
     gender 2.0
@@ -895,13 +604,9 @@ graph [
     grade 2.3
     partyvote 1.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 60
+    id 55
     label "bga"
     leftrightself 4
     gender 2.0
@@ -910,13 +615,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 61
+    id 56
     label "dnk"
     leftrightself 0
     gender 1.0
@@ -925,13 +626,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 62
+    id 57
     label "dxp"
     leftrightself 5
     gender 2.0
@@ -940,13 +637,9 @@ graph [
     grade 4.0
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 63
+    id 58
     label "3ab"
     leftrightself 5
     gender 2.0
@@ -955,28 +648,20 @@ graph [
     grade 3.3
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 64
+    id 59
     label "qew"
     leftrightself 1
     gender 2.0
     income 200.0
     rent 0.0
-    grade -888.0
+    grade -999
     partyvote 5.0
     age 19.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 65
+    id 60
     label "vnb"
     leftrightself 7
     gender 2.0
@@ -985,13 +670,20 @@ graph [
     grade 2.0
     partyvote -999
     age 22.0
-    ocu_father -999.0
-    ocu_mother 0.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 66
+    id 61
+    label "ara"
+    leftrightself 7
+    gender 2.0
+    income 200.0
+    rent 406.0
+    grade 4.0
+    partyvote 6.0
+    age 19.0
+  ]
+  node [
+    id 62
     label "4ww"
     leftrightself 2
     gender 2.0
@@ -1000,28 +692,9 @@ graph [
     grade 2.3
     partyvote 5.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother -999.0
   ]
   node [
-    id 67
-    label "9gt"
-    leftrightself 8
-    gender 2.0
-    income 520.0
-    rent 250.0
-    grade 3.0
-    partyvote 4.0
-    age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
-  ]
-  node [
-    id 68
+    id 63
     label "dmd"
     leftrightself 6
     gender 2.0
@@ -1030,13 +703,9 @@ graph [
     grade 2.7
     partyvote -999
     age 19.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 69
+    id 64
     label "uwx"
     leftrightself 5
     gender 2.0
@@ -1045,13 +714,9 @@ graph [
     grade 3.7
     partyvote 1.0
     age 20.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 3.0
   ]
   node [
-    id 70
+    id 65
     label "mdx"
     leftrightself 4
     gender 2.0
@@ -1060,13 +725,9 @@ graph [
     grade 3.3
     partyvote 5.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 2.0
   ]
   node [
-    id 71
+    id 66
     label "3x9"
     leftrightself 3
     gender 1.0
@@ -1075,13 +736,9 @@ graph [
     grade 3.7
     partyvote 8.0
     age 23.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 72
+    id 67
     label "rxs"
     leftrightself 3
     gender 1.0
@@ -1090,13 +747,9 @@ graph [
     grade 3.0
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 73
+    id 68
     label "mhp"
     leftrightself 5
     gender 2.0
@@ -1105,13 +758,9 @@ graph [
     grade 2.0
     partyvote -999
     age 21.0
-    ocu_father 0.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 2.0
   ]
   node [
-    id 74
+    id 69
     label "cfw"
     leftrightself 7
     gender 2.0
@@ -1120,13 +769,9 @@ graph [
     grade 1.0
     partyvote 4.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 75
+    id 70
     label "mbv"
     leftrightself 8
     gender 2.0
@@ -1135,13 +780,9 @@ graph [
     grade 2.7
     partyvote 2.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 1.0
   ]
   node [
-    id 76
+    id 71
     label "yfk"
     leftrightself 3
     gender 1.0
@@ -1150,13 +791,9 @@ graph [
     grade 2.7
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 4.0
   ]
   node [
-    id 77
+    id 72
     label "hch"
     leftrightself 3
     gender 1.0
@@ -1165,28 +802,20 @@ graph [
     grade 1.7
     partyvote 5.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 2.0
   ]
   node [
-    id 78
+    id 73
     label "whx"
     leftrightself 3
     gender 1.0
     income 550.0
     rent 370.0
-    grade -888.0
+    grade -999
     partyvote -999
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 79
+    id 74
     label "gth"
     leftrightself 4
     gender 1.0
@@ -1195,13 +824,9 @@ graph [
     grade 2.3
     partyvote -999
     age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 3.0
   ]
   node [
-    id 80
+    id 75
     label "tpu"
     leftrightself 3
     gender 1.0
@@ -1210,13 +835,9 @@ graph [
     grade 3.7
     partyvote -999
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 81
+    id 76
     label "xyb"
     leftrightself 3
     gender 1.0
@@ -1225,13 +846,9 @@ graph [
     grade 3.7
     partyvote -999
     age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 82
+    id 77
     label "3eh"
     leftrightself 4
     gender 2.0
@@ -1240,13 +857,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 3.0
   ]
   node [
-    id 83
+    id 78
     label "fv4"
     leftrightself 3
     gender 1.0
@@ -1255,13 +868,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 84
+    id 79
     label "3fv"
     leftrightself 5
     gender 1.0
@@ -1270,13 +879,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 85
+    id 80
     label "mw9"
     leftrightself 3
     gender 1.0
@@ -1285,13 +890,9 @@ graph [
     grade 3.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
-    id 86
+    id 81
     label "add"
     leftrightself 2
     gender 1.0
@@ -1300,13 +901,9 @@ graph [
     grade 2.3
     partyvote 5.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 87
+    id 82
     label "hry"
     leftrightself 5
     gender 1.0
@@ -1315,28 +912,9 @@ graph [
     grade 3.3
     partyvote 3.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 88
-    label "yte"
-    leftrightself 4
-    gender 2.0
-    income 1000.0
-    rent 420.0
-    grade 3.0
-    partyvote 1.0
-    age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
-  ]
-  node [
-    id 89
+    id 83
     label "ngr"
     leftrightself 5
     gender 1.0
@@ -1345,13 +923,9 @@ graph [
     grade 3.7
     partyvote 1.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
-    id 90
+    id 84
     label "hmt"
     leftrightself 3
     gender 2.0
@@ -1360,13 +934,9 @@ graph [
     grade 3.7
     partyvote 5.0
     age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 3.0
   ]
   node [
-    id 91
+    id 85
     label "ktd"
     leftrightself 3
     gender 1.0
@@ -1375,13 +945,9 @@ graph [
     grade 3.0
     partyvote 3.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 92
+    id 86
     label "ahn"
     leftrightself 5
     gender 1.0
@@ -1390,13 +956,9 @@ graph [
     grade 3.0
     partyvote 3.0
     age 22.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 4.0
-    edz_mother 1.0
   ]
   node [
-    id 93
+    id 87
     label "9fx"
     leftrightself 3
     gender 2.0
@@ -1405,13 +967,9 @@ graph [
     grade 3.0
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 3.0
   ]
   node [
-    id 94
+    id 88
     label "uge"
     leftrightself 7
     gender 2.0
@@ -1420,13 +978,9 @@ graph [
     grade 4.0
     partyvote 2.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother -999
   ]
   node [
-    id 95
+    id 89
     label "qay"
     leftrightself 3
     gender 1.0
@@ -1435,13 +989,9 @@ graph [
     grade 2.7
     partyvote 5.0
     age 22.0
-    ocu_father 0.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 0.0
   ]
   node [
-    id 96
+    id 90
     label "sva"
     leftrightself 3
     gender 2.0
@@ -1450,13 +1000,9 @@ graph [
     grade 3.3
     partyvote 1.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 3.0
   ]
   node [
-    id 97
+    id 91
     label "wrc"
     leftrightself 4
     gender 1.0
@@ -1465,28 +1011,20 @@ graph [
     grade 2.3
     partyvote 1.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
-    id 98
+    id 92
     label "rht"
     leftrightself 4
     gender 1.0
     income 850.0
     rent 425.0
-    grade -888.0
+    grade -999
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father -999.0
-    edz_mother 3.0
   ]
   node [
-    id 99
+    id 93
     label "yer"
     leftrightself 7
     gender 2.0
@@ -1495,28 +1033,9 @@ graph [
     grade 3.0
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 100
-    label "hmu"
-    leftrightself 2
-    gender 1.0
-    income 200.0
-    rent 0.0
-    grade 4.0
-    partyvote 1.0
-    age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
-  ]
-  node [
-    id 101
+    id 94
     label "p49"
     leftrightself 3
     gender 1.0
@@ -1525,13 +1044,9 @@ graph [
     grade 3.3
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 102
+    id 95
     label "yqq"
     leftrightself 5
     gender 1.0
@@ -1540,13 +1055,9 @@ graph [
     grade 3.7
     partyvote 1.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 4.0
   ]
   node [
-    id 103
+    id 96
     label "yg9"
     leftrightself 6
     gender 1.0
@@ -1555,28 +1066,9 @@ graph [
     grade 3.0
     partyvote 7.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 104
-    label "bxg"
-    leftrightself 6
-    gender 1.0
-    income 1000.0
-    rent 570.0
-    grade 2.0
-    partyvote 4.0
-    age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
-  ]
-  node [
-    id 105
+    id 97
     label "bgq"
     leftrightself 6
     gender 2.0
@@ -1585,13 +1077,9 @@ graph [
     grade 2.7
     partyvote 1.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 106
+    id 98
     label "asv"
     leftrightself 2
     gender 1.0
@@ -1600,13 +1088,9 @@ graph [
     grade 2.3
     partyvote 5.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 107
+    id 99
     label "pgx"
     leftrightself 4
     gender 1.0
@@ -1615,13 +1099,9 @@ graph [
     grade 2.0
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 2.0
   ]
   node [
-    id 108
+    id 100
     label "gb4"
     leftrightself 2
     gender 1.0
@@ -1630,13 +1110,9 @@ graph [
     grade 2.7
     partyvote -999
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 2.0
   ]
   node [
-    id 109
+    id 101
     label "dph"
     leftrightself 2
     gender 2.0
@@ -1645,13 +1121,9 @@ graph [
     grade 2.3
     partyvote 5.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
   ]
   node [
-    id 110
+    id 102
     label "vrm"
     leftrightself 4
     gender 1.0
@@ -1660,43 +1132,9 @@ graph [
     grade 2.7
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 111
-    label "kvq"
-    leftrightself 4
-    gender 1.0
-    income 780.0
-    rent 402.0
-    grade 2.3
-    partyvote 3.0
-    age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
-  ]
-  node [
-    id 112
-    label "ycm"
-    leftrightself 5
-    gender 2.0
-    income 530.0
-    rent 0.0
-    grade 1.7
-    partyvote 2.0
-    age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 3.0
-  ]
-  node [
-    id 113
+    id 103
     label "buv"
     leftrightself 3
     gender 2.0
@@ -1705,13 +1143,9 @@ graph [
     grade 3.0
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother -999.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 114
+    id 104
     label "9fs"
     leftrightself 4
     gender 2.0
@@ -1720,13 +1154,9 @@ graph [
     grade 3.0
     partyvote 3.0
     age 21.0
-    ocu_father 0.0
-    ocu_mother 0.0
-    edu_father 1.0
-    edz_mother 3.0
   ]
   node [
-    id 115
+    id 105
     label "tcc"
     leftrightself 3
     gender 2.0
@@ -1735,13 +1165,9 @@ graph [
     grade 3.3
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 116
+    id 106
     label "ktb"
     leftrightself 4
     gender 1.0
@@ -1750,13 +1176,9 @@ graph [
     grade 2.7
     partyvote -999
     age 19.0
-    ocu_father -999.0
-    ocu_mother 1.0
-    edu_father -999.0
-    edz_mother 1.0
   ]
   node [
-    id 117
+    id 107
     label "vtt"
     leftrightself 5
     gender 1.0
@@ -1765,43 +1187,9 @@ graph [
     grade 1.7
     partyvote -999
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 118
-    label "tpf"
-    leftrightself 6
-    gender 2.0
-    income 0.0
-    rent 0.0
-    grade 2.7
-    partyvote 6.0
-    age 28.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 3.0
-  ]
-  node [
-    id 119
-    label "ny3"
-    leftrightself 3
-    gender 1.0
-    income 400.0
-    rent 550.0
-    grade -888.0
-    partyvote 3.0
-    age 23.0
-    ocu_father 0.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 3.0
-  ]
-  node [
-    id 120
+    id 108
     label "mcb"
     leftrightself 7
     gender 2.0
@@ -1810,13 +1198,9 @@ graph [
     grade 2.3
     partyvote 4.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 121
+    id 109
     label "hn9"
     leftrightself 11
     gender 2.0
@@ -1825,13 +1209,9 @@ graph [
     grade 3.0
     partyvote 6.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 122
+    id 110
     label "9ut"
     leftrightself 7
     gender 2.0
@@ -1840,13 +1220,9 @@ graph [
     grade 1.7
     partyvote 2.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 123
+    id 111
     label "dxh"
     leftrightself 7
     gender 2.0
@@ -1855,43 +1231,31 @@ graph [
     grade 3.0
     partyvote 4.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 2.0
   ]
   node [
-    id 124
+    id 112
     label "kwc"
     leftrightself 3
     gender 1.0
     income 750.0
     rent 490.0
-    grade -888.0
+    grade -999
     partyvote 5.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 125
+    id 113
     label "ecd"
     leftrightself 4
     gender 1.0
     income 900.0
     rent 410.0
-    grade -888.0
+    grade -999
     partyvote 5.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 2.0
   ]
   node [
-    id 126
+    id 114
     label "bqh"
     leftrightself 2
     gender 1.0
@@ -1900,13 +1264,9 @@ graph [
     grade 2.3
     partyvote 5.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 4.0
   ]
   node [
-    id 127
+    id 115
     label "cyg"
     leftrightself 5
     gender 2.0
@@ -1915,13 +1275,9 @@ graph [
     grade 3.0
     partyvote 3.0
     age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
   ]
   node [
-    id 128
+    id 116
     label "uqy"
     leftrightself 2
     gender 1.0
@@ -1930,13 +1286,9 @@ graph [
     grade 4.0
     partyvote 5.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 3.0
   ]
   node [
-    id 129
+    id 117
     label "mbf"
     leftrightself 5
     gender 2.0
@@ -1945,13 +1297,9 @@ graph [
     grade 1.3
     partyvote 3.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 130
+    id 118
     label "eh3"
     leftrightself 8
     gender 2.0
@@ -1960,13 +1308,9 @@ graph [
     grade 1.7
     partyvote 2.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 131
+    id 119
     label "yuc"
     leftrightself 3
     gender 1.0
@@ -1975,13 +1319,9 @@ graph [
     grade 2.7
     partyvote 8.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
   ]
   node [
-    id 132
+    id 120
     label "mry"
     leftrightself 6
     gender 2.0
@@ -1990,28 +1330,20 @@ graph [
     grade 3.0
     partyvote 2.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 133
+    id 121
     label "49w"
     leftrightself 3
     gender 1.0
     income 1000.0
     rent 440.0
-    grade -888.0
+    grade -999
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 134
+    id 122
     label "nut"
     leftrightself 5
     gender 1.0
@@ -2020,13 +1352,9 @@ graph [
     grade 2.0
     partyvote 4.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 135
+    id 123
     label "mwh"
     leftrightself 2
     gender 1.0
@@ -2035,13 +1363,9 @@ graph [
     grade 2.0
     partyvote 5.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
-    id 136
+    id 124
     label "gga"
     leftrightself 6
     gender 1.0
@@ -2050,13 +1374,9 @@ graph [
     grade 2.7
     partyvote -999
     age 18.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 137
+    id 125
     label "ent"
     leftrightself 2
     gender 1.0
@@ -2065,13 +1385,9 @@ graph [
     grade 2.7
     partyvote 5.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 138
+    id 126
     label "bey"
     leftrightself 3
     gender 2.0
@@ -2080,13 +1396,9 @@ graph [
     grade 2.7
     partyvote 3.0
     age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 4.0
   ]
   node [
-    id 139
+    id 127
     label "4yf"
     leftrightself 4
     gender 2.0
@@ -2095,13 +1407,9 @@ graph [
     grade 3.7
     partyvote 3.0
     age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 2.0
   ]
   node [
-    id 140
+    id 128
     label "3hc"
     leftrightself 6
     gender 1.0
@@ -2110,28 +1418,9 @@ graph [
     grade 2.7
     partyvote 3.0
     age 24.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 141
-    label "3ya"
-    leftrightself 4
-    gender 2.0
-    income 800.0
-    rent 550.0
-    grade 3.0
-    partyvote 3.0
-    age 25.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
-  ]
-  node [
-    id 142
+    id 129
     label "cpk"
     leftrightself 6
     gender 2.0
@@ -2140,13 +1429,9 @@ graph [
     grade 2.3
     partyvote 2.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 4.0
   ]
   node [
-    id 143
+    id 130
     label "fep"
     leftrightself 4
     gender 1.0
@@ -2155,13 +1440,9 @@ graph [
     grade 2.0
     partyvote 1.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 2.0
   ]
   node [
-    id 144
+    id 131
     label "h9x"
     leftrightself 5
     gender 1.0
@@ -2170,28 +1451,9 @@ graph [
     grade 2.7
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 145
-    label "xwx"
-    leftrightself 4
-    gender 2.0
-    income 100.0
-    rent 343.0
-    grade 2.7
-    partyvote 1.0
-    age 20.0
-    ocu_father -999.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 4.0
-  ]
-  node [
-    id 146
+    id 132
     label "3xt"
     leftrightself 8
     gender 2.0
@@ -2200,13 +1462,9 @@ graph [
     grade 2.0
     partyvote 2.0
     age 18.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 4.0
   ]
   node [
-    id 147
+    id 133
     label "ucp"
     leftrightself 5
     gender 1.0
@@ -2215,13 +1473,9 @@ graph [
     grade 1.7
     partyvote 3.0
     age 20.0
-    ocu_father -999.0
-    ocu_mother 1.0
-    edu_father -999.0
-    edz_mother 2.0
   ]
   node [
-    id 148
+    id 134
     label "qhv"
     leftrightself 4
     gender 1.0
@@ -2230,28 +1484,9 @@ graph [
     grade 1.7
     partyvote 1.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 149
-    label "avr"
-    leftrightself 3
-    gender -999.0
-    income 350.0
-    rent 386.0
-    grade 2.7
-    partyvote -999
-    age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
-  ]
-  node [
-    id 150
+    id 135
     label "sbf"
     leftrightself 6
     gender 2.0
@@ -2260,13 +1495,9 @@ graph [
     grade 2.7
     partyvote 2.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
   ]
   node [
-    id 151
+    id 136
     label "dss"
     leftrightself 6
     gender 1.0
@@ -2275,13 +1506,9 @@ graph [
     grade 2.3
     partyvote -999
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 1.0
   ]
   node [
-    id 152
+    id 137
     label "fvy"
     leftrightself 3
     gender 2.0
@@ -2290,13 +1517,9 @@ graph [
     grade 2.0
     partyvote 3.0
     age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 3.0
   ]
   node [
-    id 153
+    id 138
     label "crq"
     leftrightself 4
     gender 1.0
@@ -2305,13 +1528,9 @@ graph [
     grade 2.0
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
   ]
   node [
-    id 154
+    id 139
     label "hqf"
     leftrightself 5
     gender 1.0
@@ -2320,13 +1539,9 @@ graph [
     grade 3.0
     partyvote -999
     age 24.0
-    ocu_father -999.0
-    ocu_mother 0.0
-    edu_father 0.0
-    edz_mother 0.0
   ]
   node [
-    id 155
+    id 140
     label "bpy"
     leftrightself 4
     gender -999.0
@@ -2335,13 +1550,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
   ]
   node [
-    id 156
+    id 141
     label "h9k"
     leftrightself 3
     gender 1.0
@@ -2350,13 +1561,9 @@ graph [
     grade 2.3
     partyvote 3.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 3.0
   ]
   node [
-    id 157
+    id 142
     label "udg"
     leftrightself 5
     gender 1.0
@@ -2365,58 +1572,9 @@ graph [
     grade 2.7
     partyvote 8.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 2.0
   ]
   node [
-    id 158
-    label "9fu"
-    leftrightself 11
-    gender 2.0
-    income 8550.0
-    rent 0.0
-    grade 1.0
-    partyvote 4.0
-    age 21.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 2.0
-  ]
-  node [
-    id 159
-    label "vxf"
-    leftrightself 6
-    gender 2.0
-    income 400.0
-    rent 365.0
-    grade 2.3
-    partyvote 3.0
-    age 21.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 4.0
-  ]
-  node [
-    id 160
-    label "wfr"
-    leftrightself 8
-    gender 2.0
-    income 800.0
-    rent 0.0
-    grade 2.7
-    partyvote 2.0
-    age 21.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 2.0
-    edz_mother 2.0
-  ]
-  node [
-    id 161
+    id 143
     label "dyb"
     leftrightself 3
     gender 2.0
@@ -2425,13 +1583,9 @@ graph [
     grade 2.7
     partyvote 3.0
     age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 162
+    id 144
     label "ack"
     leftrightself 5
     gender 1.0
@@ -2440,28 +1594,9 @@ graph [
     grade 3.3
     partyvote 8.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 3.0
   ]
   node [
-    id 163
-    label "fqt"
-    leftrightself 2
-    gender 2.0
-    income 500.0
-    rent 470.0
-    grade -888.0
-    partyvote 3.0
-    age 23.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 1.0
-  ]
-  node [
-    id 164
+    id 145
     label "vkv"
     leftrightself 7
     gender 2.0
@@ -2470,58 +1605,9 @@ graph [
     grade 3.3
     partyvote -999
     age 21.0
-    ocu_father -999.0
-    ocu_mother 1.0
-    edu_father -999.0
-    edz_mother 3.0
   ]
   node [
-    id 165
-    label "b3p"
-    leftrightself 4
-    gender 1.0
-    income 1200.0
-    rent 330.0
-    grade 2.3
-    partyvote 3.0
-    age 25.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 1.0
-  ]
-  node [
-    id 166
-    label "hnc"
-    leftrightself 3
-    gender 2.0
-    income 450.0
-    rent 400.0
-    grade 1.3
-    partyvote 3.0
-    age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 2.0
-    edz_mother 3.0
-  ]
-  node [
-    id 167
-    label "nan"
-    leftrightself 3
-    gender 1.0
-    income 0.0
-    rent 570.0
-    grade 2.3
-    partyvote 8.0
-    age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
-  ]
-  node [
-    id 168
+    id 146
     label "ugr"
     leftrightself 4
     gender 1.0
@@ -2530,13 +1616,9 @@ graph [
     grade 3.3
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    edu_father 3.0
-    edz_mother 3.0
   ]
   node [
-    id 169
+    id 147
     label "spg"
     leftrightself 4
     gender 1.0
@@ -2545,13 +1627,9 @@ graph [
     grade 3.7
     partyvote 3.0
     age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 3.0
   ]
   node [
-    id 170
+    id 148
     label "evs"
     leftrightself 5
     gender 1.0
@@ -2560,103 +1638,31 @@ graph [
     grade 3.7
     partyvote 4.0
     age 22.0
-    ocu_father 0.0
-    ocu_mother 0.0
-    edu_father 2.0
-    edz_mother 2.0
   ]
   node [
-    id 171
-    label "ukm"
+    id 149
+    label "9he"
     leftrightself 7
-    gender 2.0
-    income 2000.0
-    rent 633.0
-    grade 3.0
-    partyvote 8.0
-    age 20.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 4.0
-    edz_mother 3.0
-  ]
-  node [
-    id 172
-    label "9rd"
-    leftrightself 9
-    gender 2.0
+    gender 1.0
     income 1000.0
-    rent 490.0
-    grade 2.3
+    rent 450.0
+    grade 2.0
     partyvote 2.0
     age 23.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 2.0
   ]
   node [
-    id 173
-    label "wng"
+    id 150
+    label "b3p"
     leftrightself 4
     gender 1.0
-    income 300.0
-    rent 540.0
-    grade -888.0
-    partyvote 7.0
-    age 19.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 1.0
-    edz_mother 2.0
+    income 1200.0
+    rent 330.0
+    grade 2.3
+    partyvote 3.0
+    age 25.0
   ]
   node [
-    id 174
-    label "4rp"
-    leftrightself 8
-    gender 2.0
-    income 900.0
-    rent 0.0
-    grade 2.7
-    partyvote 4.0
-    age 21.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
-  ]
-  node [
-    id 175
-    label "duv"
-    leftrightself 8
-    gender 1.0
-    income 800.0
-    rent 500.0
-    grade -888.0
-    partyvote -999
-    age 22.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 3.0
-  ]
-  node [
-    id 176
-    label "evh"
-    leftrightself 2
-    gender 2.0
-    income 1300.0
-    rent 450.0
-    grade 4.0
-    partyvote 5.0
-    age 22.0
-    ocu_father -999.0
-    ocu_mother 1.0
-    edu_father -999.0
-    edz_mother 2.0
-  ]
-  node [
-    id 177
+    id 151
     label "wen"
     leftrightself 8
     gender 2.0
@@ -2665,44 +1671,22 @@ graph [
     grade 1.7
     partyvote -999
     age 25.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    edu_father 3.0
-    edz_mother 4.0
   ]
   node [
-    id 178
+    id 152
     label "rf4"
     leftrightself 0
     gender 2.0
     income 1000.0
     rent 0.0
-    grade -888.0
+    grade -999
     partyvote -999
     age 27.0
-    ocu_father -999.0
-    ocu_mother -999.0
-    edu_father 1.0
-    edz_mother 3.0
-  ]
-  node [
-    id 179
-    label "4kk"
-    leftrightself 7
-    gender 2.0
-    income 900.0
-    rent 580.0
-    grade 3.0
-    partyvote 1.0
-    age 24.0
-    ocu_father 1.0
-    ocu_mother -999.0
-    edu_father -999.0
-    edz_mother 3.0
   ]
   edge [
     source 0
     target 1
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2714,6 +1698,7 @@ graph [
   edge [
     source 0
     target 2
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -2725,6 +1710,7 @@ graph [
   edge [
     source 0
     target 3
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2736,6 +1722,7 @@ graph [
   edge [
     source 0
     target 4
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2747,6 +1734,7 @@ graph [
   edge [
     source 0
     target 5
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2758,6 +1746,7 @@ graph [
   edge [
     source 0
     target 6
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2769,6 +1758,7 @@ graph [
   edge [
     source 0
     target 7
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2780,6 +1770,7 @@ graph [
   edge [
     source 1
     target 2
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2791,6 +1782,7 @@ graph [
   edge [
     source 1
     target 3
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -2801,7 +1793,8 @@ graph [
   ]
   edge [
     source 1
-    target 87
+    target 82
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -2813,6 +1806,7 @@ graph [
   edge [
     source 2
     target 1
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2823,7 +1817,8 @@ graph [
   ]
   edge [
     source 2
-    target 87
+    target 82
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -2835,6 +1830,7 @@ graph [
   edge [
     source 2
     target 4
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -2846,6 +1842,7 @@ graph [
   edge [
     source 2
     target 3
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -2857,6 +1854,7 @@ graph [
   edge [
     source 3
     target 1
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -2868,6 +1866,7 @@ graph [
   edge [
     source 3
     target 0
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2879,6 +1878,7 @@ graph [
   edge [
     source 3
     target 2
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2889,7 +1889,8 @@ graph [
   ]
   edge [
     source 4
-    target 87
+    target 82
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -2901,6 +1902,7 @@ graph [
   edge [
     source 4
     target 2
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2912,6 +1914,7 @@ graph [
   edge [
     source 4
     target 7
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2923,6 +1926,7 @@ graph [
   edge [
     source 4
     target 5
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2934,6 +1938,7 @@ graph [
   edge [
     source 4
     target 3
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2945,6 +1950,7 @@ graph [
   edge [
     source 4
     target 6
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2956,6 +1962,7 @@ graph [
   edge [
     source 5
     target 3
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2967,6 +1974,7 @@ graph [
   edge [
     source 5
     target 0
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -2978,6 +1986,7 @@ graph [
   edge [
     source 5
     target 7
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -2988,7 +1997,8 @@ graph [
   ]
   edge [
     source 6
-    target 88
+    target 31
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3000,17 +2010,7 @@ graph [
   edge [
     source 6
     target 32
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 6
-    target 33
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -3022,6 +2022,7 @@ graph [
   edge [
     source 6
     target 5
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3033,6 +2034,7 @@ graph [
   edge [
     source 6
     target 7
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3043,7 +2045,8 @@ graph [
   ]
   edge [
     source 6
-    target 137
+    target 125
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3055,6 +2058,7 @@ graph [
   edge [
     source 6
     target 3
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3065,7 +2069,8 @@ graph [
   ]
   edge [
     source 6
-    target 83
+    target 78
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3076,7 +2081,8 @@ graph [
   ]
   edge [
     source 6
-    target 113
+    target 103
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3088,6 +2094,7 @@ graph [
   edge [
     source 7
     target 0
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3099,6 +2106,7 @@ graph [
   edge [
     source 7
     target 5
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3110,6 +2118,7 @@ graph [
   edge [
     source 7
     target 3
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3121,6 +2130,7 @@ graph [
   edge [
     source 7
     target 4
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3132,6 +2142,7 @@ graph [
   edge [
     source 7
     target 2
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3142,7 +2153,8 @@ graph [
   ]
   edge [
     source 7
-    target 87
+    target 82
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3153,7 +2165,8 @@ graph [
   ]
   edge [
     source 7
-    target 122
+    target 110
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3165,6 +2178,7 @@ graph [
   edge [
     source 7
     target 6
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3176,6 +2190,7 @@ graph [
   edge [
     source 8
     target 9
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3187,6 +2202,7 @@ graph [
   edge [
     source 8
     target 10
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3198,6 +2214,7 @@ graph [
   edge [
     source 8
     target 11
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3209,6 +2226,7 @@ graph [
   edge [
     source 9
     target 8
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3220,6 +2238,7 @@ graph [
   edge [
     source 9
     target 10
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3231,6 +2250,7 @@ graph [
   edge [
     source 9
     target 11
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3242,6 +2262,7 @@ graph [
   edge [
     source 10
     target 12
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3253,6 +2274,7 @@ graph [
   edge [
     source 10
     target 13
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3264,6 +2286,7 @@ graph [
   edge [
     source 11
     target 17
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3275,6 +2298,7 @@ graph [
   edge [
     source 11
     target 16
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3286,6 +2310,7 @@ graph [
   edge [
     source 11
     target 14
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3297,6 +2322,7 @@ graph [
   edge [
     source 11
     target 15
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3306,30 +2332,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 11
-    target 88
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 5
-    sentiment 2
-  ]
-  edge [
     source 12
-    target 118
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 0
-  ]
-  edge [
-    source 12
-    target 135
+    target 123
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3340,7 +2345,8 @@ graph [
   ]
   edge [
     source 12
-    target 136
+    target 124
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3351,7 +2357,8 @@ graph [
   ]
   edge [
     source 12
-    target 92
+    target 86
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -3362,7 +2369,8 @@ graph [
   ]
   edge [
     source 12
-    target 133
+    target 121
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -3374,6 +2382,7 @@ graph [
   edge [
     source 12
     target 10
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3385,17 +2394,7 @@ graph [
   edge [
     source 13
     target 30
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 13
-    target 31
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -3407,6 +2406,7 @@ graph [
   edge [
     source 14
     target 15
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -3418,6 +2418,7 @@ graph [
   edge [
     source 14
     target 16
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -3429,6 +2430,7 @@ graph [
   edge [
     source 14
     target 11
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3440,6 +2442,7 @@ graph [
   edge [
     source 14
     target 17
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3451,6 +2454,7 @@ graph [
   edge [
     source 14
     target 18
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -3462,6 +2466,7 @@ graph [
   edge [
     source 15
     target 14
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3473,6 +2478,7 @@ graph [
   edge [
     source 15
     target 16
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -3484,6 +2490,7 @@ graph [
   edge [
     source 15
     target 11
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3495,6 +2502,7 @@ graph [
   edge [
     source 15
     target 17
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3506,6 +2514,7 @@ graph [
   edge [
     source 16
     target 11
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3517,6 +2526,7 @@ graph [
   edge [
     source 16
     target 15
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3528,6 +2538,7 @@ graph [
   edge [
     source 17
     target 11
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3539,6 +2550,7 @@ graph [
   edge [
     source 17
     target 16
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3550,6 +2562,7 @@ graph [
   edge [
     source 17
     target 14
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3561,6 +2574,7 @@ graph [
   edge [
     source 17
     target 15
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3572,6 +2586,7 @@ graph [
   edge [
     source 18
     target 14
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3583,6 +2598,7 @@ graph [
   edge [
     source 18
     target 17
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3594,6 +2610,7 @@ graph [
   edge [
     source 18
     target 15
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3604,18 +2621,8 @@ graph [
   ]
   edge [
     source 18
-    target 100
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 18
-    target 82
+    target 77
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3626,18 +2633,8 @@ graph [
   ]
   edge [
     source 18
-    target 145
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 18
-    target 76
+    target 71
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3649,6 +2646,7 @@ graph [
   edge [
     source 19
     target 20
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3660,6 +2658,7 @@ graph [
   edge [
     source 19
     target 21
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3671,6 +2670,7 @@ graph [
   edge [
     source 19
     target 22
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3682,6 +2682,7 @@ graph [
   edge [
     source 19
     target 23
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3693,6 +2694,7 @@ graph [
   edge [
     source 20
     target 21
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3704,6 +2706,7 @@ graph [
   edge [
     source 20
     target 19
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3715,6 +2718,7 @@ graph [
   edge [
     source 20
     target 22
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3726,6 +2730,7 @@ graph [
   edge [
     source 20
     target 23
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3737,6 +2742,7 @@ graph [
   edge [
     source 21
     target 23
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3748,6 +2754,7 @@ graph [
   edge [
     source 21
     target 19
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3759,6 +2766,7 @@ graph [
   edge [
     source 21
     target 20
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3770,6 +2778,7 @@ graph [
   edge [
     source 21
     target 22
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3781,6 +2790,7 @@ graph [
   edge [
     source 22
     target 20
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3792,6 +2802,7 @@ graph [
   edge [
     source 22
     target 21
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3803,6 +2814,7 @@ graph [
   edge [
     source 22
     target 19
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3814,6 +2826,7 @@ graph [
   edge [
     source 22
     target 23
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3825,6 +2838,7 @@ graph [
   edge [
     source 23
     target 20
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3836,6 +2850,7 @@ graph [
   edge [
     source 23
     target 21
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3847,6 +2862,7 @@ graph [
   edge [
     source 23
     target 19
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3858,6 +2874,7 @@ graph [
   edge [
     source 23
     target 22
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3869,6 +2886,7 @@ graph [
   edge [
     source 24
     target 25
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -3880,6 +2898,7 @@ graph [
   edge [
     source 24
     target 26
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3891,6 +2910,7 @@ graph [
   edge [
     source 25
     target 24
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -3901,7 +2921,8 @@ graph [
   ]
   edge [
     source 25
-    target 71
+    target 66
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -3912,7 +2933,8 @@ graph [
   ]
   edge [
     source 26
-    target 58
+    target 149
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3923,7 +2945,8 @@ graph [
   ]
   edge [
     source 26
-    target 165
+    target 150
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3935,6 +2958,7 @@ graph [
   edge [
     source 26
     target 25
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -3946,6 +2970,7 @@ graph [
   edge [
     source 27
     target 28
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3957,6 +2982,7 @@ graph [
   edge [
     source 27
     target 3
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3968,6 +2994,7 @@ graph [
   edge [
     source 27
     target 29
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -3979,6 +3006,7 @@ graph [
   edge [
     source 28
     target 27
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -3990,6 +3018,7 @@ graph [
   edge [
     source 28
     target 3
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -4001,6 +3030,7 @@ graph [
   edge [
     source 28
     target 5
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -4011,7 +3041,8 @@ graph [
   ]
   edge [
     source 28
-    target 70
+    target 65
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -4022,7 +3053,8 @@ graph [
   ]
   edge [
     source 28
-    target 66
+    target 62
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -4033,7 +3065,8 @@ graph [
   ]
   edge [
     source 28
-    target 69
+    target 64
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -4044,7 +3077,8 @@ graph [
   ]
   edge [
     source 29
-    target 59
+    target 54
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -4055,7 +3089,8 @@ graph [
   ]
   edge [
     source 29
-    target 60
+    target 55
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4066,7 +3101,8 @@ graph [
   ]
   edge [
     source 29
-    target 82
+    target 77
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4077,7 +3113,8 @@ graph [
   ]
   edge [
     source 29
-    target 83
+    target 78
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4088,7 +3125,8 @@ graph [
   ]
   edge [
     source 29
-    target 84
+    target 79
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4099,7 +3137,8 @@ graph [
   ]
   edge [
     source 29
-    target 85
+    target 80
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4110,7 +3149,8 @@ graph [
   ]
   edge [
     source 29
-    target 86
+    target 81
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -4122,6 +3162,7 @@ graph [
   edge [
     source 30
     target 13
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -4132,7 +3173,8 @@ graph [
   ]
   edge [
     source 30
-    target 105
+    target 97
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -4143,7 +3185,8 @@ graph [
   ]
   edge [
     source 30
-    target 96
+    target 90
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -4154,29 +3197,8 @@ graph [
   ]
   edge [
     source 31
-    target 57
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 31
-    target 58
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 7
-    sentiment 0
-  ]
-  edge [
-    source 32
-    target 33
+    target 32
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -4186,8 +3208,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 32
-    target 34
+    source 31
+    target 33
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -4197,8 +3220,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 32
+    source 31
     target 6
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -4209,18 +3233,8 @@ graph [
   ]
   edge [
     source 32
-    target 35
-    friend 1
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 6
-    sentiment 2
-  ]
-  edge [
-    source 33
-    target 32
+    target 31
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4230,96 +3244,57 @@ graph [
     sentiment 2
   ]
   edge [
-    source 33
-    target 34
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 33
-    target 42
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 33
-    target 43
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 33
-    target 35
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 34
-    target 35
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 34
-    target 102
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 34
-    target 43
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 34
-    target 32
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 34
+    source 32
     target 33
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 32
+    target 40
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 33
+    target 95
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 33
+    target 40
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 33
+    target 31
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -4329,272 +3304,237 @@ graph [
     sentiment 1
   ]
   edge [
-    source 35
-    target 102
+    source 33
+    target 32
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 34
+    target 35
+    aquaintance 1
     friend 1
     value 0
     politics 0
     study 1
-    council 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 34
+    target 18
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 34
+    target 36
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 34
+    target 37
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 1
+    council 1
     leftright 4
     sentiment 1
-  ]
-  edge [
-    source 35
-    target 42
-    friend 1
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 35
-    target 41
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 2
-    sentiment 0
-  ]
-  edge [
-    source 35
-    target 40
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 2
-    sentiment 0
-  ]
-  edge [
-    source 35
-    target 43
-    friend 1
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 3
-    sentiment 2
   ]
   edge [
     source 35
     target 34
+    aquaintance 1
     friend 1
-    value 0
-    politics 0
+    value 1
+    politics 1
     study 1
-    council 0
+    council 1
     leftright 4
     sentiment 2
   ]
   edge [
-    source 36
-    target 37
-    friend 1
+    source 35
+    target 18
+    aquaintance 1
+    friend 0
     value 0
-    politics 0
+    politics 1
     study 1
     council 1
     leftright 3
     sentiment 1
   ]
   edge [
+    source 35
+    target 36
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 35
+    target 37
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 36
+    target 37
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
     source 36
     target 18
+    aquaintance 1
     friend 0
     value 0
     politics 0
     study 1
     council 1
+    leftright 6
+    sentiment 1
+  ]
+  edge [
+    source 36
+    target 34
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 6
+    sentiment 1
+  ]
+  edge [
+    source 36
+    target 35
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 37
+    target 35
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 37
+    target 34
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 37
+    target 18
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 37
+    target 36
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 38
+    target 39
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 6
+    sentiment 2
+  ]
+  edge [
+    source 38
+    target 31
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 0
     leftright 4
     sentiment 0
   ]
   edge [
-    source 36
-    target 38
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 36
-    target 39
-    friend 1
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 37
-    target 36
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 37
-    target 18
-    friend 0
-    value 0
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 37
-    target 38
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 37
-    target 39
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
     source 38
-    target 39
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 38
-    target 18
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 38
-    target 36
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 38
-    target 37
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 39
-    target 37
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 39
-    target 36
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 39
-    target 18
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 39
-    target 38
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 40
-    target 41
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 2
-  ]
-  edge [
-    source 40
     target 32
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 40
-    target 42
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -4602,32 +3542,119 @@ graph [
     council 1
     leftright 4
     sentiment 0
+  ]
+  edge [
+    source 38
+    target 40
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 39
+    target 38
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 6
+    sentiment 2
+  ]
+  edge [
+    source 39
+    target 40
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 0
+    leftright 2
+    sentiment 0
+  ]
+  edge [
+    source 40
+    target 95
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 40
+    target 94
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 2
+    sentiment 2
   ]
   edge [
     source 40
     target 33
+    aquaintance 1
     friend 0
     value 0
     politics 0
     study 0
     council 1
-    leftright 4
-    sentiment 0
+    leftright 2
+    sentiment 2
   ]
   edge [
-    source 40
-    target 43
+    source 41
+    target 42
+    aquaintance 1
     friend 0
     value 0
     politics 0
-    study 0
-    council 1
-    leftright 4
+    study 1
+    council 0
+    leftright 5
     sentiment 0
   ]
   edge [
     source 41
-    target 40
+    target 43
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 0
+    leftright 5
+    sentiment 0
+  ]
+  edge [
+    source 42
+    target 41
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 42
+    target 91
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -4637,142 +3664,59 @@ graph [
     sentiment 2
   ]
   edge [
-    source 41
-    target 42
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 41
-    target 43
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 2
-    sentiment 0
-  ]
-  edge [
-    source 42
-    target 40
-    friend 0
-    value 1
-    politics 1
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 42
+    source 43
     target 41
-    friend 0
-    value 1
-    politics 1
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 42
-    target 102
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 43
-    target 102
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 43
-    target 101
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 43
-    target 42
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 43
-    target 34
+    aquaintance 1
     friend 0
     value 0
     politics 0
     study 0
     council 1
-    leftright 2
-    sentiment 2
+    leftright 3
+    sentiment 0
+  ]
+  edge [
+    source 43
+    target 89
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 0
+  ]
+  edge [
+    source 43
+    target 90
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 0
   ]
   edge [
     source 44
     target 45
-    friend 0
-    value 0
-    politics 0
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
     study 1
-    council 0
-    leftright 5
-    sentiment 0
+    council 1
+    leftright 7
+    sentiment 2
   ]
   edge [
     source 44
     target 46
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 5
-    sentiment 0
-  ]
-  edge [
-    source 45
-    target 44
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 45
-    target 97
+    aquaintance 1
     friend 1
-    value 0
+    value 1
     politics 0
     study 0
     council 0
@@ -4780,107 +3724,33 @@ graph [
     sentiment 2
   ]
   edge [
-    source 45
-    target 111
-    friend 0
-    value 0
-    politics 0
+    source 44
+    target 47
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
     study 1
     council 0
-    leftright 7
-    sentiment 0
-  ]
-  edge [
-    source 45
-    target 104
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 46
-    target 44
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 0
-  ]
-  edge [
-    source 46
-    target 95
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 0
-  ]
-  edge [
-    source 46
-    target 96
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
     leftright 4
-    sentiment 0
+    sentiment 2
   ]
   edge [
-    source 47
+    source 44
     target 48
+    aquaintance 1
     friend 1
     value 1
     politics 1
-    study 1
-    council 1
-    leftright 7
+    study 0
+    council 0
+    leftright 6
     sentiment 2
   ]
   edge [
-    source 47
+    source 44
     target 49
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 2
-  ]
-  edge [
-    source 47
-    target 50
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 47
-    target 51
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 0
-    leftright 6
-    sentiment 2
-  ]
-  edge [
-    source 47
-    target 52
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -4890,8 +3760,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 48
-    target 49
+    source 45
+    target 46
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4901,8 +3772,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 48
-    target 143
+    source 45
+    target 130
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4912,8 +3784,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 48
-    target 153
+    source 45
+    target 138
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -4923,8 +3796,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 48
-    target 152
+    source 45
+    target 137
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -4934,8 +3808,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 48
-    target 142
+    source 45
+    target 129
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -4945,8 +3820,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 48
-    target 78
+    source 45
+    target 73
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -4956,8 +3832,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 48
-    target 109
+    source 45
+    target 101
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -4967,8 +3844,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 49
-    target 142
+    source 46
+    target 129
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -4978,8 +3856,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 49
-    target 152
+    source 46
+    target 137
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -4989,8 +3868,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 49
-    target 143
+    source 46
+    target 130
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -5000,8 +3880,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 49
-    target 153
+    source 46
+    target 138
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5011,8 +3892,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 49
-    target 48
+    source 46
+    target 45
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -5022,41 +3904,45 @@ graph [
     sentiment 2
   ]
   edge [
-    source 49
-    target 50
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 49
-    target 51
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 7
-    sentiment 2
-  ]
-  edge [
-    source 49
-    target 52
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 49
+    source 46
     target 47
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 46
+    target 48
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 7
+    sentiment 2
+  ]
+  edge [
+    source 46
+    target 49
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 6
+    sentiment 0
+  ]
+  edge [
+    source 46
+    target 44
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -5066,8 +3952,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 49
-    target 82
+    source 46
+    target 77
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5077,19 +3964,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 49
-    target 112
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 50
-    target 48
+    source 47
+    target 45
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -5099,8 +3976,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 50
-    target 49
+    source 47
+    target 46
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -5110,8 +3988,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 52
-    target 121
+    source 49
+    target 109
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5121,8 +4000,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 52
-    target 122
+    source 49
+    target 110
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5132,8 +4012,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 52
-    target 123
+    source 49
+    target 111
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5143,8 +4024,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 52
-    target 120
+    source 49
+    target 108
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5154,8 +4036,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 52
-    target 69
+    source 49
+    target 64
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5165,8 +4048,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 52
-    target 47
+    source 49
+    target 44
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5176,8 +4060,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 52
-    target 51
+    source 49
+    target 48
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5185,131 +4070,143 @@ graph [
     council 1
     leftright 7
     sentiment 0
+  ]
+  edge [
+    source 49
+    target 47
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 49
+    target 129
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 5
+    sentiment 0
+  ]
+  edge [
+    source 50
+    target 16
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 50
+    target 51
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 50
+    target 52
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 50
+    target 53
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 51
+    target 16
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 51
+    target 52
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 51
+    target 66
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 51
+    target 67
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
   ]
   edge [
     source 52
     target 50
-    friend 0
+    aquaintance 1
+    friend 1
     value 0
     politics 0
     study 0
-    council 1
-    leftright 4
-    sentiment 0
+    council 0
+    leftright 3
+    sentiment 2
   ]
   edge [
     source 52
-    target 142
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 5
-    sentiment 0
-  ]
-  edge [
-    source 53
     target 16
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 53
-    target 54
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 53
-    target 55
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 53
-    target 56
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 54
-    target 16
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 54
-    target 55
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 54
-    target 71
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 54
-    target 72
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 55
-    target 53
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 55
-    target 16
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5319,8 +4216,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 55
-    target 54
+    source 52
+    target 51
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5330,41 +4228,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 58
-    target 25
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 58
-    target 26
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 2
-    sentiment 0
-  ]
-  edge [
-    source 58
-    target 165
-    friend 0
-    value 0
-    politics 1
-    study 1
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 59
+    source 54
     target 29
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5374,8 +4240,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 59
-    target 60
+    source 54
+    target 55
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5385,8 +4252,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 59
-    target 61
+    source 54
+    target 56
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5396,8 +4264,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 59
-    target 62
+    source 54
+    target 57
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5407,8 +4276,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 59
-    target 63
+    source 54
+    target 58
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5418,8 +4288,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 59
-    target 64
+    source 54
+    target 59
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5429,217 +4300,249 @@ graph [
     sentiment 1
   ]
   edge [
+    source 55
+    target 56
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 55
+    target 54
+    aquaintance 1
+    friend 0
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 55
+    target 29
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 55
+    target 105
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 55
+    target 59
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 55
+    target 57
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 57
+    target 58
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 57
+    target 105
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 57
+    target 104
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 57
+    target 59
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 58
+    target 57
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 58
+    target 79
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 58
+    target 59
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 58
+    target 104
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 59
+    target 58
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 59
+    target 5
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 59
+    target 57
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 59
+    target 105
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 60
+    target 28
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 8
+    sentiment 1
+  ]
+  edge [
+    source 60
+    target 6
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 6
+    sentiment 1
+  ]
+  edge [
     source 60
     target 61
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 60
-    target 59
-    friend 0
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 60
-    target 29
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 60
-    target 115
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 60
-    target 64
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 60
-    target 62
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 62
-    target 63
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 62
-    target 115
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 62
-    target 114
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 62
-    target 64
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 63
-    target 62
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 63
-    target 84
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 63
-    target 64
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 63
-    target 114
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 64
-    target 63
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 64
-    target 5
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 64
-    target 62
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 64
-    target 115
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 65
-    target 28
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 8
-    sentiment 1
-  ]
-  edge [
-    source 65
-    target 6
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5649,19 +4552,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 65
-    target 57
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 65
+    source 60
     target 27
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5671,8 +4564,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 65
-    target 52
+    source 60
+    target 49
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5682,19 +4576,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 66
-    target 67
-    friend 1
-    value 0
-    politics 1
-    study 1
-    council 1
-    leftright 8
-    sentiment 1
-  ]
-  edge [
-    source 66
-    target 68
+    source 62
+    target 63
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -5704,8 +4588,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 66
+    source 62
     target 28
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5715,8 +4600,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 66
-    target 69
+    source 62
+    target 64
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5726,8 +4612,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 66
-    target 70
+    source 62
+    target 65
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -5737,30 +4624,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 67
-    target 93
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 68
-    target 67
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 8
-    sentiment 1
-  ]
-  edge [
-    source 68
-    target 66
+    source 63
+    target 62
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -5770,8 +4636,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 69
-    target 70
+    source 64
+    target 65
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5781,8 +4648,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 69
+    source 64
     target 28
+    aquaintance 1
     friend 0
     value 1
     politics 1
@@ -5792,8 +4660,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 69
-    target 52
+    source 64
+    target 49
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -5803,8 +4672,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 69
-    target 122
+    source 64
+    target 110
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -5814,8 +4684,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 69
-    target 123
+    source 64
+    target 111
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5825,8 +4696,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 69
-    target 120
+    source 64
+    target 108
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5836,8 +4708,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 70
-    target 66
+    source 65
+    target 62
+    aquaintance 1
     friend 0
     value 1
     politics 1
@@ -5847,8 +4720,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 70
-    target 121
+    source 65
+    target 109
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5858,8 +4732,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 70
-    target 52
+    source 65
+    target 49
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5869,8 +4744,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 70
-    target 69
+    source 65
+    target 64
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -5880,8 +4756,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 70
-    target 109
+    source 65
+    target 101
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -5891,8 +4768,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 70
-    target 122
+    source 65
+    target 110
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -5902,8 +4780,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 70
-    target 123
+    source 65
+    target 111
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5913,8 +4792,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 71
-    target 94
+    source 66
+    target 88
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5924,8 +4804,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 71
+    source 66
     target 25
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5935,8 +4816,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 71
-    target 54
+    source 66
+    target 51
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -5946,41 +4828,21 @@ graph [
     sentiment 1
   ]
   edge [
-    source 71
+    source 67
+    target 142
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 67
     target 141
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 7
-    sentiment 0
-  ]
-  edge [
-    source 72
-    target 149
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 72
-    target 157
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 72
-    target 156
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -5990,8 +4852,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 72
-    target 76
+    source 67
+    target 71
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6001,8 +4864,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 72
-    target 144
+    source 67
+    target 131
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -6012,8 +4876,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 72
-    target 148
+    source 67
+    target 134
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6023,8 +4888,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 72
-    target 54
+    source 67
+    target 51
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6034,8 +4900,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 73
-    target 74
+    source 68
+    target 69
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6045,8 +4912,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 73
-    target 75
+    source 68
+    target 70
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6056,8 +4924,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 73
-    target 76
+    source 68
+    target 71
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6067,8 +4936,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 73
-    target 77
+    source 68
+    target 72
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6078,8 +4948,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 73
-    target 78
+    source 68
+    target 73
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6089,8 +4960,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 74
-    target 75
+    source 69
+    target 70
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -6100,8 +4972,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 74
-    target 146
+    source 69
+    target 132
+    aquaintance 1
     friend 0
     value 1
     politics 1
@@ -6111,8 +4984,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 74
-    target 73
+    source 69
+    target 68
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6122,8 +4996,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 74
-    target 76
+    source 69
+    target 71
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6133,8 +5008,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 74
-    target 77
+    source 69
+    target 72
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6144,8 +5020,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 74
-    target 147
+    source 69
+    target 133
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6155,8 +5032,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 74
-    target 66
+    source 69
+    target 62
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -6166,8 +5044,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 74
-    target 148
+    source 69
+    target 134
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6177,8 +5056,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 74
-    target 94
+    source 69
+    target 88
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6188,8 +5068,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 74
-    target 134
+    source 69
+    target 122
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -6199,8 +5080,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 75
-    target 146
+    source 70
+    target 132
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -6210,8 +5092,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 75
-    target 74
+    source 70
+    target 69
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -6221,8 +5104,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 75
-    target 148
+    source 70
+    target 134
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6232,8 +5116,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 75
-    target 76
+    source 70
+    target 71
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6243,8 +5128,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 76
-    target 77
+    source 71
+    target 72
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6254,8 +5140,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 76
-    target 148
+    source 71
+    target 134
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -6265,8 +5152,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 76
-    target 156
+    source 71
+    target 141
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -6276,8 +5164,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 76
-    target 72
+    source 71
+    target 67
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6287,8 +5176,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 76
-    target 162
+    source 71
+    target 144
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -6298,8 +5188,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 76
-    target 74
+    source 71
+    target 69
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6309,8 +5200,9 @@ graph [
     sentiment -2
   ]
   edge [
-    source 76
-    target 144
+    source 71
+    target 131
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -6320,8 +5212,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 76
+    source 71
     target 18
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -6331,8 +5224,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 76
-    target 73
+    source 71
+    target 68
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6342,8 +5236,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 76
-    target 75
+    source 71
+    target 70
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6353,8 +5248,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 76
-    target 134
+    source 71
+    target 122
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -6364,8 +5260,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 77
-    target 148
+    source 72
+    target 134
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -6375,19 +5272,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 77
-    target 149
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 77
-    target 74
+    source 72
+    target 69
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6397,8 +5284,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 78
-    target 153
+    source 73
+    target 138
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6408,8 +5296,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 78
-    target 48
+    source 73
+    target 45
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6419,8 +5308,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 78
-    target 154
+    source 73
+    target 139
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6430,8 +5320,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 79
-    target 80
+    source 74
+    target 75
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6441,8 +5332,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 79
-    target 81
+    source 74
+    target 76
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6452,8 +5344,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 80
-    target 79
+    source 75
+    target 74
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -6463,8 +5356,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 80
-    target 81
+    source 75
+    target 76
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -6472,362 +5366,443 @@ graph [
     council 0
     leftright 3
     sentiment 2
+  ]
+  edge [
+    source 76
+    target 75
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 76
+    target 74
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 77
+    target 102
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 77
+    target 78
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 77
+    target 5
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 77
+    target 103
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 77
+    target 3
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 77
+    target 18
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 77
+    target 79
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 77
+    target 80
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 78
+    target 103
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 78
+    target 125
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 78
+    target 87
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 78
+    target 5
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 78
+    target 102
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 78
+    target 3
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 78
+    target 79
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 78
+    target 80
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 78
+    target 101
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 78
+    target 81
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 78
+    target 29
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 78
+    target 6
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 79
+    target 80
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 79
+    target 58
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 79
+    target 102
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 79
+    target 81
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 80
+    target 79
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 80
+    target 58
+    aquaintance 1
+    friend 1
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 6
+    sentiment 1
+  ]
+  edge [
+    source 80
+    target 78
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 80
+    target 110
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 8
+    sentiment 0
+  ]
+  edge [
+    source 80
+    target 125
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 1
+    sentiment 2
+  ]
+  edge [
+    source 81
+    target 78
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 81
+    target 102
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 81
+    target 79
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 1
+    council 1
+    leftright 5
+    sentiment 1
   ]
   edge [
     source 81
     target 80
+    aquaintance 1
     friend 1
     value 1
-    politics 0
+    politics 1
     study 0
-    council 0
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 81
+    target 92
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
     leftright 3
     sentiment 2
   ]
   edge [
     source 81
-    target 79
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 82
-    target 110
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 82
-    target 111
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 82
-    target 112
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 7
-    sentiment 2
-  ]
-  edge [
-    source 82
-    target 83
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 82
-    target 5
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 82
-    target 113
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 82
-    target 3
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 82
-    target 18
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 82
-    target 84
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 82
-    target 85
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 83
-    target 113
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 83
-    target 137
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 83
-    target 93
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 83
-    target 5
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 83
-    target 110
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 83
-    target 3
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 83
-    target 84
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 83
-    target 85
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 83
-    target 109
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 83
-    target 86
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 83
-    target 29
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 83
-    target 6
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 84
-    target 85
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 84
-    target 63
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 84
-    target 110
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 84
-    target 86
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 85
-    target 84
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 85
-    target 63
-    friend 1
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 85
-    target 83
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 85
-    target 122
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 8
-    sentiment 0
-  ]
-  edge [
-    source 85
-    target 137
+    target 101
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -6837,74 +5812,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 86
-    target 83
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 86
-    target 110
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 86
-    target 84
-    friend 1
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 86
-    target 85
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 86
-    target 98
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 86
-    target 109
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 1
-    sentiment 2
-  ]
-  edge [
-    source 86
-    target 126
+    source 81
+    target 114
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -6914,8 +5824,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 87
+    source 82
     target 4
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -6925,8 +5836,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 87
+    source 82
     target 2
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -6936,8 +5848,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 87
+    source 82
     target 1
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -6947,8 +5860,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 87
+    source 82
     target 0
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -6958,8 +5872,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 87
+    source 82
     target 3
+    aquaintance 1
     friend 1
     value 0
     politics 1
@@ -6969,52 +5884,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 88
-    target 14
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 88
-    target 18
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 88
-    target 11
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 88
-    target 15
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 8
-    sentiment 2
-  ]
-  edge [
-    source 89
-    target 90
+    source 83
+    target 84
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -7024,8 +5896,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 89
-    target 91
+    source 83
+    target 85
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7035,8 +5908,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 89
-    target 92
+    source 83
+    target 86
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -7046,8 +5920,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 91
-    target 132
+    source 85
+    target 120
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -7057,8 +5932,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 91
-    target 141
+    source 85
+    target 83
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7068,8 +5944,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 91
-    target 89
+    source 85
+    target 86
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7079,19 +5956,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 91
-    target 92
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 91
-    target 143
+    source 85
+    target 130
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -7101,8 +5968,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 91
-    target 131
+    source 85
+    target 119
+    aquaintance 1
     friend 1
     value 1
     politics 0
@@ -7112,8 +5980,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 91
-    target 150
+    source 85
+    target 135
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7123,8 +5992,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 91
-    target 99
+    source 85
+    target 93
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7134,19 +6004,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 91
-    target 100
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 92
-    target 134
+    source 86
+    target 122
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -7156,8 +6016,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 92
-    target 133
+    source 86
+    target 121
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -7167,8 +6028,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 92
-    target 115
+    source 86
+    target 105
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -7178,8 +6040,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 92
-    target 61
+    source 86
+    target 56
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -7189,8 +6052,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 92
-    target 89
+    source 86
+    target 83
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -7198,175 +6062,179 @@ graph [
     council 0
     leftright 6
     sentiment 2
+  ]
+  edge [
+    source 87
+    target 88
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 7
+    sentiment 0
+  ]
+  edge [
+    source 88
+    target 82
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 6
+    sentiment 0
+  ]
+  edge [
+    source 89
+    target 136
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 89
+    target 94
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 89
+    target 43
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 0
+    leftright 3
+    sentiment 0
+  ]
+  edge [
+    source 89
+    target 73
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 90
+    target 30
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 90
+    target 97
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 91
+    target 6
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 91
+    target 42
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 91
+    target 92
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 92
+    target 81
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 92
+    target 102
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 92
+    target 77
+    aquaintance 1
+    friend 1
+    value 0
+    politics 1
+    study 1
+    council 0
+    leftright 5
+    sentiment 1
   ]
   edge [
     source 93
-    target 94
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 7
-    sentiment 0
-  ]
-  edge [
-    source 94
-    target 87
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 95
-    target 151
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 95
-    target 101
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 95
-    target 46
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 3
-    sentiment 0
-  ]
-  edge [
-    source 95
-    target 78
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 96
-    target 30
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 96
-    target 105
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 97
-    target 6
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 97
-    target 45
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 97
-    target 98
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 98
-    target 86
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 98
-    target 110
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 98
-    target 82
-    friend 1
-    value 0
-    politics 1
-    study 1
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 99
-    target 100
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 0
-    leftright 10
-    sentiment 2
-  ]
-  edge [
-    source 99
-    target 91
+    target 85
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -7376,41 +6244,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 100
-    target 99
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 100
-    target 18
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 101
-    target 35
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 101
-    target 102
+    source 94
+    target 95
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7420,8 +6256,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 101
-    target 43
+    source 94
+    target 40
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7431,19 +6268,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 102
-    target 173
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 102
-    target 101
+    source 95
+    target 94
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7453,8 +6280,273 @@ graph [
     sentiment 0
   ]
   edge [
+    source 95
+    target 40
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 0
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 96
+    target 78
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 0
+  ]
+  edge [
+    source 97
+    target 30
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 6
+    sentiment 1
+  ]
+  edge [
+    source 97
+    target 90
+    aquaintance 1
+    friend 1
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 97
+    target 13
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 98
+    target 99
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 98
+    target 100
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 1
+    sentiment 2
+  ]
+  edge [
+    source 98
+    target 101
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 1
+    sentiment 2
+  ]
+  edge [
+    source 99
+    target 98
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 99
+    target 100
+    aquaintance 1
+    friend 0
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 100
+    target 99
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 100
+    target 98
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 100
+    target 101
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 101
+    target 113
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 101
+    target 44
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 6
+    sentiment 2
+  ]
+  edge [
+    source 101
+    target 49
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 7
+    sentiment 1
+  ]
+  edge [
+    source 101
+    target 45
+    aquaintance 1
+    friend 1
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 7
+    sentiment 1
+  ]
+  edge [
+    source 101
+    target 130
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 101
+    target 100
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 101
+    target 81
+    aquaintance 1
+    friend 1
+    value 0
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
     source 102
-    target 43
+    target 92
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 102
+    target 79
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 7
+    sentiment 1
+  ]
+  edge [
+    source 102
+    target 77
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -7465,117 +6557,188 @@ graph [
   ]
   edge [
     source 103
-    target 83
+    target 125
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 1
+    sentiment 2
+  ]
+  edge [
+    source 103
+    target 78
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 103
+    target 5
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 103
+    target 3
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 103
+    target 101
+    aquaintance 1
     friend 0
     value 0
+    politics 1
+    study 0
+    council 1
+    leftright 1
+    sentiment 1
+  ]
+  edge [
+    source 103
+    target 81
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 1
+    sentiment 1
+  ]
+  edge [
+    source 103
+    target 6
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 103
+    target 34
+    aquaintance 1
+    friend 0
+    value 1
     politics 0
     study 0
     council 1
     leftright 3
-    sentiment 0
+    sentiment 1
   ]
   edge [
     source 104
-    target 45
+    target 58
+    aquaintance 1
     friend 1
     value 0
     politics 0
     study 0
     council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 105
-    target 30
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 105
-    target 96
-    friend 1
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 105
-    target 13
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
     leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 106
-    target 107
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
     sentiment 2
   ]
   edge [
-    source 106
-    target 108
+    source 104
+    target 57
+    aquaintance 1
     friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 104
+    target 59
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
     leftright 1
     sentiment 2
   ]
   edge [
-    source 106
-    target 109
+    source 104
+    target 105
+    aquaintance 1
     friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 1
-    sentiment 2
-  ]
-  edge [
-    source 107
-    target 106
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 107
-    target 108
-    friend 0
-    value 1
-    politics 1
+    value 0
+    politics 0
     study 0
-    council 1
+    council 0
     leftright 2
     sentiment 2
   ]
   edge [
-    source 108
-    target 107
+    source 105
+    target 56
+    aquaintance 1
+    friend 1
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 105
+    target 55
+    aquaintance 1
+    friend 1
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 105
+    target 59
+    aquaintance 1
+    friend 1
+    value 0
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 105
+    target 57
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -7585,712 +6748,57 @@ graph [
     sentiment 2
   ]
   edge [
-    source 108
-    target 106
+    source 105
+    target 58
+    aquaintance 1
     friend 1
     value 1
     politics 1
     study 1
     council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 108
-    target 109
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 109
-    target 125
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 109
-    target 47
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 6
-    sentiment 2
-  ]
-  edge [
-    source 109
-    target 52
-    friend 0
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 109
-    target 48
-    friend 1
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 109
-    target 143
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 109
-    target 108
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 109
-    target 86
-    friend 1
-    value 0
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 110
-    target 98
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 110
-    target 84
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 110
-    target 82
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 111
-    target 82
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 111
-    target 110
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
     leftright 4
-    sentiment 1
+    sentiment 2
   ]
   edge [
-    source 111
-    target 98
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 5
-    sentiment 0
-  ]
-  edge [
-    source 111
-    target 96
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 5
-    sentiment 0
-  ]
-  edge [
-    source 111
-    target 45
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 111
+    source 105
     target 104
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 108
+    aquaintance 1
     friend 1
     value 1
-    politics 0
-    study 0
+    politics 1
+    study 1
     council 1
-    leftright 4
-    sentiment 1
+    leftright 3
+    sentiment 2
   ]
   edge [
-    source 112
+    source 106
     target 107
+    aquaintance 1
     friend 1
     value 1
-    politics 0
+    politics 1
     study 1
     council 0
     leftright 5
     sentiment 2
   ]
   edge [
-    source 112
+    source 107
     target 106
+    aquaintance 1
     friend 1
-    value 1
+    value 0
     politics 0
     study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 82
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 83
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 5
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 110
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 113
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 3
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 84
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
+    council 0
+    leftright 7
     sentiment 2
   ]
   edge [
-    source 112
-    target 86
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 112
+    source 108
     target 109
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 49
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 137
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 112
-    target 145
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 113
-    target 137
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 1
-    sentiment 2
-  ]
-  edge [
-    source 113
-    target 83
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 113
-    target 5
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 113
-    target 3
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 113
-    target 109
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 1
-    sentiment 1
-  ]
-  edge [
-    source 113
-    target 86
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 1
-    sentiment 1
-  ]
-  edge [
-    source 113
-    target 6
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 113
-    target 36
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 114
-    target 63
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 114
-    target 62
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 114
-    target 64
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 1
-    sentiment 2
-  ]
-  edge [
-    source 114
-    target 115
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 115
-    target 61
-    friend 1
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 115
-    target 60
-    friend 1
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 115
-    target 64
-    friend 1
-    value 0
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 115
-    target 62
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 115
-    target 63
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 115
-    target 114
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 116
-    target 117
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 116
-    target 118
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 116
-    target 119
-    friend 1
-    value 0
-    politics 1
-    study 1
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 117
-    target 119
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 117
-    target 118
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 117
-    target 116
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 7
-    sentiment 2
-  ]
-  edge [
-    source 118
-    target 136
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 118
-    target 116
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 118
-    target 66
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 118
-    target 67
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 119
-    target 116
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 119
-    target 117
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 119
-    target 164
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 120
-    target 121
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8300,8 +6808,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 120
-    target 52
+    source 108
+    target 49
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8311,8 +6820,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 120
-    target 122
+    source 108
+    target 110
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8322,8 +6832,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 120
-    target 123
+    source 108
+    target 111
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8333,8 +6844,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 120
-    target 69
+    source 108
+    target 64
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -8344,8 +6856,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 121
-    target 52
+    source 109
+    target 49
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -8355,8 +6868,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 121
-    target 123
+    source 109
+    target 111
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -8366,8 +6880,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 121
-    target 122
+    source 109
+    target 110
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -8377,8 +6892,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 121
-    target 120
+    source 109
+    target 108
+    aquaintance 1
     friend 0
     value 1
     politics 0
@@ -8388,8 +6904,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 121
-    target 50
+    source 109
+    target 47
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -8399,8 +6916,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 121
-    target 109
+    source 109
+    target 101
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -8410,8 +6928,9 @@ graph [
     sentiment 0
   ]
   edge [
-    source 122
-    target 52
+    source 110
+    target 49
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8421,8 +6940,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 122
-    target 123
+    source 110
+    target 111
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8432,8 +6952,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 122
-    target 120
+    source 110
+    target 108
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8443,8 +6964,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 122
-    target 69
+    source 110
+    target 64
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8454,8 +6976,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 122
-    target 121
+    source 110
+    target 109
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8465,8 +6988,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 123
-    target 121
+    source 111
+    target 109
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8476,8 +7000,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 123
-    target 122
+    source 111
+    target 110
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8487,8 +7012,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 123
-    target 120
+    source 111
+    target 108
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8498,8 +7024,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 123
-    target 52
+    source 111
+    target 49
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8509,8 +7036,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 123
-    target 51
+    source 111
+    target 48
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8520,8 +7048,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 124
-    target 125
+    source 112
+    target 113
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8531,8 +7060,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 124
-    target 126
+    source 112
+    target 114
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8542,8 +7072,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 124
-    target 127
+    source 112
+    target 115
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8553,8 +7084,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 124
-    target 128
+    source 112
+    target 116
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8564,8 +7096,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 125
-    target 124
+    source 113
+    target 112
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8575,8 +7108,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 125
-    target 126
+    source 113
+    target 114
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8586,8 +7120,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 125
-    target 127
+    source 113
+    target 115
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8597,8 +7132,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 125
-    target 128
+    source 113
+    target 116
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -8608,41 +7144,177 @@ graph [
     sentiment 2
   ]
   edge [
-    source 126
-    target 171
-    friend 0
+    source 114
+    target 81
+    aquaintance 1
+    friend 1
     value 1
+    politics 1
+    study 0
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 114
+    target 101
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 115
+    target 116
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 115
+    target 143
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 116
+    target 115
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 116
+    target 114
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 1
+    sentiment 2
+  ]
+  edge [
+    source 116
+    target 112
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 116
+    target 113
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 117
+    target 118
+    aquaintance 1
+    friend 0
+    value 0
     politics 0
     study 0
     council 1
     leftright 6
-    sentiment 1
+    sentiment 0
   ]
   edge [
-    source 126
+    source 119
+    target 120
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 119
+    target 85
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 120
+    target 85
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 120
+    target 83
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 5
+    sentiment 0
+  ]
+  edge [
+    source 120
     target 86
-    friend 1
-    value 1
-    politics 1
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
     study 0
     council 1
-    leftright 3
-    sentiment 2
+    leftright 4
+    sentiment 0
   ]
   edge [
-    source 126
-    target 109
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 127
-    target 128
+    source 120
+    target 130
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -8652,43 +7324,167 @@ graph [
     sentiment 1
   ]
   edge [
-    source 127
-    target 161
+    source 120
+    target 119
+    aquaintance 1
     friend 1
     value 0
     politics 0
     study 0
     council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 120
+    target 135
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 6
+    sentiment 0
+  ]
+  edge [
+    source 121
+    target 122
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 121
+    target 105
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
     leftright 4
     sentiment 0
   ]
   edge [
-    source 128
-    target 127
+    source 121
+    target 56
+    aquaintance 1
     friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 121
+    target 86
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
     leftright 4
     sentiment 2
   ]
   edge [
-    source 128
-    target 126
-    friend 1
+    source 121
+    target 123
+    aquaintance 1
+    friend 0
     value 0
     politics 0
     study 0
-    council 0
-    leftright 1
+    council 1
+    leftright 5
+    sentiment 0
+  ]
+  edge [
+    source 122
+    target 121
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
     sentiment 2
   ]
   edge [
-    source 128
-    target 124
-    friend 1
+    source 122
+    target 105
+    aquaintance 1
+    friend 0
     value 0
+    politics 0
+    study 0
+    council 1
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 122
+    target 56
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 122
+    target 86
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 122
+    target 123
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 5
+    sentiment 0
+  ]
+  edge [
+    source 122
+    target 71
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 123
+    target 12
+    aquaintance 1
+    friend 1
+    value 1
     politics 0
     study 0
     council 0
@@ -8696,690 +7492,405 @@ graph [
     sentiment 2
   ]
   edge [
-    source 128
-    target 125
-    friend 1
+    source 123
+    target 40
+    aquaintance 1
+    friend 0
     value 0
     politics 0
     study 0
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 123
+    target 124
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 0
+  ]
+  edge [
+    source 123
+    target 121
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 123
+    target 86
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 1
+    leftright 7
+    sentiment 1
+  ]
+  edge [
+    source 124
+    target 12
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
     council 0
+    leftright 6
+    sentiment 0
+  ]
+  edge [
+    source 124
+    target 130
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 0
+    leftright 6
+    sentiment 1
+  ]
+  edge [
+    source 125
+    target 78
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 125
+    target 5
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 1
+    council 1
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 125
+    target 3
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 125
+    target 80
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 125
+    target 81
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 125
+    target 131
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 126
+    target 127
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 126
+    target 128
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 127
+    target 126
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 127
+    target 128
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 128
+    target 126
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 128
+    target 127
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 129
+    target 45
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 7
+    sentiment 0
+  ]
+  edge [
+    source 129
+    target 46
+    aquaintance 1
+    friend 0
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 129
+    target 47
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
     leftright 3
     sentiment 2
   ]
   edge [
     source 129
-    target 130
+    target 48
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 6
+    sentiment 2
+  ]
+  edge [
+    source 129
+    target 49
+    aquaintance 1
     friend 0
     value 0
     politics 0
     study 0
     council 1
-    leftright 6
+    leftright 7
     sentiment 0
+  ]
+  edge [
+    source 129
+    target 44
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 1
+    leftright 5
+    sentiment 2
   ]
   edge [
     source 130
-    target 172
+    target 45
+    aquaintance 1
     friend 1
-    value 0
-    politics 0
+    value 1
+    politics 1
     study 0
-    council 0
-    leftright 8
+    council 1
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 130
+    target 46
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 4
     sentiment 1
   ]
   edge [
-    source 131
-    target 132
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 131
-    target 91
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 132
-    target 91
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 132
-    target 89
+    source 130
+    target 47
+    aquaintance 1
     friend 0
     value 0
-    politics 0
+    politics 1
     study 0
     council 1
-    leftright 5
-    sentiment 0
-  ]
-  edge [
-    source 132
-    target 92
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 132
-    target 143
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
     leftright 3
     sentiment 1
   ]
   edge [
-    source 132
-    target 131
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 132
-    target 150
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 133
-    target 134
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 133
-    target 115
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 133
-    target 61
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 133
-    target 92
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 133
-    target 135
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 5
-    sentiment 0
-  ]
-  edge [
-    source 134
-    target 133
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 134
-    target 115
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 134
-    target 61
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 134
-    target 92
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 134
-    target 135
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 5
-    sentiment 0
-  ]
-  edge [
-    source 134
-    target 76
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 135
-    target 12
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 135
-    target 43
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 135
-    target 118
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 2
-    sentiment 0
-  ]
-  edge [
-    source 135
-    target 136
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 0
-  ]
-  edge [
-    source 135
-    target 133
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 135
-    target 92
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 136
-    target 118
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 136
-    target 12
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 136
-    target 143
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 137
-    target 83
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 137
-    target 5
-    friend 1
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 137
-    target 3
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 137
+    source 130
     target 85
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 130
+    target 120
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 6
+    sentiment 1
+  ]
+  edge [
+    source 130
+    target 48
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 6
+    sentiment 1
+  ]
+  edge [
+    source 130
+    target 49
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 0
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 130
+    target 101
+    aquaintance 1
     friend 1
     value 1
     politics 1
     study 0
     council 1
     leftright 2
-    sentiment 1
+    sentiment 2
   ]
   edge [
-    source 137
-    target 86
+    source 130
+    target 44
+    aquaintance 1
     friend 1
     value 1
-    politics 1
+    politics 0
     study 0
     council 1
-    leftright 3
-    sentiment 1
+    leftright 4
+    sentiment 2
   ]
   edge [
-    source 137
+    source 131
     target 144
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 137
-    target 145
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 138
-    target 139
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 138
-    target 140
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 139
-    target 138
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 139
-    target 140
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 140
-    target 138
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 140
-    target 139
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 141
-    target 94
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 141
-    target 165
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 141
-    target 54
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 142
-    target 48
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 7
-    sentiment 0
-  ]
-  edge [
-    source 142
-    target 49
-    friend 0
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 142
-    target 50
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 142
-    target 51
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 6
-    sentiment 2
-  ]
-  edge [
-    source 142
-    target 52
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 7
-    sentiment 0
-  ]
-  edge [
-    source 142
-    target 47
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 143
-    target 48
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 143
-    target 49
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 143
-    target 50
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 143
-    target 91
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 143
-    target 132
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 143
-    target 51
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 143
-    target 52
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 143
-    target 109
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 143
-    target 47
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 144
-    target 162
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -9389,8 +7900,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 144
-    target 76
+    source 131
+    target 71
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -9400,8 +7912,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 144
-    target 157
+    source 131
+    target 142
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -9411,8 +7924,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 144
-    target 72
+    source 131
+    target 67
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -9422,8 +7936,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 144
-    target 137
+    source 131
+    target 125
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -9433,558 +7948,81 @@ graph [
     sentiment 2
   ]
   edge [
-    source 144
-    target 61
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 145
-    target 109
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 137
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 18
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 110
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 0
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 84
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 86
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 85
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 3
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 113
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 5
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 83
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 82
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 145
-    target 29
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 146
-    target 75
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 8
-    sentiment 1
-  ]
-  edge [
-    source 146
-    target 74
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 9
-    sentiment 0
-  ]
-  edge [
-    source 147
-    target 74
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 9
-    sentiment 1
-  ]
-  edge [
-    source 147
-    target 98
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 147
-    target 110
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 147
-    target 91
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 147
-    target 82
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 148
-    target 149
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 148
-    target 76
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 148
-    target 77
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 148
-    target 72
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 148
-    target 74
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 10
-    sentiment 0
-  ]
-  edge [
-    source 148
-    target 75
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 10
-    sentiment 1
-  ]
-  edge [
-    source 148
-    target 156
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 149
-    target 148
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 0
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 149
-    target 76
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 149
-    target 77
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 149
-    target 72
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 0
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 150
-    target 155
-    friend 0
-    value 1
-    politics 1
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 150
-    target 97
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 150
-    target 91
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 150
+    source 131
     target 56
-    friend 0
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 151
-    target 95
+    aquaintance 1
     friend 1
     value 0
     politics 0
     study 0
     council 0
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 152
-    target 48
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 7
-    sentiment 0
-  ]
-  edge [
-    source 152
-    target 49
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 152
-    target 50
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 4
-    sentiment 0
-  ]
-  edge [
-    source 152
-    target 51
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 8
-    sentiment 0
-  ]
-  edge [
-    source 153
-    target 143
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
     leftright 3
     sentiment 1
   ]
   edge [
-    source 153
-    target 48
+    source 132
+    target 70
+    aquaintance 1
     friend 0
     value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 153
-    target 49
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 153
-    target 50
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 0
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 153
-    target 51
-    friend 0
-    value 0
-    politics 0
+    politics 1
     study 0
     council 1
     leftright 8
     sentiment 1
   ]
   edge [
-    source 153
-    target 52
+    source 132
+    target 69
+    aquaintance 1
     friend 0
     value 0
-    politics 0
+    politics 1
     study 0
     council 1
-    leftright 7
+    leftright 9
     sentiment 0
   ]
   edge [
-    source 153
-    target 47
-    friend 1
+    source 133
+    target 69
+    aquaintance 1
+    friend 0
     value 0
-    politics 0
+    politics 1
+    study 0
+    council 0
+    leftright 9
+    sentiment 1
+  ]
+  edge [
+    source 133
+    target 92
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
     study 0
     council 0
     leftright 5
     sentiment 1
   ]
   edge [
-    source 153
-    target 78
+    source 133
+    target 102
+    aquaintance 1
     friend 1
-    value 0
+    value 1
     politics 0
     study 0
     council 0
-    leftright 3
-    sentiment 2
+    leftright 4
+    sentiment 1
   ]
   edge [
-    source 153
-    target 164
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 2
-    sentiment 0
-  ]
-  edge [
-    source 154
-    target 153
+    source 133
+    target 85
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -9994,8 +8032,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 155
-    target 150
+    source 133
+    target 77
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -10005,140 +8044,21 @@ graph [
     sentiment 0
   ]
   edge [
-    source 156
+    source 134
+    target 71
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 134
     target 72
-    friend 0
-    value 1
-    politics 0
-    study 1
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 156
-    target 76
-    friend 1
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 2
-  ]
-  edge [
-    source 156
-    target 157
-    friend 1
-    value 1
-    politics 1
-    study 0
-    council 1
-    leftright 4
-    sentiment 1
-  ]
-  edge [
-    source 156
-    target 144
-    friend 0
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 3
-    sentiment 0
-  ]
-  edge [
-    source 156
-    target 134
-    friend 0
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 156
-    target 148
-    friend 0
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 157
-    target 72
-    friend 1
-    value 1
-    politics 0
-    study 0
-    council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 157
-    target 166
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 157
-    target 162
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 5
-    sentiment 2
-  ]
-  edge [
-    source 157
-    target 144
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 0
-  ]
-  edge [
-    source 158
-    target 159
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 11
-    sentiment 2
-  ]
-  edge [
-    source 158
-    target 160
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 11
-    sentiment 2
-  ]
-  edge [
-    source 159
-    target 160
+    aquaintance 1
     friend 1
     value 0
     politics 0
@@ -10148,228 +8068,465 @@ graph [
     sentiment 2
   ]
   edge [
-    source 160
-    target 159
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 8
-    sentiment 2
-  ]
-  edge [
-    source 160
-    target 125
+    source 134
+    target 67
+    aquaintance 1
     friend 0
     value 0
     politics 0
     study 0
     council 1
     leftright 3
-    sentiment 0
-  ]
-  edge [
-    source 161
-    target 125
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 161
-    target 124
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
-    sentiment 2
-  ]
-  edge [
-    source 162
-    target 157
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 4
     sentiment 1
   ]
   edge [
-    source 162
-    target 166
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 163
-    target 90
+    source 134
+    target 69
+    aquaintance 1
     friend 0
     value 0
     politics 0
     study 0
     council 1
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 164
-    target 153
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 0
-    leftright 4
+    leftright 10
     sentiment 0
   ]
   edge [
-    source 164
-    target 66
+    source 134
+    target 70
+    aquaintance 1
     friend 0
     value 0
-    politics 0
-    study 1
-    council 0
-    leftright 7
-    sentiment 0
-  ]
-  edge [
-    source 165
-    target 58
-    friend 1
-    value 1
-    politics 0
-    study 1
-    council 1
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 165
-    target 26
-    friend 0
-    value 1
     politics 0
     study 0
     council 1
-    leftright 4
-    sentiment 0
+    leftright 10
+    sentiment 1
   ]
   edge [
-    source 165
+    source 134
     target 141
+    aquaintance 1
     friend 0
     value 1
     politics 0
     study 0
-    council 1
-    leftright 5
-    sentiment 0
+    council 0
+    leftright 2
+    sentiment 1
   ]
   edge [
-    source 166
-    target 157
-    friend 1
-    value 0
-    politics 0
+    source 135
+    target 140
+    aquaintance 1
+    friend 0
+    value 1
+    politics 1
     study 0
     council 0
     leftright 5
     sentiment 1
   ]
   edge [
-    source 166
-    target 162
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 5
-    sentiment 1
-  ]
-  edge [
-    source 166
-    target 144
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 3
-    sentiment 0
-  ]
-  edge [
-    source 167
-    target 27
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 1
-    sentiment 0
-  ]
-  edge [
-    source 167
-    target 109
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 1
-    leftright 1
-    sentiment 2
-  ]
-  edge [
-    source 167
-    target 108
-    friend 0
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 167
-    target 106
-    friend 0
-    value 1
-    politics 1
-    study 1
-    council 1
-    leftright 2
-    sentiment 2
-  ]
-  edge [
-    source 167
-    target 143
+    source 135
+    target 91
+    aquaintance 1
     friend 0
     value 0
     politics 0
     study 0
     council 1
     leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 135
+    target 85
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 6
+    sentiment 0
+  ]
+  edge [
+    source 135
+    target 53
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 5
     sentiment 1
   ]
   edge [
-    source 168
-    target 169
+    source 136
+    target 89
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 137
+    target 45
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 7
+    sentiment 0
+  ]
+  edge [
+    source 137
+    target 46
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 6
+    sentiment 0
+  ]
+  edge [
+    source 137
+    target 47
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 137
+    target 48
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 8
+    sentiment 0
+  ]
+  edge [
+    source 138
+    target 130
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 138
+    target 45
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 138
+    target 46
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 138
+    target 47
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 0
+    leftright 2
+    sentiment 2
+  ]
+  edge [
+    source 138
+    target 48
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 8
+    sentiment 1
+  ]
+  edge [
+    source 138
+    target 49
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 7
+    sentiment 0
+  ]
+  edge [
+    source 138
+    target 44
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 138
+    target 73
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 138
+    target 145
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 2
+    sentiment 0
+  ]
+  edge [
+    source 139
+    target 138
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 140
+    target 135
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 141
+    target 67
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 1
+    council 0
+    leftright 5
+    sentiment 1
+  ]
+  edge [
+    source 141
+    target 71
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 2
+  ]
+  edge [
+    source 141
+    target 142
+    aquaintance 1
+    friend 1
+    value 1
+    politics 1
+    study 0
+    council 1
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 141
+    target 131
+    aquaintance 1
+    friend 0
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 3
+    sentiment 0
+  ]
+  edge [
+    source 141
+    target 122
+    aquaintance 1
+    friend 0
+    value 1
+    politics 1
+    study 1
+    council 1
+    leftright 6
+    sentiment 1
+  ]
+  edge [
+    source 141
+    target 134
+    aquaintance 1
+    friend 0
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 142
+    target 67
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 0
+    council 1
+    leftright 2
+    sentiment 1
+  ]
+  edge [
+    source 142
+    target 144
+    aquaintance 1
+    friend 1
+    value 1
+    politics 0
+    study 1
+    council 1
+    leftright 5
+    sentiment 2
+  ]
+  edge [
+    source 142
+    target 131
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 0
+    council 1
+    leftright 3
+    sentiment 0
+  ]
+  edge [
+    source 143
+    target 113
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 143
+    target 112
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 2
+  ]
+  edge [
+    source 144
+    target 142
+    aquaintance 1
+    friend 1
+    value 0
+    politics 0
+    study 0
+    council 0
+    leftright 4
+    sentiment 1
+  ]
+  edge [
+    source 145
+    target 138
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 0
+    leftright 4
+    sentiment 0
+  ]
+  edge [
+    source 145
+    target 62
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 0
+    leftright 7
+    sentiment 0
+  ]
+  edge [
+    source 146
+    target 147
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -10379,8 +8536,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 168
-    target 170
+    source 146
+    target 148
+    aquaintance 1
     friend 0
     value 0
     politics 0
@@ -10390,8 +8548,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 169
-    target 168
+    source 147
+    target 146
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -10401,8 +8560,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 169
-    target 170
+    source 147
+    target 148
+    aquaintance 1
     friend 0
     value 1
     politics 1
@@ -10412,8 +8572,9 @@ graph [
     sentiment 1
   ]
   edge [
-    source 170
-    target 169
+    source 148
+    target 147
+    aquaintance 1
     friend 1
     value 1
     politics 1
@@ -10423,8 +8584,9 @@ graph [
     sentiment 2
   ]
   edge [
-    source 170
-    target 168
+    source 148
+    target 146
+    aquaintance 1
     friend 0
     value 0
     politics 1
@@ -10434,168 +8596,63 @@ graph [
     sentiment -2
   ]
   edge [
-    source 171
-    target 126
+    source 149
+    target 25
+    aquaintance 1
     friend 0
+    value 0
+    politics 0
+    study 1
+    council 0
+    leftright 7
+    sentiment 1
+  ]
+  edge [
+    source 149
+    target 26
+    aquaintance 1
+    friend 0
+    value 0
+    politics 0
+    study 1
+    council 0
+    leftright 2
+    sentiment 0
+  ]
+  edge [
+    source 149
+    target 150
+    aquaintance 1
+    friend 0
+    value 0
+    politics 1
+    study 1
+    council 0
+    leftright 3
+    sentiment 1
+  ]
+  edge [
+    source 150
+    target 149
+    aquaintance 1
+    friend 1
     value 1
     politics 0
     study 1
     council 1
-    leftright 2
-    sentiment 1
-  ]
-  edge [
-    source 172
-    target 145
-    friend 0
-    value 0
-    politics 1
-    study 0
-    council 0
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 172
-    target 130
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 172
-    target 109
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 172
-    target 137
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 6
-    sentiment 0
-  ]
-  edge [
-    source 173
-    target 101
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 173
-    target 102
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 173
-    target 43
-    friend 0
-    value 0
-    politics 0
-    study 1
-    council 1
-    leftright 3
-    sentiment 1
-  ]
-  edge [
-    source 174
-    target 115
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 174
-    target 64
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
     leftright 5
     sentiment 1
   ]
   edge [
-    source 174
-    target 62
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 7
-    sentiment 1
-  ]
-  edge [
-    source 174
-    target 63
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 174
-    target 114
-    friend 1
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 6
-    sentiment 1
-  ]
-  edge [
-    source 175
-    target 89
+    source 150
+    target 26
+    aquaintance 1
     friend 0
-    value 0
+    value 1
     politics 0
     study 0
-    council 0
-    leftright 0
-    sentiment 0
-  ]
-  edge [
-    source 175
-    target 90
-    friend 0
-    value 0
-    politics 0
-    study 0
-    council 0
-    leftright 0
+    council 1
+    leftright 4
     sentiment 0
   ]
 ]

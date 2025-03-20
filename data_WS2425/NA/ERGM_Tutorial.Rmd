@@ -1,0 +1,238 @@
+---
+title: "ERGM_Tutorial"
+output: html_document
+date: "2025-03-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(ergm)
+library(sna)
+library(car)
+```
+
+# ERGM Tutorial
+
+[Resource: Network Analysis in R](https://inarwhal.github.io/NetworkAnalysisR-book/)
+
+## ERGM model and feature selection
+
+```{r}
+url1 <- "https://github.com/JeffreyAlanSmith/Integrated_Network_Science/raw/master/data/example_schoolmat.csv"
+school_mat <- read.csv(file = url1, row.names = 1) 
+school_mat <- as.matrix(school_mat)
+
+url2 <- "https://github.com/JeffreyAlanSmith/Integrated_Network_Science/raw/master/data/example_schooldata.csv"
+school_attributes <- read.csv(file = url2)
+
+school_attributes$gender_recode <- dplyr::recode(school_attributes$gender, 
+                                                 `0` = 'male', 
+                                                 `1` = 'female')
+
+
+attribute_list <- do.call(list, school_attributes) 
+
+school_net <- network(x = school_mat, directed = T, 
+                      vertex.attr = attribute_list) 
+
+mod_rand <- ergm(formula = school_net ~ edges) 
+```
+
+### Edges, Homophily, Node Covariates, and Reciprocity
+
+```{r}
+set.seed(1012)
+
+mod_homoph_mutual1 <- ergm(school_net ~ edges + 
+                             nodematch("gender_recode") + 
+                             nodematch("grade") + 
+                             nodeifactor("gender_recode") + 
+                             nodeofactor("gender_recode") + 
+                             nodeicov("grade") + 
+                             nodeocov("grade") +
+                             mutual, 
+                             control = control.ergm(MCMC.burnin = 50000,
+                                                  MCMC.samplesize = 6000))
+```
+
+```{r}
+mcmc.diagnostics(mod_homoph_mutual1, vars.per.page = 4)
+```
+
+```{r}
+summary(mod_homoph_mutual1)
+```
+
+### Goodness of fit
+
+```{r}
+gof_mod_homoph_mutual1 <- gof(mod_homoph_mutual1, 
+                              GOF = ~ distance + espartners + model,
+                              control = control.gof.ergm(seed = 110)) 
+
+par(mfrow = c(1, 3)) 
+plot(gof_mod_homoph_mutual1)
+```
+
+### Clustering with GWESP
+
+#### Example of degenerate Model:
+
+```{r}
+mod_homoph_mutual_gwesp1 <- ergm(school_net ~ edges + 
+                                   nodematch("gender_recode") + 
+                                   nodematch("grade") + 
+                                   nodeifactor("gender_recode") + 
+                                   nodeofactor("gender_recode") + 
+                                   nodeicov("grade") + nodeocov("grade") + 
+                                   mutual + gwesp(decay = 1, fixed = T), 
+                                 control = control.ergm(MCMLE.maxit = 3))
+```
+
+```{r}
+mcmc.diagnostics(mod_homoph_mutual_gwesp1)
+
+plot(mod_homoph_mutual_gwesp1$newnetwork)
+```
+
+#### Example of Converging Model
+
+```{r}
+mod_homoph_mutual_gwesp2 <- ergm(school_net ~ edges + 
+                                   nodematch("gender_recode") +
+                                   nodematch("grade") + 
+                                   nodeifactor("gender_recode") + 
+                                   nodeofactor("gender_recode") + 
+                                   nodeicov("grade") + nodeocov("grade") +
+                                   mutual + gwesp(decay = .5, fixed = T),
+                                 control = control.ergm(MCMC.burnin = 50000, 
+                                                    MCMC.samplesize = 7000, 
+                                                    parallel = 2, 
+                                                    parallel.type = "PSOCK"))
+```
+
+```{r}
+mcmc.diagnostics(mod_homoph_mutual_gwesp2, vars.per.page = 3) 
+```
+
+```{r}
+gof_mod_homoph_mutual_gwesp2 <- gof(mod_homoph_mutual_gwesp2, 
+                                    GOF = ~ distance + espartners + model, 
+                                    control = control.gof.ergm(seed = 108)) 
+
+par(mfrow = c(1, 3))
+plot(gof_mod_homoph_mutual_gwesp2)
+```
+
+```{r}
+summary(mod_homoph_mutual_gwesp2)
+```
+
+## ERGM in large Networks with Sampling
+
+```{r}
+
+url3 <- "https://github.com/JeffreyAlanSmith/Integrated_Network_Science/raw/master/data/coauthorship_edgelist.txt"
+coauthor_edgelist <- read.table(file = url3, header = T)
+
+url4 <- "https://github.com/JeffreyAlanSmith/Integrated_Network_Science/raw/master/data/coauthorship_attributes.txt"
+coauthor_attributes <- read.table(file = url4, header = T)
+
+# Recode prestige
+coauthor_attributes$prestige <- recode(coauthor_attributes$prestige,
+                                       `0` = 'low prestige', 
+                                       `1` = 'high prestige')
+# Recode research_type
+coauthor_attributes$research_type <- recode(coauthor_attributes$research_type, 
+                                            `0` = 'qualitative', 
+                                            `1` = 'quantitative', 
+                                            `2` = 'mixed')
+
+coauthorship_net <- network(x = coauthor_edgelist, directed = F, 
+                            vertices = coauthor_attributes)
+
+mod1 <- ergm(coauthorship_net ~ edges + nodematch("research_type") +
+               nodematch("prestige"))
+
+mod2 <- ergm(coauthorship_net ~ edges + nodematch("research_type") +
+               nodematch("prestige") + nodefactor("research_type") + 
+               nodefactor("prestige"))
+
+summary(mod1)
+
+summary(mod2)
+```
+
+```{r}
+# With sampling from ego networks
+library(ergm.ego)
+
+url5 <- "https://github.com/JeffreyAlanSmith/Integrated_Network_Science/raw/master/data/coauthorship_egodat.Rdata"
+load(url(description = url5))
+
+set.seed(200)
+coauthorship_samp <- sample(coauthorship_egodat, 25000, replace = T)
+
+mod1_samp <- ergm.ego(coauthorship_samp ~ edges + 
+                        nodematch("research_type") +  
+                        nodematch("prestige"), 
+                      popsize = 60098, 
+                      control = control.ergm.ego(ppopsize = 25000, 
+                                                 ergm = control.ergm(parallel = 2)))
+
+summary(mod1_samp)
+```
+
+## ERGM on valued Networks
+
+```{r}
+library(ergm.count)
+
+url6 <- "https://github.com/JeffreyAlanSmith/Integrated_Network_Science/raw/master/data/social_interaction_edgelist.txt"
+social_interactions <- read.table(file = url6, header = T)
+
+url7 <- "https://github.com/JeffreyAlanSmith/Integrated_Network_Science/raw/master/data/social_interaction_attributes.txt"
+attributes <- read.table(file = url7, header = T, stringsAsFactors = F)
+
+social_net <- network(x = social_interactions, directed = F,
+                      vertices = attributes)
+```
+
+```{r}
+library(ggplot2)
+library(GGally)
+
+ggnet2(social_net, node.color = "gender", node.size = 7,
+       palette = c("male" = "navy", "female" = "lightskyblue"), 
+       edge.size = get.edge.attribute(social_net, "count") / 2.75, 
+       edge.color = "grey80") +
+  guides(size = "none")
+```
+
+```{r}
+count_mod4 <- ergm(social_net ~ sum + nodematch("gender", form = "sum") + 
+                     nodematch("race", form = "sum") + 
+                     nodefactor("gender", form = "sum") + 
+                     nodefactor("race", form = "sum") + nonzero + 
+                     transitiveweights("min", "max", "min"), # twopath,combine, affect
+                   response = "count", 
+                   reference = ~ Poisson, 
+                   control = control.ergm(MCMC.samplesize = 5000, parallel = 2))
+
+summary(count_mod4)
+```
+
+```{r}
+mcmc.diagnostics(count_mod4)
+```
+
+```{r}
+gof_count_mod4 <- gof(count_mod4, 
+                                    GOF = ~ distance + espartners + model, 
+                                    control = control.gof.ergm(seed = 108))
+```
