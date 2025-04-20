@@ -4,6 +4,8 @@ format: html
 editor: visual
 ---
 
+## Data Preparation
+
 ```{r}
 #install.packages("RSiena")
 ```
@@ -17,6 +19,7 @@ library(network)
 library(intergraph)
 library(jsonlite)
 library(tidyverse)
+library(statnet)
 
 num_cores <- parallel::detectCores()
 ```
@@ -169,34 +172,44 @@ W3 <- wave_generator(df_nodes_W3, networks_W3, networks_W3$friend)
 
 ------------------------------------------------------------------------
 
+## ERGM
+
 ```{r}
 set.seed(1012)
 
 mod_homoph_mutual1 <- ergm(W3 ~ edges + 
                              absdiff("age") + 
-                             absdiff("leftrightself") + 
+                             absdiff("linksrechts_self") + 
                              absdiff("grade") +
-                             absdiff("politics_question_one") +
-                             absdiff("politics_question_two") +
-                             absdiff("politics_question_three") +
-                             absdiff("politics_question_four") +
-                             absdiff("politics_question_five") +
-                             absdiff("politics_question_six") +
-                             absdiff("politics_question_seven") +
-                             absdiff("rent") +
+                             #absdiff("politics_question_one") +
+                             #absdiff("politics_question_two") +
+                             #absdiff("politics_question_three") +
+                             #absdiff("politics_question_four") +
+                             #absdiff("politics_question_five") +
+                             #absdiff("politics_question_six") +
+                             #absdiff("politics_question_seven") +
+                             #absdiff("rent") +
                              absdiff("semester_of_study") +
+                             
                              nodematch("gender") +
                              nodematch("study_program") +
                              nodematch("fresherscamp_student") +
                              nodematch("freshersweek_student") +
-                             nodematch("partyvote") +
-                             nodefactor("partyvote") +
-                             mutual,
+                             #nodematch("partyvote") +
+                             #nodefactor("partyvote") +
+                             
+                             edgecov("value") +
+                             edgecov("study") +
+                             edgecov("politics") +
+                             
+                             mutual + 
+                             dgwesp(fixed = T, type = "OTP", decay = .1) +
+                             dgwesp(fixed = T, type = "ITP", decay = .1),
                              #gwesp(decay = .1, fixed = T), 
-                           control = control.ergm(MCMC.burnin = 10000, 
-                                                    MCMC.samplesize = 2000, 
-                                                    parallel = 4, 
-                                                    parallel.type = "FORK"))
+                           
+                            control = control.ergm(MCMC.burnin = 20000, 
+                                                  MCMC.samplesize = 5000, 
+                                                  parallel = 4))
 
 summary(mod_homoph_mutual1)
 ```
@@ -217,6 +230,148 @@ plot(gof_mod_homoph_mutual1)
 ```
 
 ------------------------------------------------------------------------
+
+### ERGM Valued
+
+```{r}
+test <- get.network.attribute(W3, "leftright")
+#test <- get.network.attribute(W3, "age")
+#test <- get.network.attribute(W3, "grade")
+
+test %e% "weight" <- as.numeric(get.edge.attribute(test, "weight"))
+
+edge_weights <- get.edge.attribute(test, "weight")
+edge_weights[edge_weights == -999] <- NA
+
+# Update the network with modified weights
+test <- set.edge.attribute(test, "weight", edge_weights)
+
+set.vertex.attribute(test, "leftright_self", get.vertex.attribute(W3, "linksrechts_self"))
+
+set.vertex.attribute(test, "gender", get.vertex.attribute(W3, "gender"))
+set.vertex.attribute(test, "grade", get.vertex.attribute(W3, "grade"))
+
+test %v% "leftrightself" <- as.numeric(get.vertex.attribute(test, "leftrightself"))
+```
+
+```{r}
+# 1. Convert network to edgelist with weights
+el <- as.edgelist(test, attrname = "weight")
+weights <- el[, 3]
+
+# 2. Calculate averages PROPERLY (ignores non-edges)
+if(is.directed(test)) {
+  avg_outgoing <- tapply(weights, el[, 1], mean, na.rm = TRUE)
+  avg_incoming <- tapply(weights, el[, 2], mean, na.rm = TRUE)
+} else {
+  # For undirected, treat both directions
+  avg_both <- tapply(weights, c(el[, 1], el[, 2]), mean, na.rm = TRUE)
+  avg_outgoing <- avg_incoming <- avg_both
+}
+
+# 3. Map results to all nodes
+all_nodes <- 1:network.size(test)
+avg_outgoing_full <- rep(NA, network.size(test))
+avg_incoming_full <- rep(NA, network.size(test))
+
+avg_outgoing_full[as.numeric(names(avg_outgoing))] <- avg_outgoing
+avg_incoming_full[as.numeric(names(avg_incoming))] <- avg_incoming
+
+avg_incoming_full[is.na(avg_incoming_full)] <- 0
+avg_outgoing_full[is.na(avg_outgoing_full)] <- 0
+
+# 4. Add to network
+test %v% "avg_outgoing_weight" <- avg_outgoing_full
+test %v% "avg_incoming_weight" <- avg_incoming_full
+
+# 7. Final verification
+cat("First 5 nodes outgoing:", head(test %v% "avg_outgoing_weight", 5), "\n")
+cat("First 5 nodes incoming:", head(test %v% "avg_incoming_weight", 5), "\n")
+```
+
+```{r}
+# Get node political leaning attribute
+leftright_self <- get.vertex.attribute(test, "leftright_self")
+
+# Create dyadic similarity matrix (absolute differences)
+node_edge_similarity <- outer(leftright_self, leftright_self, FUN = function(x,y) abs(x - y))
+
+# Add as network attribute
+test %n% "node_edge_similarity" <- node_edge_similarity
+```
+
+```{r}
+
+# Get attributes safely
+node_lr <- get.vertex.attribute(test, "leftright_self")
+edge_lr <- get.edge.attribute(test, "weight")
+
+# Get edgelist with node indices
+el <- as.edgelist(test)
+
+# Calculate new weights (sender's perspective)
+new_weights <- abs(node_lr[el[,1]] - edge_lr)
+
+# Update network weights
+test <- set.edge.attribute(test, "weight", new_weights)
+
+# Validate conversion
+cat("First 5 new weights:", head(get.edge.attribute(test, "weight"), 5), "\n")
+cat("Weight summary:\n")
+print(summary(get.edge.attribute(test, "weight")))
+
+# Debugging info
+cat("\nDebugging Info:\n")
+cat("Network size:", network.size(test), "\n")
+cat("Node attr length:", length(node_lr), "\n")
+cat("Edge attr length:", length(edge_lr), "\n")
+cat("Edgelist rows:", nrow(el), "\n")
+```
+
+```{r}
+library(ergm.count)
+
+# Add the matrix as a network-level dyadic covariate
+test %n% "node_edge_similarity" <- node_edge_similarity
+
+count_mod1 <- ergm(test ~ sum + 
+                     mutual +
+                     #transitive +
+                     absdiff("leftright_self") +
+                     absdiff("grade") +
+                     #absdiff("avg_incoming_weight") +
+                     #absdiff("avg_outgoing_weight") +
+                     nodecov("leftright_self", form="sum") +
+                     nodematch("leftright_self", form="sum") +
+                     nodematch("gender", form="sum") +
+                     #nodematch("gender", form="sum") +
+                     #edgecov("node_edge_similarity") +
+                     #transitiveweights("min", "max", "min") +
+                     nonzero, 
+                   response = "weight", 
+                   reference = ~Geometric,
+                   control = control.ergm(MCMC.samplesize = 10000))
+
+summary(count_mod1)
+```
+
+```{r}
+
+count_mod2 <- ergm(
+  test ~ sum +
+    edgecov("node_edge_similarity") +  # Baseline alignment
+    absdiff("leftright_self") +
+    nodeicov("avg_incoming_weight") +  # Receiver consistency
+    nodeocov("avg_outgoing_weight") +  # Sender diversity
+    #transitiveweights("min", "max", "min") +  # Structural closure
+    nonzero,
+  response = "weight",
+  reference = ~Geometric,
+  control = control.ergm(MCMC.samplesize = 10000)
+)
+```
+
+### ERGM Dynamic
 
 ```{r}
 library(sna)

@@ -1147,6 +1147,16 @@
             "leftright": 3.0,
             "sentiment": 1.0
         },
+        "tpf": {
+            "aquaintance": true,
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 2.0,
+            "sentiment": 0.0
+        },
         "gga": {
             "aquaintance": true,
             "friend": false,
@@ -1230,6 +1240,16 @@
             "council": false,
             "leftright": 2.0,
             "sentiment": 1.0
+        },
+        "tpf": {
+            "aquaintance": true,
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": true,
+            "leftright": 4.0,
+            "sentiment": 0.0
         },
         "gga": {
             "aquaintance": true,
@@ -1365,6 +1385,16 @@
         }
     },
     "vtt": {
+        "tpf": {
+            "aquaintance": true,
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 7.0,
+            "sentiment": 1.0
+        },
         "ktb": {
             "aquaintance": true,
             "friend": true,
@@ -1730,6 +1760,16 @@
             "council": false,
             "leftright": 4.0,
             "sentiment": 2.0
+        },
+        "tpf": {
+            "aquaintance": true,
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
         }
     },
     "sva": {
@@ -5871,6 +5911,16 @@
         }
     },
     "gga": {
+        "tpf": {
+            "aquaintance": true,
+            "friend": false,
+            "value": false,
+            "politics": false,
+            "study": true,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
         "yfg": {
             "aquaintance": true,
             "friend": false,
@@ -6224,6 +6274,38 @@
             "council": true,
             "leftright": 3.0,
             "sentiment": 1.0
+        }
+    },
+    "tpf": {
+        "gga": {
+            "aquaintance": true,
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "ktb": {
+            "aquaintance": true,
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
+        },
+        "4ww": {
+            "aquaintance": true,
+            "friend": false,
+            "value": false,
+            "politics": true,
+            "study": false,
+            "council": false,
+            "leftright": 6.0,
+            "sentiment": 0.0
         }
     }
 }

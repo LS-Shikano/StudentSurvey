@@ -58,13 +58,9 @@ mod_homoph_mutual1 <- ergm(school_net ~ edges +
                              mutual, 
                              control = control.ergm(MCMC.burnin = 50000,
                                                   MCMC.samplesize = 6000))
-```
 
-```{r}
-mcmc.diagnostics(mod_homoph_mutual1, vars.per.page = 4)
-```
+mcmc.diagnostics(mod_homoph_mutual1)
 
-```{r}
 summary(mod_homoph_mutual1)
 ```
 

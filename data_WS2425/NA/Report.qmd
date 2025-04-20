@@ -1,0 +1,324 @@
+---
+title: "Report: Descriptive Social Network Analysis"
+author: 
+  - name: "Marius Helten"
+    affiliation: "1406810"
+editor: visual
+date: "`r format(Sys.Date(), '%B %d, %Y')`" 
+format:
+  pdf:
+    fig-width: 6
+    fig-height: 3
+    keep-tex: false  
+    colorlinks: true
+    documentclass: report
+    links-as-notes: true
+header-includes:
+  - \usepackage{titling}  
+  - \pretitle{\begin{center}\LARGE\bfseries} 
+  - \posttitle{\end{center}}  
+  - \preauthor{\begin{center} \large} 
+  - \postauthor{\end{center}} 
+  - \predate{\begin{center}\large} 
+  - \postdate{\begin{figure}[h]
+      \centering
+      \includegraphics[width=0.8\textwidth]{images/I1.png}
+    \end{figure}
+    \url{https://github.com/LS-Shikano/StudentSurvey}
+    \end{center}} 
+---
+
+```{r setup, echo = FALSE}
+knitr::opts_chunk$set(error = TRUE)
+```
+
+## Abstract
+
+## Introduction
+
+A central challenge of network analysis is the interpretation of the descriptive measures that are obtained from the network in the actual empirical context they originate from.
+
+In the following report we will do a descriptive analysis of a social network. The network is built from a dataset that was collected in a social survey at the University of Konstanz by the Center for Data and Methods in the WS24/25. The respondents were a class of first semester political science students that participated in three waves of a survey, the waves were a few months apart from each other. Non complete observations are excluded from the network.
+
+The respondents were asked questions about demographics, social behavior, academic achievement and political opinions.The students were also asked to provide information about their social relations and nominate classmates for different kinds of relations which translates into a directed multiplex network with weighted and unweighted edges.
+
+We will not try do a comprehensive analysis of the data and the network and instead focus on certain exemplary aspects to illustrate the breadth of approaches and possibilities. Due to the scope all weighted and most of the unweighted relations will be excluded from the analysis and even though we have the data for a discrete time-series which would allow a longitudinal analysis, we will only do a cross sectional analysis of the network. We will also not do a comparative approach in regards to other networks, which would give us something to compare our results against and draw some conclusions about validity and strength of effects. Instead we will only compare between the different waves of the survey, which will give us a vague idea of the development of the network over time and show us trends.
+
+We will take descriptive measured on different parts. Firstly there a descriptive measures for the whole network and then there are also descriptive measures to describe the nodes and edges inside the network.
+
+We will also not delve into examining the effects that cause the measured structures. Very broadly spoken there are two paradigms for explaining structures in networks, one is that structures are formed by forces external to the network, like nodal attributes with homophily and similarity. The other idea is that structures evolve through the internal dynamics of the network and its relations over time, for example by reciprocity, transitivity and in general by the dependence of any one relation on other relations. The difference is between the network as cause(internal factors) or consequence(external factors) (Rawling **2023,** p. 33).
+
+## Results
+
+In the following paragraphs we will present the results obtained from analyzing the networks of the different relations (Aquaintance & Friendship) and waves (G1,G2,G3). Isolated Nodes were excluded from the analysis because of the problems they cause with certain metrics, under the assumption that you need at least a single relation to anybody else to be part of the social network of the group. It does however speak of a certain social dynamics of people being isolated from the group even though they are formally part of the social situation, here being a student that is the the statistics course for political scientists.
+
+### Descriptive Metrics for whole Network
+
+We start off with some metrics characterizing the whole network in a single values. The number of components and the size of the biggest component are very basic but essential metrics. The network graph can have multiple components that are not connected to each other and the size of the biggest component gives a good idea as to the size and complexity of the social network. Both are also important for picking other methods that will only work on a single graph.
+
+\begin{figure}[h]
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{graphs/net_n_comp.png}
+        \caption{Number of Components}
+        \label{fig:Number of Components}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{graphs/net_largest_cc.png}
+        \caption{Biggest (weakly) Connected Component}
+        \label{fig:Biggest (weakly) Connected Component}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{graphs/net_density.png}
+        \caption{Density of Network}
+        \label{fig:Density}
+    \end{subfigure}
+    \caption{Descriptive Metrics of Network I}
+    \label{fig:pca_combined}
+\end{figure}
+
+In figure one we can clearly see that the number of components is higher for the friendship relation than the acquaintance relation and the reverse is true for the size of the largest connected component, here it is much larger for the acquaintance relation. This makes sense if we assume that the friendship relation is a more "exclusive" relation than just knowing somebody, so most people in the class know each other but then there are smaller groups of friends that are separated from each other.\
+We can also see a bit of a trend, the number of components is decreasing and the size of the largest component is growing from the first (G1) to the third wave (G3), for friendship and acquaintance. This hints at a growing interconnectedness inside of the social network, the different groups integrate over time into a larger social structure.\
+The assumptions are also supported by the density (1c), which is higher for acquaintance than friendship, sill both also increase over time. Showing the network becomes denser as more new relations are being formed than old ones disappear.
+
+Next in figure two we have the two measures that while providing a single metrics for the network, are averages with confidence intervals for the whole of the network and characterize the structure of relations in the network.
+
+\begin{figure}[h]
+    \begin{subfigure}{0.45\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{graphs/net_assortativity.png}
+        \caption{Assortativity}
+        \label{fig: Assortativity}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.45\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{graphs/net_global_clustering.png}
+        \caption{Global Clusering}
+        \label{fig:Global Clustering}
+    \end{subfigure}
+    \caption{Descriptive Metrics of Network II}
+    \label{fig:pca_combined}
+\end{figure}
+
+The first one is degree assortativity (2a), so whether nodes with similar degrees (total number of connections in & out) tend to link to each other. This would hint at people connecting to other people who are similarly socially active, in their popularity(in) and promiscuity(out). Interestingly the choice of friends seems to be determined more by degree assortativity than acquaintance. Again we could explain this with the face that people are more picky with their friends and are looking for somebody similar to themselves.\
+Also very interesting is that the assortativity decreases over time, so by the end of the third wave, this plays less of a role, which could hint at the fact that people are getting to know each other more, mixing more freely in this regard and forming relations based more on different properties, for example social attributes.
+
+The global clustering coefficient (2b) tells us how likely it is that a node’s neighbors are also connected to each other — in other words, how "cliquey" the network is overall. What is very interesting is that at first acquaintance is more clustered than friendship but then over time we can see that friendships are more clustered and that this also increases over time, while it decreases for the acquaintance relation. It kinda makes sense that over time friendships become more clustered while we find our group while acquaintanceship is less clustered as we also get to know other random people, though this is just a theory that would have to be checked.
+
+Next we are taking a look at the degree distributions (3) of the nodes in the network, separated by incoming and outgoing ties, this is also what formed the basis for assortativity.
+
+\begin{figure}[h]
+    \begin{subfigure}{0.45\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{degree_plots/in_degrees_friend_aquaintance.png}
+        \caption{In-Degree of Nodes}
+        \label{fig:in}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.45\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{degree_plots/out_degrees_friend_aquaintance.png}
+        \caption{Out-Degree of Nodes}
+        \label{fig:out}
+    \end{subfigure}
+    \caption{Degree Distribution of Nodes in the Network for Friendship and Aquaintance}
+    \label{fig:pca_combined}
+\end{figure}
+
+In general we can see that the degree distribution for friendship is a bit lower, so people have less friends than acquaintances. The shape of the distribution is similar for both relations. While exactly a power law curve, we can see than having more relations becomes increasingly rarer. However there seems to be a sort of limit to the amount of relations, that also does not change over time. There is not really a big difference between incoming (3a) and outgoing relations (3b), which makes sense if we assume that the relations are mostly reciprocal.
+
+### Node and Edge Betweenness Centrality
+
+Next we will be looking at specific measures for the nodes and edges of the network. Centrality is an important measure. Betweenness centrality measures how important a person (node) is in connecting others in the network. Specifically, it counts how often a node lies on the shortest paths between other pairs of nodes, acting like a bridge and inhabiting a broker position between two parts of the network. This measure can be applied to the edges (4a) as well as the nodes (4b).
+
+\begin{figure}[h]
+    \begin{subfigure}{0.45\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{betweenness_plots/node_betweenness_friend_aquaintance.png}
+        \caption{Node Betweenness}
+        \label{fig:in}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.45\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{betweenness_plots/edge_betweenness_friend_aquaintance.png}
+        \caption{Edge Betweenness}
+        \label{fig:out}
+    \end{subfigure}
+    \caption{Distribution of Betweenness Centrality in the Network for Aquaintance and Friendship}
+    \label{fig:pca_combined}
+\end{figure}
+
+In figure (4) we can see the distributions for the whole of the network. The curve starts pretty high and then drops off really fast and has a long tail. So there a many nodes and edges with low betweenness and increasingly less with higher betweenness. So only a few nodes and edges are important bridges for the network.
+
+When we visualize the betweenness centrality (5 & 6) not just as a distribution but on the network. Here we can see that the edges with higher centrality are grouped around the nodes with higher centrality and that it is usually nodes and edges who if removed would disconnect parts of the graph or at least make the shortest path much longer.
+
+\begin{figure}[h]
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{betweenness_plots/G1_aquaintance_betweenness.png}
+        \caption{Aqaintance G1}
+        \label{fig:Number of Components}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{betweenness_plots/G2_aquaintance_betweenness.png}
+        \caption{Aquaintance G2}
+        \label{fig:Biggest (weakly) Connected Component}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{betweenness_plots/G3_aquaintance_betweenness.png}
+        \caption{Aquaintance G3}
+        \label{fig:Density}
+    \end{subfigure}
+    \caption{Aquaintance Relation Betweenness Centrality for Nodes and Edges}
+    \label{fig:pca_combined}
+\end{figure}
+
+For the sparser relation of friendship (6) it is a bit more clear to see how structure and measure connect.
+
+\begin{figure}[h]
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{betweenness_plots/G1_friend_betweenness.png}
+        \caption{Friendship G1}
+        \label{fig:Number of Components}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{betweenness_plots/G2_friend_betweenness.png}
+        \caption{Friendship G2}
+        \label{fig:Biggest (weakly) Connected Component}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{betweenness_plots/G3_friend_betweenness.png}
+        \caption{Friendship G3}
+        \label{fig:Density}
+    \end{subfigure}
+    \caption{Aquaintance Relation Betweenness Centrality for Nodes and Edges}
+    \label{fig:pca_combined}
+\end{figure}
+
+It is however very hard to see a trend or draw any further conclusions because of the fuzzy hairball-problem.
+
+### Community Detection
+
+A Nested Stochastic Block Model models the network as a hierarchy of groups, so communities within communities (7). It uses Bayesian inference to find the optimal division. The algorithm finds the model that best compresses the network (minimum description length principle) and thus balances model complexity and accuracy. The result is a structure containing hierarchical community assignments, with access to top-level and deeper groupings.
+
+\begin{figure}[h]
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{community_plots/G1_friend_community.png}
+        \caption{Friendship G1}
+        \label{fig:Number of Components}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{community_plots/G2_friend_community.png}
+        \caption{Friendship G2}
+        \label{fig:Biggest (weakly) Connected Component}
+    \end{subfigure}
+    \hfill % This adds space between the two subfigures
+    \begin{subfigure}{0.3\textwidth} % Adjust width as needed
+        \centering
+        \includegraphics[width=\textwidth]{community_plots/G3_friend_community.png}
+        \caption{Friendship G3}
+        \label{fig:Density}
+    \end{subfigure}
+    \caption{Community Detection for Friendship with Nested Blockmodel}
+    \label{fig:pca_combined}
+\end{figure}
+
+We can see a trend, in that from the first to the third wave the amount of communities decreases, also there are some shifts in the subgroups and it looks like they are consolidating over time. This is hard to judge without actually tracking individual nodes but still the overall picture hold. Broadly speaking the whole of the network is split into 2-3 groups and these again into 1-3 subgroups. So there is a nested community structure where tighter groups are part of bigger more loosely connected groups. Also some of the groups look very uniform regarding the gender attribute (square: male, triangle: female) but this would have to be tested properly with something like a ERGM, which can test a hypothesis like the gender attribute is relevant for friendships in the network.
+
+## Discussion
+
+So after our analysis its time to draw some conclusions, we were able to collect meaningful measures on the networks, and characterize their structure as well creating some hypothesis and supporting assumptions. It also became very clear that there are certain limits regarding effect strength and the explanation of causation. Internally comparing waves and relations gave us something to compare our results against, however here much more work would be needed. We also did not utilize the weighted relations and the time series. It became very clear that the challenge is interpreting the results in the empirical context and also making the most of the data that is available. So as always more work is needed and where would be the fun in being done.
+
+## Methods
+
+### Data Collection
+
+We analyzed social network data from first-semester political science students (`n` = 153 after exclusions) at the University of Konstanz (WS24/25). The longitudinal study comprised three waves collecting:
+
+-   **Multiplex network data**:
+    -   Directed unweighted ties (aquaintance, friendship, study collaboration, student council, talking about politics, value opinion)
+    -   Weighted ties:
+        -   Sentiment: `[-2, 2]` scale
+        -   Political affiliation: `[1-11]` scale
+-   **Node attributes**: Demographic and academic performance data
+
+### Network Measures
+
+#### 1. Connectivity
+
+-   **Components**: Count of disconnected subgraphs
+-   **Largest Connected Component (LCC)**: Size (in nodes) of maximal connected subgraph
+
+#### 2. Topology
+
+-   **Density**: Ratio of existing to possible edges (directed graphs):
+
+    $$
+    \rho = \frac{E}{N(N-1)}
+    $$
+
+    where $E$ = edge count, $N$ = node count.
+
+-   **Global Clustering Coefficient**: Triangle-to-triplet ratio
+
+-   **Degree Assortativity**: Pearson correlation of connected nodes' degrees:
+
+    $$
+    r = \frac{\sum_{i,j} (k_i - \bar{k})(k_j - \bar{k})}{\sum_{i,j} (k_i - \bar{k})^2}
+    $$
+
+### Centrality Measures
+
+#### Betweenness Centrality
+
+Fraction of shortest paths passing through:
+
+-   **Nodes**: $$
+    C_B(v) = \sum_{s\neq v\neq t} \frac{\sigma_{st}(v)}{\sigma_{st}}
+    $$
+
+-   **Edges**: $$
+    C_B(e) = \sum_{s\neq t} \frac{\sigma_{st}(e)}{\sigma_{st}}
+    $$
+
+### Community Detection
+
+We applied **Nested Stochastic Block Models** (SBM) using:
+
+-   Bayesian inference with minimum description length (DL)
+
+-   Hierarchical community detection via:
+
+    $$
+    \text{argmin}_{\theta} \left[ -\log P(G|\theta) + \text{complexity}(\theta) \right]
+    $$
+
+    where $\theta$ parameterizes block assignments and connection probabilities.
+
+### Implementation
+
+-   Python 3.10
+
+-   graph-tool package 2.50
+
+## References
+
+**Rawlings, C. M., Smith, J. A., Moody, J., & McFarland, D. (2023).** *Network analysis: Integrating social network theory, method, and application with R*. Cambridge University Press

@@ -4,1685 +4,9550 @@ graph [
   node [
     id 0
     label "kru"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 22.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 6.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 6.0
+    lr_CSU 6.0
+    lr_FDP 3.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 2.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -1.0
+    scalo_csu -1.0
+    scalo_fdp 0.0
+    scalo_gruene 2.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 1.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -2.0
+    scalo_pep16 -1.0
+    scalo_pep1 0.0
+    scalo_pep2 5.0
+    scalo_pep3 0.0
+    scalo_pep4 0.0
+    scalo_pep5 -3.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 0.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 1
     label "bs3"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 97.0
+    tutorial 6.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp 3.0
+    scalo_gruene 4.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -2.0
+    scalo_pep1 3.0
+    scalo_pep2 5.0
+    scalo_pep3 3.0
+    scalo_pep4 1.0
+    scalo_pep5 -5.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 2.0
+    scalo_spd 5.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 2
     label "k4w"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 4.0
-    partyvote 2.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 3.0
     age 26.0
+    edu_father 3.0
+    edu_mother 2.0
+    gender 1.0
+    grade 4.0
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 5.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 11.0
+    lr_CDU 6.0
+    lr_CSU 7.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 2.0
+    scalo_csu 3.0
+    scalo_fdp -3.0
+    scalo_gruene 0.0
+    scalo_linke -4.0
+    scalo_pep10 -3.0
+    scalo_pep11 -5.0
+    scalo_pep12 3.0
+    scalo_pep13 -2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 0.0
+    scalo_pep2 1.0
+    scalo_pep3 1.0
+    scalo_pep4 -1.0
+    scalo_pep5 0.0
+    scalo_pep6 2.0
+    scalo_pep7 -3.0
+    scalo_pep8 2.0
+    scalo_pep9 0.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 3
     label "4yx"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 3.0
     age 27.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.7
+    ocu_father 0.0
+    ocu_mother 0.0
+    postcode 89.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 8.0
+    lr_CDU 7.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 2.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 1.0
+    scalo_csu -3.0
+    scalo_fdp -4.0
+    scalo_gruene 4.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -2.0
+    scalo_pep13 5.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -1.0
+    scalo_pep1 1.0
+    scalo_pep2 2.0
+    scalo_pep3 5.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 2.0
+    scalo_pep7 -4.0
+    scalo_pep8 5.0
+    scalo_pep9 2.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 4
     label "kmw"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 28.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 6.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 7.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 9.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd 2.0
+    scalo_bsw -2.0
+    scalo_cdu 2.0
+    scalo_csu 3.0
+    scalo_fdp 3.0
+    scalo_gruene -5.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 -1.0
+    scalo_pep13 -5.0
+    scalo_pep14 -1.0
+    scalo_pep15 1.0
+    scalo_pep16 -3.0
+    scalo_pep1 -2.0
+    scalo_pep2 -5.0
+    scalo_pep3 1.0
+    scalo_pep4 3.0
+    scalo_pep5 2.0
+    scalo_pep6 0.0
+    scalo_pep7 2.0
+    scalo_pep8 -5.0
+    scalo_pep9 -1.0
+    scalo_spd -3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 5
     label "b3p"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 25.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 1.0
+    lr_CDU 5.0
+    lr_CSU 5.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 3.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 1.0
+    scalo_csu 1.0
+    scalo_fdp -3.0
+    scalo_gruene 5.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 1.0
+    scalo_pep1 2.0
+    scalo_pep2 3.0
+    scalo_pep3 3.0
+    scalo_pep4 -3.0
+    scalo_pep5 0.0
+    scalo_pep6 5.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 4.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 6
     label "udg"
-    leftrightself 5
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 1.0
+    edu_mother 4.0
+    gender 1.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 89.0
+    tutorial 3.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 9.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 2.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 1.0
+    scalo_csu 1.0
+    scalo_fdp -3.0
+    scalo_gruene 0.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 -2.0
+    scalo_pep13 -2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -2.0
+    scalo_pep1 -2.0
+    scalo_pep2 3.0
+    scalo_pep3 1.0
+    scalo_pep4 0.0
+    scalo_pep5 -3.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 1.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 7
     label "ack"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 1.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 67.0
+    tutorial 3.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 1.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 2.0
+    scalo_afd -4.0
+    scalo_bsw -4.0
+    scalo_cdu 4.0
+    scalo_csu 4.0
+    scalo_fdp 1.0
+    scalo_gruene 0.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -2.0
+    scalo_pep13 -4.0
+    scalo_pep14 -4.0
+    scalo_pep15 -4.0
+    scalo_pep16 -3.0
+    scalo_pep1 -2.0
+    scalo_pep2 0.0
+    scalo_pep3 -5.0
+    scalo_pep4 -999.0
+    scalo_pep5 -3.0
+    scalo_pep6 2.0
+    scalo_pep7 -1.0
+    scalo_pep8 -4.0
+    scalo_pep9 -4.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 8
     label "h9x"
-    leftrightself 5
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 5.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 71.0
+    tutorial 3.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 1.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 2.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 0.0
+    scalo_csu -3.0
+    scalo_fdp 1.0
+    scalo_gruene 3.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 3.0
+    scalo_pep14 -4.0
+    scalo_pep15 -4.0
+    scalo_pep16 -3.0
+    scalo_pep1 0.0
+    scalo_pep2 2.0
+    scalo_pep3 0.0
+    scalo_pep4 -1.0
+    scalo_pep5 -2.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 1.0
+    scalo_pep9 0.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 9
     label "cyw"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 8.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 3.0
     age 26.0
+    edu_father 1.0
+    edu_mother 4.0
+    gender 2.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 1.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 1.0
+    politics_question_one 3.0
+    politics_question_seven 3.0
+    politics_question_six 3.0
+    politics_question_three 2.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene -3.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 -4.0
+    scalo_pep2 -4.0
+    scalo_pep3 2.0
+    scalo_pep4 -3.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 -4.0
+    scalo_pep9 3.0
+    scalo_spd -4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 8.0
+    sunday_poll 1.0
   ]
   node [
     id 10
     label "9he"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 23.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 75.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 6.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 2.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two -999.0
+    scalo_afd -3.0
+    scalo_bsw -2.0
+    scalo_cdu 3.0
+    scalo_csu 3.0
+    scalo_fdp 1.0
+    scalo_gruene -4.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 2.0
+    scalo_pep13 -5.0
+    scalo_pep14 2.0
+    scalo_pep15 2.0
+    scalo_pep16 -1.0
+    scalo_pep1 -4.0
+    scalo_pep2 2.0
+    scalo_pep3 -3.0
+    scalo_pep4 -1.0
+    scalo_pep5 3.0
+    scalo_pep6 -3.0
+    scalo_pep7 -2.0
+    scalo_pep8 0.0
+    scalo_pep9 -2.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 11
     label "qew"
-    leftrightself 1
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.7
-    partyvote 5.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 3.7
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 6.0
+    linksrechts_self 1.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 10.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -5.0
+    scalo_csu -5.0
+    scalo_fdp -4.0
+    scalo_gruene 0.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 -2.0
+    scalo_pep3 0.0
+    scalo_pep4 -4.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 2.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 12
     label "3ab"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 20.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 79.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -1.0
+    scalo_csu -1.0
+    scalo_fdp -2.0
+    scalo_gruene 3.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -3.0
+    scalo_pep1 2.0
+    scalo_pep2 4.0
+    scalo_pep3 1.0
+    scalo_pep4 -1.0
+    scalo_pep5 -1.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 13
     label "dxp"
-    leftrightself 3
-    gender 2.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 4.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp -2.0
+    scalo_gruene 1.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -4.0
+    scalo_pep1 -2.0
+    scalo_pep2 -1.0
+    scalo_pep3 -1.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 -3.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 14
     label "tcc"
-    leftrightself 3
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 70.0
+    tutorial 4.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 9.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -3.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene 1.0
+    scalo_linke -1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -4.0
+    scalo_pep1 1.0
+    scalo_pep2 2.0
+    scalo_pep3 3.0
+    scalo_pep4 -3.0
+    scalo_pep5 -3.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 -3.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 15
     label "tdq"
-    leftrightself 2
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 0.0
+    postcode 0.0
+    tutorial 7.0
+    linksrechts_self 2.0
+    lr_AfD 10.0
+    lr_BSW 9.0
+    lr_CDU 5.0
+    lr_CSU 6.0
+    lr_FDP 5.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 1.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 3.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 2.0
+    scalo_csu 0.0
+    scalo_fdp -2.0
+    scalo_gruene 3.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 3.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 4.0
+    scalo_pep2 2.0
+    scalo_pep3 5.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 1.0
+    scalo_spd 4.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 16
     label "3fv"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 19.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 50.0
+    tutorial 7.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 8.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 2.0
+    scalo_csu 2.0
+    scalo_fdp -1.0
+    scalo_gruene 3.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 2.0
+    scalo_pep3 2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 -3.0
+    scalo_pep9 -3.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 17
     label "mw9"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 2.0
+    edu_mother 1.0
+    gender 1.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 70.0
+    tutorial 5.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 7.0
+    lr_CSU 9.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -2.0
+    scalo_csu -4.0
+    scalo_fdp 0.0
+    scalo_gruene 3.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 4.0
+    scalo_pep3 -2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 3.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 18
     label "k9w"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 76.0
+    tutorial 1.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 1.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 5.0
+    lr_Gruene 6.0
+    lr_Linke 2.0
+    lr_SPD 7.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 2.0
+    scalo_csu 1.0
+    scalo_fdp -3.0
+    scalo_gruene 4.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -1.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -999.0
+    scalo_pep1 2.0
+    scalo_pep2 2.0
+    scalo_pep3 2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 2.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 19
     label "tuw"
-    leftrightself 3
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 3.0
+    browser 4.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 55.0
+    tutorial 4.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 8.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -5.0
+    scalo_fdp -4.0
+    scalo_gruene 5.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 5.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 3.0
+    scalo_pep3 3.0
+    scalo_pep4 -4.0
+    scalo_pep5 -4.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 4.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 20
     label "ech"
-    leftrightself 8
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 18.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 2.0
+    linksrechts_self 8.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 5.0
+    scalo_csu 3.0
+    scalo_fdp 1.0
+    scalo_gruene -4.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 3.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -3.0
+    scalo_pep1 -4.0
+    scalo_pep2 3.0
+    scalo_pep3 -5.0
+    scalo_pep4 3.0
+    scalo_pep5 4.0
+    scalo_pep6 -4.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 -5.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 21
     label "39b"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 1.0
     age 18.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 6.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 4.0
+    lr_CDU 8.0
+    lr_CSU 7.0
+    lr_FDP 5.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -2.0
+    scalo_gruene 2.0
+    scalo_linke 2.0
+    scalo_pep10 -2.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -3.0
+    scalo_pep16 -3.0
+    scalo_pep1 2.0
+    scalo_pep2 3.0
+    scalo_pep3 0.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 2.0
+    scalo_pep7 -4.0
+    scalo_pep8 1.0
+    scalo_pep9 -1.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 22
     label "ebs"
-    leftrightself 4
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 18.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 2.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 1.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -1.0
+    scalo_csu -2.0
+    scalo_fdp -2.0
+    scalo_gruene 3.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -2.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -4.0
+    scalo_pep1 3.0
+    scalo_pep2 2.0
+    scalo_pep3 3.0
+    scalo_pep4 -3.0
+    scalo_pep5 -3.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 -1.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 23
     label "gdg"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 3.0
     age 20.0
+    edu_father 4.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 79.0
+    tutorial 4.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 6.0
+    lr_CSU 6.0
+    lr_FDP 3.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 0.0
+    scalo_csu 0.0
+    scalo_fdp -1.0
+    scalo_gruene 5.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 -999.0
+    scalo_pep2 3.0
+    scalo_pep3 4.0
+    scalo_pep4 -2.0
+    scalo_pep5 -5.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 2.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 24
     label "4dk"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 20.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 1.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 0.0
+    scalo_csu -4.0
+    scalo_fdp -5.0
+    scalo_gruene 4.0
+    scalo_linke -1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -2.0
+    scalo_pep16 -4.0
+    scalo_pep1 3.0
+    scalo_pep2 3.0
+    scalo_pep3 -999.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 0.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 25
     label "knc"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 21.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 87.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 7.0
+    lr_CDU 6.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp 2.0
+    scalo_gruene 4.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -4.0
+    scalo_pep1 2.0
+    scalo_pep2 4.0
+    scalo_pep3 1.0
+    scalo_pep4 -2.0
+    scalo_pep5 -4.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 3.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 26
     label "ngv"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 5.0
+    browser 2.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.7
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 50.0
+    tutorial 2.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 6.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp -5.0
+    scalo_gruene 3.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 1.0
+    scalo_pep3 2.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 4.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 27
     label "xtk"
-    leftrightself 4
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 20.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 86.0
+    tutorial 5.0
+    linksrechts_self 4.0
+    lr_AfD 10.0
+    lr_BSW 6.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 4.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -2.0
+    scalo_cdu -5.0
+    scalo_csu -5.0
+    scalo_fdp -4.0
+    scalo_gruene 3.0
+    scalo_linke -1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 5.0
+    scalo_pep14 -5.0
+    scalo_pep15 -1.0
+    scalo_pep16 -3.0
+    scalo_pep1 -1.0
+    scalo_pep2 4.0
+    scalo_pep3 1.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 3.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 28
     label "qx3"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 3.0
+    use_of_device 2.0
     age 19.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 1.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 3.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp -4.0
+    scalo_gruene 3.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -2.0
+    scalo_pep16 -5.0
+    scalo_pep1 3.0
+    scalo_pep2 3.0
+    scalo_pep3 2.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 -2.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 29
     label "ywc"
-    leftrightself 6
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 3.0
+    use_of_device 2.0
     age 19.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 66.0
+    tutorial 2.0
+    linksrechts_self 6.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 9.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 5.0
+    politics_question_three 2.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 1.0
+    scalo_csu -3.0
+    scalo_fdp -3.0
+    scalo_gruene 4.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -4.0
+    scalo_pep1 2.0
+    scalo_pep2 1.0
+    scalo_pep3 4.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 1.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 0.0
+    sunday_poll 0.0
   ]
   node [
     id 30
     label "nrn"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 21.0
+    tutorial 2.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene 4.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -2.0
+    scalo_pep1 3.0
+    scalo_pep2 4.0
+    scalo_pep3 4.0
+    scalo_pep4 -4.0
+    scalo_pep5 -4.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 2.0
+    scalo_spd 5.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 31
     label "dnk"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 1.0
+    edu_mother 0.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 73.0
+    tutorial 4.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -5.0
+    scalo_gruene 4.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 2.0
+    scalo_pep3 1.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 1.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 32
     label "bga"
-    leftrightself 4
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 73.0
+    tutorial 5.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 0.0
+    scalo_csu -1.0
+    scalo_fdp -2.0
+    scalo_gruene 4.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 1.0
+    scalo_pep3 4.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 2.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 33
     label "49w"
-    leftrightself 2
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 1.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 4.0
+    linksrechts_self 2.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 5.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -5.0
+    scalo_csu -5.0
+    scalo_fdp 3.0
+    scalo_gruene 3.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -999.0
+    scalo_pep1 -1.0
+    scalo_pep2 3.0
+    scalo_pep3 -5.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 -2.0
+    scalo_pep7 -5.0
+    scalo_pep8 1.0
+    scalo_pep9 3.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 34
     label "ahn"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.7
-    partyvote 8.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 22.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 1.0
+    grade 3.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 5.0
+    lr_CDU 6.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 2.0
+    politics_question_six 3.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw 0.0
+    scalo_cdu 1.0
+    scalo_csu -999.0
+    scalo_fdp 1.0
+    scalo_gruene 3.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 0.0
+    scalo_pep16 -999.0
+    scalo_pep1 1.0
+    scalo_pep2 3.0
+    scalo_pep3 -5.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 -3.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 1.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 8.0
+    sunday_poll 1.0
   ]
   node [
     id 35
     label "nut"
-    leftrightself 5
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 4.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 45.0
+    tutorial 3.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 6.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp 5.0
+    scalo_gruene 1.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -1.0
+    scalo_pep1 1.0
+    scalo_pep2 4.0
+    scalo_pep3 -4.0
+    scalo_pep4 3.0
+    scalo_pep5 -5.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 1.0
+    scalo_pep9 -3.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 4.0
+    sunday_poll 1.0
   ]
   node [
     id 36
     label "gye"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 3.0
+    browser 5.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 18.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 71.0
+    tutorial 2.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 11.0
+    lr_CDU 8.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -5.0
+    scalo_fdp -5.0
+    scalo_gruene 1.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -5.0
+    scalo_pep2 -3.0
+    scalo_pep3 -999.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 -5.0
+    scalo_spd -3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 37
     label "ddh"
-    leftrightself 2
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 1.0
+    browser 4.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 2.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 2.0
+    linksrechts_self 2.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 7.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 1.0
+    politics_question_five 5.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp 2.0
+    scalo_gruene 3.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 1.0
+    scalo_pep13 -2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -3.0
+    scalo_pep2 -2.0
+    scalo_pep3 -1.0
+    scalo_pep4 -3.0
+    scalo_pep5 -5.0
+    scalo_pep6 -2.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 -1.0
+    scalo_spd 2.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 1.0
+    sunday_poll 4.0
   ]
   node [
     id 38
     label "ceh"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 8.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 18.0
+    edu_father 2.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 2.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 7.0
+    lr_CDU 5.0
+    lr_CSU 5.0
+    lr_FDP 3.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 4.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -2.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp 0.0
+    scalo_gruene 4.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 4.0
+    scalo_pep13 3.0
+    scalo_pep14 -3.0
+    scalo_pep15 -2.0
+    scalo_pep16 -999.0
+    scalo_pep1 -3.0
+    scalo_pep2 5.0
+    scalo_pep3 -3.0
+    scalo_pep4 0.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 -999.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 8.0
+    sunday_poll 1.0
   ]
   node [
     id 39
     label "cnu"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 1.0
+    grade 3.0
+    ocu_father -999.0
+    ocu_mother 1.0
+    postcode 70.0
+    tutorial 5.0
+    linksrechts_self 3.0
+    lr_AfD 10.0
+    lr_BSW 9.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -3.0
+    scalo_gruene 4.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 5.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 3.0
+    scalo_pep2 1.0
+    scalo_pep3 1.0
+    scalo_pep4 -3.0
+    scalo_pep5 -5.0
+    scalo_pep6 -3.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 3.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 40
     label "fv4"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 71.0
+    tutorial 7.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven -999.0
+    politics_question_six -999.0
+    politics_question_three 1.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp 1.0
+    scalo_gruene 3.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 4.0
+    scalo_pep3 0.0
+    scalo_pep4 -1.0
+    scalo_pep5 -4.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 4.0
+    scalo_spd -1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 41
     label "vrm"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 64.0
+    tutorial 7.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 2.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -1.0
+    scalo_gruene 4.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 0.0
+    scalo_pep2 4.0
+    scalo_pep3 2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -3.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 5.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 42
     label "buv"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 1.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 1.0
+    gender 1.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother -999.0
+    postcode 91.0
+    tutorial 7.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 6.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four -999.0
+    politics_question_one 4.0
+    politics_question_seven -999.0
+    politics_question_six 4.0
+    politics_question_three 2.0
+    politics_question_two -999.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -2.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene 3.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 0.0
+    scalo_pep2 1.0
+    scalo_pep3 2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -2.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 4.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 43
     label "add"
-    leftrightself 2
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 1.0
+    browser 2.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 8.0
+    linksrechts_self 2.0
+    lr_AfD 11.0
+    lr_BSW 11.0
+    lr_CDU 10.0
+    lr_CSU 10.0
+    lr_FDP 9.0
+    lr_Gruene 6.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -4.0
+    scalo_gruene 4.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 3.0
+    scalo_pep2 5.0
+    scalo_pep3 4.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 3.0
+    scalo_spd 5.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 44
     label "gcu"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 1.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 21.0
+    edu_father 2.0
+    edu_mother 4.0
+    gender 2.0
+    grade 1.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 64.0
+    tutorial 2.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW -999.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -1.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene 4.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 -999.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -4.0
+    scalo_pep1 2.0
+    scalo_pep2 1.0
+    scalo_pep3 4.0
+    scalo_pep4 -1.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 -4.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 45
     label "yuc"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 2.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 9.0
+    lr_CSU 7.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -999.0
+    scalo_cdu -4.0
+    scalo_csu -1.0
+    scalo_fdp -3.0
+    scalo_gruene 2.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 0.0
+    scalo_pep14 -4.0
+    scalo_pep15 0.0
+    scalo_pep16 0.0
+    scalo_pep1 -999.0
+    scalo_pep2 3.0
+    scalo_pep3 -999.0
+    scalo_pep4 -2.0
+    scalo_pep5 -5.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 0.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 46
     label "ktd"
-    leftrightself 4
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 18.0
+    edu_father 4.0
+    edu_mother 3.0
+    gender 1.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 4.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 7.0
+    lr_CSU 7.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 1.0
+    scalo_csu 0.0
+    scalo_fdp -2.0
+    scalo_gruene 5.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -999.0
+    scalo_pep1 3.0
+    scalo_pep2 5.0
+    scalo_pep3 3.0
+    scalo_pep4 -2.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 4.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 47
     label "mry"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 77.0
+    tutorial 1.0
+    linksrechts_self 5.0
+    lr_AfD 10.0
+    lr_BSW 3.0
+    lr_CDU 7.0
+    lr_CSU 7.0
+    lr_FDP 7.0
+    lr_Gruene 6.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 1.0
+    scalo_csu 1.0
+    scalo_fdp 1.0
+    scalo_gruene -1.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -1.0
+    scalo_pep1 1.0
+    scalo_pep2 3.0
+    scalo_pep3 4.0
+    scalo_pep4 2.0
+    scalo_pep5 -3.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 0.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 48
     label "t94"
-    leftrightself 4
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 21.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 89.0
+    tutorial 2.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 9.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 1.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -1.0
+    scalo_csu -1.0
+    scalo_fdp -3.0
+    scalo_gruene 2.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 2.0
+    scalo_pep13 2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -999.0
+    scalo_pep16 -5.0
+    scalo_pep1 0.0
+    scalo_pep2 4.0
+    scalo_pep3 0.0
+    scalo_pep4 -3.0
+    scalo_pep5 -5.0
+    scalo_pep6 3.0
+    scalo_pep7 -4.0
+    scalo_pep8 4.0
+    scalo_pep9 5.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 49
     label "ent"
-    leftrightself 1
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 5.0
+    browser 5.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 71.0
+    tutorial 5.0
+    linksrechts_self 1.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -2.0
+    scalo_gruene 3.0
+    scalo_linke 5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 3.0
+    scalo_pep2 3.0
+    scalo_pep3 3.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 4.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 50
     label "3eh"
-    leftrightself 4
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 1.0
+    browser 5.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 20.0
+    edu_father 2.0
+    edu_mother 3.0
+    gender 2.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 79.0
+    tutorial 5.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 5.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -2.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -2.0
+    scalo_gruene 1.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 0.0
+    scalo_pep16 -3.0
+    scalo_pep1 1.0
+    scalo_pep2 0.0
+    scalo_pep3 0.0
+    scalo_pep4 -1.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -3.0
+    scalo_pep8 1.0
+    scalo_pep9 -3.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 51
     label "dph"
-    leftrightself 2
-    gender 2.0
-    income -999
-    rent -999
-    grade 1.3
-    partyvote 5.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 3.0
     age 18.0
+    edu_father 4.0
+    edu_mother 3.0
+    gender 2.0
+    grade 1.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 14.0
+    tutorial 7.0
+    linksrechts_self 2.0
+    lr_AfD 10.0
+    lr_BSW 3.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw 3.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -5.0
+    scalo_gruene -1.0
+    scalo_linke 4.0
+    scalo_pep10 -3.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -2.0
+    scalo_pep14 -4.0
+    scalo_pep15 4.0
+    scalo_pep16 -4.0
+    scalo_pep1 2.0
+    scalo_pep2 3.0
+    scalo_pep3 -3.0
+    scalo_pep4 -5.0
+    scalo_pep5 -4.0
+    scalo_pep6 -3.0
+    scalo_pep7 -4.0
+    scalo_pep8 -1.0
+    scalo_pep9 -4.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 52
     label "eh3"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 2.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 2.0
     age 21.0
+    edu_father 4.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 0.0
+    postcode 83.0
+    tutorial 1.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 5.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -2.0
+    scalo_cdu 5.0
+    scalo_csu 5.0
+    scalo_fdp 4.0
+    scalo_gruene -1.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 5.0
+    scalo_pep13 -3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -1.0
+    scalo_pep1 -4.0
+    scalo_pep2 1.0
+    scalo_pep3 -1.0
+    scalo_pep4 5.0
+    scalo_pep5 5.0
+    scalo_pep6 -2.0
+    scalo_pep7 -2.0
+    scalo_pep8 -2.0
+    scalo_pep9 -4.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 53
     label "mbf"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade 1.3
-    partyvote 4.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 21.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 1.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 4.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 1.0
+    scalo_csu 1.0
+    scalo_fdp 4.0
+    scalo_gruene 4.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -1.0
+    scalo_pep13 0.0
+    scalo_pep14 -4.0
+    scalo_pep15 -3.0
+    scalo_pep16 -3.0
+    scalo_pep1 -2.0
+    scalo_pep2 -3.0
+    scalo_pep3 2.0
+    scalo_pep4 4.0
+    scalo_pep5 0.0
+    scalo_pep6 2.0
+    scalo_pep7 -4.0
+    scalo_pep8 5.0
+    scalo_pep9 -3.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 4.0
+    sunday_poll 1.0
   ]
   node [
     id 54
     label "ffe"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 20.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 3.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 27.0
+    tutorial 2.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp -3.0
+    scalo_gruene 4.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 3.0
+    scalo_pep2 4.0
+    scalo_pep3 -1.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 2.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 55
     label "byq"
-    leftrightself 1
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 5.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 1.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 83.0
+    tutorial 2.0
+    linksrechts_self 1.0
+    lr_AfD 11.0
+    lr_BSW 11.0
+    lr_CDU 10.0
+    lr_CSU 10.0
+    lr_FDP 9.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -5.0
+    scalo_csu -5.0
+    scalo_fdp -5.0
+    scalo_gruene 1.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 -3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -4.0
+    scalo_pep2 -3.0
+    scalo_pep3 1.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 -2.0
+    scalo_pep7 -5.0
+    scalo_pep8 -3.0
+    scalo_pep9 4.0
+    scalo_spd 1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 56
     label "m49"
-    leftrightself 2
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 23.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 2.0
+    linksrechts_self 2.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 7.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp -5.0
+    scalo_gruene 4.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -3.0
+    scalo_pep2 2.0
+    scalo_pep3 0.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 0.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 57
     label "uhg"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 73.0
+    tutorial 2.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 9.0
+    lr_CSU 9.0
+    lr_FDP 9.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 2.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -3.0
+    scalo_fdp -3.0
+    scalo_gruene 5.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -4.0
+    scalo_pep1 2.0
+    scalo_pep2 2.0
+    scalo_pep3 3.0
+    scalo_pep4 -3.0
+    scalo_pep5 -5.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 5.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 58
     label "tpu"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.7
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 2.0
+    use_of_device 1.0
     age 21.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 3.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial -999.0
+    linksrechts_self 0.0
+    lr_AfD 6.0
+    lr_BSW 6.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 5.0
+    lr_Linke 6.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 3.0
+    politics_question_five 2.0
+    politics_question_four 3.0
+    politics_question_one 2.0
+    politics_question_seven 3.0
+    politics_question_six 2.0
+    politics_question_three 3.0
+    politics_question_two -999.0
+    scalo_afd -999.0
+    scalo_bsw -999.0
+    scalo_cdu -999.0
+    scalo_csu -999.0
+    scalo_fdp -999.0
+    scalo_gruene -999.0
+    scalo_linke -999.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 -999.0
+    scalo_pep14 -999.0
+    scalo_pep15 -999.0
+    scalo_pep16 -4.0
+    scalo_pep1 -999.0
+    scalo_pep2 1.0
+    scalo_pep3 -999.0
+    scalo_pep4 -999.0
+    scalo_pep5 -999.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 -999.0
+    scalo_pep9 3.0
+    scalo_spd -999.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 59
     label "gth"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 22.0
+    edu_father 2.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 57.0
+    tutorial -999.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 3.0
+    politics_question_five 4.0
+    politics_question_four -999.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -2.0
+    scalo_cdu -2.0
+    scalo_csu -2.0
+    scalo_fdp 1.0
+    scalo_gruene 4.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 0.0
+    scalo_pep12 0.0
+    scalo_pep13 0.0
+    scalo_pep14 0.0
+    scalo_pep15 0.0
+    scalo_pep16 -5.0
+    scalo_pep1 2.0
+    scalo_pep2 4.0
+    scalo_pep3 0.0
+    scalo_pep4 0.0
+    scalo_pep5 0.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 3.0
+    scalo_spd 2.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 60
     label "xyb"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 4.0
-    partyvote -999
+    browser 5.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 22.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 4.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 1.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 3.0
+    politics_question_five 2.0
+    politics_question_four 2.0
+    politics_question_one 2.0
+    politics_question_seven 4.0
+    politics_question_six 2.0
+    politics_question_three 2.0
+    politics_question_two -999.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -2.0
+    scalo_csu -2.0
+    scalo_fdp -4.0
+    scalo_gruene 2.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 -999.0
+    scalo_pep14 -999.0
+    scalo_pep15 -999.0
+    scalo_pep16 -5.0
+    scalo_pep1 -3.0
+    scalo_pep2 -3.0
+    scalo_pep3 -999.0
+    scalo_pep4 -999.0
+    scalo_pep5 -999.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 -999.0
+    scalo_pep9 3.0
+    scalo_spd -2.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 61
     label "ugr"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.7
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother -999.0
+    gender 1.0
+    grade 3.7
+    ocu_father 1.0
+    ocu_mother 0.0
+    postcode 78.0
+    tutorial 3.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp 1.0
+    scalo_gruene 4.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -4.0
+    scalo_pep1 3.0
+    scalo_pep2 5.0
+    scalo_pep3 3.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 62
     label "evs"
-    leftrightself 6
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 7.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 22.0
+    edu_father 3.0
+    edu_mother 2.0
+    gender 1.0
+    grade 3.3
+    ocu_father 0.0
+    ocu_mother 0.0
+    postcode 55.0
+    tutorial 3.0
+    linksrechts_self 6.0
+    lr_AfD 10.0
+    lr_BSW 6.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six -999.0
+    politics_question_three -999.0
+    politics_question_two 2.0
+    scalo_afd -3.0
+    scalo_bsw 3.0
+    scalo_cdu 1.0
+    scalo_csu 0.0
+    scalo_fdp 2.0
+    scalo_gruene -1.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -4.0
+    scalo_pep12 -2.0
+    scalo_pep13 -4.0
+    scalo_pep14 -2.0
+    scalo_pep15 1.0
+    scalo_pep16 -1.0
+    scalo_pep1 -3.0
+    scalo_pep2 -1.0
+    scalo_pep3 -1.0
+    scalo_pep4 1.0
+    scalo_pep5 -1.0
+    scalo_pep6 -1.0
+    scalo_pep7 -1.0
+    scalo_pep8 -999.0
+    scalo_pep9 0.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 7.0
+    sunday_poll 1.0
   ]
   node [
     id 63
     label "spg"
-    leftrightself 4
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 1.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 19.0
+    edu_father 1.0
+    edu_mother 4.0
+    gender 1.0
+    grade 3.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 3.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 3.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu 1.0
+    scalo_csu -2.0
+    scalo_fdp 2.0
+    scalo_gruene 4.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -2.0
+    scalo_pep16 -4.0
+    scalo_pep1 4.0
+    scalo_pep2 3.0
+    scalo_pep3 3.0
+    scalo_pep4 -1.0
+    scalo_pep5 -2.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 0.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 64
     label "yg9"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 7.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 3.0
+    use_of_device 2.0
     age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 2.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 10.0
+    lr_CSU 10.0
+    lr_FDP 10.0
+    lr_Gruene 10.0
+    lr_Linke 1.0
+    lr_SPD 10.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -3.0
+    scalo_bsw 0.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -4.0
+    scalo_gruene -3.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 0.0
+    scalo_pep12 -1.0
+    scalo_pep13 -3.0
+    scalo_pep14 -5.0
+    scalo_pep15 0.0
+    scalo_pep16 0.0
+    scalo_pep1 -4.0
+    scalo_pep2 3.0
+    scalo_pep3 -5.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 -5.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 0.0
+    scalo_spd -4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 7.0
+    sunday_poll 1.0
   ]
   node [
     id 65
     label "ngr"
-    leftrightself 5
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 21.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 1.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 2.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 5.0
+    lr_CDU 6.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw 1.0
+    scalo_cdu 1.0
+    scalo_csu 0.0
+    scalo_fdp 2.0
+    scalo_gruene 2.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 -5.0
+    scalo_pep14 -5.0
+    scalo_pep15 3.0
+    scalo_pep16 -999.0
+    scalo_pep1 -2.0
+    scalo_pep2 4.0
+    scalo_pep3 -5.0
+    scalo_pep4 -1.0
+    scalo_pep5 -3.0
+    scalo_pep6 -5.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 3.0
+    scalo_spd 1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 66
     label "fep"
-    leftrightself 4
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 76.0
+    tutorial 5.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -4.0
+    scalo_gruene 3.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -3.0
+    scalo_pep2 5.0
+    scalo_pep3 -2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -2.0
+    scalo_pep6 -1.0
+    scalo_pep7 -5.0
+    scalo_pep8 1.0
+    scalo_pep9 2.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 67
     label "sbf"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 97.0
+    tutorial 3.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 6.0
+    lr_CSU 7.0
+    lr_FDP 5.0
+    lr_Gruene 6.0
+    lr_Linke 2.0
+    lr_SPD 7.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -1.0
+    scalo_cdu 5.0
+    scalo_csu 5.0
+    scalo_fdp 0.0
+    scalo_gruene 1.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -4.0
+    scalo_pep12 4.0
+    scalo_pep13 3.0
+    scalo_pep14 2.0
+    scalo_pep15 1.0
+    scalo_pep16 2.0
+    scalo_pep1 3.0
+    scalo_pep2 2.0
+    scalo_pep3 4.0
+    scalo_pep4 0.0
+    scalo_pep5 5.0
+    scalo_pep6 4.0
+    scalo_pep7 -3.0
+    scalo_pep8 3.0
+    scalo_pep9 5.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 68
     label "dss"
-    leftrightself 1
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 7.0
+    linksrechts_self 1.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 8.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 3.0
+    politics_question_two 3.0
+    scalo_afd -3.0
+    scalo_bsw -999.0
+    scalo_cdu 1.0
+    scalo_csu 1.0
+    scalo_fdp 0.0
+    scalo_gruene 0.0
+    scalo_linke 2.0
+    scalo_pep10 -2.0
+    scalo_pep11 0.0
+    scalo_pep12 0.0
+    scalo_pep13 -999.0
+    scalo_pep14 -999.0
+    scalo_pep15 -999.0
+    scalo_pep16 -999.0
+    scalo_pep1 0.0
+    scalo_pep2 2.0
+    scalo_pep3 0.0
+    scalo_pep4 0.0
+    scalo_pep5 0.0
+    scalo_pep6 -999.0
+    scalo_pep7 0.0
+    scalo_pep8 -999.0
+    scalo_pep9 -1.0
+    scalo_spd 1.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 69
     label "qay"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 5.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 22.0
+    edu_father 3.0
+    edu_mother 0.0
+    gender 1.0
+    grade 2.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    postcode 79.0
+    tutorial 7.0
+    linksrechts_self 0.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 3.0
+    politics_question_three 4.0
+    politics_question_two -999.0
+    scalo_afd -5.0
+    scalo_bsw -999.0
+    scalo_cdu 0.0
+    scalo_csu 0.0
+    scalo_fdp 1.0
+    scalo_gruene 2.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 -4.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -4.0
+    scalo_pep2 2.0
+    scalo_pep3 -4.0
+    scalo_pep4 -4.0
+    scalo_pep5 0.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 0.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 70
     label "ryn"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 2.0
     age 24.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 1.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 22.0
+    tutorial 1.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 7.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 2.0
+    scalo_afd -4.0
+    scalo_bsw -3.0
+    scalo_cdu 1.0
+    scalo_csu -1.0
+    scalo_fdp -1.0
+    scalo_gruene 3.0
+    scalo_linke 2.0
+    scalo_pep10 -4.0
+    scalo_pep11 -5.0
+    scalo_pep12 -1.0
+    scalo_pep13 1.0
+    scalo_pep14 -4.0
+    scalo_pep15 -1.0
+    scalo_pep16 -4.0
+    scalo_pep1 -1.0
+    scalo_pep2 1.0
+    scalo_pep3 3.0
+    scalo_pep4 -1.0
+    scalo_pep5 -2.0
+    scalo_pep6 3.0
+    scalo_pep7 -1.0
+    scalo_pep8 3.0
+    scalo_pep9 3.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 71
     label "whx"
-    leftrightself 2
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 8.0
+    linksrechts_self 2.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 3.0
+    politics_question_five 4.0
+    politics_question_four -999.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 3.0
+    politics_question_three 2.0
+    politics_question_two -999.0
+    scalo_afd -5.0
+    scalo_bsw 1.0
+    scalo_cdu -999.0
+    scalo_csu -999.0
+    scalo_fdp 0.0
+    scalo_gruene 4.0
+    scalo_linke 3.0
+    scalo_pep10 -4.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 -999.0
+    scalo_pep14 -999.0
+    scalo_pep15 0.0
+    scalo_pep16 -4.0
+    scalo_pep1 -2.0
+    scalo_pep2 2.0
+    scalo_pep3 -999.0
+    scalo_pep4 -999.0
+    scalo_pep5 -999.0
+    scalo_pep6 2.0
+    scalo_pep7 -4.0
+    scalo_pep8 -2.0
+    scalo_pep9 4.0
+    scalo_spd 2.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 72
     label "ucp"
-    leftrightself 4
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father -999.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.0
+    ocu_father -999.0
+    ocu_mother 1.0
+    postcode 89.0
+    tutorial 2.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 4.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene 3.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 0.0
+    scalo_pep12 -3.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 3.0
+    scalo_pep3 1.0
+    scalo_pep4 -2.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 2.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 73
     label "rht"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father -999.0
+    edu_mother 3.0
+    gender 1.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 67.0
+    tutorial 7.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 11.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp 2.0
+    scalo_gruene 4.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -2.0
+    scalo_pep13 -999.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -3.0
+    scalo_pep1 0.0
+    scalo_pep2 4.0
+    scalo_pep3 0.0
+    scalo_pep4 0.0
+    scalo_pep5 -3.0
+    scalo_pep6 -999.0
+    scalo_pep7 -5.0
+    scalo_pep8 -999.0
+    scalo_pep9 5.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 74
     label "hn9"
-    leftrightself 11
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 6.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 2.0
+    linksrechts_self 11.0
+    lr_AfD 9.0
+    lr_BSW 1.0
+    lr_CDU 3.0
+    lr_CSU 3.0
+    lr_FDP 6.0
+    lr_Gruene 1.0
+    lr_Linke 1.0
+    lr_SPD 2.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 1.0
+    scalo_afd 3.0
+    scalo_bsw -5.0
+    scalo_cdu -2.0
+    scalo_csu -2.0
+    scalo_fdp 0.0
+    scalo_gruene -5.0
+    scalo_linke -5.0
+    scalo_pep10 0.0
+    scalo_pep11 5.0
+    scalo_pep12 2.0
+    scalo_pep13 -5.0
+    scalo_pep14 3.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -4.0
+    scalo_pep2 -5.0
+    scalo_pep3 -3.0
+    scalo_pep4 2.0
+    scalo_pep5 -4.0
+    scalo_pep6 -5.0
+    scalo_pep7 4.0
+    scalo_pep8 -5.0
+    scalo_pep9 -4.0
+    scalo_spd -4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 6.0
+    sunday_poll 1.0
   ]
   node [
     id 75
     label "v3e"
-    leftrightself 5
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 2.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 22.0
+    tutorial 3.0
+    linksrechts_self 5.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 5.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 5.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 0.0
+    scalo_csu -3.0
+    scalo_fdp -3.0
+    scalo_gruene -1.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 -4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -3.0
+    scalo_pep1 -4.0
+    scalo_pep2 -3.0
+    scalo_pep3 -4.0
+    scalo_pep4 -3.0
+    scalo_pep5 -1.0
+    scalo_pep6 -1.0
+    scalo_pep7 -4.0
+    scalo_pep8 -3.0
+    scalo_pep9 -5.0
+    scalo_spd -1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 76
     label "vcb"
-    leftrightself 7
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 70.0
+    tutorial 3.0
+    linksrechts_self 7.0
+    lr_AfD 9.0
+    lr_BSW 2.0
+    lr_CDU 7.0
+    lr_CSU -999.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 3.0
+    scalo_csu 2.0
+    scalo_fdp 3.0
+    scalo_gruene -1.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -4.0
+    scalo_pep12 4.0
+    scalo_pep13 2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -4.0
+    scalo_pep16 -2.0
+    scalo_pep1 -3.0
+    scalo_pep2 0.0
+    scalo_pep3 2.0
+    scalo_pep4 2.0
+    scalo_pep5 4.0
+    scalo_pep6 4.0
+    scalo_pep7 2.0
+    scalo_pep8 1.0
+    scalo_pep9 -1.0
+    scalo_spd -1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 77
     label "cpk"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 3.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 2.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 6.0
+    lr_CSU 7.0
+    lr_FDP 6.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 1.0
+    scalo_csu 0.0
+    scalo_fdp -1.0
+    scalo_gruene 0.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 2.0
+    scalo_pep3 1.0
+    scalo_pep4 -2.0
+    scalo_pep5 1.0
+    scalo_pep6 3.0
+    scalo_pep7 -4.0
+    scalo_pep8 2.0
+    scalo_pep9 -2.0
+    scalo_spd 1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 78
     label "e3v"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 1.7
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 20.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 1.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 73.0
+    tutorial 7.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 0.0
+    scalo_csu -2.0
+    scalo_fdp 0.0
+    scalo_gruene 3.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -2.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -3.0
+    scalo_pep1 2.0
+    scalo_pep2 1.0
+    scalo_pep3 3.0
+    scalo_pep4 0.0
+    scalo_pep5 -2.0
+    scalo_pep6 4.0
+    scalo_pep7 -4.0
+    scalo_pep8 4.0
+    scalo_pep9 1.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 79
     label "av4"
-    leftrightself 3
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 21.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 2.3
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 21.0
+    tutorial 4.0
+    linksrechts_self 3.0
+    lr_AfD 10.0
+    lr_BSW 8.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -1.0
+    scalo_csu -1.0
+    scalo_fdp 0.0
+    scalo_gruene 4.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -1.0
+    scalo_pep13 3.0
+    scalo_pep14 -4.0
+    scalo_pep15 -3.0
+    scalo_pep16 -2.0
+    scalo_pep1 -1.0
+    scalo_pep2 1.0
+    scalo_pep3 4.0
+    scalo_pep4 -1.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -4.0
+    scalo_pep8 3.0
+    scalo_pep9 3.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 80
     label "9ut"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 1.7
-    partyvote 2.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 20.0
+    edu_father 4.0
+    edu_mother 3.0
+    gender 2.0
+    grade 1.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 76.0
+    tutorial 5.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 11.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 5.0
+    scalo_csu 4.0
+    scalo_fdp 3.0
+    scalo_gruene -2.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 3.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -3.0
+    scalo_pep1 2.0
+    scalo_pep2 -1.0
+    scalo_pep3 0.0
+    scalo_pep4 -3.0
+    scalo_pep5 -2.0
+    scalo_pep6 2.0
+    scalo_pep7 2.0
+    scalo_pep8 2.0
+    scalo_pep9 -4.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 81
     label "dxh"
-    leftrightself 7
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 4.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 20.0
+    edu_father 4.0
+    edu_mother 2.0
+    gender 2.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 40.0
+    tutorial 2.0
+    linksrechts_self 7.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 6.0
+    lr_CSU 7.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 5.0
+    scalo_csu 4.0
+    scalo_fdp 4.0
+    scalo_gruene -1.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 5.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -3.0
+    scalo_pep1 -2.0
+    scalo_pep2 0.0
+    scalo_pep3 -2.0
+    scalo_pep4 2.0
+    scalo_pep5 3.0
+    scalo_pep6 5.0
+    scalo_pep7 -3.0
+    scalo_pep8 0.0
+    scalo_pep9 -2.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 4.0
+    sunday_poll 1.0
   ]
   node [
     id 82
     label "mcb"
-    leftrightself 6
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 4.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 21.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 64.0
+    tutorial 4.0
+    linksrechts_self 6.0
+    lr_AfD 10.0
+    lr_BSW 1.0
+    lr_CDU 6.0
+    lr_CSU 7.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -4.0
+    scalo_bsw -5.0
+    scalo_cdu 2.0
+    scalo_csu 2.0
+    scalo_fdp 4.0
+    scalo_gruene -4.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 1.0
+    scalo_pep1 -5.0
+    scalo_pep2 -2.0
+    scalo_pep3 -4.0
+    scalo_pep4 3.0
+    scalo_pep5 2.0
+    scalo_pep6 0.0
+    scalo_pep7 0.0
+    scalo_pep8 -4.0
+    scalo_pep9 -5.0
+    scalo_spd -4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 4.0
+    sunday_poll 1.0
   ]
   node [
     id 83
     label "uwx"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 2.0
+    edu_mother 3.0
+    gender 2.0
+    grade 3.3
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 1.0
+    linksrechts_self 5.0
+    lr_AfD 10.0
+    lr_BSW 8.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 3.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -4.0
+    scalo_bsw -3.0
+    scalo_cdu 2.0
+    scalo_csu -3.0
+    scalo_fdp -3.0
+    scalo_gruene -2.0
+    scalo_linke 0.0
+    scalo_pep10 -4.0
+    scalo_pep11 -4.0
+    scalo_pep12 -3.0
+    scalo_pep13 -2.0
+    scalo_pep14 -3.0
+    scalo_pep15 -1.0
+    scalo_pep16 -999.0
+    scalo_pep1 -2.0
+    scalo_pep2 2.0
+    scalo_pep3 -2.0
+    scalo_pep4 -3.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -2.0
+    scalo_pep8 1.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 84
     label "yfk"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 71.0
+    tutorial 3.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 9.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -4.0
+    scalo_gruene 4.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -4.0
+    scalo_pep1 -3.0
+    scalo_pep2 2.0
+    scalo_pep3 4.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 3.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 85
     label "qxn"
-    leftrightself 9
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.7
-    partyvote -999
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 3.0
     age 21.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 3.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 89.0
+    tutorial 5.0
+    linksrechts_self 9.0
+    lr_AfD 10.0
+    lr_BSW 3.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 9.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 1.0
+    scalo_afd -2.0
+    scalo_bsw 0.0
+    scalo_cdu 2.0
+    scalo_csu 3.0
+    scalo_fdp 3.0
+    scalo_gruene -5.0
+    scalo_linke -4.0
+    scalo_pep10 -1.0
+    scalo_pep11 -5.0
+    scalo_pep12 5.0
+    scalo_pep13 -5.0
+    scalo_pep14 -5.0
+    scalo_pep15 0.0
+    scalo_pep16 -5.0
+    scalo_pep1 -5.0
+    scalo_pep2 -4.0
+    scalo_pep3 -3.0
+    scalo_pep4 2.0
+    scalo_pep5 -5.0
+    scalo_pep6 -5.0
+    scalo_pep7 2.0
+    scalo_pep8 1.0
+    scalo_pep9 0.0
+    scalo_spd -1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 0.0
+    sunday_poll 2.0
   ]
   node [
     id 86
     label "sva"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 1.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 2.0
     age 20.0
+    edu_father 1.0
+    edu_mother 3.0
+    gender 2.0
+    grade 3.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 21.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 7.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven -999.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp -5.0
+    scalo_gruene 1.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 -2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 0.0
+    scalo_pep3 1.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 5.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 -2.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 87
     label "mwh"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 5.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 21.0
+    edu_father 2.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 7.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 5.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene 3.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -2.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 3.0
+    scalo_pep3 -1.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 88
     label "mdx"
-    leftrightself 6
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father -999.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.7
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 1.0
+    linksrechts_self 6.0
+    lr_AfD 10.0
+    lr_BSW 8.0
+    lr_CDU 6.0
+    lr_CSU 7.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene -5.0
+    scalo_linke 0.0
+    scalo_pep10 -3.0
+    scalo_pep11 -4.0
+    scalo_pep12 0.0
+    scalo_pep13 -3.0
+    scalo_pep14 -2.0
+    scalo_pep15 -2.0
+    scalo_pep16 -5.0
+    scalo_pep1 -3.0
+    scalo_pep2 -3.0
+    scalo_pep3 1.0
+    scalo_pep4 1.0
+    scalo_pep5 -4.0
+    scalo_pep6 -3.0
+    scalo_pep7 -2.0
+    scalo_pep8 -4.0
+    scalo_pep9 1.0
+    scalo_spd -3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 89
     label "bqr"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 5.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 4.0
+    use_of_device 3.0
     age 19.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 70.0
+    tutorial 5.0
+    linksrechts_self 5.0
+    lr_AfD 10.0
+    lr_BSW 8.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -2.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene 2.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 0.0
+    scalo_pep14 -4.0
+    scalo_pep15 -1.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 0.0
+    scalo_pep3 1.0
+    scalo_pep4 -2.0
+    scalo_pep5 -3.0
+    scalo_pep6 3.0
+    scalo_pep7 -4.0
+    scalo_pep8 3.0
+    scalo_pep9 5.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 90
     label "vnb"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 22.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    postcode 42.0
+    tutorial 2.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 7.0
+    lr_CSU 7.0
+    lr_FDP 6.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four -999.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two -999.0
+    scalo_afd -4.0
+    scalo_bsw -999.0
+    scalo_cdu 0.0
+    scalo_csu 0.0
+    scalo_fdp -1.0
+    scalo_gruene 0.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -4.0
+    scalo_pep12 0.0
+    scalo_pep13 -1.0
+    scalo_pep14 -4.0
+    scalo_pep15 0.0
+    scalo_pep16 -2.0
+    scalo_pep1 -2.0
+    scalo_pep2 -2.0
+    scalo_pep3 -2.0
+    scalo_pep4 -1.0
+    scalo_pep5 -2.0
+    scalo_pep6 1.0
+    scalo_pep7 0.0
+    scalo_pep8 0.0
+    scalo_pep9 0.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 0.0
+    sunday_poll 2.0
   ]
   node [
     id 91
     label "ytr"
-    leftrightself 8
-    gender 2.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 6.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 75.0
+    tutorial 1.0
+    linksrechts_self 8.0
+    lr_AfD 9.0
+    lr_BSW 2.0
+    lr_CDU 4.0
+    lr_CSU 7.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 2.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 3.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd 3.0
+    scalo_bsw -2.0
+    scalo_cdu -2.0
+    scalo_csu 0.0
+    scalo_fdp 1.0
+    scalo_gruene -4.0
+    scalo_linke -5.0
+    scalo_pep10 1.0
+    scalo_pep11 -1.0
+    scalo_pep12 0.0
+    scalo_pep13 -5.0
+    scalo_pep14 3.0
+    scalo_pep15 -4.0
+    scalo_pep16 2.0
+    scalo_pep1 -4.0
+    scalo_pep2 -2.0
+    scalo_pep3 -3.0
+    scalo_pep4 3.0
+    scalo_pep5 2.0
+    scalo_pep6 0.0
+    scalo_pep7 3.0
+    scalo_pep8 -4.0
+    scalo_pep9 -5.0
+    scalo_spd -4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 6.0
+    sunday_poll 1.0
   ]
   node [
     id 92
     label "4yf"
-    leftrightself 4
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 5.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 22.0
+    edu_father 4.0
+    edu_mother 2.0
+    gender 2.0
+    grade 3.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 7.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 7.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -1.0
+    scalo_gruene 3.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 -3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -999.0
+    scalo_pep1 -4.0
+    scalo_pep2 0.0
+    scalo_pep3 3.0
+    scalo_pep4 -4.0
+    scalo_pep5 -4.0
+    scalo_pep6 -1.0
+    scalo_pep7 -5.0
+    scalo_pep8 -2.0
+    scalo_pep9 4.0
+    scalo_spd -3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 93
     label "bey"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 2.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 22.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 79.0
+    tutorial 7.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 3.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp -5.0
+    scalo_gruene 4.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 -4.0
+    scalo_pep2 4.0
+    scalo_pep3 3.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 3.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 94
     label "3hc"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 24.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 47.0
+    tutorial 5.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 3.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 5.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu 2.0
+    scalo_csu -1.0
+    scalo_fdp 2.0
+    scalo_gruene 5.0
+    scalo_linke 1.0
+    scalo_pep10 -4.0
+    scalo_pep11 -3.0
+    scalo_pep12 -1.0
+    scalo_pep13 2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -1.0
+    scalo_pep16 -2.0
+    scalo_pep1 2.0
+    scalo_pep2 3.0
+    scalo_pep3 1.0
+    scalo_pep4 0.0
+    scalo_pep5 -2.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 95
     label "ara"
-    leftrightself 8
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 6.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 3.0
+    use_of_device 2.0
     age 19.0
+    edu_father 1.0
+    edu_mother 3.0
+    gender 2.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 2.0
+    linksrechts_self 8.0
+    lr_AfD 11.0
+    lr_BSW 7.0
+    lr_CDU 8.0
+    lr_CSU 10.0
+    lr_FDP 6.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd 2.0
+    scalo_bsw -2.0
+    scalo_cdu 3.0
+    scalo_csu -2.0
+    scalo_fdp 1.0
+    scalo_gruene -5.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -5.0
+    scalo_pep14 -1.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 -5.0
+    scalo_pep2 -5.0
+    scalo_pep3 -4.0
+    scalo_pep4 2.0
+    scalo_pep5 -2.0
+    scalo_pep6 -5.0
+    scalo_pep7 2.0
+    scalo_pep8 -5.0
+    scalo_pep9 -5.0
+    scalo_spd -4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 6.0
+    sunday_poll 1.0
   ]
   node [
     id 96
     label "dmd"
-    leftrightself 6
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 2.3
+    ocu_father -999.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 8.0
+    linksrechts_self 6.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 5.0
+    lr_CSU 4.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 2.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 3.0
+    politics_question_two 3.0
+    scalo_afd -4.0
+    scalo_bsw -1.0
+    scalo_cdu 1.0
+    scalo_csu 0.0
+    scalo_fdp 2.0
+    scalo_gruene 1.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 0.0
+    scalo_pep12 0.0
+    scalo_pep13 1.0
+    scalo_pep14 0.0
+    scalo_pep15 0.0
+    scalo_pep16 1.0
+    scalo_pep1 0.0
+    scalo_pep2 1.0
+    scalo_pep3 -1.0
+    scalo_pep4 1.0
+    scalo_pep5 0.0
+    scalo_pep6 3.0
+    scalo_pep7 1.0
+    scalo_pep8 -999.0
+    scalo_pep9 -2.0
+    scalo_spd -1.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 97
     label "4ww"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 5.0
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 2.0
+    use_of_device 1.0
     age 18.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -5.0
+    scalo_gruene 3.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 2.0
+    scalo_pep2 1.0
+    scalo_pep3 5.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 4.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 98
     label "hhb"
-    leftrightself 6
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 7.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father -999.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.0
+    ocu_father -999.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 5.0
+    linksrechts_self 6.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 1.0
+    scalo_afd 0.0
+    scalo_bsw -999.0
+    scalo_cdu 2.0
+    scalo_csu 0.0
+    scalo_fdp -1.0
+    scalo_gruene -5.0
+    scalo_linke 4.0
+    scalo_pep10 -999.0
+    scalo_pep11 -3.0
+    scalo_pep12 0.0
+    scalo_pep13 -5.0
+    scalo_pep14 0.0
+    scalo_pep15 -999.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 -2.0
+    scalo_pep3 -3.0
+    scalo_pep4 -1.0
+    scalo_pep5 1.0
+    scalo_pep6 -5.0
+    scalo_pep7 2.0
+    scalo_pep8 -2.0
+    scalo_pep9 0.0
+    scalo_spd 1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 7.0
+    sunday_poll 1.0
   ]
   node [
     id 99
     label "kry"
-    leftrightself 6
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 18.0
+    edu_father 4.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 2.0
+    linksrechts_self 6.0
+    lr_AfD 11.0
+    lr_BSW 4.0
+    lr_CDU 7.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one -999.0
+    politics_question_seven 3.0
+    politics_question_six 3.0
+    politics_question_three 1.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 0.0
+    scalo_csu -3.0
+    scalo_fdp 0.0
+    scalo_gruene 2.0
+    scalo_linke -3.0
+    scalo_pep10 1.0
+    scalo_pep11 0.0
+    scalo_pep12 -5.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 0.0
+    scalo_pep16 0.0
+    scalo_pep1 -2.0
+    scalo_pep2 5.0
+    scalo_pep3 0.0
+    scalo_pep4 -2.0
+    scalo_pep5 0.0
+    scalo_pep6 -5.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 100
     label "hry"
-    leftrightself 7
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.7
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 18.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 1.0
+    grade 3.7
+    ocu_father 1.0
+    ocu_mother 0.0
+    postcode 71.0
+    tutorial 2.0
+    linksrechts_self 7.0
+    lr_AfD 10.0
+    lr_BSW 9.0
+    lr_CDU 7.0
+    lr_CSU 9.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -1.0
+    scalo_csu -4.0
+    scalo_fdp 3.0
+    scalo_gruene 3.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 1.0
+    scalo_pep14 -4.0
+    scalo_pep15 -1.0
+    scalo_pep16 1.0
+    scalo_pep1 1.0
+    scalo_pep2 4.0
+    scalo_pep3 2.0
+    scalo_pep4 2.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 0.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 101
     label "saf"
-    leftrightself 6
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 2.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 1.0
+    linksrechts_self 6.0
+    lr_AfD 11.0
+    lr_BSW 1.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 4.0
+    scalo_csu 3.0
+    scalo_fdp 0.0
+    scalo_gruene 0.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 2.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 -2.0
+    scalo_pep16 -1.0
+    scalo_pep1 1.0
+    scalo_pep2 4.0
+    scalo_pep3 2.0
+    scalo_pep4 0.0
+    scalo_pep5 1.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 0.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 102
     label "e4u"
-    leftrightself 5
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 26.0
+    edu_father 3.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 89.0
+    tutorial 1.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 5.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 9.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 3.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw 0.0
+    scalo_cdu -3.0
+    scalo_csu -3.0
+    scalo_fdp 4.0
+    scalo_gruene 4.0
+    scalo_linke -4.0
+    scalo_pep10 0.0
+    scalo_pep11 -5.0
+    scalo_pep12 -2.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 0.0
+    scalo_pep16 2.0
+    scalo_pep1 -1.0
+    scalo_pep2 0.0
+    scalo_pep3 0.0
+    scalo_pep4 2.0
+    scalo_pep5 -3.0
+    scalo_pep6 3.0
+    scalo_pep7 0.0
+    scalo_pep8 0.0
+    scalo_pep9 -4.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 103
     label "bgq"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 1.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 1.0
     age 18.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 58.0
+    tutorial 2.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 3.0
+    lr_CDU 7.0
+    lr_CSU 7.0
+    lr_FDP 1.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw 0.0
+    scalo_cdu 1.0
+    scalo_csu 0.0
+    scalo_fdp -5.0
+    scalo_gruene -2.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 1.0
+    scalo_pep13 -3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 2.0
+    scalo_pep2 -3.0
+    scalo_pep3 2.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 -2.0
+    scalo_pep7 -3.0
+    scalo_pep8 0.0
+    scalo_pep9 0.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 104
     label "9xy"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 1.0
+    browser 2.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 76.0
+    tutorial 5.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 9.0
+    lr_CSU 8.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -5.0
+    scalo_gruene 3.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -4.0
+    scalo_pep1 0.0
+    scalo_pep2 0.0
+    scalo_pep3 1.0
+    scalo_pep4 -5.0
+    scalo_pep5 -3.0
+    scalo_pep6 1.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 0.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 105
     label "rbc"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 19.0
+    edu_father 3.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 0.0
+    postcode 72.0
+    tutorial 6.0
+    linksrechts_self 0.0
+    lr_AfD 9.0
+    lr_BSW 5.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -2.0
+    scalo_gruene 4.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 -3.0
+    scalo_pep2 0.0
+    scalo_pep3 0.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 3.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 106
     label "3x9"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 8.0
+    browser 2.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 23.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 1.0
+    grade 3.3
+    ocu_father 1.0
+    ocu_mother 0.0
+    postcode 70.0
+    tutorial 8.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 3.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 4.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 3.0
+    politics_question_seven 3.0
+    politics_question_six 3.0
+    politics_question_three 3.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -1.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -5.0
+    scalo_gruene 0.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -2.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 -1.0
+    scalo_pep3 2.0
+    scalo_pep4 -3.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 1.0
+    scalo_pep9 4.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 8.0
+    sunday_poll 1.0
   ]
   node [
     id 107
     label "9fx"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.7
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 1.0
+    edu_mother 3.0
+    gender 2.0
+    grade 3.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 71.0
+    tutorial -999.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp -1.0
+    scalo_gruene 1.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -3.0
+    scalo_pep1 0.0
+    scalo_pep2 0.0
+    scalo_pep3 2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -2.0
+    scalo_pep8 2.0
+    scalo_pep9 -1.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 108
     label "uge"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 4.0
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 21.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 4.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 71.0
+    tutorial -999.0
+    linksrechts_self 0.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five -999.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -1.0
+    scalo_bsw 0.0
+    scalo_cdu 4.0
+    scalo_csu 4.0
+    scalo_fdp 3.0
+    scalo_gruene -5.0
+    scalo_linke -5.0
+    scalo_pep10 -3.0
+    scalo_pep11 -5.0
+    scalo_pep12 4.0
+    scalo_pep13 -999.0
+    scalo_pep14 -4.0
+    scalo_pep15 -3.0
+    scalo_pep16 2.0
+    scalo_pep1 -4.0
+    scalo_pep2 -1.0
+    scalo_pep3 -1.0
+    scalo_pep4 5.0
+    scalo_pep5 4.0
+    scalo_pep6 3.0
+    scalo_pep7 -4.0
+    scalo_pep8 -3.0
+    scalo_pep9 -5.0
+    scalo_spd -3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 109
     label "kwc"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 18.0
+    edu_father 3.0
+    edu_mother 4.0
+    gender 1.0
+    grade -999.0
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 7.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene 4.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 3.0
+    scalo_pep3 3.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 4.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 110
     label "bqh"
-    leftrightself 2
-    gender 1.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 3.0
+    edu_mother 4.0
+    gender 1.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 22.0
+    tutorial 7.0
+    linksrechts_self 2.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 10.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 2.0
+    politics_question_one -999.0
+    politics_question_seven 3.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -4.0
+    scalo_gruene 2.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 0.0
+    scalo_pep3 0.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 5.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 111
     label "ecd"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 5.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 4.0
+    edu_mother 2.0
+    gender 1.0
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 73.0
+    tutorial 7.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene 5.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -4.0
+    scalo_pep12 -4.0
+    scalo_pep13 5.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 4.0
+    scalo_pep3 4.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 4.0
+    scalo_pep9 5.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 112
     label "knb"
-    leftrightself 2
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 70.0
+    tutorial 5.0
+    linksrechts_self 2.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -4.0
+    scalo_gruene 3.0
+    scalo_linke 1.0
+    scalo_pep10 -4.0
+    scalo_pep11 -5.0
+    scalo_pep12 -2.0
+    scalo_pep13 1.0
+    scalo_pep14 -4.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 0.0
+    scalo_pep2 0.0
+    scalo_pep3 0.0
+    scalo_pep4 -3.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -4.0
+    scalo_pep8 2.0
+    scalo_pep9 0.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 113
     label "bpy"
-    leftrightself 3
-    gender -999.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 4.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father 4.0
+    edu_mother 3.0
+    gender -999.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 76.0
+    tutorial 4.0
+    linksrechts_self 3.0
+    lr_AfD 10.0
+    lr_BSW 7.0
+    lr_CDU 6.0
+    lr_CSU 7.0
+    lr_FDP 5.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 2.0
+    scalo_csu -1.0
+    scalo_fdp 1.0
+    scalo_gruene 4.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -2.0
+    scalo_pep1 -1.0
+    scalo_pep2 2.0
+    scalo_pep3 0.0
+    scalo_pep4 -1.0
+    scalo_pep5 -2.0
+    scalo_pep6 5.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 0.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 114
     label "pgx"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 3.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 3.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 5.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 6.0
+    lr_CSU 6.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 0.0
+    scalo_csu 0.0
+    scalo_fdp 0.0
+    scalo_gruene 4.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 3.0
+    scalo_pep2 3.0
+    scalo_pep3 0.0
+    scalo_pep4 -2.0
+    scalo_pep5 0.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 0.0
+    scalo_pep9 3.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 115
     label "asv"
-    leftrightself 2
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 21.0
+    edu_father 4.0
+    edu_mother 4.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 7.0
+    linksrechts_self 2.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 9.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 2.0
+    politics_question_four 2.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 2.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw 0.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene 3.0
+    scalo_linke 2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 0.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 0.0
+    scalo_pep16 -2.0
+    scalo_pep1 1.0
+    scalo_pep2 4.0
+    scalo_pep3 2.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 5.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 116
     label "gb4"
-    leftrightself 1
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote -999
+    browser 3.0
+    device_type 2.0
+    lang 1.0
+    operating_system 5.0
+    use_of_device 2.0
     age 20.0
+    edu_father 1.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 8.0
+    linksrechts_self 1.0
+    lr_AfD 11.0
+    lr_BSW 5.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 9.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 5.0
+    politics_question_five 3.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 2.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -2.0
+    scalo_cdu -3.0
+    scalo_csu -3.0
+    scalo_fdp -3.0
+    scalo_gruene 2.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -1.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 2.0
+    scalo_pep3 1.0
+    scalo_pep4 -4.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 1.0
+    scalo_pep9 4.0
+    scalo_spd 1.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 117
     label "fvy"
-    leftrightself 6
-    gender 2.0
-    income -999
-    rent -999
-    grade 1.7
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 1.0
+    edu_mother 3.0
+    gender 2.0
+    grade 1.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 5.0
+    linksrechts_self 6.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 3.0
+    politics_question_six 3.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -3.0
+    scalo_csu -3.0
+    scalo_fdp -4.0
+    scalo_gruene 3.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 0.0
+    scalo_pep3 2.0
+    scalo_pep4 -4.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 -2.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 118
     label "3xt"
-    leftrightself 8
-    gender 2.0
-    income -999
-    rent -999
-    grade 1.7
-    partyvote 2.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 18.0
+    edu_father 1.0
+    edu_mother 3.0
+    gender 2.0
+    grade 1.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 7.0
+    linksrechts_self 8.0
+    lr_AfD 10.0
+    lr_BSW 9.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 8.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd 0.0
+    scalo_bsw 0.0
+    scalo_cdu 4.0
+    scalo_csu 4.0
+    scalo_fdp 2.0
+    scalo_gruene -2.0
+    scalo_linke -5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 5.0
+    scalo_pep13 -3.0
+    scalo_pep14 0.0
+    scalo_pep15 -3.0
+    scalo_pep16 3.0
+    scalo_pep1 -4.0
+    scalo_pep2 0.0
+    scalo_pep3 0.0
+    scalo_pep4 2.0
+    scalo_pep5 3.0
+    scalo_pep6 1.0
+    scalo_pep7 -1.0
+    scalo_pep8 -1.0
+    scalo_pep9 -5.0
+    scalo_spd -1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 119
     label "mbv"
-    leftrightself 7
-    gender 2.0
-    income -999
-    rent -999
-    grade 3.0
-    partyvote 2.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 4.0
+    linksrechts_self 7.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd 3.0
+    scalo_bsw 1.0
+    scalo_cdu 5.0
+    scalo_csu 5.0
+    scalo_fdp 4.0
+    scalo_gruene -4.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -4.0
+    scalo_pep12 4.0
+    scalo_pep13 -4.0
+    scalo_pep14 4.0
+    scalo_pep15 3.0
+    scalo_pep16 -3.0
+    scalo_pep1 1.0
+    scalo_pep2 -1.0
+    scalo_pep3 -4.0
+    scalo_pep4 5.0
+    scalo_pep5 5.0
+    scalo_pep6 -4.0
+    scalo_pep7 -2.0
+    scalo_pep8 -2.0
+    scalo_pep9 -4.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 120
     label "cfw"
-    leftrightself 7
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 4.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 18.0
+    edu_father 2.0
+    edu_mother 4.0
+    gender 2.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 0.0
+    postcode 7.0
+    tutorial 4.0
+    linksrechts_self 7.0
+    lr_AfD 10.0
+    lr_BSW 6.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -1.0
+    scalo_bsw -3.0
+    scalo_cdu 3.0
+    scalo_csu 2.0
+    scalo_fdp 4.0
+    scalo_gruene -3.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 0.0
+    scalo_pep14 1.0
+    scalo_pep15 -1.0
+    scalo_pep16 -1.0
+    scalo_pep1 -5.0
+    scalo_pep2 3.0
+    scalo_pep3 1.0
+    scalo_pep4 5.0
+    scalo_pep5 1.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 -2.0
+    scalo_pep9 -5.0
+    scalo_spd -2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 4.0
+    sunday_poll 1.0
   ]
   node [
     id 121
     label "hch"
-    leftrightself 0
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 4.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 21.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 6.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 3.0
+    lr_Gruene 8.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 2.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 3.0
+    scalo_csu -999.0
+    scalo_fdp 4.0
+    scalo_gruene -3.0
+    scalo_linke 0.0
+    scalo_pep10 -2.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 -1.0
+    scalo_pep14 -999.0
+    scalo_pep15 -5.0
+    scalo_pep16 -4.0
+    scalo_pep1 4.0
+    scalo_pep2 3.0
+    scalo_pep3 -999.0
+    scalo_pep4 1.0
+    scalo_pep5 -999.0
+    scalo_pep6 -3.0
+    scalo_pep7 -4.0
+    scalo_pep8 1.0
+    scalo_pep9 0.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 4.0
+    sunday_poll 1.0
   ]
   node [
     id 122
     label "qhv"
-    leftrightself 4
-    gender 1.0
-    income -999
-    rent -999
-    grade 1.3
-    partyvote 1.0
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 20.0
+    edu_father 4.0
+    edu_mother 1.0
+    gender 1.0
+    grade 1.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 61.0
+    tutorial 2.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 9.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 1.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two -999.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 4.0
+    scalo_csu 2.0
+    scalo_fdp -2.0
+    scalo_gruene 3.0
+    scalo_linke -1.0
+    scalo_pep10 -4.0
+    scalo_pep11 -5.0
+    scalo_pep12 3.0
+    scalo_pep13 2.0
+    scalo_pep14 -1.0
+    scalo_pep15 -4.0
+    scalo_pep16 -3.0
+    scalo_pep1 2.0
+    scalo_pep2 3.0
+    scalo_pep3 4.0
+    scalo_pep4 -2.0
+    scalo_pep5 3.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 -2.0
+    scalo_pep9 5.0
+    scalo_spd 5.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 123
     label "h9k"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 3.0
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
     age 21.0
+    edu_father 1.0
+    edu_mother 3.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 67.0
+    tutorial 3.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 11.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -1.0
+    scalo_csu -4.0
+    scalo_fdp -5.0
+    scalo_gruene 5.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -4.0
+    scalo_pep1 3.0
+    scalo_pep2 4.0
+    scalo_pep3 0.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 0.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 124
     label "rxs"
-    leftrightself 3
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 20.0
+    edu_father 3.0
+    edu_mother 3.0
     gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 1.0
-    age -999
+    grade -999.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 79.0
+    tutorial 3.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 8.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven -999.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -2.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene 3.0
+    scalo_linke 4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -4.0
+    scalo_pep1 3.0
+    scalo_pep2 3.0
+    scalo_pep3 3.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 3.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 125
     label "mhp"
-    leftrightself 6
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 21.0
+    edu_father 3.0
+    edu_mother 2.0
+    gender 2.0
+    grade 2.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    postcode 34.0
+    tutorial 8.0
+    linksrechts_self 6.0
+    lr_AfD 10.0
+    lr_BSW 7.0
+    lr_CDU 8.0
+    lr_CSU 4.0
+    lr_FDP 5.0
+    lr_Gruene 5.0
+    lr_Linke 4.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 8.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three -999.0
+    politics_question_two 4.0
+    scalo_afd -3.0
+    scalo_bsw 0.0
+    scalo_cdu 0.0
+    scalo_csu 0.0
+    scalo_fdp 0.0
+    scalo_gruene -5.0
+    scalo_linke 0.0
+    scalo_pep10 2.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 -999.0
+    scalo_pep14 -999.0
+    scalo_pep15 -999.0
+    scalo_pep16 -5.0
+    scalo_pep1 -999.0
+    scalo_pep2 -4.0
+    scalo_pep3 -999.0
+    scalo_pep4 -999.0
+    scalo_pep5 -999.0
+    scalo_pep6 1.0
+    scalo_pep7 -4.0
+    scalo_pep8 -999.0
+    scalo_pep9 2.0
+    scalo_spd 0.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 126
     label "ktb"
-    leftrightself 3
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.3
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 19.0
+    edu_father -999.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.3
+    ocu_father -999.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 8.0
+    linksrechts_self 3.0
+    lr_AfD 10.0
+    lr_BSW 2.0
+    lr_CDU 8.0
+    lr_CSU 4.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 6.0
+    politics_question_five 4.0
+    politics_question_four -999.0
+    politics_question_one 1.0
+    politics_question_seven 4.0
+    politics_question_six 3.0
+    politics_question_three 4.0
+    politics_question_two -999.0
+    scalo_afd -999.0
+    scalo_bsw -999.0
+    scalo_cdu -999.0
+    scalo_csu -999.0
+    scalo_fdp -999.0
+    scalo_gruene -999.0
+    scalo_linke -999.0
+    scalo_pep10 -4.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 -999.0
+    scalo_pep14 -999.0
+    scalo_pep15 -999.0
+    scalo_pep16 -1.0
+    scalo_pep1 0.0
+    scalo_pep2 2.0
+    scalo_pep3 -999.0
+    scalo_pep4 -999.0
+    scalo_pep5 -999.0
+    scalo_pep6 -1.0
+    scalo_pep7 -3.0
+    scalo_pep8 -999.0
+    scalo_pep9 0.0
+    scalo_spd -999.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 127
     label "vtt"
-    leftrightself 5
-    gender 1.0
-    income -999
-    rent -999
-    grade 1.7
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 20.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 1.0
+    grade 1.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 8.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 5.0
+    lr_CDU 7.0
+    lr_CSU 6.0
+    lr_FDP 4.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 1.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 2.0
+    politics_question_seven 5.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -999.0
+    scalo_bsw -999.0
+    scalo_cdu -999.0
+    scalo_csu -999.0
+    scalo_fdp -999.0
+    scalo_gruene -999.0
+    scalo_linke -999.0
+    scalo_pep10 -4.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 -999.0
+    scalo_pep14 -999.0
+    scalo_pep15 -999.0
+    scalo_pep16 -1.0
+    scalo_pep1 1.0
+    scalo_pep2 3.0
+    scalo_pep3 -999.0
+    scalo_pep4 -999.0
+    scalo_pep5 -999.0
+    scalo_pep6 -999.0
+    scalo_pep7 0.0
+    scalo_pep8 -999.0
+    scalo_pep9 3.0
+    scalo_spd -999.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 128
-    label "crq"
-    leftrightself 4
-    gender 1.0
-    income -999
-    rent -999
+    label "tpf"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
+    age 28.0
+    edu_father 1.0
+    edu_mother 3.0
+    gender 2.0
     grade 2.0
-    partyvote 1.0
-    age 19.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 88.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 7.0
+    lr_BSW 2.0
+    lr_CDU 6.0
+    lr_CSU 6.0
+    lr_FDP 4.0
+    lr_Gruene 1.0
+    lr_Linke 1.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd 3.0
+    scalo_bsw 1.0
+    scalo_cdu 4.0
+    scalo_csu 5.0
+    scalo_fdp -1.0
+    scalo_gruene -5.0
+    scalo_linke -5.0
+    scalo_pep10 4.0
+    scalo_pep11 4.0
+    scalo_pep12 4.0
+    scalo_pep13 -5.0
+    scalo_pep14 2.0
+    scalo_pep15 3.0
+    scalo_pep16 2.0
+    scalo_pep1 -4.0
+    scalo_pep2 -5.0
+    scalo_pep3 -5.0
+    scalo_pep4 3.0
+    scalo_pep5 3.0
+    scalo_pep6 -4.0
+    scalo_pep7 5.0
+    scalo_pep8 -5.0
+    scalo_pep9 -5.0
+    scalo_spd -3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 2.0
+    sunday_poll 1.0
   ]
   node [
     id 129
-    label "hqf"
-    leftrightself 5
+    label "crq"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 19.0
+    edu_father 1.0
+    edu_mother 2.0
     gender 1.0
-    income -999
-    rent -999
     grade 2.0
-    partyvote -999
-    age 24.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 1.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 1.0
+    lr_CDU 7.0
+    lr_CSU 10.0
+    lr_FDP 9.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 2.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -2.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene 3.0
+    scalo_linke -3.0
+    scalo_pep10 -4.0
+    scalo_pep11 -5.0
+    scalo_pep12 -999.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -3.0
+    scalo_pep1 -3.0
+    scalo_pep2 4.0
+    scalo_pep3 -2.0
+    scalo_pep4 -3.0
+    scalo_pep5 -999.0
+    scalo_pep6 5.0
+    scalo_pep7 -5.0
+    scalo_pep8 1.0
+    scalo_pep9 3.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 130
-    label "9ra"
-    leftrightself 3
+    label "hqf"
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
+    age 24.0
+    edu_father -999.0
+    edu_mother 0.0
     gender 1.0
-    income -999
-    rent -999
     grade 2.0
-    partyvote 5.0
-    age 21.0
+    ocu_father -999.0
+    ocu_mother 0.0
+    postcode 78.0
+    tutorial 7.0
+    linksrechts_self 5.0
+    lr_AfD 6.0
+    lr_BSW 6.0
+    lr_CDU 6.0
+    lr_CSU 6.0
+    lr_FDP 6.0
+    lr_Gruene 6.0
+    lr_Linke 6.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 3.0
+    politics_question_one 3.0
+    politics_question_seven 3.0
+    politics_question_six 3.0
+    politics_question_three 3.0
+    politics_question_two 3.0
+    scalo_afd 1.0
+    scalo_bsw 2.0
+    scalo_cdu 1.0
+    scalo_csu 2.0
+    scalo_fdp 1.0
+    scalo_gruene 3.0
+    scalo_linke 2.0
+    scalo_pep10 -999.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 -999.0
+    scalo_pep14 -999.0
+    scalo_pep15 -999.0
+    scalo_pep16 -999.0
+    scalo_pep1 0.0
+    scalo_pep2 2.0
+    scalo_pep3 2.0
+    scalo_pep4 0.0
+    scalo_pep5 1.0
+    scalo_pep6 2.0
+    scalo_pep7 0.0
+    scalo_pep8 1.0
+    scalo_pep9 -999.0
+    scalo_spd 1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 0.0
+    sunday_poll 2.0
   ]
   node [
     id 131
-    label "yqq"
-    leftrightself 4
+    label "9ra"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 21.0
+    edu_father 2.0
+    edu_mother 2.0
     gender 1.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 1.0
-    age 20.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 7.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 7.0
+    lr_CDU 7.0
+    lr_CSU 7.0
+    lr_FDP 4.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five -999.0
+    politics_question_four 2.0
+    politics_question_one 2.0
+    politics_question_seven -999.0
+    politics_question_six -999.0
+    politics_question_three 4.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw 2.0
+    scalo_cdu 3.0
+    scalo_csu 3.0
+    scalo_fdp 1.0
+    scalo_gruene 2.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 0.0
+    scalo_pep13 1.0
+    scalo_pep14 -5.0
+    scalo_pep15 3.0
+    scalo_pep16 2.0
+    scalo_pep1 1.0
+    scalo_pep2 4.0
+    scalo_pep3 1.0
+    scalo_pep4 0.0
+    scalo_pep5 0.0
+    scalo_pep6 0.0
+    scalo_pep7 -3.0
+    scalo_pep8 -999.0
+    scalo_pep9 1.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 132
-    label "p49"
-    leftrightself 3
+    label "yqq"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 20.0
+    edu_father 4.0
+    edu_mother 3.0
     gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 1.0
-    age 19.0
+    grade 3.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 79.0
+    tutorial 7.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 3.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu 2.0
+    scalo_csu -1.0
+    scalo_fdp 0.0
+    scalo_gruene 3.0
+    scalo_linke -1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -1.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 3.0
+    scalo_pep2 4.0
+    scalo_pep3 3.0
+    scalo_pep4 -1.0
+    scalo_pep5 0.0
+    scalo_pep6 -1.0
+    scalo_pep7 -3.0
+    scalo_pep8 3.0
+    scalo_pep9 3.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 133
-    label "gga"
-    leftrightself 0
+    label "p49"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 19.0
+    edu_father 4.0
+    edu_mother 3.0
     gender 1.0
-    income -999
-    rent -999
     grade 2.7
-    partyvote -999
-    age 18.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 70.0
+    tutorial 1.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 9.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 1.0
+    scalo_afd -5.0
+    scalo_bsw 0.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp 1.0
+    scalo_gruene 2.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -3.0
+    scalo_pep12 -4.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 3.0
+    scalo_pep3 -2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -4.0
+    scalo_pep8 -3.0
+    scalo_pep9 4.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 134
-    label "yfg"
-    leftrightself 4
+    label "gga"
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 18.0
+    edu_father 3.0
+    edu_mother 3.0
     gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 3.0
-    age 21.0
+    grade 2.7
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 8.0
+    linksrechts_self 0.0
+    lr_AfD 6.0
+    lr_BSW 6.0
+    lr_CDU 7.0
+    lr_CSU 11.0
+    lr_FDP 1.0
+    lr_Gruene 7.0
+    lr_Linke 1.0
+    lr_SPD 2.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 3.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 2.0
+    politics_question_two 3.0
+    scalo_afd -999.0
+    scalo_bsw 0.0
+    scalo_cdu -1.0
+    scalo_csu 0.0
+    scalo_fdp 0.0
+    scalo_gruene 0.0
+    scalo_linke -3.0
+    scalo_pep10 -4.0
+    scalo_pep11 0.0
+    scalo_pep12 0.0
+    scalo_pep13 0.0
+    scalo_pep14 -999.0
+    scalo_pep15 -999.0
+    scalo_pep16 0.0
+    scalo_pep1 -999.0
+    scalo_pep2 4.0
+    scalo_pep3 -999.0
+    scalo_pep4 -999.0
+    scalo_pep5 -999.0
+    scalo_pep6 5.0
+    scalo_pep7 -3.0
+    scalo_pep8 -999.0
+    scalo_pep9 -5.0
+    scalo_spd 3.0
+    sunday_not_eligible 2.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 135
-    label "vgv"
-    leftrightself 4
+    label "yfg"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 21.0
+    edu_father 1.0
+    edu_mother 1.0
     gender 1.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 1.0
-    age 18.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 75.0
+    tutorial 7.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 4.0
+    lr_CDU 6.0
+    lr_CSU 6.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -4.0
+    scalo_bsw -1.0
+    scalo_cdu 0.0
+    scalo_csu 0.0
+    scalo_fdp 0.0
+    scalo_gruene 2.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 2.0
+    scalo_pep13 2.0
+    scalo_pep14 -4.0
+    scalo_pep15 1.0
+    scalo_pep16 -4.0
+    scalo_pep1 4.0
+    scalo_pep2 4.0
+    scalo_pep3 0.0
+    scalo_pep4 1.0
+    scalo_pep5 -2.0
+    scalo_pep6 -2.0
+    scalo_pep7 -4.0
+    scalo_pep8 1.0
+    scalo_pep9 -2.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 136
-    label "3md"
-    leftrightself 0
+    label "vgv"
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
+    age 18.0
+    edu_father -999.0
+    edu_mother 1.0
     gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 1.0
-    age 19.0
+    grade -999.0
+    ocu_father -999.0
+    ocu_mother 1.0
+    postcode 73.0
+    tutorial 2.0
+    linksrechts_self 4.0
+    lr_AfD 10.0
+    lr_BSW 5.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -2.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp 0.0
+    scalo_gruene 2.0
+    scalo_linke -2.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 -999.0
+    scalo_pep14 -4.0
+    scalo_pep15 -2.0
+    scalo_pep16 -4.0
+    scalo_pep1 1.0
+    scalo_pep2 4.0
+    scalo_pep3 2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 137
-    label "amu"
-    leftrightself 5
+    label "3md"
+    browser 2.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
+    age 19.0
+    edu_father 3.0
+    edu_mother 1.0
     gender 1.0
-    income -999
-    rent -999
-    grade 1.7
-    partyvote 3.0
-    age 20.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 73.0
+    tutorial 2.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 6.0
+    lr_CSU 7.0
+    lr_FDP 5.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -1.0
+    scalo_gruene 3.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -3.0
+    scalo_pep1 2.0
+    scalo_pep2 4.0
+    scalo_pep3 1.0
+    scalo_pep4 -2.0
+    scalo_pep5 -4.0
+    scalo_pep6 3.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 2.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 138
-    label "4gw"
-    leftrightself 5
+    label "amu"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
+    age 20.0
+    edu_father 4.0
+    edu_mother 4.0
     gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote 1.0
-    age 18.0
+    grade 1.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 64.0
+    tutorial 7.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 9.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 8.0
+    lr_Gruene 6.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -4.0
+    scalo_csu -5.0
+    scalo_fdp 2.0
+    scalo_gruene 1.0
+    scalo_linke -4.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -2.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 4.0
+    scalo_pep3 2.0
+    scalo_pep4 2.0
+    scalo_pep5 -5.0
+    scalo_pep6 -5.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 -999.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 139
-    label "wrc"
-    leftrightself 4
+    label "4gw"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 18.0
+    edu_father 2.0
+    edu_mother 2.0
     gender 1.0
-    income -999
-    rent -999
     grade 2.0
-    partyvote 1.0
-    age 19.0
+    ocu_father 0.0
+    ocu_mother 1.0
+    postcode 89.0
+    tutorial 7.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 7.0
+    lr_CDU 7.0
+    lr_CSU 10.0
+    lr_FDP 7.0
+    lr_Gruene 3.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 5.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -2.0
+    scalo_csu -4.0
+    scalo_fdp -5.0
+    scalo_gruene 1.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -1.0
+    scalo_pep16 -5.0
+    scalo_pep1 2.0
+    scalo_pep2 5.0
+    scalo_pep3 2.0
+    scalo_pep4 -2.0
+    scalo_pep5 -5.0
+    scalo_pep6 -1.0
+    scalo_pep7 -5.0
+    scalo_pep8 -999.0
+    scalo_pep9 4.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 140
-    label "np4"
-    leftrightself 0
+    label "wrc"
+    browser 5.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
+    age 19.0
+    edu_father 2.0
+    edu_mother 1.0
     gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 7.0
-    age 23.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 71.0
+    tutorial 8.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 2.0
+    politics_question_three 2.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene 1.0
+    scalo_linke 1.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 0.0
+    scalo_pep13 3.0
+    scalo_pep14 -4.0
+    scalo_pep15 -2.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 3.0
+    scalo_pep3 0.0
+    scalo_pep4 -2.0
+    scalo_pep5 -1.0
+    scalo_pep6 2.0
+    scalo_pep7 -5.0
+    scalo_pep8 1.0
+    scalo_pep9 2.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 141
-    label "uqy"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 4.0
-    partyvote 5.0
-    age 21.0
+    label "np4"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 23.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 1.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 7.0
+    linksrechts_self 0.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 5.0
+    politics_question_seven 5.0
+    politics_question_six 5.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw 3.0
+    scalo_cdu 2.0
+    scalo_csu 2.0
+    scalo_fdp 0.0
+    scalo_gruene 2.0
+    scalo_linke 0.0
+    scalo_pep10 0.0
+    scalo_pep11 -5.0
+    scalo_pep12 -1.0
+    scalo_pep13 -1.0
+    scalo_pep14 -5.0
+    scalo_pep15 3.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 0.0
+    scalo_pep3 -3.0
+    scalo_pep4 -1.0
+    scalo_pep5 -5.0
+    scalo_pep6 -5.0
+    scalo_pep7 -5.0
+    scalo_pep8 2.0
+    scalo_pep9 -999.0
+    scalo_spd 5.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 7.0
+    sunday_poll 1.0
   ]
   node [
     id 142
-    label "cyg"
-    leftrightself 0
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
+    label "uqy"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 21.0
+    edu_father 2.0
+    edu_mother 3.0
+    gender 2.0
+    grade 4.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 12.0
+    tutorial 4.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 7.0
+    lr_CDU 8.0
+    lr_CSU 8.0
+    lr_FDP 6.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 3.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -2.0
+    scalo_csu -2.0
+    scalo_fdp -3.0
+    scalo_gruene 1.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -2.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -2.0
+    scalo_pep16 -5.0
+    scalo_pep1 2.0
+    scalo_pep2 1.0
+    scalo_pep3 3.0
+    scalo_pep4 -3.0
+    scalo_pep5 -5.0
+    scalo_pep6 -1.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 2.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 143
-    label "9fs"
-    leftrightself 4
-    gender 2.0
-    income -999
-    rent -999
-    grade -999
-    partyvote 3.0
+    label "cyg"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
     age 21.0
+    edu_father 4.0
+    edu_mother 3.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 7.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 8.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 3.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw 0.0
+    scalo_cdu 1.0
+    scalo_csu 0.0
+    scalo_fdp 1.0
+    scalo_gruene 2.0
+    scalo_linke -1.0
+    scalo_pep10 -4.0
+    scalo_pep11 -5.0
+    scalo_pep12 1.0
+    scalo_pep13 -2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -1.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 -3.0
+    scalo_pep3 -999.0
+    scalo_pep4 2.0
+    scalo_pep5 1.0
+    scalo_pep6 -1.0
+    scalo_pep7 -2.0
+    scalo_pep8 -1.0
+    scalo_pep9 -2.0
+    scalo_spd 1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 144
-    label "vgg"
-    leftrightself 5
-    gender 1.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 1.0
-    age 19.0
+    label "9fs"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
+    age 21.0
+    edu_father 1.0
+    edu_mother 4.0
+    gender 2.0
+    grade -999.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    postcode 78.0
+    tutorial 4.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 5.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -1.0
+    scalo_gruene 3.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 -5.0
+    scalo_pep1 1.0
+    scalo_pep2 2.0
+    scalo_pep3 5.0
+    scalo_pep4 -2.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -2.0
+    scalo_pep8 4.0
+    scalo_pep9 4.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 145
-    label "qqt"
-    leftrightself 0
+    label "vgg"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 19.0
+    edu_father 2.0
+    edu_mother 3.0
     gender 1.0
-    income -999
-    rent -999
-    grade 2.0
-    partyvote -999
-    age 21.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 7.0
+    tutorial 2.0
+    linksrechts_self 5.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -2.0
+    scalo_gruene 3.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 -1.0
+    scalo_pep2 3.0
+    scalo_pep3 3.0
+    scalo_pep4 -3.0
+    scalo_pep5 -3.0
+    scalo_pep6 4.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 1.0
+    scalo_spd 3.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 1.0
+    sunday_poll 1.0
   ]
   node [
     id 146
-    label "dyb"
-    leftrightself 3
-    gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 5.0
+    label "qqt"
+    browser 3.0
+    device_type 3.0
+    lang 1.0
+    operating_system 1.0
+    use_of_device 1.0
     age 21.0
+    edu_father 2.0
+    edu_mother 2.0
+    gender 1.0
+    grade 2.0
+    ocu_father 1.0
+    ocu_mother 0.0
+    postcode 0.0
+    tutorial 8.0
+    linksrechts_self 0.0
+    lr_AfD -999.0
+    lr_BSW -999.0
+    lr_CDU -999.0
+    lr_CSU -999.0
+    lr_FDP -999.0
+    lr_Gruene -999.0
+    lr_Linke -999.0
+    lr_SPD -999.0
+    noteligible_sunday_party_vote 5.0
+    politics_question_five 4.0
+    politics_question_four 1.0
+    politics_question_one 2.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 1.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -999.0
+    scalo_cdu 3.0
+    scalo_csu -999.0
+    scalo_fdp -999.0
+    scalo_gruene -999.0
+    scalo_linke -999.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 2.0
+    scalo_pep13 -999.0
+    scalo_pep14 -4.0
+    scalo_pep15 -999.0
+    scalo_pep16 -5.0
+    scalo_pep1 3.0
+    scalo_pep2 5.0
+    scalo_pep3 2.0
+    scalo_pep4 2.0
+    scalo_pep5 2.0
+    scalo_pep6 -999.0
+    scalo_pep7 -5.0
+    scalo_pep8 -999.0
+    scalo_pep9 2.0
+    scalo_spd -999.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 147
-    label "afp"
-    leftrightself 3
+    label "dyb"
+    browser 3.0
+    device_type 2.0
+    lang 0.0
+    operating_system 5.0
+    use_of_device 2.0
+    age 21.0
+    edu_father 3.0
+    edu_mother 3.0
     gender 2.0
-    income -999
-    rent -999
     grade 2.7
-    partyvote 3.0
-    age 20.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 73.0
+    tutorial 7.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 10.0
+    lr_CDU 9.0
+    lr_CSU 10.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 2.0
+    lr_SPD 7.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu -4.0
+    scalo_csu -4.0
+    scalo_fdp -4.0
+    scalo_gruene 3.0
+    scalo_linke 5.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -5.0
+    scalo_pep13 -2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -5.0
+    scalo_pep1 -2.0
+    scalo_pep2 4.0
+    scalo_pep3 -2.0
+    scalo_pep4 -5.0
+    scalo_pep5 -5.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 -3.0
+    scalo_pep9 4.0
+    scalo_spd -1.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 148
-    label "vkv"
-    leftrightself 0
+    label "afp"
+    browser 5.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
+    age 20.0
+    edu_father 3.0
+    edu_mother 1.0
     gender 2.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote -999
-    age 21.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 72.0
+    tutorial 4.0
+    linksrechts_self 3.0
+    lr_AfD 11.0
+    lr_BSW 2.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 5.0
+    lr_Gruene 3.0
+    lr_Linke 1.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 2.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -4.0
+    scalo_cdu -1.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene 2.0
+    scalo_linke 0.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -3.0
+    scalo_pep13 2.0
+    scalo_pep14 -4.0
+    scalo_pep15 -5.0
+    scalo_pep16 -4.0
+    scalo_pep1 1.0
+    scalo_pep2 5.0
+    scalo_pep3 0.0
+    scalo_pep4 -2.0
+    scalo_pep5 -2.0
+    scalo_pep6 5.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 0.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   node [
     id 149
-    label "rf4"
-    leftrightself 0
+    label "vkv"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
+    age 21.0
+    edu_father -999.0
+    edu_mother 4.0
     gender 2.0
-    income -999
-    rent -999
-    grade -999
-    partyvote -999
-    age 27.0
+    grade 3.3
+    ocu_father -999.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 1.0
+    linksrechts_self 0.0
+    lr_AfD 10.0
+    lr_BSW 1.0
+    lr_CDU 7.0
+    lr_CSU 7.0
+    lr_FDP 5.0
+    lr_Gruene 4.0
+    lr_Linke 2.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 3.0
+    politics_question_five 5.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six -999.0
+    politics_question_three 4.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -5.0
+    scalo_cdu 4.0
+    scalo_csu 4.0
+    scalo_fdp -999.0
+    scalo_gruene 4.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 -999.0
+    scalo_pep13 4.0
+    scalo_pep14 -5.0
+    scalo_pep15 -5.0
+    scalo_pep16 4.0
+    scalo_pep1 2.0
+    scalo_pep2 3.0
+    scalo_pep3 -999.0
+    scalo_pep4 4.0
+    scalo_pep5 4.0
+    scalo_pep6 5.0
+    scalo_pep7 -3.0
+    scalo_pep8 5.0
+    scalo_pep9 0.0
+    scalo_spd 3.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
   ]
   node [
     id 150
-    label "yer"
-    leftrightself 4
+    label "hmt"
+    browser 5.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
+    age 22.0
+    edu_father 2.0
+    edu_mother 3.0
     gender 2.0
-    income -999
-    rent -999
-    grade 2.7
-    partyvote 3.0
-    age 19.0
+    grade 3.3
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 77.0
+    tutorial 2.0
+    linksrechts_self 0.0
+    lr_AfD 11.0
+    lr_BSW 6.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 7.0
+    lr_Linke 2.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 4.0
+    politics_question_four 3.0
+    politics_question_one 5.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 5.0
+    politics_question_two 4.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu -3.0
+    scalo_csu -4.0
+    scalo_fdp -3.0
+    scalo_gruene 1.0
+    scalo_linke 3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 2.0
+    scalo_pep14 -5.0
+    scalo_pep15 -4.0
+    scalo_pep16 -4.0
+    scalo_pep1 1.0
+    scalo_pep2 2.0
+    scalo_pep3 5.0
+    scalo_pep4 -3.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 3.0
+    scalo_pep9 -3.0
+    scalo_spd 2.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 5.0
+    sunday_poll 1.0
   ]
   node [
     id 151
-    label "hmt"
-    leftrightself 0
+    label "rf4"
+    browser 4.0
+    device_type 3.0
+    lang 0.0
+    operating_system 1.0
+    use_of_device 1.0
+    age 27.0
+    edu_father 1.0
+    edu_mother 3.0
     gender 2.0
-    income -999
-    rent -999
-    grade 3.3
-    partyvote 5.0
-    age 22.0
+    grade -999.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    postcode 78.0
+    tutorial 6.0
+    linksrechts_self 0.0
+    lr_AfD 9.0
+    lr_BSW 4.0
+    lr_CDU 7.0
+    lr_CSU 8.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 3.0
+    lr_SPD 6.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 3.0
+    politics_question_four 2.0
+    politics_question_one 4.0
+    politics_question_seven -999.0
+    politics_question_six 3.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -3.0
+    scalo_bsw 0.0
+    scalo_cdu -2.0
+    scalo_csu -3.0
+    scalo_fdp -2.0
+    scalo_gruene -1.0
+    scalo_linke 0.0
+    scalo_pep10 -4.0
+    scalo_pep11 -5.0
+    scalo_pep12 -4.0
+    scalo_pep13 -4.0
+    scalo_pep14 -4.0
+    scalo_pep15 -3.0
+    scalo_pep16 -5.0
+    scalo_pep1 -4.0
+    scalo_pep2 -3.0
+    scalo_pep3 -3.0
+    scalo_pep4 -4.0
+    scalo_pep5 -4.0
+    scalo_pep6 0.0
+    scalo_pep7 -3.0
+    scalo_pep8 -3.0
+    scalo_pep9 0.0
+    scalo_spd 0.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 0.0
+    sunday_poll 3.0
   ]
   node [
     id 152
     label "wen"
-    leftrightself 7
-    gender 2.0
-    income -999
-    rent -999
-    grade 1.7
-    partyvote -999
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 1.0
     age 25.0
+    edu_father 3.0
+    edu_mother 3.0
+    gender 2.0
+    grade 1.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 0.0
+    tutorial 6.0
+    linksrechts_self 7.0
+    lr_AfD 11.0
+    lr_BSW 3.0
+    lr_CDU 7.0
+    lr_CSU 6.0
+    lr_FDP 8.0
+    lr_Gruene 5.0
+    lr_Linke 1.0
+    lr_SPD 3.0
+    noteligible_sunday_party_vote 4.0
+    politics_question_five 4.0
+    politics_question_four 4.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 4.0
+    politics_question_three 4.0
+    politics_question_two 3.0
+    scalo_afd -5.0
+    scalo_bsw -3.0
+    scalo_cdu 3.0
+    scalo_csu 3.0
+    scalo_fdp 2.0
+    scalo_gruene 1.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 1.0
+    scalo_pep12 1.0
+    scalo_pep13 0.0
+    scalo_pep14 -5.0
+    scalo_pep15 -1.0
+    scalo_pep16 -5.0
+    scalo_pep1 -3.0
+    scalo_pep2 -2.0
+    scalo_pep3 0.0
+    scalo_pep4 -2.0
+    scalo_pep5 -2.0
+    scalo_pep6 -1.0
+    scalo_pep7 -4.0
+    scalo_pep8 -1.0
+    scalo_pep9 -2.0
+    scalo_spd -1.0
+    sunday_not_eligible 1.0
+    sunday_party_vote 0.0
+    sunday_poll 4.0
+  ]
+  node [
+    id 153
+    label "yer"
+    browser 3.0
+    device_type 3.0
+    lang 0.0
+    operating_system 2.0
+    use_of_device 2.0
+    age 19.0
+    edu_father 1.0
+    edu_mother 1.0
+    gender 2.0
+    grade 2.7
+    ocu_father 1.0
+    ocu_mother 1.0
+    postcode 78.0
+    tutorial 4.0
+    linksrechts_self 4.0
+    lr_AfD 11.0
+    lr_BSW 3.0
+    lr_CDU 8.0
+    lr_CSU 9.0
+    lr_FDP 7.0
+    lr_Gruene 2.0
+    lr_Linke 1.0
+    lr_SPD 4.0
+    noteligible_sunday_party_vote 0.0
+    politics_question_five 5.0
+    politics_question_four 3.0
+    politics_question_one 4.0
+    politics_question_seven 4.0
+    politics_question_six 5.0
+    politics_question_three 4.0
+    politics_question_two 2.0
+    scalo_afd -5.0
+    scalo_bsw -1.0
+    scalo_cdu 2.0
+    scalo_csu 2.0
+    scalo_fdp -2.0
+    scalo_gruene 4.0
+    scalo_linke -3.0
+    scalo_pep10 -5.0
+    scalo_pep11 -999.0
+    scalo_pep12 1.0
+    scalo_pep13 3.0
+    scalo_pep14 -5.0
+    scalo_pep15 0.0
+    scalo_pep16 -999.0
+    scalo_pep1 3.0
+    scalo_pep2 2.0
+    scalo_pep3 4.0
+    scalo_pep4 -1.0
+    scalo_pep5 -3.0
+    scalo_pep6 0.0
+    scalo_pep7 -5.0
+    scalo_pep8 5.0
+    scalo_pep9 -2.0
+    scalo_spd 4.0
+    sunday_not_eligible 0.0
+    sunday_party_vote 3.0
+    sunday_poll 1.0
   ]
   edge [
     source 0
@@ -2636,20 +10501,20 @@ graph [
   ]
   edge [
     source 13
-    target 143
+    target 144
     key 0
     type "aquaintance"
   ]
   edge [
     source 13
-    target 143
+    target 144
     key 1
     type "leftright"
     weight 3
   ]
   edge [
     source 13
-    target 143
+    target 144
     key 2
     type "friend"
   ]
@@ -2865,38 +10730,38 @@ graph [
   ]
   edge [
     source 14
-    target 143
+    target 144
     key 0
     type "aquaintance"
   ]
   edge [
     source 14
-    target 143
+    target 144
     key 1
     type "leftright"
     weight 4
   ]
   edge [
     source 14
-    target 143
+    target 144
     key 2
     type "friend"
   ]
   edge [
     source 14
-    target 143
+    target 144
     key 3
     type "politics"
   ]
   edge [
     source 14
-    target 143
+    target 144
     key 4
     type "study"
   ]
   edge [
     source 14
-    target 143
+    target 144
     key 5
     type "council"
   ]
@@ -5364,20 +13229,20 @@ graph [
   ]
   edge [
     source 32
-    target 147
+    target 148
     key 0
     type "aquaintance"
   ]
   edge [
     source 32
-    target 147
+    target 148
     key 1
     type "leftright"
     weight 5
   ]
   edge [
     source 32
-    target 147
+    target 148
     key 2
     type "council"
   ]
@@ -10159,20 +18024,20 @@ graph [
   ]
   edge [
     source 66
-    target 133
+    target 134
     key 0
     type "aquaintance"
   ]
   edge [
     source 66
-    target 133
+    target 134
     key 1
     type "leftright"
     weight 6
   ]
   edge [
     source 66
-    target 133
+    target 134
     key 2
     type "council"
   ]
@@ -10197,20 +18062,20 @@ graph [
   ]
   edge [
     source 67
-    target 139
+    target 140
     key 0
     type "aquaintance"
   ]
   edge [
     source 67
-    target 139
+    target 140
     key 1
     type "leftright"
     weight 4
   ]
   edge [
     source 67
-    target 139
+    target 140
     key 2
     type "council"
   ]
@@ -10587,20 +18452,20 @@ graph [
   ]
   edge [
     source 71
-    target 128
+    target 129
     key 0
     type "aquaintance"
   ]
   edge [
     source 71
-    target 128
+    target 129
     key 1
     type "leftright"
     weight 3
   ]
   edge [
     source 71
-    target 128
+    target 129
     key 2
     type "study"
   ]
@@ -11503,20 +19368,20 @@ graph [
   ]
   edge [
     source 78
-    target 128
+    target 129
     key 0
     type "aquaintance"
   ]
   edge [
     source 78
-    target 128
+    target 129
     key 1
     type "leftright"
     weight 5
   ]
   edge [
     source 78
-    target 128
+    target 129
     key 2
     type "council"
   ]
@@ -13150,63 +21015,82 @@ graph [
   ]
   edge [
     source 87
-    target 134
+    target 135
     key 0
     type "aquaintance"
   ]
   edge [
     source 87
-    target 134
+    target 135
     key 1
     type "leftright"
     weight 4
   ]
   edge [
     source 87
-    target 134
+    target 135
     key 2
     type "friend"
   ]
   edge [
     source 87
-    target 134
+    target 135
     key 3
     type "value"
   ]
   edge [
     source 87
-    target 134
+    target 135
     key 4
     type "politics"
   ]
   edge [
     source 87
-    target 134
+    target 135
     key 5
     type "study"
   ]
   edge [
     source 87
-    target 133
+    target 128
     key 0
     type "aquaintance"
   ]
   edge [
     source 87
-    target 133
+    target 128
+    key 1
+    type "leftright"
+    weight 5
+  ]
+  edge [
+    source 87
+    target 128
+    key 2
+    type "council"
+  ]
+  edge [
+    source 87
+    target 134
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 87
+    target 134
     key 1
     type "leftright"
     weight 2
   ]
   edge [
     source 87
-    target 133
+    target 134
     key 2
     type "politics"
   ]
   edge [
     source 87
-    target 133
+    target 134
     key 3
     type "council"
   ]
@@ -13982,6 +21866,25 @@ graph [
   ]
   edge [
     source 97
+    target 128
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 97
+    target 128
+    key 1
+    type "leftright"
+    weight 6
+  ]
+  edge [
+    source 97
+    target 128
+    key 2
+    type "council"
+  ]
+  edge [
+    source 97
     target 107
     key 0
     type "aquaintance"
@@ -14026,20 +21929,20 @@ graph [
   ]
   edge [
     source 97
-    target 148
+    target 149
     key 0
     type "aquaintance"
   ]
   edge [
     source 97
-    target 148
+    target 149
     key 1
     type "leftright"
     weight 6
   ]
   edge [
     source 97
-    target 148
+    target 149
     key 2
     type "council"
   ]
@@ -14345,32 +22248,32 @@ graph [
   ]
   edge [
     source 101
-    target 128
+    target 129
     key 0
     type "aquaintance"
   ]
   edge [
     source 101
-    target 128
+    target 129
     key 1
     type "leftright"
     weight 4
   ]
   edge [
     source 101
-    target 128
+    target 129
     key 2
     type "friend"
   ]
   edge [
     source 101
-    target 128
+    target 129
     key 3
     type "value"
   ]
   edge [
     source 101
-    target 128
+    target 129
     key 4
     type "council"
   ]
@@ -14980,20 +22883,20 @@ graph [
   ]
   edge [
     source 110
-    target 146
+    target 147
     key 0
     type "aquaintance"
   ]
   edge [
     source 110
-    target 146
+    target 147
     key 1
     type "leftright"
     weight 4
   ]
   edge [
     source 110
-    target 146
+    target 147
     key 2
     type "friend"
   ]
@@ -15085,20 +22988,20 @@ graph [
   ]
   edge [
     source 112
-    target 147
+    target 148
     key 0
     type "aquaintance"
   ]
   edge [
     source 112
-    target 147
+    target 148
     key 1
     type "leftright"
     weight 5
   ]
   edge [
     source 112
-    target 147
+    target 148
     key 2
     type "council"
   ]
@@ -16371,6 +24274,25 @@ graph [
     type "study"
   ]
   edge [
+    source 126
+    target 128
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 126
+    target 128
+    key 1
+    type "leftright"
+    weight 6
+  ]
+  edge [
+    source 126
+    target 128
+    key 2
+    type "study"
+  ]
+  edge [
     source 127
     target 126
     key 0
@@ -16390,1268 +24312,1406 @@ graph [
     type "friend"
   ]
   edge [
+    source 127
+    target 128
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 127
+    target 128
+    key 1
+    type "leftright"
+    weight 4
+  ]
+  edge [
+    source 127
+    target 128
+    key 2
+    type "study"
+  ]
+  edge [
     source 128
-    target 129
+    target 134
     key 0
     type "aquaintance"
   ]
   edge [
     source 128
-    target 129
+    target 134
+    key 1
+    type "leftright"
+    weight 11
+  ]
+  edge [
+    source 128
+    target 134
+    key 2
+    type "politics"
+  ]
+  edge [
+    source 128
+    target 134
+    key 3
+    type "study"
+  ]
+  edge [
+    source 128
+    target 126
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 128
+    target 126
+    key 1
+    type "leftright"
+    weight 11
+  ]
+  edge [
+    source 128
+    target 126
+    key 2
+    type "politics"
+  ]
+  edge [
+    source 128
+    target 126
+    key 3
+    type "study"
+  ]
+  edge [
+    source 128
+    target 97
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 128
+    target 97
+    key 1
+    type "leftright"
+    weight 11
+  ]
+  edge [
+    source 128
+    target 97
+    key 2
+    type "politics"
+  ]
+  edge [
+    source 128
+    target 97
+    key 3
+    type "study"
+  ]
+  edge [
+    source 129
+    target 130
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 129
+    target 130
     key 1
     type "leftright"
     weight 5
   ]
   edge [
-    source 128
-    target 129
+    source 129
+    target 130
     key 2
     type "council"
   ]
   edge [
-    source 128
+    source 129
     target 71
     key 0
     type "aquaintance"
   ]
   edge [
-    source 128
+    source 129
     target 71
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 128
+    source 129
     target 71
     key 2
     type "friend"
   ]
   edge [
-    source 128
+    source 129
     target 66
     key 0
     type "aquaintance"
   ]
   edge [
-    source 128
+    source 129
     target 66
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 128
+    source 129
     target 66
     key 2
     type "council"
   ]
   edge [
-    source 128
+    source 129
     target 101
     key 0
     type "aquaintance"
   ]
   edge [
-    source 128
+    source 129
     target 101
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 128
+    source 129
     target 101
     key 2
     type "friend"
   ]
   edge [
-    source 128
+    source 129
     target 78
     key 0
     type "aquaintance"
   ]
   edge [
-    source 128
+    source 129
     target 78
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 128
+    source 129
     target 78
     key 2
     type "friend"
   ]
   edge [
-    source 128
+    source 129
     target 78
     key 3
     type "politics"
   ]
   edge [
-    source 128
+    source 129
     target 78
     key 4
     type "study"
   ]
   edge [
-    source 128
+    source 129
     target 79
     key 0
     type "aquaintance"
   ]
   edge [
-    source 128
+    source 129
     target 79
     key 1
     type "leftright"
     weight 2
   ]
   edge [
-    source 128
+    source 129
     target 79
     key 2
     type "study"
   ]
   edge [
-    source 128
+    source 129
     target 76
     key 0
     type "aquaintance"
   ]
   edge [
-    source 128
+    source 129
     target 76
     key 1
     type "leftright"
     weight 8
   ]
   edge [
-    source 128
+    source 129
     target 76
     key 2
     type "council"
   ]
   edge [
-    source 128
+    source 129
     target 85
     key 0
     type "aquaintance"
   ]
   edge [
-    source 128
+    source 129
     target 85
     key 1
     type "leftright"
     weight 7
   ]
   edge [
-    source 128
+    source 129
     target 85
     key 2
     type "council"
   ]
   edge [
-    source 128
+    source 129
     target 75
     key 0
     type "aquaintance"
   ]
   edge [
-    source 128
+    source 129
     target 75
     key 1
     type "leftright"
     weight 6
   ]
   edge [
-    source 128
+    source 129
     target 75
     key 2
     type "friend"
   ]
   edge [
-    source 128
+    source 129
     target 75
     key 3
     type "study"
   ]
   edge [
-    source 129
-    target 128
+    source 130
+    target 129
     key 0
     type "aquaintance"
   ]
   edge [
-    source 129
-    target 128
+    source 130
+    target 129
     key 1
     type "leftright"
     weight 5
   ]
   edge [
-    source 129
-    target 128
+    source 130
+    target 129
     key 2
     type "study"
   ]
   edge [
-    source 130
-    target 131
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 130
-    target 131
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 130
-    target 131
-    key 2
-    type "study"
-  ]
-  edge [
-    source 130
+    source 131
     target 132
     key 0
     type "aquaintance"
   ]
   edge [
-    source 130
+    source 131
     target 132
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 130
+    source 131
     target 132
     key 2
     type "study"
   ]
   edge [
     source 131
-    target 130
+    target 133
     key 0
     type "aquaintance"
   ]
   edge [
     source 131
-    target 130
+    target 133
     key 1
     type "leftright"
     weight 3
   ]
   edge [
     source 131
-    target 130
+    target 133
+    key 2
+    type "study"
+  ]
+  edge [
+    source 132
+    target 131
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 132
+    target 131
+    key 1
+    type "leftright"
+    weight 3
+  ]
+  edge [
+    source 132
+    target 131
     key 2
     type "friend"
   ]
   edge [
-    source 131
-    target 130
+    source 132
+    target 131
     key 3
     type "study"
   ]
   edge [
-    source 131
-    target 132
+    source 132
+    target 133
     key 0
     type "aquaintance"
   ]
   edge [
-    source 131
-    target 132
+    source 132
+    target 133
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 131
+    source 132
+    target 133
+    key 2
+    type "council"
+  ]
+  edge [
+    source 133
+    target 132
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 133
+    target 132
+    key 1
+    type "leftright"
+    weight 3
+  ]
+  edge [
+    source 133
     target 132
     key 2
     type "council"
   ]
   edge [
-    source 132
+    source 133
     target 131
     key 0
     type "aquaintance"
   ]
   edge [
-    source 132
+    source 133
     target 131
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 132
+    source 133
     target 131
-    key 2
-    type "council"
-  ]
-  edge [
-    source 132
-    target 130
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 132
-    target 130
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 132
-    target 130
     key 2
     type "friend"
   ]
   edge [
-    source 132
-    target 130
+    source 133
+    target 131
     key 3
     type "study"
   ]
   edge [
-    source 133
-    target 134
+    source 134
+    target 128
     key 0
     type "aquaintance"
   ]
   edge [
-    source 133
-    target 134
+    source 134
+    target 128
     key 1
     type "leftright"
     weight 6
   ]
   edge [
-    source 133
-    target 134
+    source 134
+    target 128
     key 2
     type "study"
   ]
   edge [
-    source 133
+    source 134
+    target 135
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 134
+    target 135
+    key 1
+    type "leftright"
+    weight 6
+  ]
+  edge [
+    source 134
+    target 135
+    key 2
+    type "study"
+  ]
+  edge [
+    source 134
     target 66
     key 0
     type "aquaintance"
   ]
   edge [
-    source 133
+    source 134
     target 66
     key 1
     type "leftright"
     weight 6
   ]
   edge [
-    source 133
+    source 134
     target 66
     key 2
     type "value"
   ]
   edge [
-    source 133
+    source 134
     target 66
     key 3
     type "study"
   ]
   edge [
-    source 134
+    source 135
     target 87
     key 0
     type "aquaintance"
   ]
   edge [
-    source 134
+    source 135
     target 87
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 134
+    source 135
     target 87
     key 2
     type "friend"
   ]
   edge [
-    source 134
+    source 135
     target 87
     key 3
     type "value"
   ]
   edge [
-    source 134
+    source 135
     target 87
     key 4
     type "politics"
   ]
   edge [
-    source 134
+    source 135
     target 87
     key 5
     type "study"
   ]
   edge [
-    source 134
+    source 135
     target 87
     key 6
     type "council"
   ]
   edge [
-    source 134
+    source 135
+    target 128
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 135
+    target 128
+    key 1
+    type "leftright"
+    weight 2
+  ]
+  edge [
+    source 135
+    target 128
+    key 2
+    type "politics"
+  ]
+  edge [
+    source 135
+    target 128
+    key 3
+    type "council"
+  ]
+  edge [
+    source 135
     target 33
     key 0
     type "aquaintance"
   ]
   edge [
-    source 134
+    source 135
     target 33
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 134
+    source 135
     target 33
     key 2
     type "council"
   ]
   edge [
-    source 134
+    source 135
     target 34
     key 0
     type "aquaintance"
   ]
   edge [
-    source 134
+    source 135
     target 34
     key 1
     type "leftright"
     weight 6
   ]
   edge [
-    source 134
+    source 135
     target 34
     key 2
     type "politics"
   ]
   edge [
-    source 134
+    source 135
     target 34
     key 3
     type "council"
   ]
   edge [
-    source 134
-    target 133
+    source 135
+    target 134
     key 0
     type "aquaintance"
   ]
   edge [
-    source 134
-    target 133
+    source 135
+    target 134
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 134
-    target 133
+    source 135
+    target 134
     key 2
     type "council"
   ]
   edge [
-    source 135
-    target 136
+    source 136
+    target 137
     key 0
     type "aquaintance"
   ]
   edge [
-    source 135
-    target 136
+    source 136
+    target 137
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 135
-    target 136
+    source 136
+    target 137
     key 2
     type "friend"
   ]
   edge [
-    source 135
-    target 136
+    source 136
+    target 137
     key 3
     type "politics"
   ]
   edge [
-    source 135
-    target 136
+    source 136
+    target 137
     key 4
     type "study"
   ]
   edge [
-    source 135
-    target 136
+    source 136
+    target 137
     key 5
     type "council"
   ]
   edge [
-    source 135
-    target 137
+    source 136
+    target 138
     key 0
     type "aquaintance"
   ]
   edge [
-    source 135
-    target 137
+    source 136
+    target 138
     key 1
     type "leftright"
     weight 7
   ]
   edge [
-    source 135
-    target 137
+    source 136
+    target 138
     key 2
     type "friend"
   ]
   edge [
-    source 135
-    target 137
+    source 136
+    target 138
     key 3
     type "study"
   ]
   edge [
-    source 135
-    target 137
+    source 136
+    target 138
     key 4
     type "council"
   ]
   edge [
-    source 135
-    target 138
+    source 136
+    target 139
     key 0
     type "aquaintance"
   ]
   edge [
-    source 135
-    target 138
+    source 136
+    target 139
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 135
-    target 138
+    source 136
+    target 139
     key 2
     type "study"
   ]
   edge [
-    source 135
-    target 138
+    source 136
+    target 139
     key 3
     type "council"
   ]
   edge [
-    source 136
-    target 131
+    source 137
+    target 132
     key 0
     type "aquaintance"
   ]
   edge [
-    source 136
-    target 131
+    source 137
+    target 132
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 136
-    target 131
+    source 137
+    target 132
     key 2
     type "council"
   ]
   edge [
-    source 136
-    target 135
+    source 137
+    target 136
     key 0
     type "aquaintance"
   ]
   edge [
-    source 136
-    target 135
+    source 137
+    target 136
     key 1
     type "leftright"
     weight 2
   ]
   edge [
-    source 136
-    target 135
+    source 137
+    target 136
     key 2
     type "friend"
   ]
   edge [
-    source 136
-    target 135
+    source 137
+    target 136
     key 3
     type "value"
   ]
   edge [
-    source 136
-    target 135
+    source 137
+    target 136
     key 4
     type "politics"
   ]
   edge [
-    source 136
-    target 135
+    source 137
+    target 136
     key 5
     type "study"
   ]
   edge [
-    source 136
-    target 137
+    source 137
+    target 138
     key 0
     type "aquaintance"
   ]
   edge [
-    source 136
-    target 137
+    source 137
+    target 138
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 136
-    target 137
+    source 137
+    target 138
     key 2
     type "friend"
   ]
   edge [
-    source 136
-    target 137
+    source 137
+    target 138
     key 3
     type "value"
   ]
   edge [
-    source 136
-    target 137
+    source 137
+    target 138
     key 4
     type "study"
   ]
   edge [
-    source 137
-    target 136
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 137
-    target 136
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 137
-    target 136
-    key 2
-    type "friend"
-  ]
-  edge [
-    source 137
-    target 135
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 137
-    target 135
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 137
-    target 135
-    key 2
-    type "friend"
-  ]
-  edge [
     source 138
-    target 144
+    target 137
     key 0
     type "aquaintance"
   ]
   edge [
     source 138
-    target 144
+    target 137
     key 1
     type "leftright"
     weight 5
   ]
   edge [
     source 138
-    target 144
+    target 137
     key 2
     type "friend"
   ]
   edge [
     source 138
-    target 144
+    target 136
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 138
+    target 136
+    key 1
+    type "leftright"
+    weight 5
+  ]
+  edge [
+    source 138
+    target 136
+    key 2
+    type "friend"
+  ]
+  edge [
+    source 139
+    target 145
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 139
+    target 145
+    key 1
+    type "leftright"
+    weight 5
+  ]
+  edge [
+    source 139
+    target 145
+    key 2
+    type "friend"
+  ]
+  edge [
+    source 139
+    target 145
     key 3
     type "value"
   ]
   edge [
-    source 138
-    target 144
+    source 139
+    target 145
     key 4
     type "politics"
   ]
   edge [
-    source 138
-    target 144
+    source 139
+    target 145
     key 5
     type "study"
   ]
   edge [
-    source 138
-    target 135
+    source 139
+    target 136
     key 0
     type "aquaintance"
   ]
   edge [
-    source 138
-    target 135
+    source 139
+    target 136
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 138
-    target 135
+    source 139
+    target 136
     key 2
     type "council"
   ]
   edge [
-    source 138
-    target 136
+    source 139
+    target 137
     key 0
     type "aquaintance"
   ]
   edge [
-    source 138
-    target 136
+    source 139
+    target 137
     key 1
     type "leftright"
     weight 7
   ]
   edge [
-    source 138
-    target 136
-    key 2
-    type "council"
-  ]
-  edge [
-    source 138
-    target 130
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 138
-    target 130
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 138
-    target 130
+    source 139
+    target 137
     key 2
     type "council"
   ]
   edge [
     source 139
-    target 105
+    target 131
     key 0
     type "aquaintance"
   ]
   edge [
     source 139
-    target 105
+    target 131
     key 1
     type "leftright"
     weight 4
   ]
   edge [
     source 139
+    target 131
+    key 2
+    type "council"
+  ]
+  edge [
+    source 140
+    target 105
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 140
+    target 105
+    key 1
+    type "leftright"
+    weight 4
+  ]
+  edge [
+    source 140
     target 105
     key 2
     type "friend"
   ]
   edge [
-    source 139
+    source 140
     target 113
     key 0
     type "aquaintance"
   ]
   edge [
-    source 139
+    source 140
     target 113
     key 1
     type "leftright"
     weight 7
   ]
   edge [
-    source 139
-    target 140
+    source 140
+    target 141
     key 0
     type "aquaintance"
   ]
   edge [
-    source 139
-    target 140
+    source 140
+    target 141
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 139
-    target 140
+    source 140
+    target 141
     key 2
     type "friend"
   ]
   edge [
-    source 140
-    target 145
+    source 141
+    target 146
     key 0
     type "aquaintance"
   ]
   edge [
-    source 140
-    target 145
+    source 141
+    target 146
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 140
-    target 145
+    source 141
+    target 146
     key 2
     type "study"
   ]
   edge [
-    source 140
-    target 139
+    source 141
+    target 140
     key 0
     type "aquaintance"
   ]
   edge [
-    source 140
-    target 139
+    source 141
+    target 140
     key 1
     type "leftright"
     weight 6
   ]
   edge [
-    source 140
-    target 139
+    source 141
+    target 140
     key 2
     type "study"
   ]
   edge [
-    source 141
-    target 142
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 141
-    target 142
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 141
-    target 142
-    key 2
-    type "friend"
-  ]
-  edge [
     source 142
-    target 141
+    target 143
     key 0
     type "aquaintance"
   ]
   edge [
     source 142
-    target 141
+    target 143
     key 1
     type "leftright"
     weight 4
   ]
   edge [
     source 142
-    target 141
+    target 143
     key 2
     type "friend"
   ]
   edge [
     source 143
-    target 13
+    target 142
     key 0
     type "aquaintance"
   ]
   edge [
     source 143
-    target 13
+    target 142
     key 1
     type "leftright"
     weight 4
   ]
   edge [
     source 143
+    target 142
+    key 2
+    type "friend"
+  ]
+  edge [
+    source 144
+    target 13
+    key 0
+    type "aquaintance"
+  ]
+  edge [
+    source 144
+    target 13
+    key 1
+    type "leftright"
+    weight 4
+  ]
+  edge [
+    source 144
     target 13
     key 2
     type "friend"
   ]
   edge [
-    source 143
+    source 144
     target 12
     key 0
     type "aquaintance"
   ]
   edge [
-    source 143
+    source 144
     target 12
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 143
+    source 144
     target 12
     key 2
     type "friend"
   ]
   edge [
-    source 143
+    source 144
     target 11
     key 0
     type "aquaintance"
   ]
   edge [
-    source 143
+    source 144
     target 11
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 143
+    source 144
     target 11
     key 2
     type "friend"
   ]
   edge [
-    source 143
+    source 144
     target 14
     key 0
     type "aquaintance"
   ]
   edge [
-    source 143
+    source 144
     target 14
     key 1
     type "leftright"
     weight 2
   ]
   edge [
-    source 143
+    source 144
     target 14
     key 2
     type "friend"
   ]
   edge [
-    source 144
-    target 138
+    source 145
+    target 139
     key 0
     type "aquaintance"
   ]
   edge [
-    source 144
-    target 138
+    source 145
+    target 139
     key 1
     type "leftright"
     weight 5
   ]
   edge [
-    source 144
-    target 138
+    source 145
+    target 139
     key 2
     type "friend"
   ]
   edge [
-    source 144
-    target 130
+    source 145
+    target 131
     key 0
     type "aquaintance"
   ]
   edge [
-    source 144
-    target 130
+    source 145
+    target 131
     key 1
     type "leftright"
     weight 6
   ]
   edge [
-    source 144
-    target 130
+    source 145
+    target 131
     key 2
     type "value"
   ]
   edge [
-    source 145
-    target 140
+    source 146
+    target 141
     key 0
     type "aquaintance"
   ]
   edge [
-    source 145
-    target 140
+    source 146
+    target 141
     key 1
     type "leftright"
     weight 4
   ]
   edge [
-    source 145
-    target 140
+    source 146
+    target 141
     key 2
     type "study"
   ]
   edge [
-    source 146
+    source 147
     target 109
     key 0
     type "aquaintance"
   ]
   edge [
-    source 146
+    source 147
     target 109
     key 1
     type "leftright"
     weight 2
   ]
   edge [
-    source 146
+    source 147
     target 109
     key 2
     type "friend"
   ]
   edge [
-    source 147
+    source 148
     target 112
     key 0
     type "aquaintance"
   ]
   edge [
-    source 147
+    source 148
     target 112
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 147
+    source 148
     target 112
     key 2
     type "study"
   ]
   edge [
-    source 147
+    source 148
     target 112
     key 3
     type "council"
   ]
   edge [
-    source 147
+    source 148
     target 32
     key 0
     type "aquaintance"
   ]
   edge [
-    source 147
+    source 148
     target 32
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 147
+    source 148
     target 32
     key 2
     type "friend"
   ]
   edge [
-    source 147
+    source 148
     target 32
     key 3
     type "value"
   ]
   edge [
-    source 147
+    source 148
     target 32
     key 4
     type "politics"
   ]
   edge [
-    source 147
+    source 148
     target 32
     key 5
     type "study"
   ]
   edge [
-    source 147
+    source 148
     target 32
     key 6
     type "council"
   ]
   edge [
-    source 147
+    source 148
     target 31
     key 0
     type "aquaintance"
   ]
   edge [
-    source 147
+    source 148
     target 31
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 147
+    source 148
     target 31
     key 2
     type "friend"
   ]
   edge [
-    source 147
+    source 148
     target 31
     key 3
     type "value"
   ]
   edge [
-    source 147
+    source 148
     target 31
     key 4
     type "politics"
   ]
   edge [
-    source 147
+    source 148
     target 31
     key 5
     type "study"
   ]
   edge [
-    source 147
+    source 148
     target 31
     key 6
     type "council"
   ]
   edge [
-    source 147
+    source 148
     target 12
     key 0
     type "aquaintance"
   ]
   edge [
-    source 147
+    source 148
     target 12
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 147
+    source 148
     target 12
     key 2
     type "friend"
   ]
   edge [
-    source 147
+    source 148
     target 12
     key 3
     type "value"
   ]
   edge [
-    source 147
+    source 148
     target 12
     key 4
     type "politics"
   ]
   edge [
-    source 147
+    source 148
     target 12
     key 5
     type "study"
   ]
   edge [
-    source 147
+    source 148
     target 12
     key 6
     type "council"
   ]
   edge [
-    source 148
-    target 128
+    source 149
+    target 129
     key 0
     type "aquaintance"
   ]
   edge [
-    source 148
-    target 128
+    source 149
+    target 129
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 148
-    target 128
+    source 149
+    target 129
     key 2
     type "study"
   ]
   edge [
-    source 148
+    source 149
     target 97
     key 0
     type "aquaintance"
   ]
   edge [
-    source 148
+    source 149
     target 97
     key 1
     type "leftright"
     weight 3
   ]
   edge [
-    source 148
+    source 149
     target 97
     key 2
     type "study"
