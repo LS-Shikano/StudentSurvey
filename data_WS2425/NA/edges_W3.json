@@ -1030,7 +1030,7 @@
             "study": false,
             "council": true,
             "leftright": 2.0,
-            "sentiment": -999
+            "sentiment": NaN
         },
         "ebs": {
             "aquaintance": true,
@@ -1952,7 +1952,7 @@
             "study": false,
             "council": true,
             "leftright": 6.0,
-            "sentiment": -999
+            "sentiment": NaN
         }
     },
     "buv": {
@@ -3462,7 +3462,7 @@
             "study": false,
             "council": false,
             "leftright": 5.0,
-            "sentiment": -999
+            "sentiment": NaN
         },
         "mcb": {
             "aquaintance": true,
@@ -4839,7 +4839,7 @@
             "study": false,
             "council": false,
             "leftright": 2.0,
-            "sentiment": -999
+            "sentiment": NaN
         },
         "ngr": {
             "aquaintance": true,
@@ -5453,7 +5453,7 @@
             "study": true,
             "council": false,
             "leftright": 3.0,
-            "sentiment": -999
+            "sentiment": NaN
         },
         "ugr": {
             "aquaintance": true,
@@ -5463,7 +5463,7 @@
             "study": false,
             "council": true,
             "leftright": 1.0,
-            "sentiment": -999
+            "sentiment": NaN
         }
     },
     "kwc": {
