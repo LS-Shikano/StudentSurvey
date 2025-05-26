@@ -3,29498 +3,25904 @@ graph [
   multigraph 1
   node [
     id 0
-    label "ddh"
-    browser 4.0
-    device_type 3.0
+    label "39b"
+    device_type 2.0
+    operating_system 5.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
     use_of_device 1.0
-    age 19.0
+    rent 0.0
+    income 400.0
     edu_father 2.0
     edu_mother 2.0
-    gender 2.0
-    grade 2.0
-    income 2100.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 0.0
-    rent 750.0
-    tutorial 2.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 5.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 6.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -2.0
-    scalo_gruene 1.0
-    scalo_linke -1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 -3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 -3.0
-    scalo_pep3 0.0
-    scalo_pep4 -3.0
-    scalo_pep5 -5.0
-    scalo_pep6 -1.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 -1.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
+    age 18.0
+    gender 1.0
+    study_program 1.0
+    postcode 88.0
+    tutorial 6.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_10 1.0
+    linksrechts_self 4.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -4.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 0.2
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo -0.75
+    index_left_party_scalo 3.0
+    index_right_party_scalo -3.5
   ]
   node [
     id 1
-    label "ceh"
+    label "ech"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 1.0
-    age 18.0
-    edu_father -999.0
-    edu_mother -999.0
-    gender 1.0
-    grade 3.0
-    income 530.0
+    use_of_device 2.0
+    rent 670.0
+    income 1500.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
     postcode 78.0
-    rent 0.0
     tutorial 2.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 7.0
-    lr_CSU 7.0
-    lr_FDP 4.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four -999.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two -999.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp 0.0
-    scalo_gruene 2.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 3.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -999.0
-    scalo_pep1 -3.0
-    scalo_pep2 5.0
-    scalo_pep3 0.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 -5.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    grade 4.0
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 8.0
+    sunday_party_vote 2.0
+    scalo_bsw -5.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -0.8
+    index_opposition_scalo -1.6
+    index_int_goodies_scalo -2.25
+    index_left_party_scalo -2.0
+    index_right_party_scalo 1.75
   ]
   node [
     id 2
-    label "kry"
-    browser 3.0
+    label "k9w"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 18.0
+    rent 520.0
+    income 500.0
     edu_father 4.0
     edu_mother 3.0
-    gender 1.0
-    grade 3.0
-    income 400.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 0.0
-    tutorial 2.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 76.0
+    tutorial 1.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 4.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four -999.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 1.0
-    politics_question_two 1.0
-    scalo_afd -5.0
-    scalo_bsw 0.0
-    scalo_cdu -1.0
-    scalo_csu -3.0
-    scalo_fdp 3.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 0.0
-    scalo_pep11 0.0
-    scalo_pep12 -4.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -1.0
-    scalo_pep16 0.0
-    scalo_pep1 -1.0
-    scalo_pep2 5.0
-    scalo_pep3 0.0
-    scalo_pep4 -3.0
-    scalo_pep5 -3.0
-    scalo_pep6 -5.0
-    scalo_pep7 -5.0
-    scalo_pep8 0.0
-    scalo_pep9 4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 8.0
-    sunday_poll 1.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -3.6666666666666665
+    index_government_scalo 0.8
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -2.5
   ]
   node [
     id 3
-    label "gye"
-    browser 5.0
+    label "tuw"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 4.0
+    lang 0.0
     use_of_device 1.0
-    age 18.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 3.0
-    income 0.0
+    rent 700.0
+    income 1200.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 71.0
-    rent 750.0
-    tutorial 2.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 11.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -5.0
-    scalo_fdp -5.0
-    scalo_gruene -1.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 -3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -5.0
-    scalo_pep2 -4.0
-    scalo_pep3 5.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 0.0
-    scalo_pep9 -4.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 55.0
+    tutorial 4.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_11 "Discord"
+    linksrechts_self 3.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.714285714285714
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.6
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo 1.5
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -4.0
   ]
   node [
     id 4
-    label "hhb"
-    browser 3.0
+    label "ebs"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
-    edu_father 2.0
-    edu_mother 2.0
-    gender 1.0
-    grade 2.0
-    income 500.0
-    ocu_father 0.0
+    rent 320.0
+    income 200.0
+    edu_father 1.0
+    edu_mother 1.0
+    ocu_father 1.0
     ocu_mother 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
     postcode 78.0
-    rent 0.0
-    tutorial 5.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW 6.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd 0.0
-    scalo_bsw -999.0
-    scalo_cdu 0.0
-    scalo_csu 0.0
-    scalo_fdp -2.0
-    scalo_gruene -5.0
-    scalo_linke 0.0
-    scalo_pep10 4.0
-    scalo_pep11 -3.0
-    scalo_pep12 0.0
-    scalo_pep13 -5.0
-    scalo_pep14 -5.0
-    scalo_pep15 4.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 -2.0
-    scalo_pep3 -2.0
-    scalo_pep4 -2.0
-    scalo_pep5 -3.0
-    scalo_pep6 -5.0
-    scalo_pep7 1.0
-    scalo_pep8 0.0
-    scalo_pep9 3.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 7.0
-    sunday_poll 1.0
+    tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 4.0
+    sunday_party_vote 1.0
+    scalo_bsw -3.0
+    index_politics_question 3.7142857142857144
+    index_participation 1.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.0
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 2.0
+    index_right_party_scalo -3.25
   ]
   node [
     id 5
-    label "tdq"
-    browser 3.0
+    label "qx3"
     device_type 3.0
+    operating_system 3.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.3
-    income 472.0
+    use_of_device 2.0
+    rent 0.0
+    income 300.0
+    edu_father 2.0
+    edu_mother 1.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 0.0
-    rent 610.0
-    tutorial 7.0
+    ocu_mother 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 1.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 5.0
-    lr_CSU 6.0
-    lr_FDP 4.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 3.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 1.0
-    scalo_csu 0.0
-    scalo_fdp -2.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 0.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 1.0
-    scalo_pep3 4.0
-    scalo_pep4 0.0
-    scalo_pep5 -3.0
-    scalo_pep6 1.0
-    scalo_pep7 -4.0
-    scalo_pep8 4.0
-    scalo_pep9 1.0
-    scalo_spd 4.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -3.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.6
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -3.75
   ]
   node [
     id 6
-    label "rbc"
-    browser 3.0
+    label "3ab"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 1.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.3
-    income 855.0
+    rent 370.0
+    income 850.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 72.0
-    rent 342.0
-    tutorial 6.0
+    ocu_mother 1.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 79.0
+    tutorial 4.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 6.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 3.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -4.0
-    scalo_csu -5.0
-    scalo_fdp 0.0
-    scalo_gruene 4.0
-    scalo_linke 5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -5.0
-    scalo_pep2 0.0
-    scalo_pep3 2.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 3.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.571428571428571
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 1.4
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 0.5
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -3.5
   ]
   node [
     id 7
-    label "cnu"
-    browser 3.0
+    label "dxp"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 3.0
-    income 800.0
-    ocu_father -999.0
+    browser 3.0
+    lang 0.0
+    use_of_device 1.0
+    rent 340.0
+    income 500.0
+    edu_father 1.0
+    edu_mother 1.0
+    ocu_father 1.0
     ocu_mother 1.0
-    postcode 70.0
-    rent 600.0
-    tutorial 5.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 -4.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -999.0
-    scalo_pep1 3.0
-    scalo_pep2 3.0
-    scalo_pep3 2.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 -2.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 3.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 72.0
+    tutorial 4.0
+    grade 4.0
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 5.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.0
+    index_participation 2.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo -0.8
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo -1.25
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -3.75
   ]
   node [
     id 8
-    label "bs3"
+    label "3fv"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 1.0
+    use_of_device 2.0
+    rent 425.0
+    income 875.0
+    edu_father 3.0
     edu_mother 1.0
-    gender 1.0
-    grade 3.0
-    income 400.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 97.0
-    rent 410.0
-    tutorial 6.0
-    linksrechts_self 3.0
-    lr_AfD -999.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 5.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -2.0
-    scalo_csu -2.0
-    scalo_fdp -1.0
-    scalo_gruene 3.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -1.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -4.0
-    scalo_pep1 3.0
-    scalo_pep2 -999.0
-    scalo_pep3 3.0
-    scalo_pep4 -1.0
-    scalo_pep5 -5.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 0.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 50.0
+    tutorial 7.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 5.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.7142857142857144
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.6
+    index_opposition_scalo -3.8
+    index_int_goodies_scalo -1.0
+    index_left_party_scalo -0.3333333333333333
+    index_right_party_scalo -1.75
   ]
   node [
     id 9
-    label "kru"
-    browser 3.0
+    label "qew"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 22.0
-    edu_father 1.0
-    edu_mother 0.0
-    gender 1.0
-    grade 4.0
-    income 300.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 88.0
+    browser 3.0
+    lang 0.0
+    use_of_device 1.0
     rent 0.0
+    income 200.0
+    edu_father 3.0
+    edu_mother 3.0
+    ocu_father 0.0
+    ocu_mother 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
     tutorial 6.0
-    linksrechts_self 3.0
-    lr_AfD -999.0
-    lr_BSW 10.0
-    lr_CDU 9.0
-    lr_CSU 9.0
-    lr_FDP 5.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -3.0
-    scalo_fdp 0.0
-    scalo_gruene 2.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -4.0
-    scalo_pep1 0.0
-    scalo_pep2 5.0
-    scalo_pep3 1.0
-    scalo_pep4 -2.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 0.0
-    scalo_pep9 -1.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 1.0
     sunday_party_vote 5.0
-    sunday_poll 1.0
+    scalo_bsw -4.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -0.2
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 2.6666666666666665
+    index_right_party_scalo -4.25
   ]
   node [
     id 10
-    label "k4w"
+    label "9fs"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
-    use_of_device 3.0
-    age 26.0
-    edu_father 3.0
-    edu_mother 2.0
-    gender 1.0
-    grade 4.0
-    income 850.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 78.0
+    use_of_device 1.0
     rent 0.0
-    tutorial 5.0
-    linksrechts_self 7.0
-    lr_AfD 10.0
-    lr_BSW 11.0
-    lr_CDU 7.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 1.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -4.0
-    scalo_bsw -999.0
-    scalo_cdu 3.0
-    scalo_csu -999.0
-    scalo_fdp 3.0
-    scalo_gruene 0.0
-    scalo_linke -5.0
-    scalo_pep10 -4.0
-    scalo_pep11 -5.0
-    scalo_pep12 3.0
-    scalo_pep13 0.0
-    scalo_pep14 -3.0
-    scalo_pep15 -4.0
-    scalo_pep16 -999.0
-    scalo_pep1 2.0
-    scalo_pep2 -1.0
-    scalo_pep3 2.0
-    scalo_pep4 -2.0
-    scalo_pep5 0.0
-    scalo_pep6 -2.0
-    scalo_pep7 -4.0
-    scalo_pep8 4.0
-    scalo_pep9 -3.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    income 350.0
+    edu_father 1.0
+    edu_mother 3.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 4.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.285714285714286
+    index_participation 3.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 0.4
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -1.5
+    index_left_party_scalo 0.6666666666666666
+    index_right_party_scalo -3.75
   ]
   node [
     id 11
-    label "tuw"
-    browser 4.0
+    label "3eh"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 2.0
-    grade 2.7
-    income 1200.0
+    use_of_device 2.0
+    rent 402.0
+    income 600.0
+    edu_father 2.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 55.0
-    rent 700.0
-    tutorial 4.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 10.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 5.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 5.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 3.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 4.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 79.0
+    tutorial 5.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_11 "BeReal"
+    linksrechts_self 4.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -3.0
+    index_politics_question 3.857142857142857
+    index_participation 2.0
+    index_int_criminal_scalo -3.6666666666666665
+    index_government_scalo 0.4
+    index_opposition_scalo -3.6
+    index_int_goodies_scalo -2.0
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -3.75
   ]
   node [
     id 12
-    label "yfg"
-    browser 3.0
+    label "vrm"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 21.0
-    edu_father 2.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.0
-    income 500.0
+    rent 430.0
+    income 300.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 75.0
-    rent 375.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 64.0
     tutorial 7.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 3.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 5.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -2.0
-    scalo_cdu 0.0
-    scalo_csu 0.0
-    scalo_fdp 0.0
-    scalo_gruene 2.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -3.0
-    scalo_pep12 1.0
-    scalo_pep13 2.0
-    scalo_pep14 -2.0
-    scalo_pep15 -1.0
-    scalo_pep16 -1.0
-    scalo_pep1 3.0
-    scalo_pep2 4.0
-    scalo_pep3 -2.0
-    scalo_pep4 2.0
-    scalo_pep5 -5.0
-    scalo_pep6 -2.0
-    scalo_pep7 -5.0
-    scalo_pep8 0.0
-    scalo_pep9 -2.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.2857142857142856
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.0
+    index_opposition_scalo -4.8
+    index_int_goodies_scalo 1.25
+    index_left_party_scalo 2.6666666666666665
+    index_right_party_scalo -4.25
   ]
   node [
     id 13
-    label "e4u"
-    browser 3.0
+    label "fv4"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 26.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.0
-    income 1000.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 325.0
+    income 650.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 89.0
-    rent 540.0
-    tutorial 1.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 2.0
-    lr_Linke 2.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw 0.0
-    scalo_cdu -3.0
-    scalo_csu -3.0
-    scalo_fdp 3.0
-    scalo_gruene 3.0
-    scalo_linke -4.0
-    scalo_pep10 0.0
-    scalo_pep11 -5.0
-    scalo_pep12 -1.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 0.0
-    scalo_pep16 1.0
-    scalo_pep1 0.0
-    scalo_pep2 1.0
-    scalo_pep3 -2.0
-    scalo_pep4 1.0
-    scalo_pep5 0.0
-    scalo_pep6 0.0
-    scalo_pep7 2.0
-    scalo_pep8 3.0
-    scalo_pep9 0.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 71.0
+    tutorial 7.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.6
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo 1.25
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -3.25
   ]
   node [
     id 14
-    label "39b"
+    label "tdq"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
     use_of_device 1.0
-    age 18.0
-    edu_father 2.0
-    edu_mother 2.0
-    gender 1.0
-    grade -999.0
-    income 400.0
+    rent 610.0
+    income 472.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
-    ocu_mother 1.0
-    postcode 88.0
-    rent 0.0
-    tutorial 6.0
-    linksrechts_self 4.0
-    lr_AfD -999.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 5.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -2.0
-    scalo_gruene 3.0
-    scalo_linke 3.0
-    scalo_pep10 -4.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -4.0
-    scalo_pep15 -3.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 3.0
-    scalo_pep3 -2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 -1.0
-    scalo_pep7 -4.0
-    scalo_pep8 3.0
-    scalo_pep9 -1.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    ocu_mother 0.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 7.0
+    grade 2.3
+    social_networks_1 1.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 0.0
+    scalo_bsw -5.0
+    index_politics_question 4.285714285714286
+    index_participation 2.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 2.2
+    index_opposition_scalo -3.6
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 3.6666666666666665
+    index_right_party_scalo -1.5
   ]
   node [
     id 15
-    label "ech"
-    browser 3.0
+    label "buv"
     device_type 2.0
+    operating_system 4.0
+    browser 3.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 19.0
+    rent 425.0
+    income 1000.0
     edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 4.0
-    income 1500.0
+    edu_mother 1.0
     ocu_father 1.0
-    ocu_mother 1.0
-    postcode 78.0
-    rent 670.0
-    tutorial 2.0
-    linksrechts_self 8.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 3.0
-    scalo_afd -5.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 91.0
+    tutorial 7.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_10 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 1.0
     scalo_bsw -5.0
-    scalo_cdu 5.0
-    scalo_csu 4.0
-    scalo_fdp 3.0
-    scalo_gruene -3.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 3.0
-    scalo_pep13 -3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 2.0
-    scalo_pep3 -2.0
-    scalo_pep4 1.0
-    scalo_pep5 4.0
-    scalo_pep6 -1.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 -5.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    index_politics_question 3.4285714285714284
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.6
+    index_opposition_scalo -4.25
+    index_int_goodies_scalo 3.0
+    index_left_party_scalo 4.0
+    index_right_party_scalo -4.0
   ]
   node [
     id 16
-    label "k9w"
-    browser 3.0
+    label "gye"
     device_type 3.0
+    operating_system 1.0
+    browser 5.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 20.0
-    edu_father 4.0
+    use_of_device 1.0
+    rent 750.0
+    income 0.0
+    edu_father 3.0
     edu_mother 3.0
-    gender 2.0
-    grade 2.7
-    income 500.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 76.0
-    rent 520.0
-    tutorial 1.0
+    age 18.0
+    gender 2.0
+    study_program 1.0
+    postcode 71.0
+    tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 5.0
-    lr_AfD -999.0
-    lr_BSW 3.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 6.0
-    lr_Gruene 6.0
-    lr_Linke 2.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 0.0
-    scalo_csu -1.0
-    scalo_fdp -4.0
-    scalo_gruene 5.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -1.0
-    scalo_pep1 1.0
-    scalo_pep2 2.0
-    scalo_pep3 2.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 3.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 1.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -1.6
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -2.75
+    index_left_party_scalo -2.6666666666666665
+    index_right_party_scalo -4.75
   ]
   node [
     id 17
-    label "ebs"
-    browser 3.0
+    label "mw9"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
-    edu_father 1.0
+    rent 370.0
+    income 830.0
+    edu_father 2.0
     edu_mother 1.0
-    gender 2.0
-    grade 3.0
-    income 200.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 320.0
-    tutorial 2.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 3.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 3.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke -1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 3.0
-    scalo_pep2 2.0
-    scalo_pep3 0.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 -2.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 70.0
+    tutorial 5.0
+    grade 3.3
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -1.0
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 1.0
+    index_right_party_scalo -3.5
   ]
   node [
     id 18
-    label "qx3"
-    browser 3.0
+    label "add"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 3.0
     use_of_device 2.0
-    age 19.0
-    edu_father 2.0
-    edu_mother 1.0
-    gender 1.0
-    grade 3.3
-    income 300.0
+    rent 400.0
+    income 940.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 0.0
-    tutorial 1.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 7.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 3.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -3.0
-    scalo_csu -5.0
-    scalo_fdp -2.0
-    scalo_gruene 4.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -5.0
-    scalo_pep1 3.0
-    scalo_pep2 3.0
-    scalo_pep3 2.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 0.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 72.0
+    tutorial 7.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
+    scalo_bsw -4.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.4
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo 1.25
+    index_left_party_scalo 4.666666666666667
+    index_right_party_scalo -4.75
   ]
   node [
     id 19
-    label "m49"
-    browser 3.0
+    label "3hc"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 23.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 1.0
-    grade 2.3
-    income 900.0
+    browser 3.0
+    lang 0.0
+    use_of_device 1.0
+    rent 380.0
+    income 500.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 370.0
-    tutorial 2.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 1.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 9.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -5.0
-    scalo_fdp -5.0
-    scalo_gruene 4.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 2.0
-    scalo_pep3 2.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 2.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
+    age 24.0
+    gender 1.0
+    study_program 1.0
+    postcode 47.0
+    tutorial 5.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -4.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 1.6
+    index_opposition_scalo -3.4
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 1.0
+    index_right_party_scalo -2.75
   ]
   node [
     id 20
-    label "ffe"
+    label "bey"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 21.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 1.0
-    grade 3.3
-    income 800.0
+    use_of_device 3.0
+    rent 510.0
+    income 300.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 27.0
-    rent 342.0
-    tutorial 2.0
+    age 22.0
+    gender 2.0
+    study_program 4.0
+    postcode 79.0
+    tutorial 7.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 11.0
-    lr_CDU 9.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
+    sunday_party_vote 3.0
     scalo_bsw -5.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp -4.0
-    scalo_gruene 2.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 2.0
-    scalo_pep3 -3.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 1.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 3.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.2
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -4.75
   ]
   node [
     id 21
-    label "byq"
+    label "4yf"
+    device_type 2.0
+    operating_system 4.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
+    use_of_device 3.0
+    rent 408.0
+    income 100.0
     edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade -999.0
-    income 800.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 83.0
-    rent 412.0
-    tutorial 2.0
-    linksrechts_self 1.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 11.0
-    lr_CSU 11.0
-    lr_FDP 9.0
-    lr_Gruene 6.0
-    lr_Linke 3.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp -5.0
-    scalo_gruene 1.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 -1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 -3.0
-    scalo_pep3 -2.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 -4.0
-    scalo_pep7 -5.0
-    scalo_pep8 1.0
-    scalo_pep9 5.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 22.0
+    gender 2.0
+    study_program 4.0
+    postcode 72.0
+    tutorial 7.0
+    grade 3.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -2.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.6
+    index_opposition_scalo -2.2
+    index_int_goodies_scalo 0.25
+    index_left_party_scalo 2.6666666666666665
+    index_right_party_scalo -2.0
   ]
   node [
     id 22
-    label "uhg"
-    browser 3.0
+    label "3md"
     device_type 3.0
+    operating_system 1.0
+    browser 2.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 20.0
+    use_of_device 1.0
+    rent 340.0
+    income 420.0
     edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.3
-    income 900.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
     postcode 73.0
-    rent 600.0
     tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
     linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two 3.0
-    scalo_afd -5.0
+    sunday_party_vote 1.0
     scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 4.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -4.0
-    scalo_pep1 1.0
-    scalo_pep2 2.0
-    scalo_pep3 3.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 4.428571428571429
+    index_participation 2.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 1.6
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo 1.25
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -4.0
   ]
   node [
     id 23
-    label "t94"
+    label "vgv"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
     use_of_device 2.0
-    age 21.0
-    edu_father 3.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.7
-    income 1500.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 89.0
     rent 450.0
+    income 1095.0
+    edu_mother 1.0
+    ocu_mother 1.0
+    age 18.0
+    gender 1.0
+    study_program 1.0
+    postcode 73.0
     tutorial 2.0
+    grade 2.7
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
     linksrechts_self 4.0
-    lr_AfD -999.0
-    lr_BSW 2.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 1.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu 0.0
-    scalo_csu 0.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 0.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 3.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 5.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -4.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 2.0
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo 0.5
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -2.75
   ]
   node [
     id 24
-    label "cyw"
+    label "amu"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
-    use_of_device 3.0
-    age 26.0
-    edu_father 1.0
-    edu_mother 3.0
-    gender 2.0
-    grade -999.0
-    income 1200.0
+    use_of_device 1.0
+    rent 605.0
+    income 1205.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 0.0
-    tutorial 1.0
-    linksrechts_self 5.0
-    lr_AfD 10.0
-    lr_BSW 6.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 3.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 2.0
-    politics_question_four 4.0
-    politics_question_one 2.0
-    politics_question_seven 2.0
-    politics_question_six 2.0
-    politics_question_three 3.0
-    politics_question_two 1.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -3.0
-    scalo_gruene -2.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 -3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -5.0
-    scalo_pep1 -4.0
-    scalo_pep2 -3.0
-    scalo_pep3 1.0
-    scalo_pep4 -2.0
-    scalo_pep5 -3.0
-    scalo_pep6 -2.0
-    scalo_pep7 -5.0
-    scalo_pep8 -2.0
-    scalo_pep9 2.0
-    scalo_spd -3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    age 20.0
+    gender 1.0
+    postcode 64.0
+    tutorial 7.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.0
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -1.6666666666666667
+    index_left_party_scalo -1.3333333333333333
+    index_right_party_scalo -3.75
   ]
   node [
     id 25
-    label "kmw"
-    browser 3.0
+    label "9ra"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 28.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 2.0
-    grade 2.3
-    income 600.0
+    rent 350.0
+    income 1470.0
+    edu_father 3.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 430.0
-    tutorial 6.0
-    linksrechts_self 7.0
-    lr_AfD 11.0
-    lr_BSW 5.0
-    lr_CDU 7.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two 3.0
-    scalo_afd -1.0
-    scalo_bsw -1.0
-    scalo_cdu 1.0
-    scalo_csu 2.0
-    scalo_fdp 2.0
-    scalo_gruene -3.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -4.0
-    scalo_pep12 2.0
-    scalo_pep13 -3.0
-    scalo_pep14 -2.0
-    scalo_pep15 0.0
-    scalo_pep16 -5.0
-    scalo_pep1 -4.0
-    scalo_pep2 -5.0
-    scalo_pep3 0.0
-    scalo_pep4 1.0
-    scalo_pep5 0.0
-    scalo_pep6 -2.0
-    scalo_pep7 1.0
-    scalo_pep8 -2.0
-    scalo_pep9 -4.0
-    scalo_spd -3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 8.0
-    sunday_poll 1.0
+    age 21.0
+    gender 1.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 7.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
+    scalo_bsw 2.0
+    index_politics_question 3.3333333333333335
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -0.6
+    index_opposition_scalo -2.6
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 2.6666666666666665
+    index_right_party_scalo 0.0
   ]
   node [
     id 26
-    label "4yx"
-    browser 3.0
+    label "3x9"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 2.0
+    lang 0.0
     use_of_device 1.0
-    age 27.0
-    edu_father 1.0
+    rent 329.0
+    income 900.0
+    edu_father 3.0
     edu_mother 1.0
-    gender 1.0
-    grade 2.3
-    income 1000.0
-    ocu_father 0.0
+    ocu_father 1.0
     ocu_mother 0.0
-    postcode 89.0
-    rent 600.0
-    tutorial 4.0
+    age 23.0
+    gender 1.0
+    study_program 1.0
+    postcode 70.0
+    tutorial 8.0
+    grade 3.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 3.0
-    lr_AfD 10.0
-    lr_BSW 2.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 3.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 1.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -1.0
-    scalo_csu -2.0
-    scalo_fdp -4.0
-    scalo_gruene 3.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -1.0
-    scalo_pep13 3.0
-    scalo_pep14 -4.0
-    scalo_pep15 -4.0
-    scalo_pep16 -999.0
-    scalo_pep1 -1.0
-    scalo_pep2 1.0
-    scalo_pep3 3.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 -2.0
-    scalo_pep7 -4.0
-    scalo_pep8 3.0
-    scalo_pep9 0.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    sunday_party_vote 8.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.2
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 0.6666666666666666
+    index_right_party_scalo -4.5
   ]
   node [
     id 27
-    label "bqr"
-    browser 5.0
+    label "uge"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 3.0
+    lang 0.0
     use_of_device 1.0
-    age 19.0
+    rent 650.0
+    income 2300.0
     edu_father 3.0
-    edu_mother 1.0
-    gender 2.0
-    grade 2.7
-    income 700.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 70.0
-    rent 410.0
-    tutorial 5.0
-    linksrechts_self 2.0
-    lr_AfD 9.0
-    lr_BSW 8.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 3.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -4.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 71.0
+    tutorial 4.0
+    grade 4.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 7.0
+    sunday_party_vote 2.0
     scalo_bsw -1.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -2.0
-    scalo_gruene 1.0
-    scalo_linke 3.0
-    scalo_pep10 -4.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 0.0
-    scalo_pep14 -3.0
-    scalo_pep15 -1.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 -2.0
-    scalo_pep3 0.0
-    scalo_pep4 -3.0
-    scalo_pep5 -2.0
-    scalo_pep6 4.0
-    scalo_pep7 -4.0
-    scalo_pep8 3.0
-    scalo_pep9 5.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    index_politics_question 4.142857142857143
+    index_participation 2.0
+    index_int_criminal_scalo -2.0
+    index_government_scalo -0.4
+    index_opposition_scalo -0.6
+    index_int_goodies_scalo -1.75
+    index_left_party_scalo -3.6666666666666665
+    index_right_party_scalo 2.25
   ]
   node [
     id 28
-    label "ytr"
+    label "kmw"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
-    lang 1.0
-    operating_system 5.0
-    use_of_device 3.0
-    age 19.0
-    edu_father 4.0
-    edu_mother 2.0
-    gender 2.0
-    grade -999.0
-    income 1500.0
+    lang 0.0
+    use_of_device 2.0
+    rent 430.0
+    income 600.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 75.0
-    rent 350.0
-    tutorial 1.0
-    linksrechts_self 8.0
-    lr_AfD 9.0
-    lr_BSW 7.0
-    lr_CDU 6.0
-    lr_CSU 7.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke -999.0
-    lr_SPD 2.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 1.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 3.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd 3.0
+    ocu_mother 1.0
+    age 28.0
+    gender 2.0
+    study_program 3.0
+    postcode 88.0
+    tutorial 6.0
+    grade 2.3
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 7.0
+    sunday_party_vote 8.0
     scalo_bsw -1.0
-    scalo_cdu -2.0
-    scalo_csu -1.0
-    scalo_fdp 2.0
-    scalo_gruene -3.0
-    scalo_linke -5.0
-    scalo_pep10 0.0
-    scalo_pep11 -1.0
-    scalo_pep12 -4.0
-    scalo_pep13 -5.0
-    scalo_pep14 3.0
-    scalo_pep15 -3.0
-    scalo_pep16 3.0
-    scalo_pep1 -5.0
-    scalo_pep2 -4.0
-    scalo_pep3 -5.0
-    scalo_pep4 -2.0
-    scalo_pep5 -1.0
-    scalo_pep6 0.0
-    scalo_pep7 2.0
-    scalo_pep8 -5.0
-    scalo_pep9 -5.0
-    scalo_spd -5.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 6.0
-    sunday_poll 1.0
+    index_politics_question 3.2857142857142856
+    index_participation 2.0
+    index_int_criminal_scalo -3.0
+    index_government_scalo -1.6
+    index_opposition_scalo -0.8
+    index_int_goodies_scalo -3.25
+    index_left_party_scalo -3.6666666666666665
+    index_right_party_scalo 1.0
   ]
   node [
     id 29
-    label "knb"
-    browser 3.0
+    label "4dk"
     device_type 3.0
+    operating_system 1.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 2.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.3
+    use_of_device 1.0
+    rent 340.0
     income 0.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 70.0
-    rent 345.0
-    tutorial 5.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 7.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -1.0
-    scalo_pep2 3.0
-    scalo_pep3 1.0
-    scalo_pep4 -3.0
-    scalo_pep5 -3.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 0.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 1.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 0.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 1.0
+    scalo_bsw -4.0
+    index_politics_question 4.428571428571429
+    index_participation 2.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 1.6
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -2.0
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -3.75
   ]
   node [
     id 30
-    label "9xy"
-    browser 2.0
-    device_type 3.0
+    label "3xt"
+    device_type 2.0
+    operating_system 5.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.3
-    income 590.0
+    use_of_device 2.0
+    rent 800.0
+    income 1000.0
+    edu_father 1.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 76.0
-    rent 340.0
-    tutorial 5.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 3.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -5.0
-    scalo_gruene 3.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 0.0
-    scalo_pep3 1.0
-    scalo_pep4 -5.0
-    scalo_pep5 -4.0
-    scalo_pep6 1.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 -3.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    age 18.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 7.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 8.0
+    sunday_party_vote 2.0
+    scalo_bsw 0.0
+    index_politics_question 4.0
+    index_participation 1.0
+    index_int_criminal_scalo -0.6666666666666666
+    index_government_scalo -0.6
+    index_opposition_scalo -0.2
+    index_int_goodies_scalo -2.0
+    index_left_party_scalo -2.0
+    index_right_party_scalo 2.25
   ]
   node [
     id 31
-    label "vgv"
-    browser 3.0
+    label "mbv"
     device_type 2.0
-    lang 0.0
     operating_system 5.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 18.0
-    edu_father -999.0
+    rent 0.0
+    income 50.0
+    edu_father 4.0
     edu_mother 1.0
-    gender 1.0
-    grade 2.7
-    income 1095.0
-    ocu_father -999.0
+    ocu_father 1.0
     ocu_mother 1.0
-    postcode 73.0
-    rent 450.0
-    tutorial 2.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp 1.0
-    scalo_gruene 4.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -4.0
-    scalo_pep1 1.0
-    scalo_pep2 4.0
-    scalo_pep3 2.0
-    scalo_pep4 -1.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 3.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 4.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 8.0
+    sunday_party_vote 2.0
+    scalo_bsw 2.0
+    index_politics_question 4.285714285714286
+    index_participation 2.0
+    index_int_criminal_scalo -2.0
+    index_government_scalo -0.6
+    index_opposition_scalo 1.8
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo -2.3333333333333335
+    index_right_party_scalo 3.5
   ]
   node [
     id 32
-    label "3md"
-    browser 2.0
+    label "cfw"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 1.0
-    gender 1.0
-    grade 3.0
-    income 420.0
+    use_of_device 2.0
+    rent 0.0
+    income 600.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
-    ocu_mother 1.0
-    postcode 73.0
-    rent 340.0
-    tutorial 2.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 4.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -4.0
-    scalo_pep1 2.0
-    scalo_pep2 4.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 3.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    ocu_mother 0.0
+    age 18.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 4.0
+    grade 1.0
+    social_networks_1 1.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 7.0
+    sunday_party_vote 4.0
+    scalo_bsw -4.0
+    index_politics_question 4.428571428571429
+    index_participation 2.0
+    index_int_criminal_scalo -3.0
+    index_government_scalo 0.0
+    index_opposition_scalo -1.0
+    index_int_goodies_scalo 1.25
+    index_left_party_scalo -3.6666666666666665
+    index_right_party_scalo 2.75
   ]
   node [
     id 33
-    label "amu"
-    browser 3.0
+    label "49w"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 20.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 1.0
-    grade 2.0
-    income 1205.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 440.0
+    income 1000.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 64.0
-    rent 605.0
-    tutorial 7.0
-    linksrechts_self 6.0
-    lr_AfD -999.0
-    lr_BSW 4.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 8.0
-    lr_Gruene 6.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp 0.0
-    scalo_gruene 2.0
-    scalo_linke -3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -4.0
-    scalo_pep2 5.0
-    scalo_pep3 1.0
-    scalo_pep4 -2.0
-    scalo_pep5 -5.0
-    scalo_pep6 -5.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 -999.0
-    scalo_spd -3.0
-    sunday_not_eligible 0.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 88.0
+    tutorial 4.0
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.166666666666667
+    index_participation 3.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo 0.0
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 3.0
+    index_right_party_scalo -2.0
   ]
   node [
     id 34
-    label "xtk"
+    label "nut"
+    device_type 2.0
+    operating_system 4.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
     use_of_device 2.0
-    age 20.0
+    rent 425.0
+    income 1000.0
     edu_father 3.0
     edu_mother 3.0
-    gender 1.0
-    grade -999.0
-    income 500.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 86.0
-    rent 590.0
-    tutorial 5.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 4.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 4.0
-    scalo_afd -5.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 45.0
+    tutorial 3.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 5.0
+    sunday_party_vote 4.0
     scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -4.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 2.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 3.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 0.4
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo -0.3333333333333333
+    index_right_party_scalo -2.25
   ]
   node [
     id 35
-    label "ngv"
-    browser 2.0
+    label "tcc"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 4.0
-    edu_mother 2.0
-    gender 1.0
-    grade 3.0
-    income 0.0
-    ocu_father 0.0
+    use_of_device 2.0
+    rent 370.0
+    income 750.0
+    edu_father 3.0
+    edu_mother 3.0
+    ocu_father 1.0
     ocu_mother 1.0
-    postcode 50.0
-    rent 500.0
-    tutorial 2.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 11.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 2.0
-    scalo_linke 5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 2.0
-    scalo_pep3 3.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 70.0
+    tutorial 4.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 1.0
+    scalo_bsw -1.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 1.2
+    index_opposition_scalo -3.4
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -3.25
   ]
   node [
     id 36
-    label "ywc"
-    browser 3.0
+    label "dnk"
     device_type 3.0
+    operating_system 1.0
+    browser 3.0
     lang 0.0
-    operating_system 3.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 2.0
-    edu_mother 2.0
-    gender 1.0
-    grade 2.3
-    income 1000.0
+    use_of_device 1.0
+    rent 370.0
+    income 650.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 66.0
-    rent 580.0
-    tutorial 2.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 7.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -1.0
-    scalo_csu -2.0
-    scalo_fdp -4.0
-    scalo_gruene 4.0
-    scalo_linke -1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 1.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 1.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 2.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 73.0
+    tutorial 4.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.0
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.4
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -1.0
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -4.0
   ]
   node [
     id 37
-    label "nrn"
-    browser 3.0
+    label "ahn"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
-    edu_father 3.0
+    rent 330.0
+    income 1000.0
+    edu_father 4.0
     edu_mother 1.0
-    gender 1.0
-    grade 2.3
-    income 250.0
     ocu_father 1.0
-    ocu_mother 1.0
-    postcode 21.0
-    rent 500.0
-    tutorial 2.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 11.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 4.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -1.0
-    scalo_pep1 2.0
-    scalo_pep2 4.0
-    scalo_pep3 3.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 1.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    ocu_mother 0.0
+    age 22.0
+    gender 1.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 4.0
+    grade 3.0
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 5.0
+    sunday_party_vote 3.0
+    scalo_bsw -3.0
+    index_politics_question 3.142857142857143
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -1.0
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -1.25
+    index_left_party_scalo 0.6666666666666666
+    index_right_party_scalo -4.75
   ]
   node [
     id 38
-    label "4gw"
+    label "mwh"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 2.0
-    gender 1.0
-    grade 2.0
-    income 1200.0
-    ocu_father 0.0
+    use_of_device 2.0
+    rent 570.0
+    income 520.0
+    edu_father 2.0
+    edu_mother 1.0
+    ocu_father 1.0
     ocu_mother 1.0
-    postcode 89.0
-    rent 330.0
+    age 21.0
+    gender 1.0
+    study_program 1.0
+    postcode 88.0
     tutorial 7.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 7.0
-    lr_CDU 8.0
-    lr_CSU 10.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
     scalo_bsw -4.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -2.0
-    scalo_gruene 3.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 4.0
-    scalo_pep3 -1.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 2.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    index_politics_question 4.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.8
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -4.0
   ]
   node [
     id 39
-    label "vgg"
+    label "knc"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 2.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.7
-    income 700.0
+    use_of_device 3.0
+    rent 530.0
+    income 1000.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 70.0
-    rent 280.0
-    tutorial 2.0
+    age 21.0
+    gender 1.0
+    postcode 87.0
+    tutorial 4.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 11.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp 0.0
-    scalo_gruene 3.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 4.0
-    scalo_pep3 4.0
-    scalo_pep4 -1.0
-    scalo_pep5 -3.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 2.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -3.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 1.2
+    index_opposition_scalo -3.8
+    index_int_goodies_scalo 0.25
+    index_left_party_scalo 2.0
+    index_right_party_scalo -4.0
   ]
   node [
     id 40
-    label "9ra"
-    browser 3.0
+    label "rxs"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 21.0
+    rent 360.0
+    income 520.0
     edu_father 3.0
-    edu_mother 2.0
-    gender 1.0
-    grade 2.7
-    income 1470.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 350.0
-    tutorial 7.0
-    linksrechts_self 2.0
-    lr_AfD -999.0
-    lr_BSW 7.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four -999.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 1.0
-    scalo_afd -5.0
-    scalo_bsw 2.0
-    scalo_cdu 1.0
-    scalo_csu 1.0
-    scalo_fdp 3.0
-    scalo_gruene 3.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 2.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 3.0
-    scalo_pep3 -1.0
-    scalo_pep4 -2.0
-    scalo_pep5 -3.0
-    scalo_pep6 -2.0
-    scalo_pep7 -4.0
-    scalo_pep8 0.0
-    scalo_pep9 4.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 79.0
+    tutorial 3.0
+    grade 3.0
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.2
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 4.0
+    index_right_party_scalo -3.25
   ]
   node [
     id 41
-    label "qqt"
-    browser 3.0
+    label "4gw"
     device_type 3.0
-    lang 1.0
-    operating_system 1.0
+    operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 1.0
-    age 21.0
+    rent 330.0
+    income 1200.0
     edu_father 1.0
-    edu_mother 1.0
+    edu_mother 2.0
+    ocu_father 0.0
+    ocu_mother 1.0
+    age 19.0
     gender 1.0
-    grade 2.3
-    income 600.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    postcode 0.0
-    rent 402.0
-    tutorial 8.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 6.0
-    lr_FDP -999.0
-    lr_Gruene 4.0
-    lr_Linke -999.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 2.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 1.0
-    politics_question_two -999.0
-    scalo_afd -5.0
-    scalo_bsw -999.0
-    scalo_cdu 0.0
-    scalo_csu 0.0
-    scalo_fdp -999.0
-    scalo_gruene 1.0
-    scalo_linke -999.0
-    scalo_pep10 -5.0
-    scalo_pep11 -999.0
-    scalo_pep12 2.0
-    scalo_pep13 -999.0
-    scalo_pep14 -4.0
-    scalo_pep15 -999.0
-    scalo_pep16 -5.0
-    scalo_pep1 -1.0
-    scalo_pep2 3.0
-    scalo_pep3 -999.0
-    scalo_pep4 -1.0
-    scalo_pep5 -999.0
-    scalo_pep6 2.0
-    scalo_pep7 -4.0
-    scalo_pep8 -999.0
-    scalo_pep9 2.0
-    scalo_spd 0.0
-    sunday_not_eligible 2.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    study_program 4.0
+    postcode 89.0
+    tutorial 7.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 5.0
+    sunday_party_vote 1.0
+    scalo_bsw -4.0
+    index_politics_question 4.714285714285714
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.2
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo 0.25
+    index_left_party_scalo 3.0
+    index_right_party_scalo -3.5
   ]
   node [
     id 42
-    label "np4"
-    browser 3.0
+    label "vgg"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 23.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.3
-    income 0.0
+    rent 280.0
+    income 700.0
+    edu_father 2.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 425.0
-    tutorial 7.0
-    linksrechts_self 5.0
-    lr_AfD -999.0
-    lr_BSW 5.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw 3.0
-    scalo_cdu 2.0
-    scalo_csu 1.0
-    scalo_fdp 2.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 -1.0
-    scalo_pep11 -5.0
-    scalo_pep12 -1.0
-    scalo_pep13 -2.0
-    scalo_pep14 -5.0
-    scalo_pep15 0.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 -2.0
-    scalo_pep3 0.0
-    scalo_pep4 0.0
-    scalo_pep5 -5.0
-    scalo_pep6 -2.0
-    scalo_pep7 -4.0
-    scalo_pep8 2.0
-    scalo_pep9 -999.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 4.0
+    postcode 70.0
+    tutorial 2.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 2.0
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 2.0
+    index_right_party_scalo -2.5
   ]
   node [
     id 43
-    label "ryn"
+    label "4ww"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
-    use_of_device 2.0
-    age 24.0
-    edu_father 2.0
-    edu_mother 2.0
-    gender 1.0
-    grade 1.0
-    income 700.0
+    use_of_device 1.0
+    rent 345.0
+    income 1200.0
+    edu_father 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 22.0
-    rent 0.0
-    tutorial -999.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -4.0
-    scalo_bsw -3.0
-    scalo_cdu 0.0
-    scalo_csu -2.0
-    scalo_fdp -1.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -1.0
-    scalo_pep13 3.0
-    scalo_pep14 -4.0
-    scalo_pep15 -2.0
-    scalo_pep16 -4.0
-    scalo_pep1 -1.0
-    scalo_pep2 1.0
-    scalo_pep3 3.0
-    scalo_pep4 -1.0
-    scalo_pep5 -3.0
-    scalo_pep6 3.0
-    scalo_pep7 -3.0
-    scalo_pep8 3.0
-    scalo_pep9 4.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 18.0
+    gender 2.0
+    study_program 1.0
+    postcode 88.0
+    tutorial 4.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_11 "Reddit"
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
+    scalo_bsw -5.0
+    index_politics_question 3.5714285714285716
+    index_participation 1.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.6
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 0.5
+    index_left_party_scalo 3.0
+    index_right_party_scalo -4.25
   ]
   node [
     id 44
-    label "v3e"
-    browser 3.0
+    label "dmd"
     device_type 3.0
-    lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 20.0
-    edu_father 4.0
-    edu_mother 1.0
-    gender 1.0
-    grade 3.3
-    income 800.0
-    ocu_father 0.0
-    ocu_mother 1.0
-    postcode 22.0
-    rent 550.0
-    tutorial 3.0
+    operating_system 1.0
+    browser 3.0
+    lang 1.0
+    use_of_device 1.0
+    rent 495.0
+    income 880.0
+    edu_father 3.0
+    edu_mother 3.0
+    ocu_father 1.0
+    ocu_mother 0.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 8.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 0.0
+    social_networks_9 0.0
+    social_networks_10 1.0
     linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW 2.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 0.0
-    scalo_csu -2.0
-    scalo_fdp -1.0
-    scalo_gruene -2.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 -2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -4.0
-    scalo_pep1 -5.0
-    scalo_pep2 -3.0
-    scalo_pep3 -4.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 -3.0
-    scalo_pep7 -5.0
-    scalo_pep8 -3.0
-    scalo_pep9 -5.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 2.0
+    sunday_party_vote 0.0
+    scalo_bsw -3.0
+    index_politics_question 3.7142857142857144
+    index_participation 2.0
+    index_int_criminal_scalo -1.3333333333333333
+    index_government_scalo 0.6
+    index_opposition_scalo -1.2
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo -0.3333333333333333
+    index_right_party_scalo 0.0
   ]
   node [
     id 45
-    label "saf"
-    browser 3.0
+    label "ytr"
     device_type 2.0
-    lang 0.0
     operating_system 5.0
-    use_of_device 2.0
-    age 20.0
-    edu_father 2.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.0
-    income 0.0
+    browser 3.0
+    lang 1.0
+    use_of_device 3.0
+    rent 350.0
+    income 1500.0
+    edu_father 4.0
+    edu_mother 2.0
     ocu_father 1.0
-    ocu_mother 1.0
-    postcode 88.0
-    rent 342.0
+    ocu_mother 0.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 75.0
     tutorial 1.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW 1.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 3.0
-    scalo_csu 2.0
-    scalo_fdp -2.0
-    scalo_gruene -2.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 1.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -3.0
-    scalo_pep1 0.0
-    scalo_pep2 4.0
-    scalo_pep3 3.0
-    scalo_pep4 0.0
-    scalo_pep5 0.0
-    scalo_pep6 1.0
-    scalo_pep7 -5.0
-    scalo_pep8 0.0
-    scalo_pep9 0.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 8.0
+    sunday_party_vote 6.0
+    scalo_bsw -1.0
+    index_politics_question 3.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo 1.6666666666666667
+    index_government_scalo -4.4
+    index_opposition_scalo -1.2
+    index_int_goodies_scalo -1.5
+    index_left_party_scalo -4.333333333333333
+    index_right_party_scalo 0.5
   ]
   node [
     id 46
-    label "e3v"
+    label "uwx"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 20.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 2.0
-    grade 1.7
-    income 800.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 73.0
     rent 402.0
-    tutorial 7.0
+    income 500.0
+    edu_father 2.0
+    edu_mother 3.0
+    ocu_father 0.0
+    ocu_mother 1.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 1.0
+    grade 3.7
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
     linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 5.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -2.0
-    scalo_gruene 3.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -3.0
-    scalo_pep1 -2.0
-    scalo_pep2 2.0
-    scalo_pep3 3.0
-    scalo_pep4 -2.0
-    scalo_pep5 -4.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 2.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    sunday_party_vote 1.0
+    scalo_bsw -3.0
+    index_politics_question 3.4285714285714284
+    index_participation 2.0
+    index_int_criminal_scalo -3.0
+    index_government_scalo 0.6
+    index_opposition_scalo -3.4
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 0.6666666666666666
+    index_right_party_scalo -1.75
   ]
   node [
     id 47
-    label "av4"
-    browser 3.0
+    label "mdx"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 21.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.3
-    income 1500.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 0.0
+    income 700.0
+    edu_father 1.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 21.0
-    rent 550.0
-    tutorial 2.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 1.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_10 1.0
     linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 5.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp 1.0
-    scalo_gruene 4.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -4.0
-    scalo_pep1 -2.0
-    scalo_pep2 0.0
-    scalo_pep3 2.0
-    scalo_pep4 -3.0
-    scalo_pep5 -3.0
-    scalo_pep6 1.0
-    scalo_pep7 -4.0
-    scalo_pep8 4.0
-    scalo_pep9 2.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    sunday_party_vote 5.0
+    scalo_bsw -1.0
+    index_politics_question 3.4285714285714284
+    index_participation 3.0
+    index_int_criminal_scalo -2.3333333333333335
+    index_government_scalo -1.0
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo -0.75
+    index_left_party_scalo -0.3333333333333333
+    index_right_party_scalo -3.25
   ]
   node [
     id 48
-    label "vcb"
-    browser 3.0
+    label "4yx"
     device_type 3.0
+    operating_system 1.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 20.0
-    edu_father 3.0
-    edu_mother 0.0
-    gender 2.0
-    grade 3.3
-    income 1200.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 78.0
-    rent 650.0
-    tutorial 3.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW 1.0
-    lr_CDU 6.0
-    lr_CSU 7.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 1.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 1.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 4.0
-    scalo_csu 0.0
-    scalo_fdp 4.0
-    scalo_gruene 0.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -4.0
-    scalo_pep12 3.0
-    scalo_pep13 0.0
-    scalo_pep14 -4.0
-    scalo_pep15 -4.0
-    scalo_pep16 2.0
-    scalo_pep1 -5.0
-    scalo_pep2 0.0
-    scalo_pep3 1.0
-    scalo_pep4 2.0
-    scalo_pep5 3.0
-    scalo_pep6 4.0
-    scalo_pep7 1.0
-    scalo_pep8 0.0
-    scalo_pep9 -3.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    use_of_device 1.0
+    rent 600.0
+    income 1000.0
+    edu_father 1.0
+    edu_mother 1.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    age 27.0
+    gender 1.0
+    study_program 3.0
+    postcode 89.0
+    tutorial 4.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_11 "BeReal"
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 3.7142857142857144
+    index_participation 2.0
+    index_int_criminal_scalo -4.5
+    index_government_scalo 0.8
+    index_opposition_scalo -3.8
+    index_int_goodies_scalo -1.25
+    index_left_party_scalo 2.0
+    index_right_party_scalo -3.0
   ]
   node [
     id 49
-    label "qxn"
-    browser 3.0
+    label "9he"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 21.0
-    edu_father 1.0
+    use_of_device 2.0
+    rent 450.0
+    income 1000.0
+    edu_father 3.0
     edu_mother 1.0
-    gender 2.0
-    grade 3.0
-    income 250.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 89.0
-    rent 600.0
-    tutorial 5.0
-    linksrechts_self 8.0
-    lr_AfD 11.0
-    lr_BSW 3.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 9.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two 1.0
-    scalo_afd -4.0
-    scalo_bsw -2.0
-    scalo_cdu 1.0
-    scalo_csu 2.0
-    scalo_fdp 0.0
-    scalo_gruene -4.0
-    scalo_linke -5.0
-    scalo_pep10 -2.0
-    scalo_pep11 -5.0
-    scalo_pep12 3.0
-    scalo_pep13 -5.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -5.0
-    scalo_pep1 -1.0
-    scalo_pep2 -5.0
-    scalo_pep3 0.0
-    scalo_pep4 1.0
-    scalo_pep5 -5.0
-    scalo_pep6 -5.0
-    scalo_pep7 -1.0
-    scalo_pep8 1.0
-    scalo_pep9 -3.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 0.0
-    sunday_poll 2.0
+    age 23.0
+    gender 1.0
+    study_program 3.0
+    postcode 75.0
+    tutorial 4.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 7.0
+    sunday_party_vote 2.0
+    scalo_bsw 1.0
+    index_politics_question 3.2857142857142856
+    index_participation 2.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo -2.6
+    index_opposition_scalo -0.8
+    index_int_goodies_scalo -0.75
+    index_left_party_scalo -2.3333333333333335
+    index_right_party_scalo 1.25
   ]
   node [
     id 50
-    label "gdg"
+    label "b3p"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
-    use_of_device 3.0
-    age 20.0
+    use_of_device 1.0
+    rent 330.0
+    income 1200.0
     edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.0
-    income 400.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 79.0
-    rent 330.0
-    tutorial 4.0
+    age 25.0
+    gender 1.0
+    study_program 3.0
+    postcode 88.0
+    tutorial 1.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 4.0
-    lr_AfD -999.0
-    lr_BSW 10.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -1.0
-    scalo_gruene 3.0
-    scalo_linke -999.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -4.0
-    scalo_pep1 1.0
-    scalo_pep2 3.0
-    scalo_pep3 -999.0
-    scalo_pep4 -3.0
-    scalo_pep5 -3.0
-    scalo_pep6 3.0
-    scalo_pep7 -4.0
-    scalo_pep8 -999.0
-    scalo_pep9 1.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.166666666666667
+    index_participation 3.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo 1.4
+    index_opposition_scalo -3.6
+    index_int_goodies_scalo 2.0
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -3.25
   ]
   node [
     id 51
-    label "4dk"
-    browser 3.0
+    label "9fx"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 20.0
+    use_of_device 2.0
+    rent 270.0
+    income 250.0
     edu_father 1.0
-    edu_mother 1.0
-    gender 2.0
-    grade 3.3
-    income 0.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 340.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 71.0
     tutorial 1.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -2.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 3.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -2.0
-    scalo_pep16 -4.0
-    scalo_pep1 1.0
-    scalo_pep2 3.0
-    scalo_pep3 3.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 -3.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 -3.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
     sunday_party_vote 1.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -0.4
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -3.75
   ]
   node [
     id 52
-    label "knc"
+    label "yqq"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
-    use_of_device 3.0
-    age 21.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.3
-    income 1000.0
+    use_of_device 2.0
+    rent 820.0
+    income 400.0
+    edu_father 3.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 87.0
-    rent 530.0
-    tutorial 4.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 5.0
-    lr_CDU 6.0
-    lr_CSU 7.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 -1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -4.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 3.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 3.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 79.0
+    tutorial 7.0
+    grade 3.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 5.0
+    sunday_party_vote 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.0
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 2.0
+    index_right_party_scalo -1.5
   ]
   node [
     id 53
-    label "gcu"
+    label "p49"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
-    use_of_device 3.0
-    age 21.0
+    use_of_device 2.0
+    rent 800.0
+    income 400.0
     edu_father 3.0
     edu_mother 3.0
-    gender 2.0
-    grade 2.0
-    income 400.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 69.0
-    rent 330.0
-    tutorial 2.0
-    linksrechts_self 4.0
-    lr_AfD 10.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 70.0
+    tutorial 1.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 1.0
     scalo_bsw -3.0
-    scalo_cdu 1.0
-    scalo_csu 0.0
-    scalo_fdp 1.0
-    scalo_gruene 4.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -3.0
-    scalo_pep1 2.0
-    scalo_pep2 -999.0
-    scalo_pep3 4.0
-    scalo_pep4 -2.0
-    scalo_pep5 0.0
-    scalo_pep6 1.0
-    scalo_pep7 -4.0
-    scalo_pep8 5.0
-    scalo_pep9 -999.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.2857142857142856
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -3.0
+    index_opposition_scalo -3.8
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo -1.3333333333333333
+    index_right_party_scalo -3.25
   ]
   node [
     id 54
-    label "afp"
-    browser 5.0
-    device_type 3.0
+    label "9ut"
+    device_type 2.0
+    operating_system 5.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 20.0
-    edu_father 3.0
-    edu_mother 1.0
-    gender 2.0
-    grade 2.3
-    income 500.0
+    use_of_device 2.0
+    rent 380.0
+    income 1000.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 600.0
-    tutorial 4.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 9.0
-    lr_FDP 5.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 76.0
+    tutorial 5.0
+    grade 1.7
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_10 1.0
+    linksrechts_self 7.0
+    sunday_party_vote 2.0
     scalo_bsw -5.0
-    scalo_cdu -1.0
-    scalo_csu -3.0
-    scalo_fdp -2.0
-    scalo_gruene 2.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -2.0
-    scalo_pep1 1.0
-    scalo_pep2 4.0
-    scalo_pep3 0.0
-    scalo_pep4 -3.0
-    scalo_pep5 -1.0
-    scalo_pep6 5.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 -2.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    index_politics_question 4.714285714285714
+    index_participation 1.0
+    index_int_criminal_scalo 0.3333333333333333
+    index_government_scalo 0.4
+    index_opposition_scalo -2.4
+    index_int_goodies_scalo -4.25
+    index_left_party_scalo -1.3333333333333333
+    index_right_party_scalo 1.75
   ]
   node [
     id 55
-    label "bga"
-    browser 3.0
+    label "qxn"
     device_type 3.0
+    operating_system 1.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.3
-    income 750.0
+    use_of_device 1.0
+    rent 600.0
+    income 250.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 73.0
-    rent 367.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 89.0
     tutorial 5.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -1.0
-    scalo_csu -2.0
-    scalo_fdp -3.0
-    scalo_gruene 4.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 1.0
-    scalo_pep3 3.0
-    scalo_pep4 -4.0
-    scalo_pep5 -3.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 1.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_10 1.0
+    linksrechts_self 8.0
+    sunday_party_vote 0.0
+    scalo_bsw -2.0
+    index_politics_question 3.142857142857143
+    index_participation 0.0
+    index_int_criminal_scalo -2.6666666666666665
+    index_government_scalo -0.8
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo -4.5
+    index_left_party_scalo -2.6666666666666665
+    index_right_party_scalo -0.25
   ]
   node [
     id 56
-    label "dnk"
-    browser 3.0
+    label "dxh"
     device_type 3.0
+    operating_system 2.0
+    browser 2.0
     lang 0.0
-    operating_system 1.0
     use_of_device 1.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.3
-    income 650.0
+    rent 390.0
+    income 750.0
+    edu_father 3.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 73.0
-    rent 370.0
-    tutorial 4.0
-    linksrechts_self 0.0
-    lr_AfD -999.0
-    lr_BSW 10.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 9.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 40.0
+    tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 7.0
+    sunday_party_vote 4.0
     scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 4.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -1.0
-    scalo_pep2 1.0
-    scalo_pep3 0.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 0.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.857142857142857
+    index_participation 1.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo 0.2
+    index_opposition_scalo -1.2
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo -2.0
+    index_right_party_scalo 1.75
   ]
   node [
     id 57
-    label "dxp"
-    browser 3.0
+    label "mcb"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 20.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 2.0
-    grade 4.0
-    income 500.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 600.0
+    income 600.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 340.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 64.0
     tutorial 4.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 2.0
-    scalo_afd -5.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 7.0
+    sunday_party_vote 4.0
     scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 2.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 -1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -4.0
-    scalo_pep1 -2.0
-    scalo_pep2 0.0
-    scalo_pep3 -1.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -3.0
-    scalo_pep8 3.0
-    scalo_pep9 0.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.5714285714285716
+    index_participation 2.0
+    index_int_criminal_scalo -2.0
+    index_government_scalo -0.6
+    index_opposition_scalo -3.6
+    index_int_goodies_scalo -2.25
+    index_left_party_scalo -3.6666666666666665
+    index_right_party_scalo -0.25
   ]
   node [
     id 58
-    label "3ab"
-    browser 3.0
+    label "hn9"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 20.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 2.0
-    grade 3.3
-    income 850.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 350.0
+    income 250.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 79.0
-    rent 370.0
-    tutorial 4.0
-    linksrechts_self 5.0
-    lr_AfD -999.0
-    lr_BSW 2.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 5.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 72.0
+    tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 11.0
+    sunday_party_vote 6.0
     scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -3.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -4.0
-    scalo_pep1 1.0
-    scalo_pep2 4.0
-    scalo_pep3 3.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 3.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.857142857142857
+    index_participation 2.0
+    index_int_criminal_scalo 0.6666666666666666
+    index_government_scalo -3.0
+    index_opposition_scalo -1.0
+    index_int_goodies_scalo -2.0
+    index_left_party_scalo -5.0
+    index_right_party_scalo -1.0
   ]
   node [
     id 59
-    label "qew"
-    browser 3.0
+    label "9xy"
     device_type 3.0
+    operating_system 1.0
+    browser 2.0
     lang 0.0
-    operating_system 2.0
     use_of_device 1.0
-    age 19.0
+    rent 340.0
+    income 590.0
     edu_father 3.0
     edu_mother 3.0
-    gender 2.0
-    grade -999.0
-    income 200.0
-    ocu_father 0.0
+    ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 0.0
-    tutorial 6.0
-    linksrechts_self 1.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 8.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 2.0
-    scalo_linke 5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 -1.0
-    scalo_pep2 1.0
-    scalo_pep3 1.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 1.0
-    scalo_pep9 4.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 76.0
+    tutorial 5.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.4
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo -1.75
+    index_left_party_scalo 3.0
+    index_right_party_scalo -4.25
   ]
   node [
     id 60
-    label "vnb"
-    browser 3.0
+    label "e4u"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
     use_of_device 1.0
-    age 22.0
-    edu_father 1.0
-    edu_mother 1.0
+    rent 540.0
+    income 1000.0
+    edu_father 3.0
+    edu_mother 3.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    age 26.0
     gender 2.0
+    study_program 1.0
+    postcode 89.0
+    tutorial 1.0
     grade 2.0
-    income 700.0
-    ocu_father -999.0
-    ocu_mother 0.0
-    postcode 42.0
-    rent 528.0
-    tutorial 2.0
-    linksrechts_self 7.0
-    lr_AfD 10.0
-    lr_BSW 4.0
-    lr_CDU 6.0
-    lr_CSU 6.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 3.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -2.0
-    scalo_bsw -2.0
-    scalo_cdu -2.0
-    scalo_csu -2.0
-    scalo_fdp -2.0
-    scalo_gruene -2.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 -3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -1.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 -3.0
-    scalo_pep3 -4.0
-    scalo_pep4 -2.0
-    scalo_pep5 -2.0
-    scalo_pep6 -1.0
-    scalo_pep7 -1.0
-    scalo_pep8 -2.0
-    scalo_pep9 -3.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 0.0
-    sunday_poll 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
+    sunday_party_vote 3.0
+    scalo_bsw 0.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo 1.0
+    index_government_scalo 0.4
+    index_opposition_scalo -2.2
+    index_int_goodies_scalo -1.0
+    index_left_party_scalo -0.3333333333333333
+    index_right_party_scalo -2.0
   ]
   node [
     id 61
-    label "ara"
-    browser 3.0
+    label "bgq"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 3.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 4.0
-    gender 2.0
-    grade 4.0
-    income 200.0
+    use_of_device 1.0
+    rent 200.0
+    income 550.0
+    edu_father 3.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 406.0
+    age 18.0
+    gender 2.0
+    study_program 1.0
+    postcode 58.0
     tutorial 2.0
-    linksrechts_self 7.0
-    lr_AfD -999.0
-    lr_BSW 9.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 6.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 1.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -2.0
-    scalo_bsw -3.0
-    scalo_cdu -1.0
-    scalo_csu -3.0
-    scalo_fdp -5.0
-    scalo_gruene -5.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 -5.0
-    scalo_pep14 -2.0
-    scalo_pep15 -2.0
-    scalo_pep16 -5.0
-    scalo_pep1 -5.0
-    scalo_pep2 -5.0
-    scalo_pep3 -2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 -5.0
-    scalo_pep7 1.0
-    scalo_pep8 -5.0
-    scalo_pep9 -5.0
-    scalo_spd -4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 6.0
-    sunday_poll 1.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
+    linksrechts_self 6.0
+    sunday_party_vote 1.0
+    scalo_bsw -4.0
+    index_politics_question 3.4285714285714284
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -0.4
+    index_opposition_scalo -2.6666666666666665
+    index_int_goodies_scalo -3.3333333333333335
+    index_left_party_scalo -1.6666666666666667
+    index_right_party_scalo -2.0
   ]
   node [
     id 62
-    label "4ww"
+    label "sva"
+    device_type 2.0
+    operating_system 4.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 1.0
-    age 18.0
-    edu_father 3.0
-    edu_mother -999.0
-    gender 2.0
-    grade 2.3
-    income 1200.0
+    use_of_device 2.0
+    rent 325.0
+    income 0.0
+    edu_father 1.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 345.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 21.0
     tutorial 4.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
+    social_networks_11 "Reddit"
+    linksrechts_self 3.0
+    sunday_party_vote 1.0
     scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 3.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 1.0
-    scalo_pep3 4.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -1.4
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -1.75
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -4.75
   ]
   node [
     id 63
-    label "dmd"
-    browser 3.0
+    label "ack"
     device_type 3.0
-    lang 1.0
     operating_system 1.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 3.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 400.0
+    income 300.0
+    edu_father 1.0
     edu_mother 3.0
-    gender 2.0
-    grade 2.7
-    income 880.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 0.0
-    rent 495.0
-    tutorial 8.0
-    linksrechts_self 6.0
-    lr_AfD 1.0
-    lr_BSW 1.0
-    lr_CDU 5.0
-    lr_CSU 5.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 2.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 3.0
-    politics_question_two 4.0
-    scalo_afd -4.0
-    scalo_bsw -3.0
-    scalo_cdu 3.0
-    scalo_csu 0.0
-    scalo_fdp 1.0
-    scalo_gruene 1.0
-    scalo_linke -3.0
-    scalo_pep10 -5.0
-    scalo_pep11 0.0
-    scalo_pep12 -3.0
-    scalo_pep13 1.0
-    scalo_pep14 -2.0
-    scalo_pep15 -3.0
-    scalo_pep16 1.0
-    scalo_pep1 1.0
-    scalo_pep2 1.0
-    scalo_pep3 0.0
-    scalo_pep4 1.0
-    scalo_pep5 2.0
-    scalo_pep6 3.0
-    scalo_pep7 0.0
-    scalo_pep8 0.0
-    scalo_pep9 -3.0
-    scalo_spd 1.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    ocu_mother 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 67.0
+    tutorial 3.0
+    grade 3.3
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 5.0
+    sunday_party_vote 8.0
+    scalo_bsw -5.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo -1.0
+    index_opposition_scalo -3.4
+    index_int_goodies_scalo 0.3333333333333333
+    index_left_party_scalo -1.6666666666666667
+    index_right_party_scalo -0.25
   ]
   node [
     id 64
-    label "uwx"
-    browser 3.0
+    label "udg"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 20.0
-    edu_father 2.0
-    edu_mother 3.0
-    gender 2.0
-    grade 3.7
-    income 500.0
-    ocu_father 0.0
+    rent 0.0
+    income 400.0
+    edu_father 1.0
+    edu_mother 2.0
+    ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 402.0
-    tutorial 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 89.0
+    tutorial 3.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
     linksrechts_self 5.0
-    lr_AfD 10.0
-    lr_BSW 9.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu 2.0
-    scalo_csu -2.0
-    scalo_fdp -2.0
-    scalo_gruene 0.0
-    scalo_linke -1.0
-    scalo_pep10 -2.0
-    scalo_pep11 -4.0
-    scalo_pep12 -3.0
-    scalo_pep13 1.0
-    scalo_pep14 -3.0
-    scalo_pep15 -3.0
-    scalo_pep16 -4.0
-    scalo_pep1 1.0
-    scalo_pep2 1.0
-    scalo_pep3 1.0
-    scalo_pep4 -2.0
-    scalo_pep5 -4.0
-    scalo_pep6 1.0
-    scalo_pep7 -3.0
-    scalo_pep8 2.0
-    scalo_pep9 0.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    sunday_party_vote 8.0
+    scalo_bsw -5.0
+    index_politics_question 4.0
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.0
+    index_opposition_scalo -3.8
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -2.5
   ]
   node [
     id 65
-    label "mdx"
-    browser 3.0
+    label "rht"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 2.0
-    gender 2.0
-    grade 3.3
-    income 700.0
+    rent 425.0
+    income 850.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 0.0
-    tutorial 1.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 67.0
+    tutorial 7.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 4.0
-    lr_AfD 10.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 6.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 1.0
-    scalo_afd -4.0
-    scalo_bsw -1.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp 1.0
-    scalo_gruene -4.0
-    scalo_linke 4.0
-    scalo_pep10 -4.0
-    scalo_pep11 -3.0
-    scalo_pep12 -2.0
-    scalo_pep13 -4.0
-    scalo_pep14 -3.0
-    scalo_pep15 -2.0
-    scalo_pep16 -3.0
-    scalo_pep1 -1.0
-    scalo_pep2 0.0
-    scalo_pep3 1.0
-    scalo_pep4 -1.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 0.0
-    scalo_pep8 0.0
-    scalo_pep9 0.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 0.0
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 1.0
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -2.5
   ]
   node [
     id 66
-    label "3x9"
-    browser 2.0
+    label "dph"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 5.0
+    lang 0.0
     use_of_device 1.0
-    age 23.0
-    edu_father 3.0
-    edu_mother 1.0
-    gender 1.0
-    grade 3.7
-    income 900.0
+    rent 420.0
+    income 600.0
+    edu_father 4.0
+    edu_mother 3.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 70.0
-    rent 329.0
-    tutorial 8.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 9.0
-    lr_Gruene 5.0
-    lr_Linke 4.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 3.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -999.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -5.0
-    scalo_gruene 1.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -2.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 -1.0
-    scalo_pep3 0.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 4.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 8.0
-    sunday_poll 1.0
+    ocu_mother 1.0
+    age 18.0
+    gender 2.0
+    study_program 1.0
+    postcode 14.0
+    tutorial 7.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
+    scalo_bsw -3.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -3.0
+    index_government_scalo -1.4
+    index_opposition_scalo -3.6
+    index_int_goodies_scalo -1.25
+    index_left_party_scalo 0.0
+    index_right_party_scalo -4.75
   ]
   node [
     id 67
-    label "rxs"
-    browser 3.0
+    label "bqh"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 20.0
+    rent 470.0
+    income 500.0
     edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 3.0
-    income 520.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 79.0
-    rent 360.0
-    tutorial 3.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 7.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -3.0
-    scalo_gruene 4.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 3.0
-    scalo_pep2 3.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 2.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 22.0
+    tutorial 7.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
+    scalo_bsw -5.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -0.2
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 1.75
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -4.25
   ]
   node [
     id 68
-    label "mhp"
-    browser 3.0
+    label "afp"
     device_type 3.0
-    lang 1.0
     operating_system 1.0
+    browser 5.0
+    lang 0.0
     use_of_device 1.0
-    age 21.0
+    rent 600.0
+    income 500.0
     edu_father 3.0
-    edu_mother 2.0
+    edu_mother 1.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    age 20.0
     gender 2.0
-    grade 2.0
-    income 700.0
-    ocu_father 0.0
-    ocu_mother 0.0
-    postcode 0.0
-    rent 325.0
-    tutorial 8.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 5.0
-    lr_CSU -999.0
-    lr_FDP -999.0
-    lr_Gruene 2.0
-    lr_Linke -999.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 2.0
-    politics_question_five 5.0
-    politics_question_four 1.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two -999.0
-    scalo_afd -3.0
-    scalo_bsw 0.0
-    scalo_cdu 0.0
-    scalo_csu 0.0
-    scalo_fdp 0.0
-    scalo_gruene -5.0
-    scalo_linke 0.0
-    scalo_pep10 0.0
-    scalo_pep11 -999.0
-    scalo_pep12 -999.0
-    scalo_pep13 -999.0
-    scalo_pep14 -999.0
-    scalo_pep15 -999.0
-    scalo_pep16 -5.0
-    scalo_pep1 -999.0
-    scalo_pep2 -5.0
-    scalo_pep3 -999.0
-    scalo_pep4 -999.0
-    scalo_pep5 -999.0
-    scalo_pep6 0.0
-    scalo_pep7 -4.0
-    scalo_pep8 -999.0
-    scalo_pep9 -4.0
-    scalo_spd 0.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    study_program 1.0
+    postcode 72.0
+    tutorial 4.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.7142857142857144
+    index_participation 2.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 0.6
+    index_opposition_scalo -3.6
+    index_int_goodies_scalo 0.5
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -2.75
   ]
   node [
     id 69
-    label "cfw"
-    browser 3.0
+    label "knb"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 18.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 2.0
-    grade 1.0
-    income 600.0
+    rent 345.0
+    income 0.0
+    edu_father 2.0
+    edu_mother 1.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 78.0
-    rent 0.0
-    tutorial 4.0
-    linksrechts_self 7.0
-    lr_AfD 10.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd 1.0
-    scalo_bsw -4.0
-    scalo_cdu 3.0
-    scalo_csu 2.0
-    scalo_fdp 5.0
-    scalo_gruene -4.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -4.0
-    scalo_pep12 1.0
-    scalo_pep13 1.0
-    scalo_pep14 1.0
-    scalo_pep15 -2.0
-    scalo_pep16 0.0
-    scalo_pep1 -3.0
-    scalo_pep2 4.0
-    scalo_pep3 0.0
-    scalo_pep4 5.0
-    scalo_pep5 -1.0
-    scalo_pep6 4.0
-    scalo_pep7 -4.0
-    scalo_pep8 -3.0
-    scalo_pep9 -4.0
-    scalo_spd -3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 4.0
-    sunday_poll 1.0
+    ocu_mother 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 70.0
+    tutorial 5.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.6
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -3.25
   ]
   node [
     id 70
-    label "mbv"
+    label "bga"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 19.0
-    edu_father 4.0
-    edu_mother 1.0
-    gender 2.0
-    grade 2.7
-    income 50.0
+    rent 367.0
+    income 750.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 0.0
-    tutorial 4.0
-    linksrechts_self 8.0
-    lr_AfD 10.0
-    lr_BSW -999.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd 3.0
-    scalo_bsw 2.0
-    scalo_cdu 4.0
-    scalo_csu 4.0
-    scalo_fdp 3.0
-    scalo_gruene -5.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -4.0
-    scalo_pep12 3.0
-    scalo_pep13 -4.0
-    scalo_pep14 4.0
-    scalo_pep15 2.0
-    scalo_pep16 -2.0
-    scalo_pep1 2.0
-    scalo_pep2 2.0
-    scalo_pep3 -4.0
-    scalo_pep4 4.0
-    scalo_pep5 4.0
-    scalo_pep6 -3.0
-    scalo_pep7 1.0
-    scalo_pep8 -1.0
-    scalo_pep9 -4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 73.0
+    tutorial 5.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 4.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.6
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -2.75
   ]
   node [
     id 71
-    label "yfk"
+    label "ngr"
+    device_type 3.0
+    operating_system 1.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 4.0
-    gender 1.0
-    grade 2.7
-    income 750.0
+    use_of_device 1.0
+    rent 375.0
+    income 800.0
+    edu_father 2.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 71.0
-    rent 405.0
-    tutorial 3.0
-    linksrechts_self 3.0
-    lr_AfD -999.0
-    lr_BSW 9.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 4.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 3.0
-    scalo_pep3 3.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 -2.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 21.0
+    gender 1.0
+    study_program 4.0
+    postcode 88.0
+    tutorial 2.0
+    grade 3.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 5.0
+    sunday_party_vote 1.0
+    scalo_bsw 2.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -0.2
+    index_opposition_scalo -2.6
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 0.0
+    index_right_party_scalo -0.75
   ]
   node [
     id 72
-    label "hch"
+    label "asv"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
     use_of_device 2.0
-    age 21.0
-    edu_father 2.0
-    edu_mother 2.0
-    gender 1.0
-    grade 1.7
+    rent 378.0
     income 500.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 0.0
-    tutorial 6.0
-    linksrechts_self 3.0
-    lr_AfD -999.0
-    lr_BSW 11.0
-    lr_CDU 6.0
-    lr_CSU 5.0
-    lr_FDP 5.0
-    lr_Gruene 8.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 2.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu 1.0
-    scalo_csu 0.0
-    scalo_fdp 0.0
-    scalo_gruene -2.0
-    scalo_linke 2.0
-    scalo_pep10 -2.0
-    scalo_pep11 -999.0
-    scalo_pep12 -999.0
-    scalo_pep13 -1.0
-    scalo_pep14 -999.0
-    scalo_pep15 -3.0
-    scalo_pep16 0.0
-    scalo_pep1 4.0
-    scalo_pep2 3.0
-    scalo_pep3 -999.0
-    scalo_pep4 3.0
-    scalo_pep5 -999.0
-    scalo_pep6 -2.0
-    scalo_pep7 -3.0
-    scalo_pep8 0.0
-    scalo_pep9 -2.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
+    age 21.0
+    gender 1.0
+    study_program 1.0
+    postcode 72.0
+    tutorial 7.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 2.0
     sunday_party_vote 5.0
-    sunday_poll 1.0
+    scalo_bsw 0.0
+    index_politics_question 3.2857142857142856
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 0.6
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 3.0
+    index_right_party_scalo -4.0
   ]
   node [
     id 73
-    label "whx"
-    browser 3.0
+    label "pgx"
     device_type 3.0
-    lang 1.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 1.0
-    grade -999.0
-    income 550.0
+    operating_system 2.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 0.0
+    income 300.0
+    edu_father 3.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 0.0
-    rent 370.0
-    tutorial -999.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 1.0
-    lr_CDU 8.0
-    lr_CSU 5.0
-    lr_FDP -999.0
-    lr_Gruene 2.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 3.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 2.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two -999.0
-    scalo_afd -4.0
-    scalo_bsw -4.0
-    scalo_cdu -1.0
-    scalo_csu -1.0
-    scalo_fdp -999.0
-    scalo_gruene 4.0
-    scalo_linke -999.0
-    scalo_pep10 -4.0
-    scalo_pep11 -2.0
-    scalo_pep12 -999.0
-    scalo_pep13 -999.0
-    scalo_pep14 -999.0
-    scalo_pep15 -2.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 3.0
-    scalo_pep3 -999.0
-    scalo_pep4 -999.0
-    scalo_pep5 -999.0
-    scalo_pep6 2.0
-    scalo_pep7 -4.0
-    scalo_pep8 -2.0
-    scalo_pep9 4.0
-    scalo_spd 1.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 5.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.8
+    index_opposition_scalo -2.6
+    index_int_goodies_scalo 1.5
+    index_left_party_scalo 4.333333333333333
+    index_right_party_scalo -2.0
   ]
   node [
     id 74
-    label "gth"
-    browser 3.0
+    label "gb4"
     device_type 2.0
+    operating_system 5.0
+    browser 3.0
     lang 1.0
-    operating_system 4.0
-    use_of_device 3.0
-    age 22.0
-    edu_father 2.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.3
-    income 1200.0
+    use_of_device 2.0
+    rent 300.0
+    income 500.0
+    edu_father 1.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 0.0
-    rent 368.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 78.0
     tutorial 8.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 6.0
-    lr_CDU 9.0
-    lr_CSU 9.0
-    lr_FDP 6.0
-    lr_Gruene 4.0
-    lr_Linke 3.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 3.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw 0.0
-    scalo_cdu -3.0
-    scalo_csu -3.0
-    scalo_fdp 3.0
-    scalo_gruene 4.0
-    scalo_linke -999.0
-    scalo_pep10 -5.0
-    scalo_pep11 0.0
-    scalo_pep12 0.0
-    scalo_pep13 0.0
-    scalo_pep14 0.0
-    scalo_pep15 0.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 4.0
-    scalo_pep3 0.0
-    scalo_pep4 0.0
-    scalo_pep5 0.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 0.0
-    scalo_pep9 4.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 2.0
     sunday_party_vote 0.0
-    sunday_poll 0.0
+    scalo_bsw -2.0
+    index_politics_question 3.2857142857142856
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -1.0
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -4.75
   ]
   node [
     id 75
-    label "tpu"
-    browser 3.0
+    label "av4"
     device_type 3.0
-    lang 1.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 1.0
-    age 21.0
+    rent 550.0
+    income 1500.0
     edu_father 3.0
     edu_mother 3.0
-    gender 1.0
-    grade 3.7
-    income 1200.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 0.0
-    rent 425.0
-    tutorial -999.0
-    linksrechts_self 3.0
-    lr_AfD 9.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 7.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 3.0
-    politics_question_five 3.0
-    politics_question_four -999.0
-    politics_question_one 2.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 1.0
-    politics_question_two -999.0
-    scalo_afd -3.0
-    scalo_bsw -3.0
-    scalo_cdu -1.0
-    scalo_csu -1.0
-    scalo_fdp -4.0
-    scalo_gruene 1.0
-    scalo_linke 1.0
-    scalo_pep10 -4.0
-    scalo_pep11 -999.0
-    scalo_pep12 -999.0
-    scalo_pep13 -999.0
-    scalo_pep14 -999.0
-    scalo_pep15 -999.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 -2.0
-    scalo_pep3 -999.0
-    scalo_pep4 -999.0
-    scalo_pep5 -999.0
-    scalo_pep6 0.0
-    scalo_pep7 -3.0
-    scalo_pep8 -999.0
-    scalo_pep9 2.0
-    scalo_spd -1.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 21.0
+    tutorial 2.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_11 "Threads"
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 4.428571428571429
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 0.8
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -2.25
   ]
   node [
     id 76
-    label "xyb"
-    browser 5.0
-    device_type 3.0
-    lang 1.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 22.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 1.0
-    grade 3.7
-    income 900.0
+    label "saf"
+    device_type 2.0
+    operating_system 5.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 342.0
+    income 0.0
+    edu_father 2.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 0.0
-    rent 320.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 88.0
     tutorial 1.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 7.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 3.0
-    politics_question_five 2.0
-    politics_question_four 2.0
-    politics_question_one 2.0
-    politics_question_seven 3.0
-    politics_question_six 2.0
-    politics_question_three 2.0
-    politics_question_two -999.0
-    scalo_afd -5.0
-    scalo_bsw -999.0
-    scalo_cdu -2.0
-    scalo_csu -2.0
-    scalo_fdp -5.0
-    scalo_gruene 0.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -999.0
-    scalo_pep12 -999.0
-    scalo_pep13 -999.0
-    scalo_pep14 -999.0
-    scalo_pep15 -999.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 -3.0
-    scalo_pep3 -999.0
-    scalo_pep4 -999.0
-    scalo_pep5 -999.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 -999.0
-    scalo_pep9 3.0
-    scalo_spd -2.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
+    sunday_party_vote 2.0
+    scalo_bsw -5.0
+    index_politics_question 3.7142857142857144
+    index_participation 2.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 0.6
+    index_opposition_scalo -2.4
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo -1.6666666666666667
+    index_right_party_scalo -0.5
   ]
   node [
     id 77
-    label "3eh"
+    label "e3v"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
     use_of_device 2.0
-    age 20.0
-    edu_father 2.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.3
-    income 600.0
+    rent 402.0
+    income 800.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 79.0
-    rent 402.0
-    tutorial 5.0
-    linksrechts_self 4.0
-    lr_AfD -999.0
-    lr_BSW 8.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 4.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -3.0
-    scalo_pep1 -1.0
-    scalo_pep2 -1.0
-    scalo_pep3 1.0
-    scalo_pep4 -3.0
-    scalo_pep5 -3.0
-    scalo_pep6 0.0
-    scalo_pep7 -3.0
-    scalo_pep8 3.0
-    scalo_pep9 -2.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 73.0
+    tutorial 7.0
+    grade 1.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_11 "Reddit"
+    linksrechts_self 5.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 0.4
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -3.0
   ]
   node [
     id 78
-    label "fv4"
-    browser 3.0
+    label "bpy"
     device_type 3.0
+    operating_system 1.0
+    browser 4.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
+    use_of_device 1.0
+    rent 320.0
+    income 1414.0
     edu_father 4.0
-    edu_mother 4.0
-    gender 1.0
-    grade 2.3
-    income 650.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 71.0
-    rent 325.0
-    tutorial 7.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -1.0
-    scalo_gruene 2.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -1.0
-    scalo_pep2 4.0
-    scalo_pep3 -1.0
-    scalo_pep4 -2.0
-    scalo_pep5 -5.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 4.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
+    age 19.0
+    study_program 1.0
+    postcode 76.0
+    tutorial 4.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_11 "Reddit"
+    linksrechts_self 4.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.142857142857143
+    index_participation 2.0
+    index_int_criminal_scalo -3.6666666666666665
+    index_government_scalo 0.6
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo 0.25
+    index_left_party_scalo 2.0
+    index_right_party_scalo -1.5
   ]
   node [
     id 79
-    label "3fv"
+    label "sbf"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 19.0
     edu_father 3.0
     edu_mother 1.0
-    gender 1.0
-    grade 2.3
-    income 875.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 50.0
-    rent 425.0
-    tutorial 7.0
-    linksrechts_self 5.0
-    lr_AfD 10.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 1.0
-    scalo_csu -1.0
-    scalo_fdp -2.0
-    scalo_gruene 2.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 3.0
-    scalo_pep3 1.0
-    scalo_pep4 -2.0
-    scalo_pep5 -3.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 -1.0
-    scalo_pep9 -2.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 20.0
+    gender 2.0
+    study_program 4.0
+    postcode 97.0
+    tutorial 3.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
+    sunday_party_vote 2.0
+    scalo_bsw -3.0
+    index_politics_question 3.5714285714285716
+    index_participation 1.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo 1.4
+    index_opposition_scalo -0.2
+    index_int_goodies_scalo 2.0
+    index_left_party_scalo 0.6666666666666666
+    index_right_party_scalo 0.25
   ]
   node [
     id 80
-    label "mw9"
-    browser 3.0
+    label "bqr"
     device_type 3.0
+    operating_system 1.0
+    browser 5.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 2.0
+    use_of_device 1.0
+    rent 410.0
+    income 700.0
+    edu_father 3.0
     edu_mother 1.0
-    gender 1.0
-    grade 3.3
-    income 830.0
     ocu_father 1.0
     ocu_mother 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
     postcode 70.0
-    rent 370.0
     tutorial 5.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -2.0
-    scalo_gruene 2.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 3.0
-    scalo_pep3 -2.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 1.0
-    scalo_pep9 1.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_11 "Letterboxd, Discord"
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
+    scalo_bsw -1.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo -0.4
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo 1.0
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -2.75
   ]
   node [
     id 81
-    label "add"
-    browser 3.0
+    label "bs3"
     device_type 3.0
+    operating_system 1.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 1.0
-    grade 2.3
-    income 940.0
+    use_of_device 1.0
+    rent 410.0
+    income 400.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 400.0
-    tutorial 7.0
-    linksrechts_self 2.0
-    lr_AfD -999.0
-    lr_BSW -999.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 10.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 3.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp -4.0
-    scalo_gruene 4.0
-    scalo_linke 5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 3.0
-    scalo_pep2 5.0
-    scalo_pep3 2.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 2.0
-    scalo_spd 5.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 97.0
+    tutorial 6.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.285714285714286
+    index_participation 2.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 2.4
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo -0.6666666666666666
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -2.5
   ]
   node [
     id 82
-    label "hry"
+    label "kru"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
-    use_of_device 3.0
-    age 18.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 3.3
-    income 850.0
-    ocu_father 1.0
-    ocu_mother 0.0
-    postcode 71.0
+    use_of_device 2.0
     rent 0.0
-    tutorial 2.0
-    linksrechts_self 5.0
-    lr_AfD 10.0
-    lr_BSW 9.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
+    income 300.0
+    edu_father 1.0
+    edu_mother 0.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    age 22.0
+    gender 1.0
+    study_program 1.0
+    postcode 88.0
+    tutorial 6.0
+    grade 4.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 5.0
     scalo_bsw -5.0
-    scalo_cdu -1.0
-    scalo_csu -3.0
-    scalo_fdp 1.0
-    scalo_gruene 3.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 -1.0
-    scalo_pep14 -4.0
-    scalo_pep15 -3.0
-    scalo_pep16 -999.0
-    scalo_pep1 -1.0
-    scalo_pep2 4.0
-    scalo_pep3 1.0
-    scalo_pep4 1.0
-    scalo_pep5 -3.0
-    scalo_pep6 -3.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 0.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.4285714285714284
+    index_participation 1.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 0.2
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -2.75
   ]
   node [
     id 83
-    label "ngr"
+    label "k4w"
+    device_type 2.0
+    operating_system 4.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 21.0
-    edu_father 2.0
-    edu_mother 1.0
-    gender 1.0
-    grade 3.7
-    income 800.0
+    use_of_device 3.0
+    rent 0.0
+    income 850.0
+    edu_father 3.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 375.0
-    tutorial 2.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 6.0
-    lr_CDU 6.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw 2.0
-    scalo_cdu 1.0
-    scalo_csu 1.0
-    scalo_fdp 0.0
-    scalo_gruene 2.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 -1.0
-    scalo_pep14 -5.0
-    scalo_pep15 2.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 -4.0
-    scalo_pep4 0.0
-    scalo_pep5 -3.0
-    scalo_pep6 -4.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 4.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    age 26.0
+    gender 1.0
+    study_program 4.0
+    postcode 78.0
+    tutorial 5.0
+    grade 4.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 7.0
+    sunday_party_vote 2.0
+    index_politics_question 3.4285714285714284
+    index_participation 2.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 1.2
+    index_opposition_scalo -1.8
+    index_int_goodies_scalo -2.25
+    index_left_party_scalo -1.3333333333333333
+    index_right_party_scalo 0.6666666666666666
   ]
   node [
     id 84
-    label "hmt"
-    browser 5.0
+    label "ent"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 5.0
+    lang 0.0
     use_of_device 1.0
-    age 22.0
-    edu_father 2.0
-    edu_mother 3.0
-    gender 2.0
-    grade 3.7
-    income 700.0
+    rent 370.0
+    income 650.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 77.0
-    rent 410.0
-    tutorial 1.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 5.0
-    lr_CDU 9.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 6.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 1.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -2.0
-    scalo_pep16 -3.0
-    scalo_pep1 2.0
-    scalo_pep2 1.0
-    scalo_pep3 4.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 1.0
-    scalo_pep9 -1.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 71.0
+    tutorial 5.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 2.0
     sunday_party_vote 5.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.285714285714286
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.8
+    index_opposition_scalo -4.8
+    index_int_goodies_scalo 0.5
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -3.75
   ]
   node [
     id 85
-    label "ktd"
-    browser 3.0
+    label "rbc"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 18.0
+    browser 3.0
+    lang 0.0
+    use_of_device 1.0
+    rent 342.0
+    income 855.0
     edu_father 3.0
     edu_mother 3.0
-    gender 1.0
-    grade 3.0
-    income 400.0
     ocu_father 1.0
-    ocu_mother 1.0
-    postcode 88.0
-    rent 350.0
-    tutorial 4.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 0.0
-    scalo_pep1 2.0
-    scalo_pep2 4.0
-    scalo_pep3 1.0
-    scalo_pep4 -3.0
-    scalo_pep5 -3.0
-    scalo_pep6 -3.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 4.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
+    ocu_mother 0.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 72.0
+    tutorial 6.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
+    social_networks_11 "Discord "
+    linksrechts_self 5.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -3.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -0.6
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -3.5
   ]
   node [
     id 86
-    label "ahn"
-    browser 3.0
+    label "xtk"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 22.0
-    edu_father 4.0
-    edu_mother 1.0
-    gender 1.0
-    grade 3.0
-    income 1000.0
+    rent 590.0
+    income 500.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 0.0
-    rent 330.0
-    tutorial 4.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 6.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 1.0
-    politics_question_six 3.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -4.0
-    scalo_csu -5.0
-    scalo_fdp -5.0
-    scalo_gruene 3.0
-    scalo_linke -3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 -2.0
-    scalo_pep14 -5.0
-    scalo_pep15 0.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 4.0
-    scalo_pep3 -3.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 -4.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 0.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
+    ocu_mother 1.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 86.0
+    tutorial 5.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 4.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.5714285714285716
+    index_participation 2.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 1.8
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 1.0
+    index_right_party_scalo -4.0
   ]
   node [
     id 87
-    label "9fx"
-    browser 3.0
+    label "byq"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
-    edu_father 1.0
+    rent 412.0
+    income 800.0
+    edu_father 3.0
     edu_mother 3.0
-    gender 2.0
-    grade 3.0
-    income 250.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 71.0
-    rent 270.0
-    tutorial 1.0
-    linksrechts_self 3.0
-    lr_AfD 10.0
-    lr_BSW 10.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 83.0
+    tutorial 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_10 1.0
+    linksrechts_self 1.0
+    sunday_party_vote 5.0
     scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -5.0
-    scalo_fdp -2.0
-    scalo_gruene 3.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 2.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 1.0
-    scalo_pep7 -4.0
-    scalo_pep8 3.0
-    scalo_pep9 0.0
-    scalo_spd 5.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -2.0
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -1.75
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -5.0
   ]
   node [
     id 88
-    label "uge"
-    browser 3.0
+    label "t94"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 21.0
+    use_of_device 2.0
+    rent 450.0
+    income 1500.0
     edu_father 3.0
-    edu_mother -999.0
-    gender 2.0
-    grade 4.0
-    income 2300.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 71.0
-    rent 650.0
-    tutorial 4.0
-    linksrechts_self 7.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -2.0
-    scalo_bsw -1.0
-    scalo_cdu 4.0
-    scalo_csu 4.0
-    scalo_fdp 3.0
-    scalo_gruene -4.0
-    scalo_linke -5.0
-    scalo_pep10 -1.0
-    scalo_pep11 -5.0
-    scalo_pep12 3.0
-    scalo_pep13 -1.0
-    scalo_pep14 -3.0
-    scalo_pep15 -1.0
-    scalo_pep16 -3.0
-    scalo_pep1 -4.0
-    scalo_pep2 -2.0
-    scalo_pep3 1.0
-    scalo_pep4 3.0
-    scalo_pep5 3.0
-    scalo_pep6 2.0
-    scalo_pep7 -2.0
-    scalo_pep8 -1.0
-    scalo_pep9 -4.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    age 21.0
+    gender 1.0
+    study_program 4.0
+    postcode 89.0
+    tutorial 2.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.8
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -2.0
   ]
   node [
     id 89
-    label "qay"
-    browser 3.0
+    label "m49"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 22.0
-    edu_father 3.0
-    edu_mother 0.0
+    rent 370.0
+    income 900.0
+    edu_father 4.0
+    edu_mother 4.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    age 23.0
     gender 1.0
-    grade 2.7
-    income 840.0
-    ocu_father 0.0
-    ocu_mother 0.0
-    postcode 79.0
-    rent 410.0
-    tutorial 7.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 4.0
-    lr_CSU 6.0
-    lr_FDP 4.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 2.0
-    politics_question_six 3.0
-    politics_question_three 4.0
-    politics_question_two -999.0
-    scalo_afd -5.0
-    scalo_bsw -999.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -999.0
-    scalo_gruene 0.0
-    scalo_linke 1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -999.0
-    scalo_pep12 -3.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 1.0
-    scalo_pep3 0.0
-    scalo_pep4 -3.0
-    scalo_pep5 -5.0
-    scalo_pep6 2.0
-    scalo_pep7 -4.0
-    scalo_pep8 2.0
-    scalo_pep9 0.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 2.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 2.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.6
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -4.75
   ]
   node [
     id 90
-    label "sva"
+    label "ffe"
+    device_type 3.0
+    operating_system 1.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
-    use_of_device 2.0
-    age 20.0
+    use_of_device 1.0
+    rent 342.0
+    income 800.0
     edu_father 1.0
-    edu_mother 3.0
-    gender 2.0
-    grade 3.3
-    income 0.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 21.0
-    rent 325.0
-    tutorial 4.0
+    age 21.0
+    gender 1.0
+    study_program 1.0
+    postcode 27.0
+    tutorial 2.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 3.0
-    lr_AfD -999.0
-    lr_BSW 1.0
-    lr_CDU 10.0
-    lr_CSU 10.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 5.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -5.0
-    scalo_fdp -5.0
-    scalo_gruene 3.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 -4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 -3.0
-    scalo_pep3 2.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 -3.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
     sunday_party_vote 1.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.0
+    index_opposition_scalo -4.8
+    index_int_goodies_scalo 0.25
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -4.75
   ]
   node [
     id 91
-    label "wrc"
-    browser 5.0
+    label "uhg"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 20.0
-    edu_father 2.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.3
+    use_of_device 2.0
+    rent 600.0
     income 900.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 71.0
-    rent 410.0
-    tutorial 8.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 2.0
-    politics_question_four 3.0
-    politics_question_one 3.0
-    politics_question_seven 3.0
-    politics_question_six 3.0
-    politics_question_three 2.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -3.0
-    scalo_csu -3.0
-    scalo_fdp -1.0
-    scalo_gruene 2.0
-    scalo_linke 1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 2.0
-    scalo_pep3 0.0
-    scalo_pep4 -3.0
-    scalo_pep5 -3.0
-    scalo_pep6 2.0
-    scalo_pep7 -4.0
-    scalo_pep8 0.0
-    scalo_pep9 1.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 73.0
+    tutorial 2.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 1.4
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 2.0
+    index_right_party_scalo -4.0
   ]
   node [
     id 92
-    label "rht"
-    browser 3.0
+    label "ceh"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 20.0
-    edu_father -999.0
-    edu_mother 3.0
-    gender 1.0
-    grade -999.0
-    income 850.0
+    browser 3.0
+    lang 0.0
+    use_of_device 1.0
+    rent 0.0
+    income 530.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 67.0
-    rent 425.0
-    tutorial 7.0
-    linksrechts_self 4.0
-    lr_AfD -999.0
-    lr_BSW -999.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp 2.0
-    scalo_gruene 5.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 -999.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -3.0
-    scalo_pep1 -3.0
-    scalo_pep2 4.0
-    scalo_pep3 1.0
-    scalo_pep4 -3.0
-    scalo_pep5 -5.0
-    scalo_pep6 5.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 0.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
+    age 18.0
+    gender 1.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -3.0
+    index_politics_question 4.2
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -1.0
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo -1.25
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -3.75
   ]
   node [
     id 93
-    label "yer"
-    browser 3.0
+    label "kry"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 2.0
-    grade 3.0
-    income 410.0
+    rent 0.0
+    income 400.0
+    edu_father 4.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
+    age 18.0
+    gender 1.0
+    study_program 1.0
     postcode 78.0
-    rent 0.0
-    tutorial 4.0
-    linksrechts_self 7.0
-    lr_AfD 11.0
-    lr_BSW 2.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw 1.0
-    scalo_cdu -1.0
-    scalo_csu -2.0
-    scalo_fdp 1.0
-    scalo_gruene 5.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -999.0
-    scalo_pep12 -2.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 2.0
-    scalo_pep16 -999.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 4.0
-    scalo_pep4 -2.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -4.0
-    scalo_pep8 5.0
-    scalo_pep9 -1.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 5.0
+    sunday_party_vote 8.0
+    scalo_bsw 0.0
+    index_politics_question 3.0
+    index_participation 3.0
+    index_int_criminal_scalo -1.6666666666666667
+    index_government_scalo -0.8
+    index_opposition_scalo -2.6
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 3.0
+    index_right_party_scalo -1.5
   ]
   node [
     id 94
-    label "p49"
+    label "hry"
+    device_type 2.0
+    operating_system 4.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
+    use_of_device 3.0
+    rent 0.0
+    income 850.0
     edu_father 3.0
     edu_mother 3.0
-    gender 1.0
-    grade 3.3
-    income 400.0
     ocu_father 1.0
-    ocu_mother 1.0
-    postcode 70.0
-    rent 800.0
-    tutorial 1.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 1.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -3.0
-    scalo_csu -3.0
-    scalo_fdp -2.0
-    scalo_gruene -1.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -4.0
-    scalo_pep12 -4.0
-    scalo_pep13 -2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 1.0
-    scalo_pep3 -3.0
-    scalo_pep4 -3.0
-    scalo_pep5 -3.0
-    scalo_pep6 0.0
-    scalo_pep7 -4.0
-    scalo_pep8 -4.0
-    scalo_pep9 4.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    ocu_mother 0.0
+    age 18.0
+    gender 1.0
+    study_program 1.0
+    postcode 71.0
+    tutorial 2.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 5.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.285714285714286
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.6
+    index_opposition_scalo -3.8
+    index_int_goodies_scalo -0.75
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -2.0
   ]
   node [
     id 95
-    label "yqq"
-    browser 3.0
+    label "mhp"
     device_type 3.0
-    lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 20.0
+    operating_system 1.0
+    browser 3.0
+    lang 1.0
+    use_of_device 1.0
+    rent 325.0
+    income 700.0
     edu_father 3.0
-    edu_mother 4.0
-    gender 1.0
-    grade 3.7
-    income 400.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 79.0
-    rent 820.0
-    tutorial 7.0
+    edu_mother 2.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 8.0
+    grade 2.0
+    social_networks_1 1.0
+    social_networks_2 1.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
     linksrechts_self 5.0
-    lr_AfD -999.0
-    lr_BSW 3.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 2.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 2.0
-    scalo_csu -4.0
-    scalo_fdp 1.0
-    scalo_gruene 3.0
-    scalo_linke -1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 -999.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 3.0
-    scalo_pep2 4.0
-    scalo_pep3 0.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 -3.0
-    scalo_pep7 -5.0
-    scalo_pep8 1.0
-    scalo_pep9 3.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    sunday_party_vote 0.0
+    scalo_bsw 0.0
+    index_politics_question 3.5
+    index_participation 2.0
+    index_int_criminal_scalo -3.0
+    index_int_goodies_scalo -3.0
+    index_left_party_scalo -1.6666666666666667
+    index_right_party_scalo -0.75
   ]
   node [
     id 96
-    label "yg9"
+    label "yfk"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 3.0
     use_of_device 2.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 1.0
-    grade 3.0
-    income 600.0
+    rent 405.0
+    income 750.0
+    edu_father 3.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 0.0
-    tutorial 2.0
-    linksrechts_self 6.0
-    lr_AfD 10.0
-    lr_BSW 7.0
-    lr_CDU 7.0
-    lr_CSU 7.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 1.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -3.0
-    scalo_bsw 0.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -5.0
-    scalo_gruene -5.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 -5.0
-    scalo_pep14 -5.0
-    scalo_pep15 0.0
-    scalo_pep16 -3.0
-    scalo_pep1 -3.0
-    scalo_pep2 0.0
-    scalo_pep3 -5.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 -5.0
-    scalo_pep7 -5.0
-    scalo_pep8 -4.0
-    scalo_pep9 -3.0
-    scalo_spd -4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 7.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 71.0
+    tutorial 3.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.285714285714286
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.4
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 3.0
+    index_right_party_scalo -4.0
   ]
   node [
     id 97
-    label "bgq"
-    browser 3.0
+    label "hch"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 18.0
-    edu_father 3.0
-    edu_mother 1.0
-    gender 2.0
-    grade 2.7
-    income 550.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 0.0
+    income 500.0
+    edu_father 2.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 58.0
-    rent 200.0
-    tutorial 2.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 7.0
-    lr_FDP 1.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 1.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
+    age 21.0
+    gender 1.0
+    postcode 88.0
+    tutorial 6.0
+    grade 1.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 5.0
     scalo_bsw -4.0
-    scalo_cdu 1.0
-    scalo_csu 0.0
-    scalo_fdp -4.0
-    scalo_gruene -3.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -999.0
-    scalo_pep12 0.0
-    scalo_pep13 -2.0
-    scalo_pep14 -999.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 -4.0
-    scalo_pep3 0.0
-    scalo_pep4 -2.0
-    scalo_pep5 -4.0
-    scalo_pep6 -1.0
-    scalo_pep7 -4.0
-    scalo_pep8 1.0
-    scalo_pep9 -5.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    index_politics_question 3.857142857142857
+    index_participation 1.0
+    index_int_criminal_scalo -1.6666666666666667
+    index_government_scalo 1.5
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo -0.3333333333333333
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -1.0
   ]
   node [
     id 98
-    label "asv"
-    browser 3.0
+    label "ucp"
     device_type 2.0
-    lang 0.0
     operating_system 5.0
-    use_of_device 2.0
-    age 21.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 1.0
-    grade 2.3
-    income 500.0
-    ocu_father 1.0
+    browser 3.0
+    lang 0.0
+    use_of_device 3.0
+    rent 785.0
+    income 1300.0
+    edu_mother 2.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 378.0
-    tutorial 7.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 6.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 10.0
-    lr_Gruene 3.0
-    lr_Linke 4.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw 0.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -2.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 1.0
-    scalo_pep16 -3.0
-    scalo_pep1 0.0
-    scalo_pep2 4.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 89.0
+    tutorial 2.0
+    grade 1.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 5.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.4
+    index_opposition_scalo -4.8
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -3.25
   ]
   node [
     id 99
-    label "pgx"
-    browser 3.0
+    label "qhv"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 20.0
+    rent 410.0
+    income 350.0
     edu_father 3.0
-    edu_mother 2.0
-    gender 1.0
-    grade 2.0
-    income 300.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 0.0
-    tutorial 5.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 61.0
+    tutorial 2.0
+    grade 1.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 4.0
-    lr_AfD -999.0
-    lr_BSW 1.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 3.0
-    scalo_afd -5.0
+    sunday_party_vote 1.0
     scalo_bsw -5.0
-    scalo_cdu 0.0
-    scalo_csu 0.0
-    scalo_fdp -3.0
-    scalo_gruene 5.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 0.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -5.0
-    scalo_pep1 4.0
-    scalo_pep2 3.0
-    scalo_pep3 0.0
-    scalo_pep4 -4.0
-    scalo_pep5 0.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 0.0
-    scalo_pep9 4.0
-    scalo_spd 5.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -3.6666666666666665
+    index_government_scalo 2.6
+    index_opposition_scalo -2.2
+    index_int_goodies_scalo 2.0
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo 0.25
   ]
   node [
     id 100
-    label "gb4"
+    label "cnu"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
-    lang 1.0
-    operating_system 5.0
+    lang 0.0
     use_of_device 2.0
-    age 20.0
-    edu_father 1.0
-    edu_mother 2.0
-    gender 1.0
-    grade 2.7
-    income 500.0
-    ocu_father 1.0
+    rent 600.0
+    income 800.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 300.0
-    tutorial 8.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 6.0
-    lr_CDU 10.0
-    lr_CSU 11.0
-    lr_FDP 9.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 5.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 3.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -2.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp -4.0
-    scalo_gruene 1.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -2.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 1.0
-    scalo_pep3 0.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 1.0
-    scalo_pep9 2.0
-    scalo_spd 1.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    age 19.0
+    gender 1.0
+    study_program 4.0
+    postcode 70.0
+    tutorial 5.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -4.5
+    index_government_scalo 2.0
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -4.25
   ]
   node [
     id 101
-    label "dph"
-    browser 5.0
+    label "ddh"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 4.0
+    lang 0.0
     use_of_device 1.0
-    age 18.0
-    edu_father 4.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.3
-    income 600.0
+    rent 750.0
+    income 2100.0
+    edu_father 2.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 14.0
-    rent 420.0
-    tutorial 7.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 9.0
-    lr_Gruene 7.0
-    lr_Linke 2.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -4.0
-    scalo_csu -5.0
-    scalo_fdp -5.0
-    scalo_gruene -3.0
-    scalo_linke 5.0
-    scalo_pep10 0.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 0.0
-    scalo_pep14 -4.0
-    scalo_pep15 1.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 2.0
-    scalo_pep3 -2.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 -4.0
-    scalo_pep7 -4.0
-    scalo_pep8 -1.0
-    scalo_pep9 1.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 2.0
+    grade 2.0
+    social_networks_1 1.0
+    social_networks_2 1.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 4.571428571428571
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -1.0
+    index_opposition_scalo -4.8
+    index_int_goodies_scalo -2.5
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -3.75
   ]
   node [
     id 102
-    label "vrm"
-    browser 3.0
+    label "hhb"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 20.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.7
-    income 300.0
-    ocu_father 1.0
+    rent 0.0
+    income 500.0
+    edu_father 2.0
+    edu_mother 2.0
+    ocu_father 0.0
     ocu_mother 1.0
-    postcode 64.0
-    rent 430.0
-    tutorial 7.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp -2.0
-    scalo_gruene 4.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 3.0
-    scalo_pep3 1.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 5.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 6.0
+    sunday_party_vote 7.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo 0.0
+    index_government_scalo -1.8
+    index_opposition_scalo -1.4
+    index_int_goodies_scalo -2.25
+    index_left_party_scalo -2.0
+    index_right_party_scalo -0.5
   ]
   node [
     id 103
-    label "buv"
+    label "cpk"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
     use_of_device 2.0
-    age 19.0
+    rent 500.0
+    income 800.0
     edu_father 3.0
-    edu_mother 1.0
-    gender 2.0
-    grade 3.0
-    income 1000.0
+    edu_mother 4.0
     ocu_father 1.0
-    ocu_mother -999.0
-    postcode 91.0
-    rent 425.0
-    tutorial 7.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
+    ocu_mother 1.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 72.0
+    tutorial 2.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
+    sunday_party_vote 2.0
     scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 4.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -999.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 2.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 1.0
-    scalo_pep9 4.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 1.2
+    index_opposition_scalo -3.6
+    index_int_goodies_scalo 0.25
+    index_left_party_scalo -1.0
+    index_right_party_scalo -1.75
   ]
   node [
     id 104
-    label "9fs"
-    browser 3.0
+    label "vcb"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 21.0
-    edu_father 1.0
-    edu_mother 3.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 650.0
+    income 1200.0
+    edu_father 3.0
+    edu_mother 0.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    age 20.0
     gender 2.0
-    grade 3.0
-    income 350.0
-    ocu_father 0.0
-    ocu_mother 0.0
+    study_program 1.0
     postcode 78.0
-    rent 0.0
-    tutorial 4.0
-    linksrechts_self 4.0
-    lr_AfD -999.0
-    lr_BSW 10.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 9.0
-    lr_Gruene 5.0
-    lr_Linke 3.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
+    tutorial 3.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
+    sunday_party_vote 2.0
     scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 2.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 -2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -3.0
-    scalo_pep1 -1.0
-    scalo_pep2 0.0
-    scalo_pep3 2.0
-    scalo_pep4 -1.0
-    scalo_pep5 -3.0
-    scalo_pep6 -1.0
-    scalo_pep7 -4.0
-    scalo_pep8 4.0
-    scalo_pep9 0.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.5714285714285716
+    index_participation 1.0
+    index_int_criminal_scalo -0.6666666666666666
+    index_government_scalo -0.4
+    index_opposition_scalo -1.2
+    index_int_goodies_scalo -0.75
+    index_left_party_scalo -2.3333333333333335
+    index_right_party_scalo 0.75
   ]
   node [
     id 105
-    label "tcc"
-    browser 3.0
+    label "v3e"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 3.3
-    income 750.0
-    ocu_father 1.0
+    rent 550.0
+    income 800.0
+    edu_father 4.0
+    edu_mother 1.0
+    ocu_father 0.0
     ocu_mother 1.0
-    postcode 70.0
-    rent 370.0
-    tutorial 4.0
-    linksrechts_self 3.0
-    lr_AfD 10.0
-    lr_BSW -999.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -1.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp -3.0
-    scalo_gruene 2.0
-    scalo_linke 2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -1.0
-    scalo_pep16 -3.0
-    scalo_pep1 2.0
-    scalo_pep2 2.0
-    scalo_pep3 4.0
-    scalo_pep4 -4.0
-    scalo_pep5 -3.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 -1.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 22.0
+    tutorial 3.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
     sunday_party_vote 1.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.0
+    index_participation 2.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -3.6
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo -4.0
+    index_left_party_scalo -2.3333333333333335
+    index_right_party_scalo -2.0
   ]
   node [
     id 106
-    label "ktb"
-    browser 3.0
+    label "crq"
     device_type 3.0
-    lang 1.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 19.0
-    edu_father -999.0
+    operating_system 2.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 435.0
+    income 1000.0
+    edu_father 1.0
     edu_mother 1.0
-    gender 1.0
-    grade 2.7
-    income 150.0
-    ocu_father -999.0
+    ocu_father 1.0
     ocu_mother 1.0
-    postcode 0.0
-    rent 425.0
-    tutorial 8.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 72.0
+    tutorial 1.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
     linksrechts_self 4.0
-    lr_AfD 10.0
-    lr_BSW 2.0
-    lr_CDU 7.0
-    lr_CSU 7.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 3.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 3.0
-    politics_question_five 4.0
-    politics_question_four -999.0
-    politics_question_one 2.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 3.0
-    politics_question_two -999.0
-    scalo_afd -999.0
-    scalo_bsw -999.0
-    scalo_cdu -999.0
-    scalo_csu -999.0
-    scalo_fdp -999.0
-    scalo_gruene -999.0
-    scalo_linke -999.0
-    scalo_pep10 -3.0
-    scalo_pep11 -999.0
-    scalo_pep12 -999.0
-    scalo_pep13 -999.0
-    scalo_pep14 -999.0
-    scalo_pep15 -999.0
-    scalo_pep16 -2.0
-    scalo_pep1 -1.0
-    scalo_pep2 1.0
-    scalo_pep3 -999.0
-    scalo_pep4 -999.0
-    scalo_pep5 -999.0
-    scalo_pep6 -1.0
-    scalo_pep7 -3.0
-    scalo_pep8 -999.0
-    scalo_pep9 -1.0
-    scalo_spd -999.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -1.0
+    index_politics_question 3.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo -0.75
+    index_opposition_scalo -4.5
+    index_int_goodies_scalo 1.0
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -3.75
   ]
   node [
     id 107
-    label "vtt"
-    browser 3.0
+    label "fep"
     device_type 3.0
-    lang 1.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 20.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 1.7
-    income 300.0
+    operating_system 2.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 440.0
+    income 200.0
+    edu_father 1.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 0.0
-    rent 450.0
-    tutorial 8.0
-    linksrechts_self 5.0
-    lr_AfD 10.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 1.0
-    politics_question_five 5.0
-    politics_question_four -999.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -4.0
-    scalo_bsw -3.0
-    scalo_cdu -2.0
-    scalo_csu -2.0
-    scalo_fdp 4.0
-    scalo_gruene 3.0
-    scalo_linke -3.0
-    scalo_pep10 -4.0
-    scalo_pep11 -999.0
-    scalo_pep12 -999.0
-    scalo_pep13 -999.0
-    scalo_pep14 -999.0
-    scalo_pep15 -999.0
-    scalo_pep16 -3.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 -999.0
-    scalo_pep4 -999.0
-    scalo_pep5 -999.0
-    scalo_pep6 -999.0
-    scalo_pep7 -1.0
-    scalo_pep8 -999.0
-    scalo_pep9 3.0
-    scalo_spd 4.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 76.0
+    tutorial 5.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.285714285714286
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -0.4
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo -0.3333333333333333
+    index_right_party_scalo -3.5
   ]
   node [
     id 108
-    label "tpf"
-    browser 3.0
+    label "whx"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 3.0
+    lang 1.0
     use_of_device 1.0
-    age 28.0
+    rent 370.0
+    income 550.0
     edu_father 1.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.7
-    income 0.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 0.0
-    tutorial 4.0
-    linksrechts_self 6.0
-    lr_AfD 8.0
-    lr_BSW 1.0
-    lr_CDU 5.0
-    lr_CSU 6.0
-    lr_FDP 5.0
-    lr_Gruene 1.0
-    lr_Linke 1.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 1.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two 1.0
-    scalo_afd 4.0
-    scalo_bsw 0.0
-    scalo_cdu 2.0
-    scalo_csu 5.0
-    scalo_fdp -3.0
-    scalo_gruene -5.0
-    scalo_linke -5.0
-    scalo_pep10 3.0
-    scalo_pep11 2.0
-    scalo_pep12 3.0
-    scalo_pep13 -5.0
-    scalo_pep14 3.0
-    scalo_pep15 3.0
-    scalo_pep16 1.0
-    scalo_pep1 -5.0
-    scalo_pep2 -5.0
-    scalo_pep3 -5.0
-    scalo_pep4 3.0
-    scalo_pep5 2.0
-    scalo_pep6 -5.0
-    scalo_pep7 5.0
-    scalo_pep8 -5.0
-    scalo_pep9 -5.0
-    scalo_spd -5.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 6.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 0.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 0.0
+    scalo_bsw -4.0
+    index_politics_question 3.0
+    index_participation 2.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo -0.5
+    index_opposition_scalo -2.0
+    index_int_goodies_scalo 3.0
+    index_left_party_scalo 2.5
+    index_right_party_scalo -2.0
   ]
   node [
     id 109
-    label "mcb"
-    browser 3.0
+    label "vkv"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 21.0
-    edu_father 3.0
+    browser 3.0
+    lang 0.0
+    use_of_device 1.0
+    rent 325.0
+    income 1600.0
     edu_mother 3.0
-    gender 2.0
-    grade 2.3
-    income 600.0
-    ocu_father 1.0
     ocu_mother 1.0
-    postcode 64.0
-    rent 600.0
-    tutorial 4.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 1.0
+    grade 3.3
+    social_networks_1 1.0
+    social_networks_2 1.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_10 1.0
     linksrechts_self 7.0
-    lr_AfD 10.0
-    lr_BSW 1.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
+    sunday_party_vote 0.0
     scalo_bsw -5.0
-    scalo_cdu 1.0
-    scalo_csu 1.0
-    scalo_fdp 2.0
-    scalo_gruene -3.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -1.0
-    scalo_pep1 -3.0
-    scalo_pep2 0.0
-    scalo_pep3 -1.0
-    scalo_pep4 3.0
-    scalo_pep5 0.0
-    scalo_pep6 0.0
-    scalo_pep7 0.0
-    scalo_pep8 -2.0
-    scalo_pep9 -4.0
-    scalo_spd -3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 4.0
-    sunday_poll 1.0
+    index_politics_question 4.142857142857143
+    index_participation 2.0
+    index_int_criminal_scalo -1.0
+    index_government_scalo 3.4
+    index_opposition_scalo -2.25
+    index_int_goodies_scalo 1.5
+    index_left_party_scalo 0.0
+    index_right_party_scalo 0.5
   ]
   node [
     id 110
-    label "hn9"
+    label "cyg"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 21.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 2.0
-    grade 3.0
-    income 250.0
+    use_of_device 3.0
+    rent 530.0
+    income 530.0
+    edu_father 4.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 350.0
-    tutorial 2.0
-    linksrechts_self 11.0
-    lr_AfD 8.0
-    lr_BSW 1.0
-    lr_CDU 4.0
-    lr_CSU 5.0
-    lr_FDP 6.0
-    lr_Gruene 1.0
-    lr_Linke 1.0
-    lr_SPD 2.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 1.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 1.0
-    scalo_afd 2.0
-    scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -2.0
-    scalo_fdp 0.0
-    scalo_gruene -5.0
-    scalo_linke -5.0
-    scalo_pep10 3.0
-    scalo_pep11 3.0
-    scalo_pep12 0.0
-    scalo_pep13 -4.0
-    scalo_pep14 1.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 -4.0
-    scalo_pep2 -4.0
-    scalo_pep3 -4.0
-    scalo_pep4 1.0
-    scalo_pep5 -5.0
-    scalo_pep6 -5.0
-    scalo_pep7 4.0
-    scalo_pep8 -4.0
-    scalo_pep9 0.0
-    scalo_spd -5.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 6.0
-    sunday_poll 1.0
+    age 22.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 7.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_10 1.0
+    linksrechts_self 5.0
+    sunday_party_vote 3.0
+    scalo_bsw 0.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -1.6666666666666667
+    index_government_scalo 0.6
+    index_opposition_scalo -0.6
+    index_int_goodies_scalo -2.0
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -1.0
   ]
   node [
     id 111
-    label "9ut"
+    label "uqy"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 20.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 2.0
-    grade 1.7
-    income 1000.0
+    rent 320.0
+    income 700.0
+    edu_father 2.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 76.0
-    rent 380.0
-    tutorial 5.0
-    linksrechts_self 7.0
-    lr_AfD 11.0
-    lr_BSW 11.0
-    lr_CDU 7.0
-    lr_CSU 7.0
-    lr_FDP 4.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 5.0
-    scalo_csu 5.0
-    scalo_fdp 2.0
-    scalo_gruene 0.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 0.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 3.0
-    scalo_pep1 2.0
-    scalo_pep2 -3.0
-    scalo_pep3 0.0
-    scalo_pep4 0.0
-    scalo_pep5 3.0
-    scalo_pep6 -4.0
-    scalo_pep7 3.0
-    scalo_pep8 0.0
-    scalo_pep9 -5.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 12.0
+    tutorial 7.0
+    grade 4.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
+    scalo_bsw -4.0
+    index_politics_question 3.2857142857142856
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -2.4
+    index_opposition_scalo -4.8
+    index_int_goodies_scalo -3.25
+    index_left_party_scalo 0.0
+    index_right_party_scalo -4.75
   ]
   node [
     id 112
-    label "dxh"
-    browser 2.0
-    device_type 3.0
+    label "dyb"
+    device_type 2.0
+    operating_system 5.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 1.0
-    age 20.0
+    use_of_device 2.0
+    rent 570.0
+    income 1600.0
     edu_father 3.0
-    edu_mother 2.0
-    gender 2.0
-    grade 3.0
-    income 750.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 40.0
-    rent 390.0
-    tutorial 2.0
-    linksrechts_self 7.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 4.0
-    scalo_csu 4.0
-    scalo_fdp 4.0
-    scalo_gruene -1.0
-    scalo_linke -5.0
-    scalo_pep10 -4.0
-    scalo_pep11 -5.0
-    scalo_pep12 4.0
-    scalo_pep13 0.0
-    scalo_pep14 -4.0
-    scalo_pep15 -5.0
-    scalo_pep16 -3.0
-    scalo_pep1 -2.0
-    scalo_pep2 1.0
-    scalo_pep3 0.0
-    scalo_pep4 4.0
-    scalo_pep5 4.0
-    scalo_pep6 5.0
-    scalo_pep7 -3.0
-    scalo_pep8 -1.0
-    scalo_pep9 -3.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 4.0
-    sunday_poll 1.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 73.0
+    tutorial 7.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo 1.0
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo 0.25
+    index_left_party_scalo 2.6666666666666665
+    index_right_party_scalo -4.0
   ]
   node [
     id 113
-    label "kwc"
-    browser 3.0
+    label "cyw"
     device_type 2.0
+    operating_system 4.0
+    browser 3.0
     lang 0.0
-    operating_system 5.0
-    use_of_device 2.0
-    age 18.0
-    edu_father 3.0
+    use_of_device 3.0
+    rent 0.0
+    income 1200.0
+    edu_father 1.0
     edu_mother 3.0
-    gender 1.0
-    grade -999.0
-    income 750.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 490.0
-    tutorial 7.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp -4.0
-    scalo_gruene 3.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 -1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 0.0
-    scalo_pep2 3.0
-    scalo_pep3 0.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 4.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 26.0
+    gender 2.0
+    study_program 3.0
+    postcode 72.0
+    tutorial 1.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 5.0
+    sunday_party_vote 2.0
+    scalo_bsw -4.0
+    index_politics_question 2.2857142857142856
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -2.0
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -2.0
+    index_left_party_scalo -2.3333333333333335
+    index_right_party_scalo -3.25
   ]
   node [
     id 114
     label "ecd"
-    browser 3.0
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
+    rent 410.0
+    income 900.0
     edu_father 3.0
     edu_mother 2.0
-    gender 1.0
-    grade -999.0
-    income 900.0
     ocu_father 1.0
     ocu_mother 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
     postcode 73.0
-    rent 410.0
     tutorial 7.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
     linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -1.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 0.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 3.0
-    scalo_pep4 -2.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 5.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
     sunday_party_vote 5.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.5714285714285716
+    index_participation 3.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo 2.2
+    index_opposition_scalo -4.2
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 3.0
+    index_right_party_scalo -3.25
   ]
   node [
     id 115
-    label "bqh"
-    browser 3.0
+    label "dss"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 4.0
-    gender 1.0
-    grade 2.3
-    income 500.0
+    rent 680.0
+    income 520.0
+    edu_father 2.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 22.0
-    rent 470.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 78.0
     tutorial 7.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 8.0
-    lr_Gruene 6.0
-    lr_Linke 2.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 2.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -4.0
-    scalo_pep1 -3.0
-    scalo_pep2 4.0
-    scalo_pep3 1.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 5.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    grade 2.3
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 6.0
+    sunday_party_vote 0.0
+    index_politics_question 4.0
+    index_participation 1.0
+    index_int_criminal_scalo -1.3333333333333333
+    index_government_scalo 0.0
+    index_opposition_scalo 0.0
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 0.0
+    index_right_party_scalo -0.75
   ]
   node [
     id 116
-    label "cyg"
+    label "qay"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
-    use_of_device 3.0
+    use_of_device 2.0
+    rent 410.0
+    income 840.0
+    edu_father 3.0
+    edu_mother 0.0
+    ocu_father 0.0
+    ocu_mother 0.0
     age 22.0
-    edu_father 4.0
-    edu_mother 3.0
-    gender 2.0
-    grade 3.0
-    income 530.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 78.0
-    rent 530.0
+    gender 1.0
+    study_program 1.0
+    postcode 79.0
     tutorial 7.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 6.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw 0.0
-    scalo_cdu 1.0
-    scalo_csu -1.0
-    scalo_fdp 1.0
-    scalo_gruene 3.0
-    scalo_linke -1.0
-    scalo_pep10 -2.0
-    scalo_pep11 -5.0
-    scalo_pep12 1.0
-    scalo_pep13 2.0
-    scalo_pep14 -3.0
-    scalo_pep15 3.0
-    scalo_pep16 -5.0
-    scalo_pep1 -1.0
-    scalo_pep2 0.0
-    scalo_pep3 0.0
-    scalo_pep4 2.0
-    scalo_pep5 1.0
-    scalo_pep6 -1.0
-    scalo_pep7 2.0
-    scalo_pep8 0.0
-    scalo_pep9 -4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 5.0
+    index_politics_question 3.3333333333333335
+    index_participation 3.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -0.6
+    index_opposition_scalo -4.5
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 0.0
+    index_right_party_scalo -3.3333333333333335
   ]
   node [
     id 117
-    label "uqy"
+    label "kwc"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
     use_of_device 2.0
-    age 19.0
-    edu_father 2.0
+    rent 490.0
+    income 750.0
+    edu_father 3.0
     edu_mother 3.0
-    gender 1.0
-    grade 4.0
-    income 700.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 12.0
-    rent 320.0
+    age 18.0
+    gender 1.0
+    study_program 1.0
+    postcode 88.0
     tutorial 7.0
-    linksrechts_self 2.0
-    lr_AfD -999.0
-    lr_BSW 11.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp -4.0
-    scalo_gruene -1.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 -2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 -3.0
-    scalo_pep2 -3.0
-    scalo_pep3 -2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 -5.0
-    scalo_pep7 -5.0
-    scalo_pep8 -1.0
-    scalo_pep9 0.0
-    scalo_spd -3.0
-    sunday_not_eligible 0.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
     sunday_party_vote 5.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.4285714285714284
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -0.6
+    index_opposition_scalo -4.8
+    index_int_goodies_scalo 0.5
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -4.75
   ]
   node [
     id 118
-    label "mbf"
-    browser 3.0
+    label "fvy"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 21.0
-    edu_father 3.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 368.0
+    income 1100.0
+    edu_father 1.0
     edu_mother 3.0
-    gender 2.0
-    grade 1.3
-    income 1400.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 500.0
-    tutorial 4.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -2.0
-    scalo_csu -2.0
-    scalo_fdp 3.0
-    scalo_gruene 2.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -1.0
-    scalo_pep13 -1.0
-    scalo_pep14 -4.0
-    scalo_pep15 -3.0
-    scalo_pep16 -3.0
-    scalo_pep1 -2.0
-    scalo_pep2 -1.0
-    scalo_pep3 2.0
-    scalo_pep4 0.0
-    scalo_pep5 -2.0
-    scalo_pep6 3.0
-    scalo_pep7 -4.0
-    scalo_pep8 4.0
-    scalo_pep9 -2.0
-    scalo_spd -3.0
-    sunday_not_eligible 0.0
+    age 20.0
+    gender 2.0
+    study_program 1.0
+    postcode 88.0
+    tutorial 5.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -3.0
+    index_politics_question 3.7142857142857144
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -0.2
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo -1.5
+    index_left_party_scalo 2.6666666666666665
+    index_right_party_scalo -4.25
   ]
   node [
     id 119
-    label "eh3"
-    browser 3.0
-    device_type 2.0
+    label "h9x"
+    device_type 3.0
+    operating_system 1.0
+    browser 5.0
     lang 0.0
-    operating_system 4.0
-    use_of_device 2.0
-    age 21.0
+    use_of_device 1.0
+    rent 700.0
+    income 1100.0
     edu_father 3.0
-    edu_mother 1.0
-    gender 2.0
-    grade 1.7
-    income 750.0
+    edu_mother 3.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 83.0
-    rent 500.0
-    tutorial 1.0
-    linksrechts_self 8.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 1.0
-    lr_Linke 1.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu 5.0
-    scalo_csu 5.0
-    scalo_fdp 5.0
-    scalo_gruene -5.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 5.0
-    scalo_pep13 -5.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 1.0
-    scalo_pep1 -5.0
-    scalo_pep2 0.0
-    scalo_pep3 -5.0
-    scalo_pep4 5.0
-    scalo_pep5 5.0
-    scalo_pep6 -2.0
-    scalo_pep7 2.0
-    scalo_pep8 -4.0
-    scalo_pep9 -5.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    ocu_mother 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 71.0
+    tutorial 3.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 5.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 2.857142857142857
+    index_participation 2.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 1.2
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo 0.5
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -2.0
   ]
   node [
     id 120
-    label "yuc"
-    browser 3.0
+    label "evs"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 19.0
-    edu_father 4.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.7
-    income 300.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 88.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
     rent 550.0
-    tutorial 2.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 9.0
-    lr_CSU -999.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 3.0
-    politics_question_three 3.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -2.0
-    scalo_csu -2.0
-    scalo_fdp -999.0
-    scalo_gruene 3.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 0.0
-    scalo_pep13 1.0
-    scalo_pep14 -3.0
-    scalo_pep15 1.0
-    scalo_pep16 -999.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 2.0
-    scalo_pep4 -1.0
-    scalo_pep5 -3.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 -999.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 8.0
-    sunday_poll 1.0
+    income 1491.0
+    edu_father 2.0
+    edu_mother 2.0
+    ocu_father 0.0
+    ocu_mother 0.0
+    age 22.0
+    gender 1.0
+    study_program 4.0
+    postcode 55.0
+    tutorial 3.0
+    grade 3.7
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
+    linksrechts_self 5.0
+    sunday_party_vote 4.0
+    scalo_bsw 0.0
+    index_politics_question 3.0
+    index_participation 3.0
+    index_int_criminal_scalo -3.0
+    index_government_scalo -1.0
+    index_opposition_scalo 0.0
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo -2.0
+    index_right_party_scalo 1.25
   ]
   node [
     id 121
-    label "mry"
+    label "spg"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
     use_of_device 2.0
-    age 20.0
+    rent 650.0
+    income 400.0
     edu_father 1.0
-    edu_mother 1.0
-    gender 2.0
-    grade 3.0
-    income 300.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 77.0
-    rent 425.0
-    tutorial 1.0
-    linksrechts_self 6.0
-    lr_AfD -999.0
-    lr_BSW 1.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 6.0
-    lr_Linke 2.0
-    lr_SPD 7.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu 0.0
-    scalo_csu 0.0
-    scalo_fdp 0.0
-    scalo_gruene -1.0
-    scalo_linke -3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 0.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -999.0
-    scalo_pep1 1.0
-    scalo_pep2 2.0
-    scalo_pep3 2.0
-    scalo_pep4 0.0
-    scalo_pep5 -999.0
-    scalo_pep6 0.0
-    scalo_pep7 -4.0
-    scalo_pep8 2.0
-    scalo_pep9 -1.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    age 19.0
+    gender 1.0
+    study_program 4.0
+    postcode 72.0
+    tutorial 3.0
+    grade 3.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 2.6
+    index_opposition_scalo -3.4
+    index_int_goodies_scalo -0.75
+    index_left_party_scalo 3.6666666666666665
+    index_right_party_scalo -3.0
   ]
   node [
     id 122
-    label "49w"
-    browser 3.0
+    label "ugr"
     device_type 3.0
+    operating_system 1.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 19.0
+    use_of_device 1.0
+    rent 0.0
+    income 400.0
     edu_father 3.0
     edu_mother 3.0
-    gender 1.0
-    grade -999.0
-    income 1000.0
     ocu_father 1.0
-    ocu_mother 1.0
-    postcode 88.0
-    rent 440.0
-    tutorial 4.0
-    linksrechts_self 3.0
-    lr_AfD -999.0
-    lr_BSW 11.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three -999.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp 2.0
-    scalo_gruene 4.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 0.0
-    scalo_pep1 2.0
-    scalo_pep2 4.0
-    scalo_pep3 -4.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 4.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
+    ocu_mother 0.0
+    age 19.0
+    gender 1.0
+    study_program 4.0
+    postcode 78.0
+    tutorial 3.0
+    grade 3.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 2.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo 2.0
+    index_opposition_scalo -4.8
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -5.0
   ]
   node [
     id 123
-    label "nut"
+    label "ktd"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
     use_of_device 2.0
-    age 19.0
+    rent 350.0
+    income 400.0
     edu_father 3.0
     edu_mother 3.0
-    gender 1.0
-    grade 2.0
-    income 1000.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 45.0
-    rent 425.0
-    tutorial 3.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 3.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
+    age 18.0
+    gender 1.0
+    study_program 4.0
+    postcode 88.0
+    tutorial 4.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_11 "Be real"
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
     scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp 4.0
-    scalo_gruene 1.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -3.0
-    scalo_pep1 -2.0
-    scalo_pep2 4.0
-    scalo_pep3 -2.0
-    scalo_pep4 3.0
-    scalo_pep5 -4.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 -3.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 4.0
-    sunday_poll 1.0
+    index_politics_question 3.4285714285714284
+    index_participation 3.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo 1.2
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -4.0
   ]
   node [
     id 124
-    label "mwh"
+    label "mry"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 21.0
-    edu_father 2.0
+    rent 425.0
+    income 300.0
+    edu_father 1.0
     edu_mother 1.0
-    gender 1.0
-    grade 2.0
-    income 520.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 570.0
-    tutorial 7.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 5.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 2.0
-    scalo_linke 4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 2.0
-    scalo_pep3 -1.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 2.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 20.0
+    gender 2.0
+    study_program 4.0
+    postcode 77.0
+    tutorial 1.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
+    sunday_party_vote 2.0
+    scalo_bsw -3.0
+    index_politics_question 3.5714285714285716
+    index_participation 2.0
+    index_int_criminal_scalo -4.5
+    index_government_scalo 1.2
+    index_opposition_scalo -3.25
+    index_int_goodies_scalo -1.0
+    index_left_party_scalo -1.0
+    index_right_party_scalo -1.25
   ]
   node [
     id 125
-    label "gga"
+    label "gdg"
+    device_type 2.0
+    operating_system 5.0
     browser 3.0
-    device_type 3.0
-    lang 1.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 18.0
+    lang 0.0
+    use_of_device 3.0
+    rent 330.0
+    income 400.0
     edu_father 3.0
     edu_mother 3.0
-    gender 1.0
-    grade 2.7
-    income 960.0
-    ocu_father 0.0
+    ocu_father 1.0
     ocu_mother 1.0
-    postcode 0.0
-    rent 600.0
-    tutorial 8.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU -999.0
-    lr_CSU -999.0
-    lr_FDP -999.0
-    lr_Gruene 8.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 2.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 2.0
-    politics_question_two -999.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu 0.0
-    scalo_fdp -5.0
-    scalo_gruene 1.0
-    scalo_linke -5.0
-    scalo_pep10 -2.0
-    scalo_pep11 0.0
-    scalo_pep12 -999.0
-    scalo_pep13 -999.0
-    scalo_pep14 -999.0
-    scalo_pep15 -999.0
-    scalo_pep16 0.0
-    scalo_pep1 0.0
-    scalo_pep2 3.0
-    scalo_pep3 0.0
-    scalo_pep4 0.0
-    scalo_pep5 0.0
-    scalo_pep6 3.0
-    scalo_pep7 -4.0
-    scalo_pep8 0.0
-    scalo_pep9 -5.0
-    scalo_spd 3.0
-    sunday_not_eligible 3.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 79.0
+    tutorial 4.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -3.0
+    index_politics_question 3.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 0.3333333333333333
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo 0.5
+    index_left_party_scalo 1.5
+    index_right_party_scalo -2.75
   ]
   node [
     id 126
-    label "ent"
-    browser 5.0
-    device_type 3.0
+    label "gcu"
+    device_type 2.0
+    operating_system 5.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
-    use_of_device 1.0
-    age 20.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.7
-    income 650.0
+    use_of_device 3.0
+    rent 330.0
+    income 400.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 71.0
-    rent 370.0
-    tutorial 5.0
-    linksrechts_self 2.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke 5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 2.0
-    scalo_pep2 2.0
-    scalo_pep3 3.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 3.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 5.0
-    sunday_poll 1.0
+    age 21.0
+    gender 2.0
+    study_program 4.0
+    postcode 69.0
+    tutorial 2.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 3.0
+    scalo_bsw -3.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 2.6
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo -2.0
+    index_left_party_scalo 3.0
+    index_right_party_scalo -0.75
   ]
   node [
     id 127
-    label "bey"
+    label "gga"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
-    lang 0.0
-    operating_system 5.0
-    use_of_device 3.0
-    age 22.0
-    edu_father 4.0
-    edu_mother 4.0
-    gender 2.0
-    grade 2.7
-    income 300.0
-    ocu_father 1.0
+    lang 1.0
+    use_of_device 2.0
+    rent 600.0
+    income 960.0
+    edu_father 3.0
+    edu_mother 3.0
+    ocu_father 0.0
     ocu_mother 1.0
-    postcode 79.0
-    rent 510.0
-    tutorial 7.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 3.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
+    age 18.0
+    gender 1.0
+    postcode 0.0
+    tutorial 8.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 6.0
+    sunday_party_vote 0.0
     scalo_bsw -5.0
-    scalo_cdu -4.0
-    scalo_csu -5.0
-    scalo_fdp -5.0
-    scalo_gruene 5.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 -1.0
-    scalo_pep2 5.0
-    scalo_pep3 4.0
-    scalo_pep4 -5.0
-    scalo_pep5 -4.0
-    scalo_pep6 1.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 2.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.3333333333333335
+    index_participation 0.0
+    index_int_criminal_scalo -2.0
+    index_government_scalo 0.0
+    index_opposition_scalo 0.0
+    index_int_goodies_scalo 0.3333333333333333
+    index_left_party_scalo -0.3333333333333333
+    index_right_party_scalo -3.25
   ]
   node [
     id 128
-    label "4yf"
+    label "tpf"
+    device_type 3.0
+    operating_system 1.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
-    use_of_device 3.0
-    age 22.0
-    edu_father 3.0
-    edu_mother 2.0
-    gender 2.0
-    grade 3.7
-    income 100.0
+    use_of_device 1.0
+    rent 0.0
+    income 0.0
+    edu_father 1.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 408.0
-    tutorial 7.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 7.0
-    lr_CDU 6.0
-    lr_CSU 8.0
-    lr_FDP 4.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 2.0
-    politics_question_one 3.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 3.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -2.0
-    scalo_cdu -2.0
-    scalo_csu -3.0
-    scalo_fdp 2.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 0.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 2.0
-    scalo_pep16 -999.0
-    scalo_pep1 0.0
-    scalo_pep2 2.0
-    scalo_pep3 4.0
-    scalo_pep4 1.0
-    scalo_pep5 -3.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 -3.0
-    scalo_pep9 4.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 28.0
+    gender 2.0
+    study_program 2.0
+    postcode 88.0
+    tutorial 4.0
+    grade 2.7
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 6.0
+    sunday_party_vote 6.0
+    scalo_bsw 0.0
+    index_politics_question 2.7142857142857144
+    index_participation 2.0
+    index_int_criminal_scalo 3.0
+    index_government_scalo -3.4
+    index_opposition_scalo 2.6
+    index_int_goodies_scalo -3.0
+    index_left_party_scalo -5.0
+    index_right_party_scalo 2.0
   ]
   node [
     id 129
-    label "3hc"
-    browser 3.0
+    label "yfg"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 1.0
-    age 24.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.7
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 375.0
     income 500.0
+    edu_father 2.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 47.0
-    rent 380.0
-    tutorial 5.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW 4.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 6.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -1.0
-    scalo_csu -3.0
-    scalo_fdp -2.0
-    scalo_gruene 3.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -4.0
-    scalo_pep12 -3.0
-    scalo_pep13 4.0
-    scalo_pep14 -4.0
-    scalo_pep15 -3.0
-    scalo_pep16 -3.0
-    scalo_pep1 1.0
-    scalo_pep2 2.0
-    scalo_pep3 0.0
-    scalo_pep4 -2.0
-    scalo_pep5 -3.0
-    scalo_pep6 1.0
-    scalo_pep7 -4.0
-    scalo_pep8 5.0
-    scalo_pep9 1.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 21.0
+    gender 1.0
+    study_program 1.0
+    postcode 75.0
+    tutorial 7.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 4.0
+    sunday_party_vote 1.0
+    scalo_bsw -2.0
+    index_politics_question 4.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -3.6666666666666665
+    index_government_scalo 1.0
+    index_opposition_scalo -2.0
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo -0.3333333333333333
+    index_right_party_scalo -1.25
   ]
   node [
     id 130
-    label "cpk"
+    label "gth"
+    device_type 2.0
+    operating_system 4.0
     browser 3.0
-    device_type 3.0
-    lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 20.0
-    edu_father 3.0
-    edu_mother 4.0
-    gender 2.0
-    grade 2.3
-    income 800.0
+    lang 1.0
+    use_of_device 3.0
+    rent 368.0
+    income 1200.0
+    edu_father 2.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 500.0
-    tutorial 2.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 6.0
-    lr_CSU 7.0
-    lr_FDP 7.0
-    lr_Gruene 5.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 1.0
-    scalo_csu -1.0
-    scalo_fdp -2.0
-    scalo_gruene 0.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -3.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 3.0
-    scalo_pep3 3.0
-    scalo_pep4 -3.0
-    scalo_pep5 0.0
-    scalo_pep6 4.0
-    scalo_pep7 -4.0
-    scalo_pep8 3.0
-    scalo_pep9 -1.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    age 22.0
+    gender 1.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 8.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 0.0
+    social_networks_7 1.0
+    social_networks_8 0.0
+    social_networks_9 0.0
+    linksrechts_self 4.0
+    sunday_party_vote 0.0
+    scalo_bsw 0.0
+    index_politics_question 4.285714285714286
+    index_participation 0.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 0.0
+    index_opposition_scalo 0.0
+    index_int_goodies_scalo 2.75
+    index_left_party_scalo 4.0
+    index_right_party_scalo -2.0
   ]
   node [
     id 131
-    label "fep"
-    browser 3.0
+    label "tpu"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 2.0
-    gender 1.0
-    grade 2.0
-    income 200.0
+    browser 3.0
+    lang 1.0
+    use_of_device 1.0
+    rent 425.0
+    income 1200.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 76.0
-    rent 440.0
-    tutorial 5.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 3.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 5.0
-    lr_Linke 1.0
-    lr_SPD 6.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -5.0
-    scalo_fdp -1.0
-    scalo_gruene 2.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 4.0
-    scalo_pep3 -3.0
-    scalo_pep4 -3.0
-    scalo_pep5 -5.0
-    scalo_pep6 -2.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 1.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    age 21.0
+    gender 1.0
+    study_program 1.0
+    postcode 0.0
+    grade 3.7
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 0.0
+    scalo_bsw -3.0
+    index_politics_question 2.6
+    index_participation 1.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo -2.0
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -2.25
   ]
   node [
     id 132
-    label "h9x"
-    browser 5.0
+    label "xyb"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 5.0
+    lang 1.0
     use_of_device 1.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.7
-    income 1100.0
+    rent 320.0
+    income 900.0
+    edu_father 4.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 71.0
-    rent 700.0
-    tutorial 3.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 1.0
-    lr_CDU 7.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 1.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu 0.0
-    scalo_csu -3.0
-    scalo_fdp 0.0
-    scalo_gruene 3.0
-    scalo_linke -1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 4.0
-    scalo_pep14 -4.0
-    scalo_pep15 -4.0
-    scalo_pep16 -2.0
-    scalo_pep1 0.0
-    scalo_pep2 2.0
-    scalo_pep3 2.0
-    scalo_pep4 -1.0
-    scalo_pep5 -3.0
-    scalo_pep6 3.0
-    scalo_pep7 -5.0
-    scalo_pep8 1.0
-    scalo_pep9 1.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 22.0
+    gender 1.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 1.0
+    grade 3.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 0.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 0.0
+    index_politics_question 2.1666666666666665
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo -2.0
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo -0.6666666666666666
+    index_right_party_scalo -3.5
   ]
   node [
     id 133
-    label "3xt"
-    browser 3.0
+    label "h9k"
     device_type 2.0
-    lang 0.0
     operating_system 5.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 18.0
+    rent 402.0
+    income 930.0
     edu_father 1.0
-    edu_mother 4.0
-    gender 2.0
-    grade 2.0
-    income 1000.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 800.0
-    tutorial 7.0
-    linksrechts_self 8.0
-    lr_AfD 11.0
-    lr_BSW 9.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd 0.0
-    scalo_bsw 0.0
-    scalo_cdu 3.0
-    scalo_csu 4.0
-    scalo_fdp 2.0
-    scalo_gruene -2.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -4.0
-    scalo_pep12 3.0
-    scalo_pep13 0.0
-    scalo_pep14 -1.0
-    scalo_pep15 -1.0
-    scalo_pep16 2.0
-    scalo_pep1 -3.0
-    scalo_pep2 -1.0
-    scalo_pep3 0.0
-    scalo_pep4 1.0
-    scalo_pep5 2.0
-    scalo_pep6 -1.0
-    scalo_pep7 1.0
-    scalo_pep8 -1.0
-    scalo_pep9 -5.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    age 21.0
+    gender 1.0
+    study_program 1.0
+    postcode 67.0
+    tutorial 3.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
+    sunday_party_vote 3.0
+    scalo_bsw -5.0
+    index_politics_question 4.428571428571429
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 1.8
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 3.0
+    index_right_party_scalo -3.25
   ]
   node [
     id 134
-    label "ucp"
-    browser 3.0
+    label "hqf"
     device_type 2.0
-    lang 0.0
     operating_system 5.0
-    use_of_device 3.0
-    age 20.0
-    edu_father -999.0
-    edu_mother 2.0
+    browser 3.0
+    lang 0.0
+    use_of_device 2.0
+    rent 410.0
+    income 950.0
+    edu_father 0.0
+    edu_mother 0.0
+    ocu_mother 0.0
+    age 24.0
     gender 1.0
-    grade 1.7
-    income 1300.0
-    ocu_father -999.0
-    ocu_mother 1.0
-    postcode 89.0
-    rent 785.0
-    tutorial 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 7.0
+    grade 3.0
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 7.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 7.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 1.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -1.0
-    scalo_gruene 2.0
-    scalo_linke 1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 4.0
-    scalo_pep3 3.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 1.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    sunday_party_vote 0.0
+    scalo_bsw 0.0
+    index_politics_question 3.0
+    index_participation 2.0
+    index_int_criminal_scalo 0.0
+    index_government_scalo 0.3333333333333333
+    index_opposition_scalo -1.0
+    index_int_goodies_scalo -1.3333333333333333
+    index_left_party_scalo 0.6666666666666666
+    index_right_party_scalo -1.25
   ]
   node [
     id 135
-    label "qhv"
-    browser 3.0
+    label "ktb"
     device_type 3.0
-    lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 20.0
-    edu_father 3.0
+    operating_system 1.0
+    browser 3.0
+    lang 1.0
+    use_of_device 1.0
+    rent 425.0
+    income 150.0
     edu_mother 1.0
-    gender 1.0
-    grade 1.7
-    income 350.0
-    ocu_father 1.0
     ocu_mother 1.0
-    postcode 61.0
-    rent 410.0
-    tutorial 2.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 8.0
+    grade 2.7
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
     linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 10.0
-    lr_CDU 9.0
-    lr_CSU 10.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 3.0
-    politics_question_one 1.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 3.0
-    scalo_csu 2.0
-    scalo_fdp 1.0
-    scalo_gruene 4.0
-    scalo_linke -1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 1.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -1.0
-    scalo_pep1 3.0
-    scalo_pep2 4.0
-    scalo_pep3 4.0
-    scalo_pep4 1.0
-    scalo_pep5 3.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 2.0
-    scalo_pep9 5.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 1.0
-    sunday_poll 1.0
+    sunday_party_vote 0.0
+    index_politics_question 3.6
+    index_participation 1.0
+    index_int_criminal_scalo -2.6666666666666665
+    index_government_scalo -1.0
+    index_int_goodies_scalo -0.3333333333333333
   ]
   node [
     id 136
-    label "sbf"
-    browser 3.0
+    label "vtt"
     device_type 3.0
-    lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 20.0
+    operating_system 1.0
+    browser 3.0
+    lang 1.0
+    use_of_device 1.0
+    rent 450.0
+    income 300.0
     edu_father 3.0
-    edu_mother 1.0
-    gender 2.0
-    grade 2.7
-    income -999.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 97.0
-    rent -999.0
-    tutorial 3.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW 2.0
-    lr_CDU 6.0
-    lr_CSU 6.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 1.0
-    lr_SPD 8.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 3.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
+    age 20.0
+    gender 1.0
+    study_program 1.0
+    postcode 0.0
+    tutorial 8.0
+    grade 1.7
+    social_networks_1 1.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 5.0
+    sunday_party_vote 0.0
     scalo_bsw -3.0
-    scalo_cdu 4.0
-    scalo_csu 5.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 5.0
-    scalo_pep13 3.0
-    scalo_pep14 -5.0
-    scalo_pep15 0.0
-    scalo_pep16 -1.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 4.0
-    scalo_pep4 -4.0
-    scalo_pep5 4.0
-    scalo_pep6 5.0
-    scalo_pep7 -4.0
-    scalo_pep8 2.0
-    scalo_pep9 5.0
-    scalo_spd 1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    index_politics_question 4.333333333333333
+    index_participation 1.0
+    index_int_criminal_scalo -2.6666666666666665
+    index_government_scalo 2.0
+    index_int_goodies_scalo 3.0
+    index_left_party_scalo 1.3333333333333333
+    index_right_party_scalo -1.0
   ]
   node [
     id 137
-    label "dss"
-    browser 3.0
+    label "yuc"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 20.0
-    edu_father 2.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.3
-    income 520.0
+    browser 3.0
+    lang 0.0
+    use_of_device 1.0
+    rent 550.0
+    income 300.0
+    edu_father 4.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 78.0
-    rent 680.0
-    tutorial 7.0
-    linksrechts_self 6.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 5.0
-    lr_CSU 4.0
-    lr_FDP 5.0
-    lr_Gruene 1.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 2.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -3.0
-    scalo_bsw -999.0
-    scalo_cdu 0.0
-    scalo_csu 0.0
-    scalo_fdp 0.0
-    scalo_gruene 0.0
-    scalo_linke 0.0
-    scalo_pep10 -2.0
-    scalo_pep11 0.0
-    scalo_pep12 0.0
-    scalo_pep13 0.0
-    scalo_pep14 0.0
-    scalo_pep15 0.0
-    scalo_pep16 0.0
-    scalo_pep1 0.0
-    scalo_pep2 0.0
-    scalo_pep3 0.0
-    scalo_pep4 0.0
-    scalo_pep5 0.0
-    scalo_pep6 0.0
-    scalo_pep7 -2.0
-    scalo_pep8 0.0
-    scalo_pep9 -2.0
-    scalo_spd 0.0
-    sunday_not_eligible 1.0
-    sunday_party_vote 0.0
-    sunday_poll 4.0
+    age 19.0
+    gender 1.0
+    study_program 4.0
+    postcode 88.0
+    tutorial 2.0
+    grade 2.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    social_networks_11 "BeReal"
+    linksrechts_self 3.0
+    sunday_party_vote 8.0
+    scalo_bsw -3.0
+    index_politics_question 3.2857142857142856
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.6
+    index_opposition_scalo -2.0
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -3.0
   ]
   node [
     id 138
-    label "fvy"
-    browser 3.0
+    label "yer"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
+    browser 3.0
+    lang 0.0
     use_of_device 2.0
-    age 20.0
+    rent 0.0
+    income 410.0
     edu_father 1.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.0
-    income 1100.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 88.0
-    rent 368.0
-    tutorial 5.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 9.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 3.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -3.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -4.0
-    scalo_gruene 3.0
-    scalo_linke 1.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 -1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -4.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 0.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -4.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 -1.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
+    age 19.0
+    gender 2.0
+    study_program 4.0
+    postcode 78.0
+    tutorial 4.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 7.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw 1.0
+    index_politics_question 3.857142857142857
+    index_participation 2.0
+    index_int_criminal_scalo -4.5
+    index_government_scalo 2.2
+    index_opposition_scalo -2.25
+    index_int_goodies_scalo -0.75
+    index_left_party_scalo 3.0
+    index_right_party_scalo -1.75
   ]
   node [
     id 139
-    label "crq"
-    browser 3.0
+    label "mbf"
     device_type 3.0
-    lang 0.0
     operating_system 2.0
-    use_of_device 2.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.0
-    income 1000.0
+    browser 3.0
+    lang 0.0
+    use_of_device 1.0
+    rent 500.0
+    income 1400.0
+    edu_father 3.0
+    edu_mother 3.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 435.0
-    tutorial 1.0
-    linksrechts_self 4.0
-    lr_AfD -999.0
-    lr_BSW 1.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 10.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 1.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 3.0
-    politics_question_two 2.0
-    scalo_afd -5.0
-    scalo_bsw -1.0
-    scalo_cdu -3.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 4.0
-    scalo_linke 2.0
-    scalo_pep10 -3.0
-    scalo_pep11 -999.0
-    scalo_pep12 -5.0
-    scalo_pep13 1.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -4.0
-    scalo_pep1 -3.0
-    scalo_pep2 3.0
-    scalo_pep3 -999.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 2.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
+    age 21.0
+    gender 2.0
+    study_program 2.0
+    postcode 78.0
+    tutorial 4.0
+    grade 1.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 5.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -5.0
+    index_politics_question 4.428571428571429
+    index_participation 3.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 0.6
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo -1.0
+    index_left_party_scalo -1.0
+    index_right_party_scalo -1.5
   ]
   node [
     id 140
-    label "hqf"
-    browser 3.0
+    label "eh3"
     device_type 2.0
+    operating_system 4.0
+    browser 3.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 24.0
-    edu_father 0.0
-    edu_mother 0.0
-    gender 1.0
-    grade 3.0
-    income 950.0
-    ocu_father -999.0
+    rent 500.0
+    income 750.0
+    edu_father 3.0
+    edu_mother 1.0
+    ocu_father 1.0
     ocu_mother 0.0
-    postcode 78.0
-    rent 410.0
-    tutorial 7.0
-    linksrechts_self 5.0
-    lr_AfD 4.0
-    lr_BSW 4.0
-    lr_CDU 4.0
-    lr_CSU 4.0
-    lr_FDP 4.0
-    lr_Gruene 4.0
-    lr_Linke 4.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 3.0
-    politics_question_one 3.0
-    politics_question_seven 3.0
-    politics_question_six 3.0
-    politics_question_three 3.0
-    politics_question_two 3.0
-    scalo_afd -2.0
-    scalo_bsw 0.0
-    scalo_cdu -3.0
-    scalo_csu -3.0
-    scalo_fdp 3.0
-    scalo_gruene 2.0
-    scalo_linke 2.0
-    scalo_pep10 -1.0
-    scalo_pep11 -999.0
-    scalo_pep12 1.0
-    scalo_pep13 0.0
-    scalo_pep14 -4.0
-    scalo_pep15 0.0
-    scalo_pep16 -999.0
-    scalo_pep1 0.0
-    scalo_pep2 0.0
-    scalo_pep3 -999.0
-    scalo_pep4 1.0
-    scalo_pep5 -999.0
-    scalo_pep6 -999.0
-    scalo_pep7 1.0
-    scalo_pep8 -999.0
-    scalo_pep9 0.0
-    scalo_spd -2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 0.0
-    sunday_poll 2.0
+    age 21.0
+    gender 2.0
+    study_program 1.0
+    postcode 83.0
+    tutorial 1.0
+    grade 1.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 8.0
+    sunday_party_vote 2.0
+    scalo_bsw -3.0
+    index_politics_question 4.142857142857143
+    index_participation 3.0
+    index_int_criminal_scalo -0.6666666666666666
+    index_government_scalo -2.8
+    index_opposition_scalo -1.0
+    index_int_goodies_scalo -3.0
+    index_left_party_scalo -3.6666666666666665
+    index_right_party_scalo 2.5
   ]
   node [
     id 141
-    label "bpy"
-    browser 4.0
+    label "hmt"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 5.0
+    lang 0.0
     use_of_device 1.0
-    age 19.0
-    edu_father 4.0
+    rent 410.0
+    income 700.0
+    edu_father 2.0
     edu_mother 3.0
-    gender -999.0
-    grade 2.3
-    income 1414.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 76.0
-    rent 320.0
-    tutorial 4.0
-    linksrechts_self 4.0
-    lr_AfD 10.0
-    lr_BSW 8.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 4.0
-    lr_Linke 3.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 3.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 1.0
-    scalo_csu -1.0
-    scalo_fdp -1.0
-    scalo_gruene 4.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -1.0
-    scalo_pep1 0.0
-    scalo_pep2 3.0
-    scalo_pep3 0.0
-    scalo_pep4 -2.0
-    scalo_pep5 -3.0
-    scalo_pep6 4.0
-    scalo_pep7 -5.0
-    scalo_pep8 3.0
-    scalo_pep9 -1.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    age 22.0
+    gender 2.0
+    study_program 4.0
+    postcode 77.0
+    tutorial 1.0
+    grade 3.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 3.0
+    sunday_party_vote 5.0
+    scalo_bsw -3.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo 1.0
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -1.25
+    index_left_party_scalo 2.3333333333333335
+    index_right_party_scalo -4.0
   ]
   node [
     id 142
-    label "h9k"
-    browser 3.0
-    device_type 2.0
+    label "ngv"
+    device_type 3.0
+    operating_system 1.0
+    browser 2.0
     lang 0.0
-    operating_system 5.0
-    use_of_device 2.0
-    age 21.0
-    edu_father 1.0
-    edu_mother 3.0
-    gender 1.0
-    grade 2.3
-    income 930.0
-    ocu_father 1.0
+    use_of_device 1.0
+    rent 500.0
+    income 0.0
+    edu_father 4.0
+    edu_mother 2.0
+    ocu_father 0.0
     ocu_mother 1.0
-    postcode 67.0
-    rent 402.0
-    tutorial 3.0
-    linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW -999.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 5.0
-    politics_question_six 5.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 50.0
+    tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 2.0
+    sunday_party_vote 5.0
     scalo_bsw -5.0
-    scalo_cdu -1.0
-    scalo_csu -3.0
-    scalo_fdp -4.0
-    scalo_gruene 5.0
-    scalo_linke 0.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -5.0
-    scalo_pep13 5.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -3.0
-    scalo_pep1 2.0
-    scalo_pep2 3.0
-    scalo_pep3 2.0
-    scalo_pep4 -5.0
-    scalo_pep5 -5.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 2.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    index_politics_question 3.7142857142857144
+    index_participation 3.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.2
+    index_opposition_scalo -5.0
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 3.0
+    index_right_party_scalo -4.25
   ]
   node [
     id 143
-    label "udg"
-    browser 3.0
+    label "ywc"
     device_type 3.0
+    operating_system 3.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
     use_of_device 2.0
-    age 19.0
-    edu_father 1.0
+    rent 580.0
+    income 1000.0
+    edu_father 2.0
     edu_mother 2.0
-    gender 1.0
-    grade 2.7
-    income 400.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 89.0
-    rent 0.0
-    tutorial 3.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 66.0
+    tutorial 2.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 11.0
-    lr_CDU 7.0
-    lr_CSU 7.0
-    lr_FDP 4.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -1.0
-    scalo_csu -2.0
-    scalo_fdp -2.0
-    scalo_gruene 3.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -1.0
-    scalo_pep13 -2.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 4.0
-    scalo_pep3 2.0
-    scalo_pep4 -2.0
-    scalo_pep5 -3.0
-    scalo_pep6 0.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 1.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 8.0
-    sunday_poll 1.0
+    sunday_party_vote 3.0
+    scalo_bsw -4.0
+    index_politics_question 4.428571428571429
+    index_participation 2.0
+    index_int_criminal_scalo -5.0
+    index_government_scalo 1.2
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo -0.25
+    index_left_party_scalo 1.6666666666666667
+    index_right_party_scalo -3.0
   ]
   node [
     id 144
-    label "dyb"
+    label "nrn"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 21.0
+    rent 500.0
+    income 250.0
     edu_father 3.0
-    edu_mother 3.0
-    gender 2.0
-    grade 2.7
-    income 1600.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 73.0
-    rent 570.0
-    tutorial 7.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
+    postcode 21.0
+    tutorial 2.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 3.0
-    lr_AfD 11.0
-    lr_BSW 7.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -4.0
-    scalo_cdu -4.0
-    scalo_csu -4.0
-    scalo_fdp -3.0
-    scalo_gruene 3.0
-    scalo_linke 3.0
-    scalo_pep10 -4.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 -5.0
-    scalo_pep1 1.0
-    scalo_pep2 3.0
-    scalo_pep3 3.0
-    scalo_pep4 -3.0
-    scalo_pep5 -4.0
-    scalo_pep6 -1.0
-    scalo_pep7 -5.0
-    scalo_pep8 4.0
-    scalo_pep9 4.0
-    scalo_spd 2.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    sunday_party_vote 1.0
+    scalo_bsw -5.0
+    index_politics_question 3.857142857142857
+    index_participation 2.0
+    index_int_criminal_scalo -3.6666666666666665
+    index_government_scalo 1.4
+    index_opposition_scalo -4.6
+    index_int_goodies_scalo 1.0
+    index_left_party_scalo 2.0
+    index_right_party_scalo -4.0
   ]
   node [
     id 145
-    label "ack"
-    browser 3.0
+    label "np4"
     device_type 3.0
+    operating_system 2.0
+    browser 3.0
     lang 0.0
-    operating_system 1.0
     use_of_device 2.0
-    age 19.0
+    rent 425.0
+    income 0.0
     edu_father 1.0
-    edu_mother 3.0
-    gender 1.0
-    grade 3.3
-    income 300.0
+    edu_mother 1.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 67.0
-    rent 400.0
-    tutorial 3.0
+    age 23.0
+    gender 1.0
+    postcode 72.0
+    tutorial 7.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 2.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 2.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 2.0
-    scalo_csu 2.0
-    scalo_fdp 0.0
-    scalo_gruene 0.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 -2.0
-    scalo_pep14 -4.0
-    scalo_pep15 -4.0
-    scalo_pep16 -4.0
-    scalo_pep1 -1.0
-    scalo_pep2 2.0
-    scalo_pep3 -3.0
-    scalo_pep4 2.0
-    scalo_pep5 -2.0
-    scalo_pep6 3.0
-    scalo_pep7 -3.0
-    scalo_pep8 -1.0
-    scalo_pep9 -999.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 8.0
-    sunday_poll 1.0
+    sunday_party_vote 1.0
+    scalo_bsw 3.0
+    index_politics_question 4.571428571428571
+    index_participation 1.0
+    index_int_criminal_scalo -3.3333333333333335
+    index_government_scalo 0.4
+    index_opposition_scalo -3.2
+    index_int_goodies_scalo -3.0
+    index_left_party_scalo 3.6666666666666665
+    index_right_party_scalo 0.0
   ]
   node [
     id 146
-    label "vkv"
-    browser 3.0
+    label "qqt"
     device_type 3.0
-    lang 0.0
-    operating_system 2.0
+    operating_system 1.0
+    browser 3.0
+    lang 1.0
     use_of_device 1.0
+    rent 402.0
+    income 600.0
+    edu_father 1.0
+    edu_mother 1.0
+    ocu_father 1.0
+    ocu_mother 0.0
     age 21.0
-    edu_father -999.0
-    edu_mother 3.0
-    gender 2.0
-    grade 3.3
-    income 1600.0
-    ocu_father -999.0
-    ocu_mother 1.0
+    gender 1.0
+    study_program 1.0
     postcode 0.0
-    rent 325.0
-    tutorial 1.0
-    linksrechts_self 7.0
-    lr_AfD -999.0
-    lr_BSW 1.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 2.0
-    politics_question_five 5.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu 2.0
-    scalo_csu 2.0
-    scalo_fdp 3.0
-    scalo_gruene 3.0
-    scalo_linke -5.0
-    scalo_pep10 -5.0
-    scalo_pep11 -999.0
-    scalo_pep12 -2.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 5.0
-    scalo_pep1 2.0
-    scalo_pep2 4.0
-    scalo_pep3 4.0
-    scalo_pep4 4.0
-    scalo_pep5 3.0
-    scalo_pep6 5.0
-    scalo_pep7 -3.0
-    scalo_pep8 3.0
-    scalo_pep9 2.0
-    scalo_spd 2.0
-    sunday_not_eligible 1.0
+    tutorial 8.0
+    grade 2.3
+    social_networks_1 1.0
+    social_networks_2 1.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 1.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 3.0
     sunday_party_vote 0.0
-    sunday_poll 4.0
+    index_politics_question 2.8333333333333335
+    index_participation 2.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -1.0
+    index_opposition_scalo -1.0
+    index_int_goodies_scalo 0.75
+    index_left_party_scalo 0.5
+    index_right_party_scalo -1.6666666666666667
   ]
   node [
     id 147
-    label "ugr"
-    browser 3.0
+    label "wrc"
     device_type 3.0
-    lang 0.0
     operating_system 1.0
+    browser 5.0
+    lang 0.0
     use_of_device 1.0
-    age 19.0
-    edu_father 3.0
-    edu_mother 3.0
-    gender 1.0
-    grade 3.3
-    income 400.0
+    rent 410.0
+    income 900.0
+    edu_father 2.0
+    edu_mother 1.0
     ocu_father 1.0
-    ocu_mother 0.0
-    postcode 78.0
-    rent 0.0
-    tutorial 3.0
+    ocu_mother 1.0
+    age 20.0
+    gender 1.0
+    postcode 71.0
+    tutorial 8.0
+    grade 2.3
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 1.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 1.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 6.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 3.0
-    politics_question_one 5.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -5.0
-    scalo_csu -5.0
-    scalo_fdp -5.0
-    scalo_gruene 4.0
-    scalo_linke -3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -4.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 0.0
-    scalo_pep1 2.0
-    scalo_pep2 -999.0
-    scalo_pep3 3.0
-    scalo_pep4 -4.0
-    scalo_pep5 -5.0
-    scalo_pep6 2.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 3.0
-    scalo_spd 3.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    sunday_party_vote 1.0
+    scalo_bsw -4.0
+    index_politics_question 2.5714285714285716
+    index_participation 2.0
+    index_int_criminal_scalo -4.666666666666667
+    index_government_scalo -0.2
+    index_opposition_scalo -4.4
+    index_int_goodies_scalo 0.0
+    index_left_party_scalo 2.0
+    index_right_party_scalo -3.0
   ]
   node [
     id 148
-    label "spg"
-    browser 3.0
+    label "ryn"
     device_type 2.0
+    operating_system 4.0
+    browser 3.0
     lang 0.0
-    operating_system 5.0
     use_of_device 2.0
-    age 19.0
-    edu_father 1.0
-    edu_mother 3.0
-    gender 1.0
-    grade 3.7
-    income 400.0
+    rent 0.0
+    income 700.0
+    edu_father 2.0
+    edu_mother 2.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 72.0
-    rent 650.0
-    tutorial 3.0
+    age 24.0
+    gender 1.0
+    study_program 2.0
+    postcode 22.0
+    grade 1.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
     linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 5.0
-    lr_CDU 8.0
-    lr_CSU 9.0
-    lr_FDP 7.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 4.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 5.0
-    politics_question_two 3.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -3.0
-    scalo_csu -3.0
-    scalo_fdp -1.0
-    scalo_gruene 4.0
-    scalo_linke 3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -3.0
-    scalo_pep16 -3.0
-    scalo_pep1 3.0
-    scalo_pep2 3.0
-    scalo_pep3 3.0
-    scalo_pep4 -1.0
-    scalo_pep5 -2.0
-    scalo_pep6 0.0
-    scalo_pep7 -4.0
-    scalo_pep8 4.0
-    scalo_pep9 -1.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
     sunday_party_vote 3.0
-    sunday_poll 1.0
+    scalo_bsw -3.0
+    index_politics_question 4.0
+    index_participation 3.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 1.4
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo 1.0
+    index_left_party_scalo 3.3333333333333335
+    index_right_party_scalo -1.75
   ]
   node [
     id 149
-    label "evs"
-    browser 3.0
+    label "vnb"
     device_type 3.0
+    operating_system 1.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 2.0
-    age 22.0
-    edu_father 2.0
-    edu_mother 2.0
-    gender 1.0
-    grade 3.7
-    income 1491.0
-    ocu_father 0.0
+    use_of_device 1.0
+    rent 528.0
+    income 700.0
+    edu_father 1.0
+    edu_mother 1.0
     ocu_mother 0.0
-    postcode 55.0
-    rent 550.0
-    tutorial 3.0
-    linksrechts_self 5.0
-    lr_AfD 11.0
-    lr_BSW 8.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 6.0
-    lr_Gruene 2.0
-    lr_Linke 1.0
-    lr_SPD 3.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 3.0
-    politics_question_four 1.0
-    politics_question_one 5.0
-    politics_question_seven 3.0
-    politics_question_six -999.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -4.0
-    scalo_bsw 0.0
-    scalo_cdu 3.0
-    scalo_csu 2.0
-    scalo_fdp 4.0
-    scalo_gruene -3.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 0.0
-    scalo_pep13 -3.0
-    scalo_pep14 5.0
-    scalo_pep15 3.0
-    scalo_pep16 -1.0
-    scalo_pep1 -3.0
-    scalo_pep2 -1.0
-    scalo_pep3 -1.0
-    scalo_pep4 5.0
-    scalo_pep5 -3.0
-    scalo_pep6 -1.0
-    scalo_pep7 -3.0
-    scalo_pep8 -3.0
-    scalo_pep9 0.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 4.0
-    sunday_poll 1.0
+    age 22.0
+    gender 2.0
+    study_program 1.0
+    postcode 42.0
+    tutorial 2.0
+    grade 2.0
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 7.0
+    sunday_party_vote 0.0
+    scalo_bsw -2.0
+    index_politics_question 4.142857142857143
+    index_participation 2.0
+    index_int_criminal_scalo -3.6666666666666665
+    index_government_scalo -2.6
+    index_opposition_scalo -3.0
+    index_int_goodies_scalo -3.0
+    index_left_party_scalo -2.0
+    index_right_party_scalo -2.0
   ]
   node [
     id 150
-    label "9he"
-    browser 3.0
+    label "ara"
     device_type 3.0
+    operating_system 3.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
     use_of_device 2.0
-    age 23.0
-    edu_father 3.0
-    edu_mother 1.0
-    gender 1.0
-    grade 2.0
-    income 1000.0
+    rent 406.0
+    income 200.0
+    edu_father 1.0
+    edu_mother 4.0
     ocu_father 1.0
     ocu_mother 1.0
-    postcode 75.0
-    rent 450.0
-    tutorial 4.0
+    age 19.0
+    gender 2.0
+    study_program 1.0
+    postcode 78.0
+    tutorial 2.0
+    grade 4.0
+    social_networks_1 0.0
+    social_networks_2 1.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
     linksrechts_self 7.0
-    lr_AfD 11.0
-    lr_BSW 6.0
-    lr_CDU 7.0
-    lr_CSU 8.0
-    lr_FDP 9.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 2.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three 2.0
-    politics_question_two 2.0
-    scalo_afd -2.0
-    scalo_bsw 1.0
-    scalo_cdu 3.0
-    scalo_csu 3.0
-    scalo_fdp 1.0
-    scalo_gruene -3.0
-    scalo_linke -3.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 1.0
-    scalo_pep13 -5.0
-    scalo_pep14 -3.0
-    scalo_pep15 1.0
-    scalo_pep16 -2.0
-    scalo_pep1 -3.0
-    scalo_pep2 1.0
-    scalo_pep3 -3.0
-    scalo_pep4 -1.0
-    scalo_pep5 2.0
-    scalo_pep6 2.0
-    scalo_pep7 -3.0
-    scalo_pep8 -1.0
-    scalo_pep9 -3.0
-    scalo_spd -1.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 2.0
-    sunday_poll 1.0
+    sunday_party_vote 6.0
+    scalo_bsw -3.0
+    index_politics_question 3.857142857142857
+    index_participation 3.0
+    index_int_criminal_scalo -3.0
+    index_government_scalo -4.2
+    index_opposition_scalo -3.6
+    index_int_goodies_scalo -4.25
+    index_left_party_scalo -4.666666666666667
+    index_right_party_scalo -2.75
   ]
   node [
     id 151
-    label "b3p"
-    browser 3.0
+    label "yg9"
     device_type 3.0
+    operating_system 3.0
+    browser 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 1.0
-    age 25.0
-    edu_father 3.0
+    use_of_device 2.0
+    rent 0.0
+    income 600.0
+    edu_father 1.0
     edu_mother 1.0
-    gender 1.0
-    grade 2.3
-    income 1200.0
     ocu_father 1.0
     ocu_mother 1.0
+    age 19.0
+    gender 1.0
+    study_program 1.0
     postcode 88.0
-    rent 330.0
-    tutorial 1.0
-    linksrechts_self 4.0
-    lr_AfD 11.0
-    lr_BSW 1.0
-    lr_CDU 6.0
-    lr_CSU 6.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 2.0
-    lr_SPD 4.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 5.0
-    politics_question_four 3.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 5.0
-    politics_question_three -999.0
-    politics_question_two 4.0
-    scalo_afd -5.0
-    scalo_bsw -5.0
-    scalo_cdu -2.0
-    scalo_csu -2.0
-    scalo_fdp -4.0
-    scalo_gruene 5.0
-    scalo_linke -4.0
-    scalo_pep10 -5.0
-    scalo_pep11 -5.0
-    scalo_pep12 -2.0
-    scalo_pep13 4.0
-    scalo_pep14 -5.0
-    scalo_pep15 -5.0
-    scalo_pep16 0.0
-    scalo_pep1 0.0
-    scalo_pep2 3.0
-    scalo_pep3 2.0
-    scalo_pep4 -4.0
-    scalo_pep5 -1.0
-    scalo_pep6 5.0
-    scalo_pep7 -5.0
-    scalo_pep8 5.0
-    scalo_pep9 5.0
-    scalo_spd 4.0
-    sunday_not_eligible 0.0
-    sunday_party_vote 3.0
-    sunday_poll 1.0
+    tutorial 2.0
+    grade 3.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 1.0
+    linksrechts_self 6.0
+    sunday_party_vote 7.0
+    scalo_bsw 0.0
+    index_politics_question 3.4285714285714284
+    index_participation 3.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo -4.4
+    index_opposition_scalo -4.0
+    index_int_goodies_scalo -3.25
+    index_left_party_scalo -4.666666666666667
+    index_right_party_scalo -4.0
   ]
   node [
     id 152
-    label "rf4"
+    label "wen"
+    device_type 3.0
+    operating_system 2.0
     browser 3.0
-    device_type 2.0
     lang 0.0
-    operating_system 4.0
-    use_of_device 3.0
-    age 27.0
-    edu_father 1.0
-    edu_mother 3.0
-    gender 2.0
-    grade -999.0
-    income 1000.0
-    ocu_father -999.0
-    ocu_mother -999.0
-    postcode 78.0
+    use_of_device 1.0
     rent 0.0
+    income 400.0
+    edu_father 3.0
+    edu_mother 4.0
+    ocu_father 1.0
+    ocu_mother 1.0
+    age 25.0
+    gender 2.0
+    study_program 1.0
+    postcode 0.0
     tutorial 6.0
-    linksrechts_self 0.0
-    lr_AfD 9.0
-    lr_BSW 4.0
-    lr_CDU 8.0
-    lr_CSU 8.0
-    lr_FDP 8.0
-    lr_Gruene 4.0
-    lr_Linke 3.0
-    lr_SPD 5.0
-    noteligible_sunday_party_vote 0.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 3.0
-    politics_question_three 4.0
-    politics_question_two 2.0
-    scalo_afd -3.0
-    scalo_bsw 0.0
-    scalo_cdu -2.0
-    scalo_csu -2.0
-    scalo_fdp -3.0
-    scalo_gruene -1.0
-    scalo_linke 2.0
-    scalo_pep10 -4.0
-    scalo_pep11 -4.0
-    scalo_pep12 -3.0
-    scalo_pep13 -2.0
-    scalo_pep14 -3.0
-    scalo_pep15 -2.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 -2.0
-    scalo_pep3 -2.0
-    scalo_pep4 -3.0
-    scalo_pep5 -2.0
-    scalo_pep6 1.0
-    scalo_pep7 -4.0
-    scalo_pep8 0.0
-    scalo_pep9 2.0
-    scalo_spd 0.0
-    sunday_not_eligible 0.0
+    grade 1.7
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 1.0
+    social_networks_5 0.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    linksrechts_self 8.0
     sunday_party_vote 0.0
-    sunday_poll 2.0
+    scalo_bsw -2.0
+    index_politics_question 3.5714285714285716
+    index_participation 1.0
+    index_int_criminal_scalo -4.0
+    index_government_scalo 0.0
+    index_opposition_scalo -1.0
+    index_int_goodies_scalo -2.0
+    index_left_party_scalo -0.6666666666666666
+    index_right_party_scalo 0.0
   ]
   node [
     id 153
-    label "wen"
+    label "rf4"
+    device_type 2.0
+    operating_system 4.0
     browser 3.0
-    device_type 3.0
     lang 0.0
-    operating_system 2.0
-    use_of_device 1.0
-    age 25.0
-    edu_father 3.0
-    edu_mother 4.0
-    gender 2.0
-    grade 1.7
-    income 400.0
-    ocu_father 1.0
-    ocu_mother 1.0
-    postcode 0.0
+    use_of_device 3.0
     rent 0.0
+    income 1000.0
+    edu_father 1.0
+    edu_mother 3.0
+    age 27.0
+    gender 2.0
+    study_program 2.0
+    postcode 78.0
     tutorial 6.0
-    linksrechts_self 8.0
-    lr_AfD 11.0
-    lr_BSW 2.0
-    lr_CDU 7.0
-    lr_CSU 7.0
-    lr_FDP 8.0
-    lr_Gruene 3.0
-    lr_Linke 1.0
-    lr_SPD 2.0
-    noteligible_sunday_party_vote 4.0
-    politics_question_five 4.0
-    politics_question_four 2.0
-    politics_question_one 4.0
-    politics_question_seven 4.0
-    politics_question_six 4.0
-    politics_question_three 4.0
-    politics_question_two 3.0
-    scalo_afd -4.0
-    scalo_bsw -2.0
-    scalo_cdu 1.0
-    scalo_csu 1.0
-    scalo_fdp 2.0
-    scalo_gruene 0.0
-    scalo_linke -2.0
-    scalo_pep10 -5.0
-    scalo_pep11 0.0
-    scalo_pep12 0.0
-    scalo_pep13 0.0
-    scalo_pep14 -5.0
-    scalo_pep15 -1.0
-    scalo_pep16 -5.0
-    scalo_pep1 -2.0
-    scalo_pep2 -2.0
-    scalo_pep3 -999.0
-    scalo_pep4 1.0
-    scalo_pep5 1.0
-    scalo_pep6 1.0
-    scalo_pep7 -2.0
-    scalo_pep8 1.0
-    scalo_pep9 -2.0
-    scalo_spd 0.0
-    sunday_not_eligible 1.0
+    social_networks_1 0.0
+    social_networks_2 0.0
+    social_networks_3 0.0
+    social_networks_4 0.0
+    social_networks_5 1.0
+    social_networks_6 1.0
+    social_networks_7 0.0
+    social_networks_8 1.0
+    social_networks_9 0.0
+    social_networks_10 1.0
     sunday_party_vote 0.0
-    sunday_poll 4.0
+    scalo_bsw 0.0
+    index_politics_question 3.2857142857142856
+    index_participation 1.0
+    index_int_criminal_scalo -4.333333333333333
+    index_government_scalo -1.8
+    index_opposition_scalo -2.8
+    index_int_goodies_scalo -0.5
+    index_left_party_scalo 0.3333333333333333
+    index_right_party_scalo -2.5
   ]
   edge [
     source 0
     target 1
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 0
     target 1
-    key 1
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 7.0
   ]
   edge [
     source 0
     target 1
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 0
     target 1
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 0
-    target 2
-    key 0
-    type "aquaintance"
+    target 1
+    key "politics"
+    type "politics"
   ]
   edge [
     source 0
-    target 2
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 0
-    target 2
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 0
-    target 2
-    key 3
+    target 1
+    key "study"
     type "study"
   ]
   edge [
     source 0
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 0
-    target 3
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 0
-    target 3
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 0
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 0
-    target 4
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 0
-    target 4
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 0
-    target 4
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 0
-    target 4
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 0
-    target 5
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 0
-    target 5
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 0
-    target 5
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 0
-    target 5
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 0
-    target 6
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 0
-    target 6
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 0
-    target 6
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 0
-    target 6
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 0
-    target 7
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 0
-    target 7
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 0
-    target 7
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 0
-    target 7
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 1
-    target 2
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 1
-    target 2
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 1
-    target 2
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 1
-    target 2
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 1
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 1
-    target 3
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 1
-    target 3
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 1
-    target 3
-    key 3
+    target 1
+    key "council"
     type "council"
   ]
   edge [
-    source 1
-    target 82
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 1
-    target 82
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 1
-    target 82
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 1
-    target 82
-    key 3
-    type "council"
-  ]
-  edge [
-    source 2
-    target 1
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 2
-    target 1
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 2
-    target 1
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 2
-    target 1
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 2
-    target 82
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 2
-    target 82
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 2
-    target 82
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 2
-    target 82
-    key 3
-    type "value"
-  ]
-  edge [
-    source 2
-    target 4
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 2
-    target 4
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 2
-    target 4
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 2
-    target 4
-    key 3
-    type "value"
-  ]
-  edge [
-    source 2
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 2
-    target 3
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 2
-    target 3
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 2
-    target 3
-    key 3
-    type "value"
-  ]
-  edge [
-    source 3
-    target 1
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 3
-    target 1
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 3
-    target 1
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 3
-    target 1
-    key 3
-    type "council"
-  ]
-  edge [
-    source 3
-    target 0
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 3
-    target 0
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 3
-    target 0
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 3
-    target 0
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 3
+    source 0
     target 2
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 3
+    source 0
     target 2
-    key 1
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 4.0
   ]
   edge [
-    source 3
+    source 0
     target 2
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 3
+    source 0
     target 2
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
-    source 4
-    target 82
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 4
-    target 82
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 4
-    target 82
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 4
-    target 82
-    key 3
-    type "council"
-  ]
-  edge [
-    source 4
+    source 0
     target 2
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 4
-    target 2
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 4
-    target 2
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 4
-    target 2
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 4
-    target 7
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 4
-    target 7
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 4
-    target 7
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 4
-    target 7
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 4
-    target 5
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 4
-    target 5
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 4
-    target 5
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 4
-    target 5
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 4
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 4
-    target 3
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 4
-    target 3
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 4
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 4
-    target 6
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 4
-    target 6
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 4
-    target 6
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 4
-    target 6
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 5
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 5
-    target 3
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 5
-    target 3
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 5
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 5
-    target 0
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 5
-    target 0
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 5
-    target 0
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 5
-    target 0
-    key 3
+    key "politics"
     type "politics"
   ]
   edge [
-    source 5
-    target 7
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 5
-    target 7
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 5
-    target 7
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 5
-    target 7
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 6
-    target 31
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 6
-    target 31
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 6
-    target 31
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 6
-    target 31
-    key 3
-    type "council"
-  ]
-  edge [
-    source 6
-    target 32
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 6
-    target 32
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 6
-    target 32
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 6
-    target 32
-    key 3
-    type "value"
-  ]
-  edge [
-    source 6
-    target 5
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 6
-    target 5
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 6
-    target 5
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 6
-    target 5
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 6
-    target 7
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 6
-    target 7
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 6
-    target 7
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 6
-    target 7
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 6
-    target 126
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 6
-    target 126
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 6
-    target 126
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 6
-    target 126
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 6
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 6
-    target 3
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 6
-    target 3
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 6
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 6
-    target 78
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 6
-    target 78
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 6
-    target 78
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 6
-    target 78
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 6
-    target 103
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 6
-    target 103
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 6
-    target 103
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 6
-    target 103
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 7
-    target 0
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 7
-    target 0
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 7
-    target 0
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 7
-    target 0
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 7
-    target 5
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 7
-    target 5
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 7
-    target 5
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 7
-    target 5
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 7
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 7
-    target 3
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 7
-    target 3
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 7
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 7
-    target 4
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 7
-    target 4
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 7
-    target 4
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 7
-    target 4
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 7
+    source 0
     target 2
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 7
-    target 2
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 7
-    target 2
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 7
-    target 2
-    key 3
-    type "council"
-  ]
-  edge [
-    source 7
-    target 82
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 7
-    target 82
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 7
-    target 82
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 7
-    target 82
-    key 3
-    type "council"
-  ]
-  edge [
-    source 7
-    target 111
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 7
-    target 111
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 7
-    target 111
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 7
-    target 111
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 7
-    target 111
-    key 4
-    type "council"
-  ]
-  edge [
-    source 7
-    target 6
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 7
-    target 6
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 7
-    target 6
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 7
-    target 6
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 8
-    target 9
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 8
-    target 9
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 8
-    target 9
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 8
-    target 9
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 8
-    target 10
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 8
-    target 10
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 8
-    target 10
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 8
-    target 10
-    key 3
-    type "council"
-  ]
-  edge [
-    source 8
-    target 11
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 8
-    target 11
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 8
-    target 11
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 8
-    target 11
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 9
-    target 8
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 9
-    target 8
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 9
-    target 8
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 9
-    target 8
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 9
-    target 10
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 9
-    target 10
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 9
-    target 10
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 9
-    target 10
-    key 3
-    type "council"
-  ]
-  edge [
-    source 9
-    target 11
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 9
-    target 11
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 9
-    target 11
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 9
-    target 11
-    key 3
-    type "council"
-  ]
-  edge [
-    source 10
-    target 12
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 10
-    target 12
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 10
-    target 12
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 10
-    target 12
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 10
-    target 13
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 10
-    target 13
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 10
-    target 13
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 10
-    target 13
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 11
-    target 17
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 11
-    target 17
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 11
-    target 17
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 11
-    target 17
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 11
-    target 17
-    key 4
-    type "value"
-  ]
-  edge [
-    source 11
-    target 17
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 11
-    target 17
-    key 6
-    type "council"
-  ]
-  edge [
-    source 11
-    target 16
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 11
-    target 16
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 11
-    target 16
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 11
-    target 16
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 11
-    target 16
-    key 4
-    type "value"
-  ]
-  edge [
-    source 11
-    target 16
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 11
-    target 16
-    key 6
-    type "council"
-  ]
-  edge [
-    source 11
-    target 14
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 11
-    target 14
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 11
-    target 14
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 11
-    target 14
-    key 3
-    type "council"
-  ]
-  edge [
-    source 11
-    target 15
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 11
-    target 15
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 11
-    target 15
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 11
-    target 15
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 11
-    target 15
-    key 4
-    type "value"
-  ]
-  edge [
-    source 11
-    target 15
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 11
-    target 15
-    key 6
-    type "council"
-  ]
-  edge [
-    source 12
-    target 108
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 12
-    target 108
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 12
-    target 108
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 12
-    target 108
-    key 3
-    type "value"
-  ]
-  edge [
-    source 12
-    target 124
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 12
-    target 124
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 12
-    target 124
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 12
-    target 124
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 12
-    target 124
-    key 4
-    type "value"
-  ]
-  edge [
-    source 12
-    target 124
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 12
-    target 124
-    key 6
+    key "study"
     type "study"
   ]
   edge [
-    source 12
-    target 125
-    key 0
+    source 0
+    target 2
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 0
+    target 3
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 12
-    target 125
-    key 1
+    source 0
+    target 3
+    key "leftright"
     type "leftright"
-    weight 8
+    weight 3.0
   ]
   edge [
-    source 12
-    target 125
-    key 2
+    source 0
+    target 3
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
-    source 12
-    target 125
-    key 3
+    source 0
+    target 3
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 0
+    target 4
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 0
+    target 4
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 0
+    target 4
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 0
+    target 4
+    key "politics"
     type "politics"
   ]
   edge [
-    source 12
-    target 86
-    key 0
+    source 0
+    target 4
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 0
+    target 5
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 12
-    target 86
-    key 1
+    source 0
+    target 5
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
-    source 12
-    target 86
-    key 2
+    source 0
+    target 5
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 12
-    target 86
-    key 3
-    type "value"
+    source 0
+    target 5
+    key "friend"
+    type "friend"
   ]
   edge [
-    source 12
-    target 86
-    key 4
+    source 0
+    target 5
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 0
+    target 5
+    key "study"
     type "study"
   ]
   edge [
-    source 12
-    target 122
-    key 0
+    source 0
+    target 5
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 1
+    target 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 12
-    target 122
-    key 1
+    source 1
+    target 0
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 5.0
   ]
   edge [
-    source 12
-    target 122
-    key 2
+    source 1
+    target 0
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 12
-    target 122
-    key 3
+    source 1
+    target 0
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 1
+    target 2
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 1
+    target 2
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 1
+    target 2
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 1
+    target 2
+    key "value"
     type "value"
   ]
   edge [
-    source 12
+    source 1
+    target 3
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 1
+    target 3
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 1
+    target 3
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 1
+    target 3
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 1
+    target 4
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 1
+    target 4
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 1
+    target 4
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 1
+    target 4
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 2
+    target 3
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 2
+    target 3
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 2
+    target 3
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 2
+    target 3
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 2
+    target 1
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 2
+    target 1
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 2
+    target 1
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 2
+    target 1
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 3
+    target 4
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 3
+    target 4
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 3
+    target 4
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 3
+    target 4
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 3
+    target 4
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 3
+    target 4
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 3
+    target 4
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 3
+    target 2
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 3
+    target 2
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 3
+    target 2
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 3
+    target 2
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 3
+    target 2
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 3
+    target 2
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 3
+    target 2
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 3
+    target 0
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 3
+    target 0
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 3
+    target 0
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 3
+    target 0
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 3
+    target 1
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 3
+    target 1
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 3
+    target 1
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 3
+    target 1
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 3
+    target 1
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 3
+    target 1
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 3
+    target 1
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 4
+    target 3
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 4
+    target 3
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 4
+    target 3
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 4
+    target 3
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 4
+    target 3
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 4
+    target 3
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 4
+    target 3
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 4
+    target 2
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 4
+    target 2
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 4
+    target 2
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 4
+    target 2
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 4
+    target 2
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 4
+    target 0
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 4
+    target 0
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 4
+    target 0
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 4
+    target 0
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 4
+    target 1
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 4
+    target 1
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 4
+    target 1
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 4
+    target 1
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 4
+    target 1
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 4
+    target 1
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 4
+    target 1
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 5
+    target 0
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 5
+    target 0
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 5
+    target 0
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 5
+    target 0
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 5
+    target 0
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 5
+    target 0
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 5
+    target 4
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 5
+    target 4
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 5
+    target 4
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 5
+    target 4
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 5
+    target 4
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 5
+    target 4
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 5
+    target 1
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 5
+    target 1
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 5
+    target 1
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 5
+    target 1
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 5
+    target 1
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 5
+    target 11
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 5
+    target 11
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 5
+    target 11
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 5
+    target 11
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 5
+    target 11
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 5
+    target 11
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 5
+    target 11
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 5
+    target 11
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 5
+    target 96
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 5
+    target 96
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 5
+    target 96
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 5
+    target 96
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 5
+    target 96
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 5
+    target 96
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 5
+    target 96
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 6
+    target 7
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 6
+    target 7
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 6
+    target 7
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 6
+    target 7
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 6
+    target 8
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 6
+    target 8
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 6
+    target 8
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 6
+    target 8
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 6
+    target 9
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 6
+    target 9
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 6
+    target 9
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 6
+    target 9
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 6
     target 10
-    key 0
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 6
+    target 10
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 6
+    target 10
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 6
+    target 10
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 7
+    target 6
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 7
+    target 6
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 7
+    target 6
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 7
+    target 6
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 7
+    target 35
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 7
+    target 35
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 7
+    target 35
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 7
+    target 35
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 7
+    target 10
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 7
+    target 10
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 7
+    target 10
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 7
+    target 10
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 7
+    target 9
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 7
+    target 9
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 7
+    target 9
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 7
+    target 9
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 8
+    target 17
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 8
+    target 17
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 8
+    target 17
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 8
+    target 17
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 8
+    target 17
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 8
+    target 17
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 8
+    target 17
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 8
+    target 6
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 8
+    target 6
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 8
+    target 6
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 8
+    target 6
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 8
+    target 6
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 8
+    target 6
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 8
+    target 6
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 8
+    target 12
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 8
+    target 12
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 8
+    target 12
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 8
+    target 12
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 8
+    target 12
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 8
+    target 12
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 8
+    target 12
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 8
+    target 18
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 8
+    target 18
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 8
+    target 18
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 8
+    target 18
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 8
+    target 18
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 8
+    target 18
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 8
+    target 18
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 8
+    target 18
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 9
+    target 6
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 9
+    target 6
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 9
+    target 6
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 9
+    target 6
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 9
+    target 14
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 9
+    target 14
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 9
+    target 14
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 9
+    target 14
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 9
+    target 7
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 9
+    target 7
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 9
+    target 7
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 9
+    target 7
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 9
+    target 35
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 9
+    target 35
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 9
+    target 35
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 9
+    target 35
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 10
+    target 6
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 10
+    target 6
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 10
+    target 6
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 10
+    target 6
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 10
+    target 7
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 10
+    target 7
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 10
+    target 7
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 10
+    target 7
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 10
+    target 9
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 10
+    target 9
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 10
+    target 9
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 10
+    target 9
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 10
+    target 35
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 10
+    target 35
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 10
+    target 35
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 10
+    target 35
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 11
+    target 12
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 11
+    target 12
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 11
+    target 12
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 11
+    target 12
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 11
+    target 13
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 11
+    target 13
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 11
+    target 13
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 11
+    target 13
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 11
+    target 14
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 11
+    target 14
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 11
+    target 14
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 11
+    target 14
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 11
+    target 15
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 11
+    target 15
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 11
+    target 15
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 11
+    target 15
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 11
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 11
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 11
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 11
+    target 16
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 11
+    target 5
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 11
+    target 5
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 11
+    target 5
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 11
+    target 5
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 11
+    target 8
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 11
+    target 8
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 11
+    target 8
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 11
+    target 8
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 11
+    target 17
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 11
+    target 17
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 11
+    target 17
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 11
+    target 17
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 12
+    target 65
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 12
-    target 10
-    key 1
+    target 65
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 3.0
   ]
   edge [
     source 12
-    target 10
-    key 2
+    target 65
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 12
-    target 10
-    key 3
+    target 65
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 12
+    target 8
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 12
+    target 8
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 12
+    target 8
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 12
+    target 8
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 12
+    target 11
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 12
+    target 11
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 12
+    target 11
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 12
+    target 11
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 13
+    target 15
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 15
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 13
+    target 15
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 13
+    target 15
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 15
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 15
+    key "politics"
     type "politics"
   ]
   edge [
     source 13
-    target 30
-    key 0
+    target 15
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 13
+    target 15
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 13
+    target 84
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 13
-    target 30
-    key 1
+    target 84
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 13
-    target 30
-    key 2
+    target 84
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 13
-    target 30
-    key 3
+    target 84
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 84
+    key "value"
     type "value"
   ]
   edge [
-    source 14
-    target 15
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 14
-    target 15
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 14
-    target 15
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 14
-    target 15
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 14
-    target 15
-    key 4
+    source 13
+    target 84
+    key "politics"
     type "politics"
   ]
   edge [
-    source 14
-    target 15
-    key 5
+    source 13
+    target 84
+    key "study"
     type "study"
   ]
   edge [
-    source 14
-    target 15
-    key 6
+    source 13
+    target 84
+    key "council"
     type "council"
   ]
   edge [
-    source 14
-    target 16
-    key 0
+    source 13
+    target 51
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 14
-    target 16
-    key 1
+    source 13
+    target 51
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
-    source 14
-    target 16
-    key 2
+    source 13
+    target 51
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 14
-    target 16
-    key 3
+    source 13
+    target 51
+    key "friend"
     type "friend"
   ]
   edge [
-    source 14
-    target 16
-    key 4
+    source 13
+    target 51
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 51
+    key "politics"
     type "politics"
   ]
   edge [
-    source 14
-    target 16
-    key 5
+    source 13
+    target 14
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 14
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 13
+    target 14
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 13
+    target 14
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 14
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 14
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 13
+    target 14
+    key "study"
     type "study"
   ]
   edge [
-    source 14
+    source 13
+    target 14
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 13
+    target 12
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 12
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 13
+    target 12
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 13
+    target 12
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 12
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 12
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 13
     target 16
-    key 6
-    type "council"
-  ]
-  edge [
-    source 14
-    target 11
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 14
-    target 11
-    key 1
+    source 13
+    target 16
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 4.0
   ]
   edge [
-    source 14
-    target 11
-    key 2
+    source 13
+    target 16
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
-    source 14
-    target 11
-    key 3
-    type "council"
+    source 13
+    target 16
+    key "friend"
+    type "friend"
   ]
   edge [
-    source 14
-    target 17
-    key 0
-    type "aquaintance"
+    source 13
+    target 16
+    key "value"
+    type "value"
   ]
   edge [
-    source 14
-    target 17
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 14
-    target 17
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 14
-    target 17
-    key 3
+    source 13
+    target 16
+    key "politics"
     type "politics"
   ]
   edge [
-    source 14
-    target 17
-    key 4
+    source 13
+    target 16
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 13
+    target 16
+    key "council"
     type "council"
   ]
   edge [
-    source 14
+    source 13
+    target 8
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 8
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 13
+    target 8
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 13
+    target 8
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 8
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 8
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 13
+    target 8
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 13
+    target 17
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 17
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 13
+    target 17
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 13
+    target 17
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 17
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 17
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 13
+    target 17
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 13
+    target 66
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 66
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 13
+    target 66
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 13
+    target 66
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 66
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 66
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 13
+    target 66
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 13
+    target 66
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 13
     target 18
-    key 0
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 18
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 13
+    target 18
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 13
+    target 18
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 18
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 18
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 13
+    target 18
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 13
+    target 69
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 69
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 13
+    target 69
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 13
+    target 69
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 69
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 69
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 13
+    target 85
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 13
+    target 85
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 13
+    target 85
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 13
+    target 85
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 13
+    target 85
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 13
+    target 85
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 13
+    target 85
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 13
+    target 85
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 14
+    target 16
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 14
-    target 18
-    key 1
+    target 16
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
     source 14
-    target 18
-    key 2
+    target 16
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 14
-    target 18
-    key 3
+    target 16
+    key "friend"
     type "friend"
   ]
   edge [
     source 14
-    target 18
-    key 4
+    target 101
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 14
+    target 101
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 14
+    target 101
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 14
+    target 101
+    key "politics"
     type "politics"
   ]
   edge [
     source 14
-    target 18
-    key 5
-    type "study"
+    target 100
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
     source 14
+    target 100
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 14
+    target 100
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 14
+    target 100
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 15
+    target 84
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 15
+    target 84
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 15
+    target 84
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 15
+    target 84
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 15
+    target 84
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 15
+    target 84
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 15
+    target 84
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 15
+    target 84
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 15
+    target 13
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 15
+    target 13
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 15
+    target 13
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 15
+    target 13
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 15
+    target 13
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 15
+    target 13
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 15
+    target 13
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 15
+    target 13
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 15
+    target 14
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 15
+    target 14
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 15
+    target 14
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 15
+    target 14
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 15
+    target 14
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 15
+    target 14
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 15
+    target 14
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 15
+    target 14
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 15
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 15
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 15
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 15
+    target 16
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 15
+    target 16
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 15
+    target 16
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 15
+    target 16
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 15
+    target 16
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 15
+    target 66
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 15
+    target 66
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 15
+    target 66
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 15
+    target 66
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 15
+    target 66
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 15
     target 18
-    key 6
-    type "council"
-  ]
-  edge [
-    source 15
-    target 14
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 15
-    target 14
-    key 1
+    target 18
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 1.0
   ]
   edge [
     source 15
-    target 14
-    key 2
+    target 18
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 15
-    target 14
-    key 3
+    target 18
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 15
+    target 18
+    key "council"
     type "council"
   ]
   edge [
     source 15
-    target 16
-    key 0
+    target 85
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 15
-    target 16
-    key 1
+    target 85
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
     source 15
-    target 16
-    key 2
+    target 85
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 15
-    target 16
-    key 3
+    target 85
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 15
+    target 85
+    key "value"
     type "value"
   ]
   edge [
     source 15
-    target 11
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 15
-    target 11
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 15
-    target 11
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 15
-    target 11
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 15
-    target 17
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 15
-    target 17
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 15
-    target 17
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 15
-    target 17
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 16
-    target 11
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 16
-    target 11
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 16
-    target 11
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 16
-    target 11
-    key 3
+    target 85
+    key "politics"
     type "politics"
   ]
   edge [
+    source 15
+    target 85
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 15
+    target 85
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 15
+    target 86
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 15
+    target 86
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 15
+    target 86
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 15
+    target 86
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 15
+    target 86
+    key "council"
+    type "council"
+  ]
+  edge [
     source 16
-    target 15
-    key 0
+    target 92
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 16
-    target 15
-    key 1
+    target 92
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 6.0
   ]
   edge [
     source 16
-    target 15
-    key 2
+    target 92
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 16
-    target 15
-    key 3
-    type "politics"
+    target 92
+    key "council"
+    type "council"
   ]
   edge [
-    source 17
-    target 11
-    key 0
+    source 16
+    target 101
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 17
-    target 11
-    key 1
+    source 16
+    target 101
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 5.0
   ]
   edge [
-    source 17
-    target 11
-    key 2
+    source 16
+    target 101
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 17
-    target 11
-    key 3
+    source 16
+    target 101
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 16
+    target 93
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 16
+    target 93
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 16
+    target 93
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 16
+    target 93
+    key "friend"
     type "friend"
   ]
   edge [
     source 17
-    target 11
-    key 4
+    target 8
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 17
+    target 8
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 17
+    target 8
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 17
+    target 8
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 17
+    target 8
+    key "value"
     type "value"
   ]
   edge [
     source 17
-    target 11
-    key 5
+    target 8
+    key "politics"
     type "politics"
   ]
   edge [
     source 17
-    target 11
-    key 6
+    target 8
+    key "study"
     type "study"
   ]
   edge [
     source 17
-    target 16
-    key 0
+    target 8
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 17
+    target 6
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 17
-    target 16
-    key 1
+    target 6
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 6.0
   ]
   edge [
     source 17
-    target 16
-    key 2
+    target 6
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 17
-    target 16
-    key 3
+    target 6
+    key "friend"
     type "friend"
   ]
   edge [
     source 17
-    target 16
-    key 4
-    type "value"
-  ]
-  edge [
-    source 17
-    target 14
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 17
-    target 14
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 17
-    target 14
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 17
-    target 14
-    key 3
+    target 6
+    key "politics"
     type "politics"
   ]
   edge [
     source 17
-    target 15
-    key 0
+    target 6
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 17
+    target 13
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 17
-    target 15
-    key 1
+    target 13
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 3.0
   ]
   edge [
     source 17
-    target 15
-    key 2
+    target 13
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 17
-    target 15
-    key 3
+    target 13
+    key "friend"
     type "friend"
   ]
   edge [
     source 17
-    target 15
-    key 4
+    target 13
+    key "value"
     type "value"
   ]
   edge [
     source 17
-    target 15
-    key 5
+    target 13
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 17
+    target 54
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 17
+    target 54
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 17
+    target 54
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 17
+    target 54
+    key "politics"
     type "politics"
   ]
   edge [
     source 17
-    target 15
-    key 6
+    target 54
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 17
+    target 84
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 17
+    target 84
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 17
+    target 84
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 17
+    target 84
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 17
+    target 84
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 17
+    target 84
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 17
+    target 84
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 17
+    target 84
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 18
+    target 13
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 18
+    target 13
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 18
+    target 13
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 18
+    target 13
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 18
+    target 13
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 18
+    target 13
+    key "study"
     type "study"
   ]
   edge [
     source 18
-    target 14
-    key 0
+    target 13
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 18
+    target 12
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 18
-    target 14
-    key 1
+    target 12
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 4.0
   ]
   edge [
     source 18
-    target 14
-    key 2
+    target 12
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 18
-    target 14
-    key 3
+    target 12
+    key "friend"
     type "friend"
   ]
   edge [
     source 18
-    target 14
-    key 4
+    target 12
+    key "value"
     type "value"
   ]
   edge [
     source 18
-    target 14
-    key 5
+    target 12
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 18
+    target 12
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 18
+    target 8
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 18
+    target 8
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 18
+    target 8
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 18
+    target 8
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 18
+    target 8
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 18
+    target 8
+    key "council"
     type "council"
   ]
   edge [
     source 18
     target 17
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 18
     target 17
-    key 1
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 2.0
   ]
   edge [
     source 18
     target 17
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 18
     target 17
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 18
     target 17
-    key 4
-    type "study"
+    key "value"
+    type "value"
   ]
   edge [
     source 18
     target 17
-    key 5
-    type "council"
-  ]
-  edge [
-    source 18
-    target 15
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 18
-    target 15
-    key 1
-    type "leftright"
-    weight 10
-  ]
-  edge [
-    source 18
-    target 15
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 18
-    target 15
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 18
-    target 15
-    key 4
-    type "council"
-  ]
-  edge [
-    source 18
-    target 77
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 18
-    target 77
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 18
-    target 77
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 18
-    target 77
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 18
-    target 77
-    key 4
-    type "value"
-  ]
-  edge [
-    source 18
-    target 77
-    key 5
+    key "politics"
     type "politics"
   ]
   edge [
     source 18
-    target 77
-    key 6
-    type "study"
-  ]
-  edge [
-    source 18
-    target 77
-    key 7
+    target 17
+    key "council"
     type "council"
   ]
   edge [
     source 18
-    target 71
-    key 0
+    target 65
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 18
-    target 71
-    key 1
+    target 65
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
     source 18
-    target 71
-    key 2
+    target 65
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 18
-    target 71
-    key 3
+    target 65
+    key "friend"
     type "friend"
   ]
   edge [
     source 18
-    target 71
-    key 4
+    target 65
+    key "value"
     type "value"
   ]
   edge [
     source 18
-    target 71
-    key 5
+    target 65
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 18
+    target 65
+    key "study"
     type "study"
   ]
   edge [
     source 18
-    target 71
-    key 6
+    target 65
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 18
+    target 66
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 18
+    target 66
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 18
+    target 66
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 18
+    target 66
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 18
+    target 66
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 18
+    target 66
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 18
+    target 66
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 18
+    target 66
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 18
+    target 67
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 18
+    target 67
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 18
+    target 67
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 18
+    target 67
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 18
+    target 67
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 18
+    target 67
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 18
+    target 67
+    key "council"
     type "council"
   ]
   edge [
     source 19
     target 20
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 19
     target 20
-    key 1
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 3.0
   ]
   edge [
     source 19
     target 20
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 19
     target 20
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 19
+    target 20
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 19
+    target 20
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 19
+    target 20
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 19
+    target 20
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 19
     target 21
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 19
     target 21
-    key 1
+    key "leftright"
     type "leftright"
-    weight 1
+    weight 4.0
   ]
   edge [
     source 19
     target 21
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 19
     target 21
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 19
-    target 22
-    key 0
-    type "aquaintance"
+    target 21
+    key "value"
+    type "value"
   ]
   edge [
     source 19
-    target 22
-    key 1
-    type "leftright"
-    weight 2
+    target 21
+    key "politics"
+    type "politics"
   ]
   edge [
     source 19
-    target 22
-    key 2
-    type "sentiment"
-    weight 1
+    target 21
+    key "study"
+    type "study"
   ]
   edge [
     source 19
-    target 22
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 19
-    target 23
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 19
-    target 23
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 19
-    target 23
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 19
-    target 23
-    key 3
-    type "friend"
+    target 21
+    key "council"
+    type "council"
   ]
   edge [
     source 20
     target 21
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 20
     target 21
-    key 1
+    key "leftright"
     type "leftright"
-    weight 1
+    weight 3.0
   ]
   edge [
     source 20
     target 21
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 20
     target 21
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 20
     target 21
-    key 4
+    key "value"
     type "value"
   ]
   edge [
     source 20
     target 21
-    key 5
+    key "politics"
     type "politics"
   ]
   edge [
     source 20
     target 21
-    key 6
-    type "study"
-  ]
-  edge [
-    source 20
-    target 21
-    key 7
-    type "council"
-  ]
-  edge [
-    source 20
-    target 19
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 20
-    target 19
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 20
-    target 19
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 20
-    target 19
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 20
-    target 19
-    key 4
-    type "value"
-  ]
-  edge [
-    source 20
-    target 19
-    key 5
+    key "study"
     type "study"
   ]
   edge [
     source 20
     target 19
-    key 6
-    type "council"
-  ]
-  edge [
-    source 20
-    target 22
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 20
-    target 22
-    key 1
+    target 19
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 4.0
   ]
   edge [
     source 20
-    target 22
-    key 2
+    target 19
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 20
-    target 22
-    key 3
+    target 19
+    key "friend"
     type "friend"
   ]
   edge [
     source 20
-    target 22
-    key 4
+    target 19
+    key "value"
     type "value"
   ]
   edge [
     source 20
-    target 22
-    key 5
-    type "study"
-  ]
-  edge [
-    source 20
-    target 22
-    key 6
-    type "council"
-  ]
-  edge [
-    source 20
-    target 23
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 20
-    target 23
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 20
-    target 23
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 20
-    target 23
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 20
-    target 23
-    key 4
-    type "value"
-  ]
-  edge [
-    source 20
-    target 23
-    key 5
-    type "study"
-  ]
-  edge [
-    source 20
-    target 23
-    key 6
-    type "council"
-  ]
-  edge [
-    source 21
-    target 23
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 21
-    target 23
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 21
-    target 23
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 21
-    target 23
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 21
-    target 23
-    key 4
-    type "value"
-  ]
-  edge [
-    source 21
     target 19
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 21
-    target 19
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 21
-    target 19
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 21
-    target 19
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 21
-    target 19
-    key 4
-    type "value"
-  ]
-  edge [
-    source 21
-    target 20
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 21
-    target 20
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 21
-    target 20
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 21
-    target 20
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 21
-    target 20
-    key 4
-    type "value"
-  ]
-  edge [
-    source 21
-    target 20
-    key 5
+    key "politics"
     type "politics"
   ]
   edge [
-    source 21
-    target 20
-    key 6
+    source 20
+    target 19
+    key "study"
     type "study"
   ]
   edge [
     source 21
     target 20
-    key 7
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 21
+    target 20
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 21
+    target 20
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 21
+    target 20
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 21
+    target 20
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 21
+    target 20
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 21
+    target 20
+    key "council"
     type "council"
   ]
   edge [
     source 21
-    target 22
-    key 0
+    target 19
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 21
-    target 22
-    key 1
+    target 19
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 5.0
   ]
   edge [
     source 21
-    target 22
-    key 2
+    target 19
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 21
-    target 22
-    key 3
+    target 19
+    key "friend"
     type "friend"
   ]
   edge [
     source 21
-    target 22
-    key 4
+    target 19
+    key "value"
     type "value"
   ]
   edge [
-    source 22
-    target 20
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 22
-    target 20
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 22
-    target 20
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 22
-    target 20
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 22
-    target 21
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 22
-    target 21
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 22
-    target 21
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 22
-    target 21
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 22
+    source 21
     target 19
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 22
-    target 19
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 22
-    target 19
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 22
-    target 19
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 22
-    target 23
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 22
-    target 23
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 22
-    target 23
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 22
-    target 23
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 23
-    target 20
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 23
-    target 20
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 23
-    target 20
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 23
-    target 20
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 23
-    target 20
-    key 4
-    type "value"
-  ]
-  edge [
-    source 23
-    target 20
-    key 5
+    key "study"
     type "study"
   ]
   edge [
-    source 23
-    target 21
-    key 0
+    source 21
+    target 19
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 22
+    target 23
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 23
-    target 21
-    key 1
+    source 22
+    target 23
+    key "leftright"
     type "leftright"
-    weight 1
+    weight 3.0
   ]
   edge [
-    source 23
-    target 21
-    key 2
+    source 22
+    target 23
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 2.0
   ]
   edge [
-    source 23
-    target 21
-    key 3
+    source 22
+    target 23
+    key "friend"
     type "friend"
   ]
   edge [
-    source 23
-    target 21
-    key 4
-    type "study"
-  ]
-  edge [
-    source 23
-    target 19
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 23
-    target 19
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 23
-    target 19
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 23
-    target 19
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 23
-    target 19
-    key 4
+    source 22
+    target 23
+    key "value"
     type "value"
   ]
   edge [
+    source 22
+    target 23
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 22
+    target 23
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 22
+    target 23
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 22
+    target 24
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 22
+    target 24
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 22
+    target 24
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 22
+    target 24
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 22
+    target 24
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 22
+    target 24
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 22
+    target 24
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 22
+    target 25
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 22
+    target 25
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 22
+    target 25
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 22
+    target 25
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 22
+    target 25
+    key "council"
+    type "council"
+  ]
+  edge [
     source 23
-    target 19
-    key 5
+    target 22
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 23
+    target 22
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 23
+    target 22
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 23
+    target 22
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 23
+    target 22
+    key "politics"
     type "politics"
   ]
   edge [
     source 23
-    target 19
-    key 6
-    type "study"
-  ]
-  edge [
-    source 23
-    target 22
-    key 0
+    target 24
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 23
-    target 22
-    key 1
+    target 24
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 7.0
   ]
   edge [
     source 23
-    target 22
-    key 2
+    target 24
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 23
-    target 22
-    key 3
+    target 24
+    key "friend"
     type "friend"
   ]
   edge [
     source 23
-    target 22
-    key 4
-    type "value"
+    target 24
+    key "council"
+    type "council"
   ]
   edge [
     source 23
-    target 22
-    key 5
-    type "politics"
+    target 85
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
     source 23
-    target 22
-    key 6
-    type "study"
+    target 85
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 23
+    target 85
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 23
+    target 85
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 24
+    target 52
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 24
+    target 52
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 24
+    target 52
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 24
+    target 52
+    key "friend"
+    type "friend"
   ]
   edge [
     source 24
     target 25
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 24
     target 25
-    key 1
+    key "leftright"
     type "leftright"
-    weight 9
+    weight 5.0
   ]
   edge [
     source 24
     target 25
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 24
     target 25
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 24
-    target 25
-    key 4
-    type "value"
-  ]
-  edge [
-    source 24
-    target 26
-    key 0
+    target 23
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 24
-    target 26
-    key 1
+    target 23
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 5.0
   ]
   edge [
     source 24
-    target 26
-    key 2
+    target 23
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 24
-    target 26
-    key 3
-    type "council"
+    target 23
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 24
+    target 22
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 24
+    target 22
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 24
+    target 22
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 24
+    target 22
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 25
+    target 52
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 25
+    target 52
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 25
+    target 52
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 25
+    target 52
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 25
+    target 53
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 25
+    target 53
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 25
+    target 53
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 25
+    target 53
+    key "friend"
+    type "friend"
   ]
   edge [
     source 25
     target 24
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 25
     target 24
-    key 1
+    key "leftright"
     type "leftright"
-    weight 8
+    weight 2.0
   ]
   edge [
     source 25
     target 24
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 25
     target 24
-    key 3
-    type "friend"
+    key "council"
+    type "council"
   ]
   edge [
-    source 25
-    target 66
-    key 0
+    source 26
+    target 27
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 25
-    target 66
-    key 1
+    source 26
+    target 27
+    key "leftright"
     type "leftright"
-    weight 0
+    weight 7.0
   ]
   edge [
-    source 25
-    target 66
-    key 2
+    source 26
+    target 27
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
-    source 25
-    target 66
-    key 3
+    source 26
+    target 27
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 26
+    target 28
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 26
+    target 28
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 26
+    target 28
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 26
+    target 28
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 26
+    target 29
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 26
+    target 29
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 26
+    target 29
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 26
+    target 29
+    key "value"
     type "value"
   ]
   edge [
-    source 26
-    target 150
-    key 0
+    source 27
+    target 94
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 26
-    target 150
-    key 1
+    source 27
+    target 94
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 6.0
   ]
   edge [
-    source 26
-    target 150
-    key 2
+    source 27
+    target 94
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
-    source 26
-    target 151
-    key 0
+    source 27
+    target 94
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 28
+    target 113
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 26
-    target 151
-    key 1
+    source 28
+    target 113
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 8.0
   ]
   edge [
-    source 26
-    target 151
-    key 2
+    source 28
+    target 113
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
-    source 26
-    target 151
-    key 3
+    source 28
+    target 113
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 28
+    target 26
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 28
+    target 26
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 28
+    target 26
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 29
+    target 2
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 29
+    target 2
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 29
+    target 2
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 29
+    target 2
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 29
+    target 2
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 29
+    target 39
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 29
+    target 39
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 29
+    target 39
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 29
+    target 39
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 29
+    target 39
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 29
+    target 26
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 29
+    target 26
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 29
+    target 26
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 29
+    target 26
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 29
+    target 40
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 29
+    target 40
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 29
+    target 40
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 29
+    target 40
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 30
+    target 31
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 30
+    target 31
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 30
+    target 31
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 30
+    target 31
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 30
+    target 31
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 30
+    target 32
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 30
+    target 32
+    key "leftright"
+    type "leftright"
+    weight 9.0
+  ]
+  edge [
+    source 30
+    target 32
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 30
+    target 32
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 30
+    target 32
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 31
+    target 30
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 31
+    target 30
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 31
+    target 30
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 31
+    target 30
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 31
+    target 32
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 31
+    target 32
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 31
+    target 32
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 31
+    target 32
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 31
+    target 99
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 31
+    target 99
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 31
+    target 99
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 31
+    target 99
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 31
+    target 96
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 31
+    target 96
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 31
+    target 96
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 31
+    target 96
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 32
+    target 31
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 31
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 32
+    target 31
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 32
+    target 31
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 32
+    target 31
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 32
+    target 31
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 32
+    target 30
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 30
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 32
+    target 30
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 32
+    target 30
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 32
+    target 30
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 32
+    target 95
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 95
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 32
+    target 95
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 32
+    target 95
+    key "study"
     type "study"
   ]
   edge [
-    source 26
+    source 32
+    target 95
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 32
+    target 96
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 96
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 32
+    target 96
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 32
+    target 96
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 32
+    target 97
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 97
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 32
+    target 97
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 32
+    target 97
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 32
+    target 98
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 98
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 32
+    target 98
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 32
+    target 98
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 32
+    target 43
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 43
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 32
+    target 43
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 32
+    target 43
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 32
+    target 43
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 32
+    target 99
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 99
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 32
+    target 99
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 32
+    target 99
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 32
+    target 27
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 27
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 32
+    target 27
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 32
+    target 27
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 32
+    target 34
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 32
+    target 34
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 32
+    target 34
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 32
+    target 34
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 33
+    target 34
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 33
+    target 34
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 33
+    target 34
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 33
+    target 34
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 33
+    target 34
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 33
+    target 34
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 33
+    target 34
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 33
+    target 34
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 33
+    target 35
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 33
+    target 35
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 33
+    target 35
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 33
+    target 35
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 33
+    target 35
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 33
+    target 35
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 33
+    target 35
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 33
+    target 35
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 33
+    target 36
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 33
+    target 36
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 33
+    target 36
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 33
+    target 36
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 33
+    target 36
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 33
+    target 36
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 33
+    target 36
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 33
+    target 36
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 33
+    target 37
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 33
+    target 37
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 33
+    target 37
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 33
+    target 37
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 33
+    target 37
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 33
+    target 37
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 33
+    target 37
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 33
+    target 37
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 33
+    target 38
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 33
+    target 38
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 33
+    target 38
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 33
+    target 38
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 34
+    target 33
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 34
+    target 33
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 34
+    target 33
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 34
+    target 33
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 34
+    target 33
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 34
+    target 33
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 34
+    target 33
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 34
+    target 33
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 34
+    target 35
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 34
+    target 35
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 34
+    target 35
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 34
+    target 35
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 34
+    target 36
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 34
+    target 36
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 34
+    target 36
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 34
+    target 36
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 34
+    target 36
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 34
+    target 36
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 34
+    target 36
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 34
+    target 36
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 34
+    target 37
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 34
+    target 37
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 34
+    target 37
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 34
+    target 37
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 34
+    target 37
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 34
+    target 37
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 34
+    target 37
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 34
+    target 37
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 34
+    target 38
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 34
+    target 38
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 34
+    target 38
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 34
+    target 38
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 34
+    target 96
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 34
+    target 96
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 34
+    target 96
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 34
+    target 96
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 34
+    target 96
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 34
+    target 96
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 34
+    target 96
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 34
+    target 96
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 35
+    target 36
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 35
+    target 36
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 35
+    target 36
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 35
+    target 36
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 35
+    target 36
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 35
+    target 36
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 35
+    target 70
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 35
+    target 70
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 35
+    target 70
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 35
+    target 70
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 35
+    target 70
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 35
+    target 70
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 35
+    target 9
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 35
+    target 9
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 35
+    target 9
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 35
+    target 9
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 35
+    target 9
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 35
+    target 9
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 35
+    target 9
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 35
+    target 7
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 35
+    target 7
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 35
+    target 7
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 35
+    target 7
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 35
+    target 7
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 35
+    target 7
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 35
+    target 7
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 35
+    target 7
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 35
+    target 6
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 35
+    target 6
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 35
+    target 6
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 35
+    target 6
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 35
+    target 6
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 35
+    target 6
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 35
+    target 6
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 35
+    target 6
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 35
+    target 10
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 35
+    target 10
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 35
+    target 10
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 35
+    target 10
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 35
+    target 10
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 35
+    target 10
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 35
+    target 10
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 35
+    target 10
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 37
+    target 34
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 37
+    target 34
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 37
+    target 34
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 37
+    target 34
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 37
+    target 34
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 37
+    target 34
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 37
+    target 34
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 37
+    target 34
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 37
+    target 33
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 37
+    target 33
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 37
+    target 33
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 37
+    target 33
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 37
+    target 33
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 37
+    target 33
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 37
+    target 33
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 37
+    target 33
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 37
+    target 35
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 37
+    target 35
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 37
+    target 35
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 37
+    target 35
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 37
+    target 35
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 37
+    target 36
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 37
+    target 36
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 37
+    target 36
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 37
+    target 36
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 37
+    target 36
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 37
+    target 36
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 37
+    target 36
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 37
+    target 36
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 37
+    target 71
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 37
+    target 71
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 37
+    target 71
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 37
+    target 71
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 37
+    target 71
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 37
+    target 71
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 37
+    target 71
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 38
+    target 129
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 38
+    target 129
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 38
+    target 129
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 38
+    target 129
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 38
+    target 129
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 38
     target 25
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 26
+    source 38
     target 25
-    key 1
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 4.0
   ]
   edge [
-    source 26
+    source 38
     target 25
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
-    source 27
-    target 28
-    key 0
+    source 38
+    target 25
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 38
+    target 128
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 27
-    target 28
-    key 1
+    source 38
+    target 128
+    key "leftright"
     type "leftright"
-    weight 8
+    weight 2.0
   ]
   edge [
-    source 27
-    target 28
-    key 2
+    source 38
+    target 128
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
-    source 27
-    target 28
-    key 3
-    type "friend"
+    source 38
+    target 128
+    key "council"
+    type "council"
   ]
   edge [
-    source 27
-    target 28
-    key 4
-    type "value"
+    source 38
+    target 127
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
-    source 27
-    target 28
-    key 5
+    source 38
+    target 127
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 38
+    target 127
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 38
+    target 127
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 38
+    target 33
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 38
+    target 33
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 38
+    target 33
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 38
+    target 33
+    key "politics"
     type "politics"
   ]
   edge [
-    source 27
-    target 28
-    key 6
+    source 38
+    target 33
+    key "council"
     type "council"
   ]
   edge [
-    source 27
-    target 3
-    key 0
+    source 38
+    target 37
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 27
-    target 3
-    key 1
+    source 38
+    target 37
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 7.0
   ]
   edge [
-    source 27
-    target 3
-    key 2
+    source 38
+    target 37
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 27
-    target 3
-    key 3
+    source 38
+    target 37
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 38
+    target 37
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 39
+    target 125
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 39
+    target 125
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 39
+    target 125
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 39
+    target 125
+    key "friend"
     type "friend"
   ]
   edge [
-    source 27
-    target 3
-    key 4
-    type "value"
-  ]
-  edge [
-    source 27
-    target 3
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 27
-    target 3
-    key 6
-    type "council"
-  ]
-  edge [
-    source 27
-    target 29
-    key 0
+    source 39
+    target 2
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 27
-    target 29
-    key 1
+    source 39
+    target 2
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
-    source 27
-    target 29
-    key 2
+    source 39
+    target 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 27
-    target 29
-    key 3
+    source 39
+    target 2
+    key "friend"
     type "friend"
   ]
   edge [
-    source 27
+    source 39
     target 29
-    key 4
-    type "value"
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
-    source 27
+    source 39
     target 29
-    key 5
-    type "politics"
+    key "leftright"
+    type "leftright"
+    weight 3.0
   ]
   edge [
-    source 27
+    source 39
     target 29
-    key 6
-    type "council"
-  ]
-  edge [
-    source 28
-    target 27
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 28
-    target 27
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 28
-    target 27
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
-    source 28
-    target 27
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 28
-    target 27
-    key 4
-    type "council"
-  ]
-  edge [
-    source 28
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 28
-    target 3
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 28
-    target 3
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 28
-    target 3
-    key 3
-    type "council"
-  ]
-  edge [
-    source 28
-    target 5
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 28
-    target 5
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 28
-    target 5
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 28
-    target 5
-    key 3
-    type "council"
-  ]
-  edge [
-    source 28
-    target 65
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 28
-    target 65
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 28
-    target 65
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 28
-    target 65
-    key 3
+    source 39
+    target 29
+    key "friend"
     type "friend"
   ]
   edge [
-    source 28
-    target 65
-    key 4
-    type "council"
-  ]
-  edge [
-    source 28
-    target 62
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 28
-    target 62
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 28
-    target 62
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 28
-    target 62
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 28
-    target 62
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 28
-    target 62
-    key 5
-    type "council"
-  ]
-  edge [
-    source 28
+    source 40
     target 64
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 28
+    source 40
     target 64
-    key 1
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
-    source 28
+    source 40
     target 64
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 28
+    source 40
     target 64
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
-    source 28
+    source 40
     target 64
-    key 4
-    type "council"
-  ]
-  edge [
-    source 29
-    target 54
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 29
-    target 54
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 29
-    target 54
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 29
-    target 54
-    key 3
-    type "study"
-  ]
-  edge [
-    source 29
-    target 54
-    key 4
-    type "council"
-  ]
-  edge [
-    source 29
-    target 55
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 29
-    target 55
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 29
-    target 55
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 29
-    target 55
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 29
-    target 55
-    key 4
+    key "value"
     type "value"
-  ]
-  edge [
-    source 29
-    target 55
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 29
-    target 55
-    key 6
-    type "study"
-  ]
-  edge [
-    source 29
-    target 55
-    key 7
-    type "council"
-  ]
-  edge [
-    source 29
-    target 77
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 29
-    target 77
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 29
-    target 77
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 29
-    target 77
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 29
-    target 77
-    key 4
-    type "value"
-  ]
-  edge [
-    source 29
-    target 77
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 29
-    target 77
-    key 6
-    type "study"
-  ]
-  edge [
-    source 29
-    target 77
-    key 7
-    type "council"
-  ]
-  edge [
-    source 29
-    target 78
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 29
-    target 78
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 29
-    target 78
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 29
-    target 78
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 29
-    target 78
-    key 4
-    type "value"
-  ]
-  edge [
-    source 29
-    target 78
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 29
-    target 78
-    key 6
-    type "study"
-  ]
-  edge [
-    source 29
-    target 78
-    key 7
-    type "council"
-  ]
-  edge [
-    source 29
-    target 79
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 29
-    target 79
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 29
-    target 79
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 29
-    target 79
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 29
-    target 79
-    key 4
-    type "value"
-  ]
-  edge [
-    source 29
-    target 79
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 29
-    target 79
-    key 6
-    type "study"
-  ]
-  edge [
-    source 29
-    target 79
-    key 7
-    type "council"
-  ]
-  edge [
-    source 29
-    target 80
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 29
-    target 80
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 29
-    target 80
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 29
-    target 80
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 29
-    target 80
-    key 4
-    type "value"
-  ]
-  edge [
-    source 29
-    target 80
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 29
-    target 80
-    key 6
-    type "study"
-  ]
-  edge [
-    source 29
-    target 80
-    key 7
-    type "council"
-  ]
-  edge [
-    source 29
-    target 81
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 29
-    target 81
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 29
-    target 81
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 29
-    target 81
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 29
-    target 81
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 29
-    target 81
-    key 5
-    type "study"
-  ]
-  edge [
-    source 29
-    target 81
-    key 6
-    type "council"
-  ]
-  edge [
-    source 30
-    target 13
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 30
-    target 13
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 30
-    target 13
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 30
-    target 13
-    key 3
-    type "council"
-  ]
-  edge [
-    source 30
-    target 97
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 30
-    target 97
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 30
-    target 97
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 30
-    target 97
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 30
-    target 90
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 30
-    target 90
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 30
-    target 90
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 30
-    target 90
-    key 3
-    type "value"
-  ]
-  edge [
-    source 31
-    target 32
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 31
-    target 32
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 31
-    target 32
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 31
-    target 32
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 31
-    target 32
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 31
-    target 33
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 31
-    target 33
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 31
-    target 33
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 31
-    target 33
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 31
-    target 33
-    key 4
-    type "council"
-  ]
-  edge [
-    source 31
-    target 6
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 31
-    target 6
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 31
-    target 6
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 31
-    target 6
-    key 3
-    type "council"
-  ]
-  edge [
-    source 32
-    target 31
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 32
-    target 31
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 32
-    target 31
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 32
-    target 31
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 32
-    target 31
-    key 4
-    type "value"
-  ]
-  edge [
-    source 32
-    target 31
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 32
-    target 31
-    key 6
-    type "study"
-  ]
-  edge [
-    source 32
-    target 31
-    key 7
-    type "council"
-  ]
-  edge [
-    source 32
-    target 33
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 32
-    target 33
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 32
-    target 33
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 32
-    target 33
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 32
-    target 33
-    key 4
-    type "value"
-  ]
-  edge [
-    source 32
-    target 33
-    key 5
-    type "study"
-  ]
-  edge [
-    source 32
-    target 33
-    key 6
-    type "council"
-  ]
-  edge [
-    source 32
-    target 40
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 32
-    target 40
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 32
-    target 40
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 32
-    target 40
-    key 3
-    type "study"
-  ]
-  edge [
-    source 32
-    target 40
-    key 4
-    type "council"
-  ]
-  edge [
-    source 33
-    target 95
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 33
-    target 95
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 33
-    target 95
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 33
-    target 95
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 33
-    target 40
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 33
-    target 40
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 33
-    target 40
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 33
-    target 40
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 33
-    target 31
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 33
-    target 31
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 33
-    target 31
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 33
-    target 31
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 33
-    target 32
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 33
-    target 32
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 33
-    target 32
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 33
-    target 32
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 34
-    target 35
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 34
-    target 35
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 34
-    target 35
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 34
-    target 35
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 34
-    target 35
-    key 4
-    type "study"
-  ]
-  edge [
-    source 34
-    target 35
-    key 5
-    type "council"
-  ]
-  edge [
-    source 34
-    target 18
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 34
-    target 18
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 34
-    target 18
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 34
-    target 18
-    key 3
-    type "study"
-  ]
-  edge [
-    source 34
-    target 18
-    key 4
-    type "council"
-  ]
-  edge [
-    source 34
-    target 36
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 34
-    target 36
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 34
-    target 36
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 34
-    target 36
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 34
-    target 36
-    key 4
-    type "value"
-  ]
-  edge [
-    source 34
-    target 36
-    key 5
-    type "study"
-  ]
-  edge [
-    source 34
-    target 36
-    key 6
-    type "council"
-  ]
-  edge [
-    source 34
-    target 37
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 34
-    target 37
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 34
-    target 37
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 34
-    target 37
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 34
-    target 37
-    key 4
-    type "study"
-  ]
-  edge [
-    source 34
-    target 37
-    key 5
-    type "council"
-  ]
-  edge [
-    source 35
-    target 34
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 35
-    target 34
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 35
-    target 34
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 35
-    target 34
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 35
-    target 34
-    key 4
-    type "value"
-  ]
-  edge [
-    source 35
-    target 34
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 35
-    target 34
-    key 6
-    type "study"
-  ]
-  edge [
-    source 35
-    target 34
-    key 7
-    type "council"
-  ]
-  edge [
-    source 35
-    target 18
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 35
-    target 18
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 35
-    target 18
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 35
-    target 18
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 35
-    target 18
-    key 4
-    type "study"
-  ]
-  edge [
-    source 35
-    target 18
-    key 5
-    type "council"
-  ]
-  edge [
-    source 35
-    target 36
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 35
-    target 36
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 35
-    target 36
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 35
-    target 36
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 35
-    target 36
-    key 4
-    type "value"
-  ]
-  edge [
-    source 35
-    target 36
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 35
-    target 36
-    key 6
-    type "study"
-  ]
-  edge [
-    source 35
-    target 36
-    key 7
-    type "council"
-  ]
-  edge [
-    source 35
-    target 37
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 35
-    target 37
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 35
-    target 37
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 35
-    target 37
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 35
-    target 37
-    key 4
-    type "value"
-  ]
-  edge [
-    source 35
-    target 37
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 35
-    target 37
-    key 6
-    type "study"
-  ]
-  edge [
-    source 35
-    target 37
-    key 7
-    type "council"
-  ]
-  edge [
-    source 36
-    target 37
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 36
-    target 37
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 36
-    target 37
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 36
-    target 37
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 36
-    target 37
-    key 4
-    type "value"
-  ]
-  edge [
-    source 36
-    target 37
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 36
-    target 37
-    key 6
-    type "study"
-  ]
-  edge [
-    source 36
-    target 37
-    key 7
-    type "council"
-  ]
-  edge [
-    source 36
-    target 18
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 36
-    target 18
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 36
-    target 18
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 36
-    target 18
-    key 3
-    type "study"
-  ]
-  edge [
-    source 36
-    target 18
-    key 4
-    type "council"
-  ]
-  edge [
-    source 36
-    target 34
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 36
-    target 34
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 36
-    target 34
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 36
-    target 34
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 36
-    target 34
-    key 4
-    type "value"
-  ]
-  edge [
-    source 36
-    target 34
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 36
-    target 34
-    key 6
-    type "study"
-  ]
-  edge [
-    source 36
-    target 34
-    key 7
-    type "council"
-  ]
-  edge [
-    source 36
-    target 35
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 36
-    target 35
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 36
-    target 35
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 36
-    target 35
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 36
-    target 35
-    key 4
-    type "value"
-  ]
-  edge [
-    source 36
-    target 35
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 36
-    target 35
-    key 6
-    type "study"
-  ]
-  edge [
-    source 36
-    target 35
-    key 7
-    type "council"
-  ]
-  edge [
-    source 37
-    target 35
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 37
-    target 35
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 37
-    target 35
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 37
-    target 35
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 37
-    target 35
-    key 4
-    type "value"
-  ]
-  edge [
-    source 37
-    target 35
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 37
-    target 35
-    key 6
-    type "study"
-  ]
-  edge [
-    source 37
-    target 35
-    key 7
-    type "council"
-  ]
-  edge [
-    source 37
-    target 34
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 37
-    target 34
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 37
-    target 34
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 37
-    target 34
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 37
-    target 34
-    key 4
-    type "value"
-  ]
-  edge [
-    source 37
-    target 34
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 37
-    target 34
-    key 6
-    type "study"
-  ]
-  edge [
-    source 37
-    target 34
-    key 7
-    type "council"
-  ]
-  edge [
-    source 37
-    target 18
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 37
-    target 18
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 37
-    target 18
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 37
-    target 18
-    key 3
-    type "council"
-  ]
-  edge [
-    source 37
-    target 36
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 37
-    target 36
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 37
-    target 36
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 37
-    target 36
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 37
-    target 36
-    key 4
-    type "value"
-  ]
-  edge [
-    source 37
-    target 36
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 37
-    target 36
-    key 6
-    type "study"
-  ]
-  edge [
-    source 37
-    target 36
-    key 7
-    type "council"
-  ]
-  edge [
-    source 38
-    target 39
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 38
-    target 39
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 38
-    target 39
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 38
-    target 39
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 38
-    target 31
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 38
-    target 31
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 38
-    target 31
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 38
-    target 31
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 38
-    target 32
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 38
-    target 32
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 38
-    target 32
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 38
-    target 32
-    key 3
-    type "council"
-  ]
-  edge [
-    source 38
-    target 40
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 38
-    target 40
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 38
-    target 40
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 38
-    target 40
-    key 3
-    type "council"
-  ]
-  edge [
-    source 39
-    target 38
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 39
-    target 38
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 39
-    target 38
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 39
-    target 38
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 39
-    target 40
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 39
-    target 40
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 39
-    target 40
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 39
-    target 40
-    key 3
-    type "politics"
   ]
   edge [
     source 40
-    target 95
-    key 0
+    target 133
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 40
-    target 95
-    key 1
+    target 133
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 4.0
   ]
   edge [
     source 40
-    target 95
-    key 2
+    target 133
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 40
-    target 95
-    key 3
-    type "friend"
+    target 133
+    key "council"
+    type "council"
   ]
   edge [
     source 40
-    target 94
-    key 0
+    target 96
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 40
-    target 94
-    key 1
+    target 96
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 4.0
   ]
   edge [
     source 40
-    target 94
-    key 2
+    target 96
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 40
-    target 94
-    key 3
-    type "friend"
+    target 96
+    key "council"
+    type "council"
   ]
   edge [
     source 40
-    target 33
-    key 0
+    target 119
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 40
-    target 33
-    key 1
+    target 119
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 4.0
   ]
   edge [
     source 40
-    target 33
-    key 2
+    target 119
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 40
-    target 33
-    key 3
+    target 119
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 40
+    target 119
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 40
+    target 119
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 40
+    target 99
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 40
+    target 99
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 40
+    target 99
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 40
+    target 99
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 40
+    target 29
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 40
+    target 29
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 40
+    target 29
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 40
+    target 29
+    key "council"
     type "council"
   ]
   edge [
     source 41
     target 42
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 41
     target 42
-    key 1
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 6.0
   ]
   edge [
     source 41
     target 42
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 2.0
   ]
   edge [
     source 41
     target 42
-    key 3
-    type "study"
+    key "friend"
+    type "friend"
   ]
   edge [
     source 41
-    target 43
-    key 0
+    target 23
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 41
-    target 43
-    key 1
+    target 23
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 4.0
   ]
   edge [
     source 41
-    target 43
-    key 2
+    target 23
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
     source 41
+    target 23
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 41
+    target 22
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 41
+    target 22
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 41
+    target 22
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 41
+    target 22
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 41
+    target 25
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 41
+    target 25
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 41
+    target 25
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 41
+    target 25
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 42
+    target 41
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 42
+    target 41
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 42
+    target 41
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 42
+    target 41
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 42
+    target 25
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 42
+    target 25
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 42
+    target 25
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 42
+    target 25
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 43
+    target 44
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 43
+    target 44
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 43
+    target 44
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 43
+    target 44
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 43
+    target 44
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 43
+    target 44
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 43
+    target 45
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 43
+    target 45
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 43
+    target 45
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 43
+    target 45
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 43
+    target 45
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 43
+    target 46
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 43
+    target 46
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 43
+    target 46
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 43
+    target 46
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 43
+    target 47
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 43
+    target 47
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 43
+    target 47
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 43
+    target 47
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 43
+    target 47
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 43
+    target 47
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 44
     target 43
-    key 3
-    type "study"
-  ]
-  edge [
-    source 42
-    target 41
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 42
-    target 41
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 42
-    target 41
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 42
-    target 41
-    key 3
-    type "council"
-  ]
-  edge [
-    source 42
-    target 91
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 42
-    target 91
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 42
-    target 91
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 42
-    target 91
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 43
-    target 41
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 43
-    target 41
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 43
-    target 41
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 43
-    target 41
-    key 3
-    type "council"
-  ]
-  edge [
-    source 43
-    target 89
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 43
-    target 89
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 43
-    target 89
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 43
-    target 89
-    key 3
-    type "council"
-  ]
-  edge [
-    source 43
-    target 90
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 43
-    target 90
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 43
-    target 90
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 43
-    target 90
-    key 3
-    type "council"
-  ]
-  edge [
-    source 44
-    target 45
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 44
-    target 45
-    key 1
+    target 43
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 3.0
   ]
   edge [
     source 44
-    target 45
-    key 2
+    target 43
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 44
-    target 45
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 44
-    target 45
-    key 4
+    target 43
+    key "value"
     type "value"
   ]
   edge [
-    source 44
-    target 45
-    key 5
+    source 45
+    target 80
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 45
+    target 80
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 45
+    target 80
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 45
+    target 80
+    key "politics"
     type "politics"
   ]
   edge [
-    source 44
-    target 45
-    key 6
-    type "study"
-  ]
-  edge [
-    source 44
-    target 45
-    key 7
+    source 45
+    target 80
+    key "council"
     type "council"
   ]
   edge [
-    source 44
-    target 46
-    key 0
+    source 45
+    target 16
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 44
-    target 46
-    key 1
+    source 45
+    target 16
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
-    source 44
-    target 46
-    key 2
+    source 45
+    target 16
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 44
-    target 46
-    key 3
-    type "friend"
+    source 45
+    target 16
+    key "council"
+    type "council"
   ]
   edge [
-    source 44
-    target 46
-    key 4
-    type "value"
+    source 45
+    target 14
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
-    source 44
+    source 45
+    target 14
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 45
+    target 14
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 45
+    target 14
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 45
     target 47
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 44
+    source 45
     target 47
-    key 1
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 5.0
   ]
   edge [
-    source 44
+    source 45
     target 47
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 44
+    source 45
     target 47
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
-    source 44
+    source 45
     target 47
-    key 4
-    type "value"
+    key "council"
+    type "council"
   ]
   edge [
-    source 44
+    source 45
+    target 43
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 45
+    target 43
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 45
+    target 43
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 45
+    target 43
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 45
+    target 43
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 45
+    target 43
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 45
+    target 46
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 45
+    target 46
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 45
+    target 46
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 45
+    target 46
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 45
+    target 46
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 46
     target 47
-    key 5
-    type "politics"
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
-    source 44
+    source 46
     target 47
-    key 6
-    type "study"
-  ]
-  edge [
-    source 44
-    target 48
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 44
-    target 48
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 44
-    target 48
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 44
-    target 48
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 44
-    target 48
-    key 4
-    type "value"
-  ]
-  edge [
-    source 44
-    target 48
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 44
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 44
-    target 49
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 44
-    target 49
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 44
-    target 49
-    key 3
-    type "council"
-  ]
-  edge [
-    source 45
-    target 46
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 45
-    target 46
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 45
-    target 46
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 45
-    target 46
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 45
-    target 46
-    key 4
-    type "value"
-  ]
-  edge [
-    source 45
-    target 46
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 45
-    target 46
-    key 6
-    type "council"
-  ]
-  edge [
-    source 45
-    target 131
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 45
-    target 131
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 45
-    target 131
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 45
-    target 131
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 45
-    target 131
-    key 4
-    type "value"
-  ]
-  edge [
-    source 45
-    target 131
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 45
-    target 131
-    key 6
-    type "council"
-  ]
-  edge [
-    source 45
-    target 139
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 45
-    target 139
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 45
-    target 139
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 45
-    target 139
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 45
-    target 139
-    key 4
-    type "value"
-  ]
-  edge [
-    source 45
-    target 139
-    key 5
-    type "council"
-  ]
-  edge [
-    source 45
-    target 138
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 45
-    target 138
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 45
-    target 138
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 45
-    target 138
-    key 3
-    type "value"
-  ]
-  edge [
-    source 45
-    target 138
-    key 4
-    type "council"
-  ]
-  edge [
-    source 45
-    target 130
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 45
-    target 130
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 45
-    target 130
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 45
-    target 130
-    key 3
-    type "value"
-  ]
-  edge [
-    source 45
-    target 130
-    key 4
-    type "council"
-  ]
-  edge [
-    source 45
-    target 73
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 45
-    target 73
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 45
-    target 73
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 45
-    target 73
-    key 3
-    type "value"
-  ]
-  edge [
-    source 45
-    target 73
-    key 4
-    type "council"
-  ]
-  edge [
-    source 45
-    target 101
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 45
-    target 101
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 45
-    target 101
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 45
-    target 101
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 45
-    target 101
-    key 4
-    type "value"
-  ]
-  edge [
-    source 45
-    target 101
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 45
-    target 101
-    key 6
-    type "council"
+    weight 0.0
   ]
   edge [
     source 46
-    target 130
-    key 0
+    target 45
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 46
-    target 130
-    key 1
+    target 45
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 6.0
   ]
   edge [
     source 46
-    target 130
-    key 2
+    target 45
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
     source 46
-    target 130
-    key 3
-    type "friend"
+    target 45
+    key "value"
+    type "value"
   ]
   edge [
     source 46
-    target 130
-    key 4
+    target 45
+    key "politics"
     type "politics"
   ]
   edge [
     source 46
-    target 130
-    key 5
+    target 45
+    key "council"
     type "council"
   ]
   edge [
     source 46
-    target 138
-    key 0
+    target 55
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 46
-    target 138
-    key 1
+    target 55
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 7.0
   ]
   edge [
     source 46
-    target 138
-    key 2
+    target 55
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 46
-    target 138
-    key 3
-    type "council"
-  ]
-  edge [
-    source 46
-    target 131
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 46
-    target 131
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 46
-    target 131
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 46
-    target 131
-    key 3
+    target 55
+    key "friend"
     type "friend"
   ]
   edge [
     source 46
-    target 131
-    key 4
+    target 55
+    key "value"
     type "value"
   ]
   edge [
     source 46
-    target 131
-    key 5
-    type "politics"
+    target 55
+    key "council"
+    type "council"
   ]
   edge [
     source 46
-    target 131
-    key 6
+    target 54
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 46
+    target 54
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 46
+    target 54
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 46
+    target 54
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 46
+    target 54
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 46
+    target 54
+    key "study"
     type "study"
   ]
   edge [
     source 46
-    target 131
-    key 7
+    target 54
+    key "council"
     type "council"
   ]
   edge [
     source 46
-    target 139
-    key 0
+    target 56
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 46
-    target 139
-    key 1
+    target 56
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 7.0
   ]
   edge [
     source 46
-    target 139
-    key 2
+    target 56
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
     source 46
-    target 139
-    key 3
+    target 56
+    key "council"
     type "council"
   ]
   edge [
     source 46
-    target 45
-    key 0
+    target 57
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 46
-    target 45
-    key 1
+    target 57
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 7.0
   ]
   edge [
     source 46
-    target 45
-    key 2
+    target 57
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 46
-    target 45
-    key 3
-    type "friend"
+    target 57
+    key "council"
+    type "council"
   ]
   edge [
-    source 46
-    target 45
-    key 4
+    source 47
+    target 43
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 47
+    target 43
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 47
+    target 43
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 47
+    target 43
+    key "value"
     type "value"
   ]
   edge [
-    source 46
-    target 45
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 46
-    target 45
-    key 6
-    type "study"
-  ]
-  edge [
-    source 46
-    target 45
-    key 7
-    type "council"
-  ]
-  edge [
-    source 46
-    target 47
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 46
-    target 47
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 46
-    target 47
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 46
-    target 47
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 46
-    target 47
-    key 4
-    type "value"
-  ]
-  edge [
-    source 46
-    target 47
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 46
-    target 47
-    key 6
-    type "council"
-  ]
-  edge [
-    source 46
-    target 48
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 46
-    target 48
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 46
-    target 48
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 46
-    target 48
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 46
-    target 48
-    key 4
-    type "value"
-  ]
-  edge [
-    source 46
-    target 48
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 46
-    target 48
-    key 6
-    type "council"
-  ]
-  edge [
-    source 46
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 46
-    target 49
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 46
-    target 49
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 46
-    target 49
-    key 3
-    type "council"
-  ]
-  edge [
-    source 46
-    target 44
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 46
-    target 44
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 46
-    target 44
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 46
-    target 44
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 46
-    target 44
-    key 4
-    type "value"
-  ]
-  edge [
-    source 46
-    target 44
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 46
-    target 44
-    key 6
-    type "council"
-  ]
-  edge [
-    source 46
-    target 77
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 46
-    target 77
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 46
-    target 77
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 46
-    target 77
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 46
-    target 77
-    key 4
-    type "council"
-  ]
-  edge [
     source 47
-    target 45
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 47
-    target 45
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 47
-    target 45
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 47
-    target 45
-    key 3
+    target 43
+    key "politics"
     type "politics"
   ]
   edge [
     source 47
-    target 45
-    key 4
-    type "study"
+    target 43
+    key "council"
+    type "council"
   ]
   edge [
     source 47
-    target 45
-    key 5
+    target 58
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 47
+    target 58
+    key "leftright"
+    type "leftright"
+    weight 9.0
+  ]
+  edge [
+    source 47
+    target 58
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 47
+    target 58
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 47
+    target 55
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 47
+    target 55
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 47
+    target 55
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 47
+    target 55
+    key "council"
     type "council"
   ]
   edge [
     source 47
     target 46
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 47
     target 46
-    key 1
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 5.0
   ]
   edge [
     source 47
     target 46
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 47
     target 46
-    key 3
-    type "politics"
+    key "friend"
+    type "friend"
   ]
   edge [
     source 47
     target 46
-    key 4
-    type "council"
-  ]
-  edge [
-    source 49
-    target 110
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 110
-    key 1
-    type "leftright"
-    weight 10
-  ]
-  edge [
-    source 49
-    target 110
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 49
-    target 110
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 49
-    target 111
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 111
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 49
-    target 111
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 49
-    target 111
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 49
-    target 112
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 112
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 49
-    target 112
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 49
-    target 112
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 49
-    target 109
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 109
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 49
-    target 109
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 49
-    target 109
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 49
-    target 64
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 64
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 49
-    target 64
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 49
-    target 64
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 49
-    target 44
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 44
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 49
-    target 44
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 49
-    target 44
-    key 3
-    type "council"
-  ]
-  edge [
-    source 49
-    target 48
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 48
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 49
-    target 48
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 49
-    target 48
-    key 3
-    type "council"
-  ]
-  edge [
-    source 49
-    target 47
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 47
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 49
-    target 47
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 49
-    target 47
-    key 3
-    type "council"
-  ]
-  edge [
-    source 49
-    target 130
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 49
-    target 130
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 49
-    target 130
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 49
-    target 130
-    key 3
-    type "council"
-  ]
-  edge [
-    source 50
-    target 16
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 50
-    target 16
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 50
-    target 16
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 50
-    target 16
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 50
-    target 16
-    key 4
+    key "value"
     type "value"
   ]
   edge [
-    source 50
-    target 16
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 50
-    target 16
-    key 6
+    source 47
+    target 46
+    key "study"
     type "study"
   ]
   edge [
-    source 50
-    target 51
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 50
-    target 51
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 50
-    target 51
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 50
-    target 51
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 50
-    target 51
-    key 4
-    type "value"
-  ]
-  edge [
-    source 50
-    target 51
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 50
-    target 51
-    key 6
-    type "study"
-  ]
-  edge [
-    source 50
-    target 52
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 50
-    target 52
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 50
-    target 52
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 50
-    target 52
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 50
-    target 52
-    key 4
-    type "value"
-  ]
-  edge [
-    source 50
-    target 52
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 50
-    target 52
-    key 6
-    type "study"
-  ]
-  edge [
-    source 50
-    target 53
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 50
-    target 53
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 50
-    target 53
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 50
-    target 53
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 50
-    target 53
-    key 4
-    type "value"
-  ]
-  edge [
-    source 50
-    target 53
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 50
-    target 53
-    key 6
-    type "study"
-  ]
-  edge [
-    source 50
-    target 53
-    key 7
-    type "council"
-  ]
-  edge [
-    source 51
-    target 16
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 51
-    target 16
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 51
-    target 16
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 51
-    target 16
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 51
-    target 16
-    key 4
-    type "value"
-  ]
-  edge [
-    source 51
-    target 52
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 51
-    target 52
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 51
-    target 52
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 51
-    target 52
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 51
-    target 52
-    key 4
-    type "value"
-  ]
-  edge [
-    source 51
+    source 47
     target 66
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 51
+    source 47
     target 66
-    key 1
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 1.0
   ]
   edge [
-    source 51
+    source 47
     target 66
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 51
+    source 47
     target 66
-    key 3
-    type "value"
+    key "politics"
+    type "politics"
   ]
   edge [
-    source 51
-    target 67
-    key 0
+    source 47
+    target 66
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 47
+    target 54
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 51
-    target 67
-    key 1
+    source 47
+    target 54
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 5.0
   ]
   edge [
-    source 51
-    target 67
-    key 2
+    source 47
+    target 54
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 51
-    target 67
-    key 3
-    type "value"
-  ]
-  edge [
-    source 52
-    target 50
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 52
-    target 50
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 52
-    target 50
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 52
-    target 50
-    key 3
+    source 47
+    target 54
+    key "friend"
     type "friend"
   ]
   edge [
-    source 52
-    target 16
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 52
-    target 16
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 52
-    target 16
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 52
-    target 16
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 52
-    target 51
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 52
-    target 51
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 52
-    target 51
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 52
-    target 51
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 54
-    target 29
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 54
-    target 29
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 54
-    target 29
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 54
-    target 29
-    key 3
+    source 47
+    target 54
+    key "study"
     type "study"
+  ]
+  edge [
+    source 47
+    target 54
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 47
+    target 56
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 47
+    target 56
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 47
+    target 56
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 47
+    target 56
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 48
+    target 49
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 48
+    target 49
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 48
+    target 49
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 48
+    target 50
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 48
+    target 50
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 48
+    target 50
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 48
+    target 50
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 48
+    target 28
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 48
+    target 28
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 48
+    target 28
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 49
+    target 28
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 49
+    target 28
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 49
+    target 28
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 49
+    target 28
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 49
+    target 48
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 49
+    target 48
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 49
+    target 48
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 49
+    target 48
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 49
+    target 50
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 49
+    target 50
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 49
+    target 50
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 49
+    target 50
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 49
+    target 50
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 50
+    target 49
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 50
+    target 49
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 50
+    target 49
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 50
+    target 49
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 50
+    target 49
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 50
+    target 49
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 50
+    target 49
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 50
+    target 48
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 50
+    target 48
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 50
+    target 48
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 50
+    target 48
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 50
+    target 48
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 51
+    target 27
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 51
+    target 27
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 51
+    target 27
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 51
+    target 27
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 52
+    target 53
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 52
+    target 53
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 52
+    target 53
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 52
+    target 53
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 52
+    target 25
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 52
+    target 25
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 52
+    target 25
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 52
+    target 25
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 53
+    target 52
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 53
+    target 52
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 53
+    target 52
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 53
+    target 52
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 53
+    target 25
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 53
+    target 25
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 53
+    target 25
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 53
+    target 25
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 53
+    target 25
+    key "council"
+    type "council"
   ]
   edge [
     source 54
     target 55
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 54
     target 55
-    key 1
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 5.0
   ]
   edge [
     source 54
     target 55
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 54
     target 55
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 54
-    target 56
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 54
-    target 56
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 54
-    target 56
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 54
-    target 56
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 54
-    target 57
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 54
-    target 57
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 54
-    target 57
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 54
-    target 57
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 54
-    target 58
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 54
-    target 58
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 54
-    target 58
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 54
-    target 58
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 54
-    target 59
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 54
-    target 59
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 54
-    target 59
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 54
-    target 59
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 55
-    target 56
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 55
-    target 56
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 55
-    target 56
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 55
-    target 56
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 55
-    target 56
-    key 4
+    target 55
+    key "value"
     type "value"
   ]
   edge [
-    source 55
-    target 56
-    key 5
-    type "council"
+    source 54
+    target 55
+    key "politics"
+    type "politics"
   ]
   edge [
-    source 55
-    target 54
-    key 0
+    source 54
+    target 55
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 54
+    target 56
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 55
-    target 54
-    key 1
+    source 54
+    target 56
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
-    source 55
-    target 54
-    key 2
+    source 54
+    target 56
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 55
-    target 54
-    key 3
+    source 54
+    target 56
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 54
+    target 56
+    key "value"
     type "value"
   ]
   edge [
-    source 55
-    target 54
-    key 4
+    source 54
+    target 56
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 54
+    target 57
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 54
+    target 57
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 54
+    target 57
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 54
+    target 57
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 54
+    target 57
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 54
+    target 57
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 54
+    target 57
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 54
+    target 46
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 54
+    target 46
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 54
+    target 46
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 54
+    target 46
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 54
+    target 46
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 54
+    target 46
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 54
+    target 58
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 54
+    target 58
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 54
+    target 58
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 54
+    target 58
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 54
+    target 58
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 54
+    target 58
+    key "politics"
     type "politics"
   ]
   edge [
     source 55
+    target 58
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 55
+    target 58
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 55
+    target 58
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 55
+    target 58
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 55
     target 54
-    key 5
-    type "council"
-  ]
-  edge [
-    source 55
-    target 29
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 55
-    target 29
-    key 1
+    target 54
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 7.0
   ]
   edge [
     source 55
-    target 29
-    key 2
+    target 54
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 55
-    target 29
-    key 3
+    target 54
+    key "friend"
     type "friend"
   ]
   edge [
     source 55
-    target 29
-    key 4
-    type "value"
+    target 56
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
     source 55
-    target 29
-    key 5
+    target 56
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 55
+    target 56
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 55
+    target 56
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 55
+    target 57
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 55
+    target 57
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 55
+    target 57
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 55
+    target 57
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 55
+    target 46
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 55
+    target 46
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 55
+    target 46
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 55
+    target 46
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 55
+    target 105
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 55
+    target 105
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 55
+    target 105
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 55
+    target 105
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 55
+    target 104
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 55
+    target 104
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 55
+    target 104
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 55
+    target 104
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 55
+    target 75
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 55
+    target 75
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 55
+    target 75
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 55
+    target 75
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 55
+    target 103
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 55
+    target 103
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 55
+    target 103
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 55
+    target 103
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 56
+    target 58
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 56
+    target 58
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 56
+    target 58
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 56
+    target 58
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 56
+    target 54
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 56
+    target 54
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 56
+    target 54
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 56
+    target 54
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 56
+    target 57
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 56
+    target 57
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 56
+    target 57
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 56
+    target 57
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 56
+    target 55
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 56
+    target 55
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 56
+    target 55
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 56
+    target 55
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 56
+    target 104
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 56
+    target 104
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 56
+    target 104
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 56
+    target 104
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 57
+    target 58
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 57
+    target 58
+    key "leftright"
+    type "leftright"
+    weight 9.0
+  ]
+  edge [
+    source 57
+    target 58
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 57
+    target 58
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 57
+    target 55
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 57
+    target 55
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 57
+    target 55
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 57
+    target 55
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 57
+    target 54
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 57
+    target 54
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 57
+    target 54
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 57
+    target 54
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 57
+    target 56
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 57
+    target 56
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 57
+    target 56
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 57
+    target 56
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 57
+    target 46
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 57
+    target 46
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 57
+    target 46
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 57
+    target 46
+    key "politics"
     type "politics"
   ]
   edge [
-    source 55
-    target 29
-    key 6
-    type "council"
-  ]
-  edge [
-    source 55
-    target 105
-    key 0
+    source 58
+    target 55
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 55
-    target 105
-    key 1
+    source 58
+    target 55
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 6.0
   ]
   edge [
-    source 55
-    target 105
-    key 2
+    source 58
+    target 55
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 55
-    target 105
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 55
-    target 105
-    key 4
+    source 58
+    target 55
+    key "value"
     type "value"
   ]
   edge [
-    source 55
-    target 105
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 55
-    target 105
-    key 6
-    type "council"
-  ]
-  edge [
-    source 55
-    target 59
-    key 0
+    source 58
+    target 56
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 55
-    target 59
-    key 1
+    source 58
+    target 56
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 5.0
   ]
   edge [
-    source 55
-    target 59
-    key 2
+    source 58
+    target 56
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 55
-    target 59
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 55
-    target 59
-    key 4
+    source 58
+    target 56
+    key "value"
     type "value"
   ]
   edge [
-    source 55
-    target 59
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 55
-    target 59
-    key 6
-    type "council"
-  ]
-  edge [
-    source 55
-    target 57
-    key 0
+    source 58
+    target 54
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 55
-    target 57
-    key 1
+    source 58
+    target 54
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 7.0
   ]
   edge [
-    source 55
-    target 57
-    key 2
+    source 58
+    target 54
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 55
-    target 57
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 55
-    target 57
-    key 4
+    source 58
+    target 54
+    key "value"
     type "value"
   ]
   edge [
-    source 55
-    target 57
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 55
-    target 57
-    key 6
-    type "council"
-  ]
-  edge [
-    source 57
-    target 58
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 57
-    target 58
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 57
-    target 58
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 57
-    target 58
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 57
-    target 105
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 57
-    target 105
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 57
-    target 105
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 57
-    target 105
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 57
-    target 104
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 57
-    target 104
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 57
-    target 104
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 57
-    target 104
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 57
-    target 59
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 57
-    target 59
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 57
-    target 59
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 57
-    target 59
-    key 3
-    type "friend"
-  ]
-  edge [
     source 58
     target 57
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 58
     target 57
-    key 1
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 7.0
   ]
   edge [
     source 58
     target 57
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 58
     target 57
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 58
-    target 79
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 58
-    target 79
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 58
-    target 79
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 58
-    target 79
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 58
-    target 59
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 58
-    target 59
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 58
-    target 59
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 58
-    target 59
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 58
-    target 104
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 58
-    target 104
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 58
-    target 104
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 58
-    target 104
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 59
-    target 58
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 59
-    target 58
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 59
-    target 58
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 59
-    target 58
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 59
-    target 5
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 59
-    target 5
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 59
-    target 5
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 59
-    target 5
-    key 3
+    key "value"
     type "value"
   ]
   edge [
+    source 58
+    target 75
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 58
+    target 75
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 58
+    target 75
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 58
+    target 75
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 58
+    target 66
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 58
+    target 66
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 58
+    target 66
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 58
+    target 66
+    key "council"
+    type "council"
+  ]
+  edge [
     source 59
-    target 57
-    key 0
+    target 60
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 59
-    target 57
-    key 1
+    target 60
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 4.0
   ]
   edge [
     source 59
-    target 57
-    key 2
+    target 60
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 0.0
   ]
   edge [
     source 59
-    target 57
-    key 3
-    type "friend"
+    target 60
+    key "council"
+    type "council"
   ]
   edge [
     source 59
-    target 105
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 59
-    target 105
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 59
-    target 105
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 59
-    target 105
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 60
-    target 28
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 60
-    target 28
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 60
-    target 28
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 60
-    target 28
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 60
-    target 6
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 60
-    target 6
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 60
-    target 6
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 60
-    target 6
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 60
     target 61
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 60
+    source 59
     target 61
-    key 1
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
-    source 60
+    source 59
     target 61
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 60
+    source 59
     target 61
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 60
-    target 27
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 60
-    target 27
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 60
-    target 27
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 60
-    target 27
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 60
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 60
-    target 49
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 60
-    target 49
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 60
-    target 49
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 62
-    target 63
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 62
-    target 63
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 62
-    target 63
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 62
-    target 63
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 62
-    target 63
-    key 4
+    key "politics"
     type "politics"
   ]
   edge [
-    source 62
-    target 63
-    key 5
-    type "council"
-  ]
-  edge [
-    source 62
-    target 28
-    key 0
+    source 59
+    target 62
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 62
-    target 28
-    key 1
+    source 59
+    target 62
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 2.0
   ]
   edge [
-    source 62
-    target 28
-    key 2
+    source 59
+    target 62
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 62
-    target 28
-    key 3
-    type "friend"
+    source 59
+    target 62
+    key "value"
+    type "value"
   ]
   edge [
-    source 62
-    target 28
-    key 4
-    type "council"
-  ]
-  edge [
-    source 62
-    target 64
-    key 0
+    source 60
+    target 59
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 62
-    target 64
-    key 1
+    source 60
+    target 59
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 2.0
   ]
   edge [
-    source 62
-    target 64
-    key 2
+    source 60
+    target 59
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 62
-    target 64
-    key 3
-    type "friend"
+    source 60
+    target 59
+    key "value"
+    type "value"
   ]
   edge [
-    source 62
-    target 65
-    key 0
+    source 61
+    target 59
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 62
-    target 65
-    key 1
+    source 61
+    target 59
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 6.0
   ]
   edge [
-    source 62
-    target 65
-    key 2
+    source 61
+    target 59
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 62
-    target 65
-    key 3
+    source 61
+    target 59
+    key "friend"
     type "friend"
   ]
   edge [
-    source 62
-    target 65
-    key 4
+    source 61
+    target 59
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 61
+    target 59
+    key "politics"
     type "politics"
   ]
   edge [
-    source 62
-    target 65
-    key 5
+    source 61
+    target 59
+    key "council"
     type "council"
+  ]
+  edge [
+    source 61
+    target 62
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 61
+    target 62
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 61
+    target 62
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 61
+    target 62
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 61
+    target 62
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 61
+    target 62
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 61
+    target 60
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 61
+    target 60
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 61
+    target 60
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 61
+    target 60
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 61
+    target 60
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 61
+    target 60
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 61
+    target 60
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 62
+    target 59
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 62
+    target 59
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 62
+    target 59
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 62
+    target 59
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 62
+    target 61
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 62
+    target 61
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 62
+    target 61
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 62
+    target 61
+    key "value"
+    type "value"
   ]
   edge [
     source 63
-    target 62
-    key 0
+    target 64
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 63
-    target 62
-    key 1
+    target 64
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 4.0
   ]
   edge [
     source 63
-    target 62
-    key 2
+    target 64
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 63
-    target 62
-    key 3
-    type "value"
-  ]
-  edge [
-    source 64
-    target 65
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 64
-    target 65
-    key 1
-    type "leftright"
-    weight 0
-  ]
-  edge [
-    source 64
-    target 65
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 64
-    target 28
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 64
-    target 28
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 64
-    target 28
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 64
-    target 28
-    key 3
-    type "value"
-  ]
-  edge [
-    source 64
-    target 28
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 64
-    target 28
-    key 5
-    type "council"
-  ]
-  edge [
-    source 64
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 64
-    target 49
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 64
-    target 49
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 64
-    target 49
-    key 3
+    target 64
+    key "friend"
     type "friend"
   ]
   edge [
     source 64
-    target 49
-    key 4
-    type "value"
-  ]
-  edge [
-    source 64
-    target 49
-    key 5
-    type "council"
-  ]
-  edge [
-    source 64
-    target 111
-    key 0
+    target 40
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 64
-    target 111
-    key 1
+    target 40
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 2.0
   ]
   edge [
     source 64
-    target 111
-    key 2
+    target 40
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 64
-    target 111
-    key 3
+    target 40
+    key "friend"
     type "friend"
   ]
   edge [
     source 64
-    target 111
-    key 4
+    target 40
+    key "value"
     type "value"
   ]
   edge [
     source 64
-    target 111
-    key 5
+    target 40
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 64
+    target 63
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 64
+    target 63
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 64
+    target 63
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 64
+    target 63
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 64
+    target 63
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 64
+    target 63
+    key "study"
     type "study"
   ]
   edge [
     source 64
-    target 111
-    key 6
+    target 63
+    key "council"
     type "council"
   ]
   edge [
     source 64
-    target 112
-    key 0
+    target 119
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 64
-    target 112
-    key 1
+    target 119
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 3.0
   ]
   edge [
     source 64
-    target 112
-    key 2
+    target 119
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
     source 64
-    target 112
-    key 3
-    type "council"
-  ]
-  edge [
-    source 64
-    target 109
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 64
-    target 109
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 64
-    target 109
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 64
-    target 109
-    key 3
+    target 119
+    key "council"
     type "council"
   ]
   edge [
     source 65
-    target 62
-    key 0
+    target 18
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 65
-    target 62
-    key 1
+    target 18
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 2.0
   ]
   edge [
     source 65
-    target 62
-    key 2
+    target 18
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 65
-    target 62
-    key 3
+    target 18
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 65
+    target 18
+    key "value"
     type "value"
   ]
   edge [
     source 65
-    target 62
-    key 4
+    target 18
+    key "politics"
     type "politics"
   ]
   edge [
     source 65
-    target 62
-    key 5
-    type "council"
-  ]
-  edge [
-    source 65
-    target 110
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 65
-    target 110
-    key 1
-    type "leftright"
-    weight 9
-  ]
-  edge [
-    source 65
-    target 110
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 65
-    target 110
-    key 3
-    type "council"
-  ]
-  edge [
-    source 65
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 65
-    target 49
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 65
-    target 49
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 65
-    target 49
-    key 3
-    type "council"
-  ]
-  edge [
-    source 65
-    target 64
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 65
-    target 64
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 65
-    target 64
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 65
-    target 64
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 65
-    target 64
-    key 4
-    type "value"
-  ]
-  edge [
-    source 65
-    target 64
-    key 5
+    target 18
+    key "study"
     type "study"
   ]
   edge [
     source 65
-    target 101
-    key 0
+    target 12
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 65
-    target 101
-    key 1
+    target 12
+    key "leftright"
     type "leftright"
-    weight 1
+    weight 4.0
   ]
   edge [
     source 65
-    target 101
-    key 2
+    target 12
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 65
-    target 101
-    key 3
+    target 12
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 65
+    target 12
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 65
+    target 12
+    key "politics"
     type "politics"
   ]
   edge [
     source 65
-    target 101
-    key 4
-    type "council"
+    target 12
+    key "study"
+    type "study"
   ]
   edge [
     source 65
-    target 111
-    key 0
+    target 11
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 65
-    target 111
-    key 1
+    target 11
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 5.0
   ]
   edge [
     source 65
-    target 111
-    key 2
+    target 11
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 65
-    target 111
-    key 3
+    target 11
+    key "friend"
     type "friend"
   ]
   edge [
     source 65
-    target 111
-    key 4
+    target 11
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 65
+    target 11
+    key "study"
     type "study"
   ]
   edge [
-    source 65
-    target 111
-    key 5
-    type "council"
-  ]
-  edge [
-    source 65
-    target 112
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 65
-    target 112
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 65
-    target 112
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 65
-    target 112
-    key 3
-    type "council"
-  ]
-  edge [
     source 66
-    target 88
-    key 0
+    target 114
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 66
-    target 88
-    key 1
+    target 114
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 3.0
   ]
   edge [
     source 66
-    target 88
-    key 2
+    target 114
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 66
-    target 88
-    key 3
-    type "council"
+    target 114
+    key "friend"
+    type "friend"
   ]
   edge [
     source 66
-    target 25
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 66
-    target 25
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 66
-    target 25
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 66
-    target 25
-    key 3
-    type "council"
-  ]
-  edge [
-    source 66
-    target 51
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 66
-    target 51
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 66
-    target 51
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 66
-    target 51
-    key 3
+    target 114
+    key "value"
     type "value"
   ]
   edge [
+    source 66
+    target 114
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 66
+    target 114
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 66
+    target 114
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 66
+    target 105
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 66
+    target 105
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 66
+    target 105
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 66
+    target 105
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 66
+    target 105
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 66
+    target 105
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 66
+    target 105
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 66
+    target 55
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 66
+    target 55
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 66
+    target 55
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 66
+    target 55
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 66
+    target 55
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 66
+    target 55
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 66
+    target 76
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 66
+    target 76
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 66
+    target 76
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 66
+    target 76
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 66
+    target 76
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 66
+    target 76
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 66
+    target 107
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 66
+    target 107
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 66
+    target 107
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 66
+    target 107
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 66
+    target 107
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 66
+    target 107
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 66
+    target 107
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 66
+    target 74
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 66
+    target 74
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 66
+    target 74
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 66
+    target 74
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 66
+    target 74
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 66
+    target 74
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 66
+    target 18
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 66
+    target 18
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 66
+    target 18
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 66
+    target 18
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 66
+    target 18
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 66
+    target 18
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 66
+    target 18
+    key "council"
+    type "council"
+  ]
+  edge [
     source 67
-    target 143
-    key 0
+    target 18
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 67
-    target 143
-    key 1
+    target 18
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
     source 67
-    target 143
-    key 2
+    target 18
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 67
-    target 143
-    key 3
+    target 18
+    key "friend"
     type "friend"
   ]
   edge [
     source 67
-    target 143
-    key 4
+    target 18
+    key "value"
     type "value"
   ]
   edge [
     source 67
-    target 142
-    key 0
-    type "aquaintance"
+    target 18
+    key "politics"
+    type "politics"
   ]
   edge [
     source 67
-    target 142
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 67
-    target 142
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 67
-    target 142
-    key 3
+    target 18
+    key "council"
     type "council"
   ]
   edge [
     source 67
-    target 71
-    key 0
+    target 66
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 67
-    target 71
-    key 1
+    target 66
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 2.0
   ]
   edge [
     source 67
-    target 71
-    key 2
+    target 66
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 67
-    target 71
-    key 3
-    type "council"
-  ]
-  edge [
-    source 67
-    target 132
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 67
-    target 132
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 67
-    target 132
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 67
-    target 132
-    key 3
+    target 66
+    key "friend"
     type "friend"
   ]
   edge [
     source 67
-    target 132
-    key 4
+    target 66
+    key "value"
     type "value"
   ]
   edge [
     source 67
-    target 132
-    key 5
-    type "study"
+    target 66
+    key "politics"
+    type "politics"
   ]
   edge [
     source 67
-    target 135
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 67
-    target 135
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 67
-    target 135
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 67
-    target 135
-    key 3
-    type "council"
-  ]
-  edge [
-    source 67
-    target 51
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 67
-    target 51
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 67
-    target 51
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 67
-    target 51
-    key 3
+    target 66
+    key "council"
     type "council"
   ]
   edge [
     source 68
     target 69
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 68
     target 69
-    key 1
+    key "leftright"
     type "leftright"
-    weight 8
+    weight 4.0
   ]
   edge [
     source 68
     target 69
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 68
     target 69
-    key 3
+    key "study"
     type "study"
   ]
   edge [
     source 68
     target 70
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 68
     target 70
-    key 1
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 3.0
   ]
   edge [
     source 68
     target 70
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 68
     target 70
-    key 3
-    type "study"
+    key "friend"
+    type "friend"
   ]
   edge [
     source 68
-    target 71
-    key 0
+    target 36
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 68
-    target 71
-    key 1
+    target 36
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
     source 68
-    target 71
-    key 2
+    target 36
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 68
-    target 71
-    key 3
-    type "study"
+    target 36
+    key "friend"
+    type "friend"
   ]
   edge [
     source 68
-    target 72
-    key 0
+    target 7
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 68
-    target 72
-    key 1
+    target 7
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 5.0
   ]
   edge [
     source 68
-    target 72
-    key 2
+    target 7
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 68
-    target 72
-    key 3
+    target 7
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 68
+    target 6
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 68
+    target 6
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 68
+    target 6
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 68
+    target 6
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 68
+    target 9
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 68
+    target 9
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 68
+    target 9
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 68
+    target 9
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 69
+    target 68
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 69
+    target 68
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 69
+    target 68
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 69
+    target 68
+    key "study"
     type "study"
   ]
   edge [
-    source 68
+    source 69
+    target 68
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 69
+    target 70
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 69
+    target 70
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 69
+    target 70
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 69
+    target 70
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 69
+    target 70
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 69
+    target 70
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 69
+    target 70
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 69
+    target 70
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 69
+    target 11
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 69
+    target 11
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 69
+    target 11
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 69
+    target 11
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 69
+    target 11
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 69
+    target 11
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 69
+    target 11
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 69
+    target 11
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 69
+    target 13
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 69
+    target 13
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 69
+    target 13
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 69
+    target 13
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 69
+    target 13
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 69
+    target 13
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 69
+    target 13
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 69
+    target 13
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 69
+    target 8
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 69
+    target 8
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 69
+    target 8
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 69
+    target 8
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 69
+    target 8
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 69
+    target 8
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 69
+    target 8
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 69
+    target 8
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 69
+    target 17
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 69
+    target 17
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 69
+    target 17
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 69
+    target 17
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 69
+    target 17
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 69
+    target 17
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 69
+    target 17
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 69
+    target 17
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 69
+    target 18
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 69
+    target 18
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 69
+    target 18
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 69
+    target 18
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 69
+    target 18
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 69
+    target 18
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 69
+    target 18
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 70
+    target 36
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 70
+    target 36
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 70
+    target 36
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 70
+    target 36
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 70
+    target 36
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 70
+    target 36
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 70
+    target 68
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 70
+    target 68
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 70
+    target 68
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 70
+    target 68
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 70
+    target 68
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 70
+    target 68
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 70
+    target 69
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 70
+    target 69
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 70
+    target 69
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 70
+    target 69
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 70
+    target 69
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 70
+    target 69
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 70
+    target 69
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 70
+    target 35
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 70
+    target 35
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 70
+    target 35
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 70
+    target 35
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 70
+    target 35
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 70
+    target 35
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 70
+    target 35
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 70
+    target 9
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 70
+    target 9
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 70
+    target 9
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 70
+    target 9
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 70
+    target 9
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 70
+    target 9
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 70
+    target 9
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 70
+    target 7
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 70
+    target 7
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 70
+    target 7
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 70
+    target 7
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 70
+    target 7
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 70
+    target 7
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 70
+    target 7
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 71
+    target 141
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 71
+    target 141
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 71
+    target 141
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 71
+    target 141
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 71
+    target 123
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 71
+    target 123
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 71
+    target 123
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 71
+    target 123
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 71
+    target 37
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 71
+    target 37
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 71
+    target 37
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 71
+    target 37
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 72
     target 73
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 68
+    source 72
     target 73
-    key 1
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 3.0
   ]
   edge [
-    source 68
+    source 72
     target 73
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 2.0
   ]
   edge [
-    source 68
+    source 72
     target 73
-    key 3
-    type "study"
-  ]
-  edge [
-    source 69
-    target 70
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 70
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 69
-    target 70
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 69
-    target 70
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 69
-    target 70
-    key 4
-    type "value"
-  ]
-  edge [
-    source 69
-    target 70
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 69
-    target 133
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 133
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 69
-    target 133
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 69
-    target 133
-    key 3
-    type "value"
-  ]
-  edge [
-    source 69
-    target 133
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 69
-    target 68
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 68
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 69
-    target 68
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 69
-    target 68
-    key 3
-    type "study"
-  ]
-  edge [
-    source 69
-    target 68
-    key 4
-    type "council"
-  ]
-  edge [
-    source 69
-    target 71
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 71
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 69
-    target 71
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 69
-    target 71
-    key 3
-    type "council"
-  ]
-  edge [
-    source 69
-    target 72
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 72
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 69
-    target 72
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 69
-    target 72
-    key 3
-    type "council"
-  ]
-  edge [
-    source 69
-    target 134
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 134
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 69
-    target 134
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 69
-    target 134
-    key 3
-    type "council"
-  ]
-  edge [
-    source 69
-    target 62
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 62
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 69
-    target 62
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 69
-    target 62
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 69
-    target 62
-    key 4
-    type "council"
-  ]
-  edge [
-    source 69
-    target 135
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 135
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 69
-    target 135
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 69
-    target 135
-    key 3
-    type "study"
-  ]
-  edge [
-    source 69
-    target 88
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 88
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 69
-    target 88
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 69
-    target 88
-    key 3
-    type "study"
-  ]
-  edge [
-    source 69
-    target 123
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 69
-    target 123
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 69
-    target 123
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 69
-    target 123
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 70
-    target 133
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 70
-    target 133
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 70
-    target 133
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 70
-    target 133
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 70
-    target 69
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 70
-    target 69
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 70
-    target 69
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 70
-    target 69
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 70
-    target 135
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 70
-    target 135
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 70
-    target 135
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 70
-    target 135
-    key 3
-    type "council"
-  ]
-  edge [
-    source 70
-    target 71
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 70
-    target 71
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 70
-    target 71
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 70
-    target 71
-    key 3
-    type "council"
-  ]
-  edge [
-    source 71
-    target 72
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 72
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 71
-    target 72
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 71
-    target 72
-    key 3
-    type "council"
-  ]
-  edge [
-    source 71
-    target 135
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 135
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 71
-    target 135
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 71
-    target 135
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 71
-    target 135
-    key 4
-    type "value"
-  ]
-  edge [
-    source 71
-    target 135
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 71
-    target 135
-    key 6
-    type "study"
-  ]
-  edge [
-    source 71
-    target 135
-    key 7
-    type "council"
-  ]
-  edge [
-    source 71
-    target 142
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 142
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 71
-    target 142
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 71
-    target 142
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 71
-    target 142
-    key 4
-    type "value"
-  ]
-  edge [
-    source 71
-    target 142
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 71
-    target 142
-    key 6
-    type "study"
-  ]
-  edge [
-    source 71
-    target 142
-    key 7
-    type "council"
-  ]
-  edge [
-    source 71
-    target 67
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 67
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 71
-    target 67
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 71
-    target 67
-    key 3
-    type "study"
-  ]
-  edge [
-    source 71
-    target 67
-    key 4
-    type "council"
-  ]
-  edge [
-    source 71
-    target 145
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 145
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 71
-    target 145
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 71
-    target 145
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 71
-    target 145
-    key 4
-    type "study"
-  ]
-  edge [
-    source 71
-    target 145
-    key 5
-    type "council"
-  ]
-  edge [
-    source 71
-    target 69
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 69
-    key 1
-    type "leftright"
-    weight 11
-  ]
-  edge [
-    source 71
-    target 69
-    key 2
-    type "sentiment"
-    weight -2
-  ]
-  edge [
-    source 71
-    target 69
-    key 3
-    type "council"
-  ]
-  edge [
-    source 71
-    target 132
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 132
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 71
-    target 132
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 71
-    target 132
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 71
-    target 132
-    key 4
-    type "value"
-  ]
-  edge [
-    source 71
-    target 132
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 71
-    target 132
-    key 6
-    type "study"
-  ]
-  edge [
-    source 71
-    target 18
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 18
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 71
-    target 18
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 71
-    target 18
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 71
-    target 18
-    key 4
-    type "value"
-  ]
-  edge [
-    source 71
-    target 18
-    key 5
-    type "study"
-  ]
-  edge [
-    source 71
-    target 18
-    key 6
-    type "council"
-  ]
-  edge [
-    source 71
-    target 68
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 68
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 71
-    target 68
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 71
-    target 68
-    key 3
-    type "council"
-  ]
-  edge [
-    source 71
-    target 70
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 70
-    key 1
-    type "leftright"
-    weight 10
-  ]
-  edge [
-    source 71
-    target 70
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 71
-    target 70
-    key 3
-    type "council"
-  ]
-  edge [
-    source 71
-    target 123
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 71
-    target 123
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 71
-    target 123
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 71
-    target 123
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 71
-    target 123
-    key 4
-    type "study"
-  ]
-  edge [
-    source 71
-    target 123
-    key 5
-    type "council"
-  ]
-  edge [
-    source 72
-    target 135
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 72
-    target 135
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 72
-    target 135
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 72
-    target 135
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 72
-    target 135
-    key 4
+    target 73
+    key "value"
     type "value"
   ]
   edge [
     source 72
-    target 135
-    key 5
+    target 73
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 72
+    target 73
+    key "study"
     type "study"
   ]
   edge [
     source 72
-    target 69
-    key 0
+    target 73
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 72
+    target 74
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 72
-    target 69
-    key 1
+    target 74
+    key "leftright"
     type "leftright"
-    weight 10
+    weight 1.0
   ]
   edge [
     source 72
-    target 69
-    key 2
+    target 74
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 2.0
   ]
   edge [
     source 72
-    target 69
-    key 3
+    target 74
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 72
+    target 74
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 72
+    target 74
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 72
+    target 74
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 72
+    target 74
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 72
+    target 66
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 72
+    target 66
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 72
+    target 66
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 72
+    target 66
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 72
+    target 66
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 72
+    target 66
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 72
+    target 66
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 72
+    target 66
+    key "council"
     type "council"
   ]
   edge [
     source 73
-    target 139
-    key 0
+    target 72
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 73
-    target 139
-    key 1
+    target 72
+    key "leftright"
     type "leftright"
-    weight 10
+    weight 3.0
   ]
   edge [
     source 73
-    target 139
-    key 2
+    target 72
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 73
-    target 139
-    key 3
+    target 72
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 73
+    target 72
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 73
+    target 72
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 73
+    target 72
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 73
+    target 72
+    key "council"
     type "council"
   ]
   edge [
     source 73
+    target 74
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 73
+    target 74
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 73
+    target 74
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 73
+    target 74
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 73
+    target 74
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 73
+    target 74
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 74
+    target 73
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 74
+    target 73
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 74
+    target 73
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 74
+    target 73
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 74
+    target 73
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 74
+    target 73
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 74
+    target 73
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 74
+    target 73
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 74
+    target 72
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 74
+    target 72
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 74
+    target 72
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 74
+    target 72
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 74
+    target 72
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 74
+    target 72
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 74
+    target 72
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 74
+    target 72
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 74
+    target 66
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 74
+    target 66
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 74
+    target 66
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 74
+    target 66
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 74
+    target 66
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 74
+    target 66
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 74
+    target 66
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 74
+    target 66
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 75
+    target 76
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 75
+    target 76
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 75
+    target 76
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 75
+    target 76
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 75
+    target 76
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 75
+    target 76
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 75
+    target 77
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 75
+    target 77
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 75
+    target 77
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 75
+    target 77
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 75
+    target 77
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 76
+    target 77
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 76
+    target 77
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 76
+    target 77
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 76
+    target 77
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 76
+    target 77
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 76
+    target 77
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 76
+    target 77
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 76
+    target 107
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 76
+    target 107
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 76
+    target 107
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 76
+    target 107
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 76
+    target 107
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 76
+    target 107
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 76
+    target 107
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 76
+    target 106
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 76
+    target 106
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 76
+    target 106
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 76
+    target 106
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 76
+    target 106
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 76
+    target 106
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 76
+    target 118
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 76
+    target 118
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 76
+    target 118
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 76
+    target 118
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 76
+    target 118
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 76
+    target 103
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 76
+    target 103
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 76
+    target 103
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 76
+    target 103
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 76
+    target 103
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 76
+    target 108
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 76
+    target 108
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 76
+    target 108
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 76
+    target 108
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 76
+    target 108
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 76
+    target 66
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 76
+    target 66
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 76
+    target 66
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 76
+    target 66
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 76
+    target 66
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 76
+    target 66
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 76
+    target 66
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 103
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 103
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 77
+    target 103
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 77
+    target 103
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 77
+    target 103
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 77
+    target 103
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 118
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 118
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 77
+    target 118
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 77
+    target 118
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 107
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 107
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 77
+    target 107
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 77
+    target 107
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 77
+    target 107
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 77
+    target 107
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 77
+    target 107
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 77
+    target 107
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 106
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 106
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 77
+    target 106
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 77
+    target 106
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 76
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 76
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 77
+    target 76
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 77
+    target 76
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 77
+    target 76
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 77
+    target 76
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 77
+    target 76
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 77
+    target 76
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 75
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 75
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 77
+    target 75
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 77
+    target 75
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 77
+    target 75
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 77
+    target 75
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 77
+    target 75
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 104
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 104
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 77
+    target 104
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 77
+    target 104
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 77
+    target 104
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 77
+    target 104
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 77
+    target 104
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 55
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 55
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 77
+    target 55
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 77
+    target 55
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 105
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 105
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 77
+    target 105
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 77
+    target 105
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 77
+    target 105
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 77
+    target 105
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 77
+    target 105
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 77
+    target 11
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 77
+    target 11
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 77
+    target 11
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 77
+    target 11
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 77
+    target 11
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 78
+    target 79
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 78
+    target 79
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 78
+    target 79
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 78
+    target 79
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 79
+    target 78
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 79
+    target 78
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 79
+    target 78
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 79
+    target 78
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 79
+    target 78
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 79
+    target 147
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 79
+    target 147
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 79
+    target 147
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 79
+    target 147
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 79
+    target 123
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 79
+    target 123
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 79
+    target 123
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 79
+    target 123
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 79
+    target 126
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 79
+    target 126
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 79
+    target 126
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 79
+    target 126
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 80
     target 45
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 73
+    source 80
     target 45
-    key 1
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 8.0
   ]
   edge [
-    source 73
+    source 80
     target 45
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
-    source 73
+    source 80
     target 45
-    key 3
-    type "council"
-  ]
-  edge [
-    source 73
-    target 140
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 73
-    target 140
-    key 1
-    type "leftright"
-    weight 10
-  ]
-  edge [
-    source 73
-    target 140
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 73
-    target 140
-    key 3
-    type "council"
-  ]
-  edge [
-    source 74
-    target 75
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 74
-    target 75
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 74
-    target 75
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 74
-    target 75
-    key 3
-    type "study"
-  ]
-  edge [
-    source 74
-    target 76
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 74
-    target 76
-    key 1
-    type "leftright"
-    weight 0
-  ]
-  edge [
-    source 74
-    target 76
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 74
-    target 76
-    key 3
-    type "study"
-  ]
-  edge [
-    source 75
-    target 74
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 75
-    target 74
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 75
-    target 74
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 75
-    target 74
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
-    source 75
-    target 74
-    key 4
+    source 80
+    target 45
+    key "value"
     type "value"
   ]
   edge [
-    source 75
-    target 74
-    key 5
-    type "study"
-  ]
-  edge [
-    source 75
-    target 76
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 75
-    target 76
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 75
-    target 76
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 75
-    target 76
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 75
-    target 76
-    key 4
-    type "value"
-  ]
-  edge [
-    source 75
-    target 76
-    key 5
+    source 80
+    target 45
+    key "politics"
     type "politics"
   ]
   edge [
-    source 75
-    target 76
-    key 6
+    source 80
+    target 45
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 80
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 80
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 80
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 80
+    target 16
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 80
+    target 16
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 80
+    target 16
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 80
+    target 16
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 80
+    target 69
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 80
+    target 69
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 80
+    target 69
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 80
+    target 69
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 80
+    target 69
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 80
+    target 69
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 80
+    target 69
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 81
+    target 82
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 81
+    target 82
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 81
+    target 82
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 81
+    target 82
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 81
+    target 83
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 81
+    target 83
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 81
+    target 83
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 81
+    target 83
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 81
+    target 3
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 81
+    target 3
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 81
+    target 3
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 81
+    target 3
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 82
+    target 81
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 82
+    target 81
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 82
+    target 81
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 82
+    target 81
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 82
+    target 83
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 82
+    target 83
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 82
+    target 83
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 82
+    target 83
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 82
+    target 3
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 82
+    target 3
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 82
+    target 3
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 82
+    target 3
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 83
+    target 129
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 83
+    target 129
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 83
+    target 129
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 83
+    target 129
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 83
+    target 60
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 83
+    target 60
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 83
+    target 60
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 83
+    target 60
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 84
+    target 13
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 84
+    target 13
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 84
+    target 13
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 84
+    target 13
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 84
+    target 13
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 84
+    target 13
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 84
+    target 13
+    key "study"
     type "study"
   ]
   edge [
-    source 76
-    target 75
-    key 0
+    source 84
+    target 13
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 84
+    target 14
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 76
-    target 75
-    key 1
+    source 84
+    target 14
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 5.0
   ]
   edge [
-    source 76
-    target 75
-    key 2
+    source 84
+    target 14
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 76
-    target 75
-    key 3
+    source 84
+    target 14
+    key "friend"
     type "friend"
   ]
   edge [
-    source 76
-    target 75
-    key 4
+    source 84
+    target 14
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 84
+    target 14
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 84
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 84
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 84
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 84
+    target 16
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 84
+    target 16
+    key "value"
     type "value"
   ]
   edge [
-    source 76
-    target 74
-    key 0
+    source 84
+    target 16
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 84
+    target 16
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 84
+    target 17
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 76
-    target 74
-    key 1
+    source 84
+    target 17
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 2.0
   ]
   edge [
-    source 76
-    target 74
-    key 2
+    source 84
+    target 17
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 76
-    target 74
-    key 3
+    source 84
+    target 17
+    key "friend"
     type "friend"
   ]
   edge [
-    source 76
-    target 74
-    key 4
+    source 84
+    target 17
+    key "value"
     type "value"
   ]
   edge [
-    source 77
-    target 102
-    key 0
-    type "aquaintance"
+    source 84
+    target 17
+    key "politics"
+    type "politics"
   ]
   edge [
-    source 77
-    target 102
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 77
-    target 102
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 77
-    target 102
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 77
-    target 78
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 77
-    target 78
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 77
-    target 78
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 77
-    target 78
-    key 3
+    source 84
+    target 17
+    key "council"
     type "council"
   ]
   edge [
-    source 77
-    target 5
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 77
-    target 5
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 77
-    target 5
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 77
-    target 5
-    key 3
-    type "council"
-  ]
-  edge [
-    source 77
-    target 103
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 77
-    target 103
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 77
-    target 103
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 77
-    target 103
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 77
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 77
-    target 3
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 77
-    target 3
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 77
-    target 3
-    key 3
-    type "council"
-  ]
-  edge [
-    source 77
+    source 84
     target 18
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 77
+    source 84
     target 18
-    key 1
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
-    source 77
+    source 84
     target 18
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 77
+    source 84
     target 18
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
-    source 77
-    target 79
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 77
-    target 79
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 77
-    target 79
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 77
-    target 79
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 77
-    target 80
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 77
-    target 80
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 77
-    target 80
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 77
-    target 80
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 103
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 78
-    target 103
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 78
-    target 103
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 78
-    target 103
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 103
-    key 4
+    source 84
+    target 18
+    key "value"
     type "value"
   ]
   edge [
-    source 78
-    target 103
-    key 5
+    source 84
+    target 18
+    key "politics"
     type "politics"
   ]
   edge [
-    source 78
-    target 103
-    key 6
-    type "study"
-  ]
-  edge [
-    source 78
-    target 103
-    key 7
+    source 84
+    target 18
+    key "council"
     type "council"
   ]
   edge [
-    source 78
-    target 126
-    key 0
+    source 84
+    target 119
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 78
-    target 126
-    key 1
+    source 84
+    target 119
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 4.0
   ]
   edge [
-    source 78
-    target 126
-    key 2
+    source 84
+    target 119
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 78
-    target 126
-    key 3
+    source 84
+    target 119
+    key "friend"
     type "friend"
   ]
   edge [
-    source 78
-    target 126
-    key 4
+    source 84
+    target 119
+    key "value"
     type "value"
   ]
   edge [
-    source 78
-    target 126
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 126
-    key 6
-    type "study"
-  ]
-  edge [
-    source 78
-    target 126
-    key 7
+    source 84
+    target 119
+    key "council"
     type "council"
   ]
   edge [
-    source 78
-    target 87
-    key 0
+    source 85
+    target 23
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 78
-    target 87
-    key 1
+    source 85
+    target 23
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 6.0
   ]
   edge [
-    source 78
-    target 87
-    key 2
+    source 85
+    target 23
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 78
-    target 87
-    key 3
-    type "friend"
+    source 85
+    target 23
+    key "council"
+    type "council"
   ]
   edge [
-    source 78
-    target 87
-    key 4
+    source 85
+    target 22
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 85
+    target 22
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 85
+    target 22
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 85
+    target 22
+    key "value"
     type "value"
   ]
   edge [
-    source 78
-    target 87
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 5
-    key 0
+    source 85
+    target 14
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 78
-    target 5
-    key 1
+    source 85
+    target 14
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
-    source 78
-    target 5
-    key 2
+    source 85
+    target 14
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 78
-    target 5
-    key 3
+    source 85
+    target 14
+    key "friend"
     type "friend"
   ]
   edge [
-    source 78
-    target 5
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 5
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 5
-    key 6
-    type "study"
-  ]
-  edge [
-    source 78
-    target 5
-    key 7
-    type "council"
-  ]
-  edge [
-    source 78
-    target 102
-    key 0
+    source 85
+    target 100
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 78
-    target 102
-    key 1
+    source 85
+    target 100
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 3.0
   ]
   edge [
-    source 78
-    target 102
-    key 2
+    source 85
+    target 100
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 78
-    target 102
-    key 3
+    source 85
+    target 100
+    key "friend"
     type "friend"
   ]
   edge [
-    source 78
-    target 102
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 102
-    key 5
-    type "council"
-  ]
-  edge [
-    source 78
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 78
-    target 3
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 78
-    target 3
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 78
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 3
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 3
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 3
-    key 6
-    type "study"
-  ]
-  edge [
-    source 78
-    target 3
-    key 7
-    type "council"
-  ]
-  edge [
-    source 78
-    target 79
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 78
-    target 79
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 78
-    target 79
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 78
-    target 79
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 79
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 79
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 79
-    key 6
-    type "council"
-  ]
-  edge [
-    source 78
-    target 80
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 78
-    target 80
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 78
-    target 80
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 78
-    target 80
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 80
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 80
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 80
-    key 6
-    type "council"
-  ]
-  edge [
-    source 78
-    target 101
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 78
-    target 101
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 78
-    target 101
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 78
-    target 101
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 101
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 101
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 101
-    key 6
-    type "study"
-  ]
-  edge [
-    source 78
-    target 101
-    key 7
-    type "council"
-  ]
-  edge [
-    source 78
-    target 81
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 78
-    target 81
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 78
-    target 81
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 78
-    target 81
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 81
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 81
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 81
-    key 6
-    type "council"
-  ]
-  edge [
-    source 78
-    target 29
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 78
-    target 29
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 78
-    target 29
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 78
-    target 29
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 29
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 29
-    key 5
-    type "council"
-  ]
-  edge [
-    source 78
-    target 6
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 78
-    target 6
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 78
-    target 6
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 78
-    target 6
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 78
-    target 6
-    key 4
-    type "value"
-  ]
-  edge [
-    source 78
-    target 6
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 78
-    target 6
-    key 6
-    type "study"
-  ]
-  edge [
-    source 78
-    target 6
-    key 7
-    type "council"
-  ]
-  edge [
-    source 79
-    target 80
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 79
-    target 80
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 79
-    target 80
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 79
-    target 80
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 79
-    target 80
-    key 4
-    type "value"
-  ]
-  edge [
-    source 79
-    target 80
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 79
-    target 80
-    key 6
-    type "council"
-  ]
-  edge [
-    source 79
-    target 58
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 79
-    target 58
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 79
-    target 58
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 79
-    target 58
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 79
-    target 58
-    key 4
-    type "value"
-  ]
-  edge [
-    source 79
-    target 58
-    key 5
-    type "study"
-  ]
-  edge [
-    source 79
-    target 58
-    key 6
-    type "council"
-  ]
-  edge [
-    source 79
-    target 102
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 79
-    target 102
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 79
-    target 102
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 79
-    target 102
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 79
-    target 102
-    key 4
-    type "value"
-  ]
-  edge [
-    source 79
-    target 102
-    key 5
-    type "study"
-  ]
-  edge [
-    source 79
-    target 102
-    key 6
-    type "council"
-  ]
-  edge [
-    source 79
-    target 81
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 79
-    target 81
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 79
-    target 81
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 79
-    target 81
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 79
-    target 81
-    key 4
-    type "value"
-  ]
-  edge [
-    source 79
-    target 81
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 79
-    target 81
-    key 6
-    type "study"
-  ]
-  edge [
-    source 79
-    target 81
-    key 7
-    type "council"
-  ]
-  edge [
-    source 80
-    target 79
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 80
-    target 79
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 80
-    target 79
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 80
-    target 79
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 80
-    target 79
-    key 4
-    type "value"
-  ]
-  edge [
-    source 80
-    target 79
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 80
-    target 79
-    key 6
-    type "study"
-  ]
-  edge [
-    source 80
-    target 79
-    key 7
-    type "council"
-  ]
-  edge [
-    source 80
-    target 58
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 80
-    target 58
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 80
-    target 58
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 80
-    target 58
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 80
-    target 58
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 80
-    target 58
-    key 5
-    type "council"
-  ]
-  edge [
-    source 80
-    target 78
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 80
-    target 78
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 80
-    target 78
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 80
-    target 78
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 80
-    target 78
-    key 4
-    type "value"
-  ]
-  edge [
-    source 80
-    target 78
-    key 5
-    type "council"
-  ]
-  edge [
-    source 80
-    target 111
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 80
-    target 111
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 80
-    target 111
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 80
-    target 111
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 80
-    target 111
-    key 4
-    type "council"
-  ]
-  edge [
-    source 80
-    target 126
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 80
-    target 126
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 80
-    target 126
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 80
-    target 126
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 80
-    target 126
-    key 4
-    type "value"
-  ]
-  edge [
-    source 80
-    target 126
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 80
-    target 126
-    key 6
-    type "study"
-  ]
-  edge [
-    source 80
-    target 126
-    key 7
-    type "council"
-  ]
-  edge [
-    source 81
-    target 78
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 81
-    target 78
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 81
-    target 78
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 81
-    target 78
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 81
-    target 78
-    key 4
-    type "value"
-  ]
-  edge [
-    source 81
-    target 78
-    key 5
-    type "study"
-  ]
-  edge [
-    source 81
-    target 78
-    key 6
-    type "council"
-  ]
-  edge [
-    source 81
-    target 102
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 81
-    target 102
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 81
-    target 102
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 81
-    target 102
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 81
-    target 102
-    key 4
-    type "value"
-  ]
-  edge [
-    source 81
-    target 102
-    key 5
-    type "study"
-  ]
-  edge [
-    source 81
-    target 102
-    key 6
-    type "council"
-  ]
-  edge [
-    source 81
-    target 79
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 81
-    target 79
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 81
-    target 79
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 81
-    target 79
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 81
-    target 79
-    key 4
-    type "study"
-  ]
-  edge [
-    source 81
-    target 79
-    key 5
-    type "council"
-  ]
-  edge [
-    source 81
-    target 80
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 81
-    target 80
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 81
-    target 80
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 81
-    target 80
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 81
-    target 80
-    key 4
-    type "value"
-  ]
-  edge [
-    source 81
-    target 80
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 81
-    target 80
-    key 6
-    type "council"
-  ]
-  edge [
-    source 81
-    target 92
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 81
-    target 92
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 81
-    target 92
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 81
-    target 92
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 81
-    target 92
-    key 4
-    type "value"
-  ]
-  edge [
-    source 81
-    target 92
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 81
-    target 92
-    key 6
-    type "study"
-  ]
-  edge [
-    source 81
-    target 92
-    key 7
-    type "council"
-  ]
-  edge [
-    source 81
-    target 101
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 81
-    target 101
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 81
-    target 101
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 81
-    target 101
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 81
-    target 101
-    key 4
-    type "value"
-  ]
-  edge [
-    source 81
-    target 101
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 81
-    target 101
-    key 6
-    type "study"
-  ]
-  edge [
-    source 81
-    target 101
-    key 7
-    type "council"
-  ]
-  edge [
-    source 81
-    target 115
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 81
-    target 115
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 81
-    target 115
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 81
-    target 115
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 81
-    target 115
-    key 4
-    type "value"
-  ]
-  edge [
-    source 81
-    target 115
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 81
-    target 115
-    key 6
-    type "council"
-  ]
-  edge [
-    source 82
-    target 4
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 82
-    target 4
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 82
-    target 4
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 82
-    target 4
-    key 3
-    type "council"
-  ]
-  edge [
-    source 82
-    target 2
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 82
-    target 2
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 82
-    target 2
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 82
-    target 2
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 82
-    target 1
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 82
-    target 1
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 82
-    target 1
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 82
-    target 1
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 82
-    target 0
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 82
-    target 0
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 82
-    target 0
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 82
-    target 0
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 82
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 82
-    target 3
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 82
-    target 3
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 82
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 82
-    target 3
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 83
+    source 85
     target 84
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 83
+    source 85
     target 84
-    key 1
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 3.0
   ]
   edge [
-    source 83
+    source 85
     target 84
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 83
+    source 85
     target 84
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 83
-    target 85
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 83
-    target 85
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 83
-    target 85
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 83
-    target 85
-    key 3
-    type "council"
-  ]
-  edge [
-    source 83
-    target 86
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 83
-    target 86
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 83
-    target 86
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 83
-    target 86
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 85
-    target 121
-    key 0
+    target 16
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 85
-    target 121
-    key 1
+    target 16
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 6.0
   ]
   edge [
     source 85
-    target 121
-    key 2
+    target 16
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 85
-    target 121
-    key 3
+    target 16
+    key "friend"
     type "friend"
   ]
   edge [
     source 85
-    target 121
-    key 4
-    type "value"
-  ]
-  edge [
-    source 85
-    target 121
-    key 5
-    type "study"
-  ]
-  edge [
-    source 85
-    target 121
-    key 6
-    type "council"
-  ]
-  edge [
-    source 85
-    target 83
-    key 0
+    target 13
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 85
-    target 83
-    key 1
+    target 13
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
     source 85
-    target 83
-    key 2
+    target 13
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 85
-    target 83
-    key 3
-    type "council"
-  ]
-  edge [
-    source 85
-    target 86
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 85
-    target 86
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 85
-    target 86
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 85
-    target 86
-    key 3
-    type "council"
-  ]
-  edge [
-    source 85
-    target 131
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 85
-    target 131
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 85
-    target 131
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 85
-    target 131
-    key 3
+    target 13
+    key "friend"
     type "friend"
   ]
   edge [
     source 85
-    target 131
-    key 4
-    type "value"
-  ]
-  edge [
-    source 85
-    target 131
-    key 5
-    type "council"
-  ]
-  edge [
-    source 85
-    target 120
-    key 0
+    target 15
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 85
-    target 120
-    key 1
+    target 15
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
     source 85
-    target 120
-    key 2
+    target 15
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 85
-    target 120
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 85
-    target 120
-    key 4
-    type "value"
-  ]
-  edge [
-    source 85
-    target 120
-    key 5
-    type "council"
-  ]
-  edge [
-    source 85
-    target 136
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 85
-    target 136
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 85
-    target 136
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 85
-    target 136
-    key 3
-    type "council"
-  ]
-  edge [
-    source 85
-    target 93
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 85
-    target 93
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 85
-    target 93
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 85
-    target 93
-    key 3
-    type "study"
-  ]
-  edge [
-    source 85
-    target 93
-    key 4
-    type "council"
-  ]
-  edge [
-    source 86
-    target 123
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 86
-    target 123
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 86
-    target 123
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 86
-    target 123
-    key 3
+    target 15
+    key "friend"
     type "friend"
   ]
   edge [
     source 86
-    target 123
-    key 4
-    type "value"
+    target 142
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
     source 86
-    target 123
-    key 5
-    type "politics"
+    target 142
+    key "leftright"
+    type "leftright"
+    weight 3.0
   ]
   edge [
     source 86
-    target 123
-    key 6
+    target 142
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 86
+    target 142
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 86
+    target 142
+    key "study"
     type "study"
   ]
   edge [
     source 86
-    target 123
-    key 7
+    target 142
+    key "council"
     type "council"
   ]
   edge [
     source 86
-    target 122
-    key 0
+    target 5
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 86
-    target 122
-    key 1
+    target 5
+    key "leftright"
     type "leftright"
-    weight 1
+    weight 4.0
   ]
   edge [
     source 86
-    target 122
-    key 2
+    target 5
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 0.0
   ]
   edge [
     source 86
-    target 122
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 86
-    target 122
-    key 4
-    type "value"
-  ]
-  edge [
-    source 86
-    target 122
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 86
-    target 122
-    key 6
+    target 5
+    key "study"
     type "study"
   ]
   edge [
     source 86
-    target 122
-    key 7
+    target 5
+    key "council"
     type "council"
   ]
   edge [
     source 86
-    target 105
-    key 0
+    target 143
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 86
-    target 105
-    key 1
+    target 143
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 4.0
   ]
   edge [
     source 86
-    target 105
-    key 2
+    target 143
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 2.0
   ]
   edge [
     source 86
-    target 105
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 86
-    target 105
-    key 4
-    type "council"
-  ]
-  edge [
-    source 86
-    target 56
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 86
-    target 56
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 86
-    target 56
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 86
-    target 56
-    key 3
+    target 143
+    key "friend"
     type "friend"
   ]
   edge [
     source 86
-    target 56
-    key 4
+    target 143
+    key "value"
     type "value"
   ]
   edge [
     source 86
-    target 56
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 86
-    target 56
-    key 6
+    target 143
+    key "study"
     type "study"
   ]
   edge [
     source 86
-    target 56
-    key 7
+    target 143
+    key "council"
     type "council"
   ]
   edge [
     source 86
-    target 83
-    key 0
+    target 144
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 86
-    target 83
-    key 1
+    target 144
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
     source 86
-    target 83
-    key 2
+    target 144
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 86
-    target 83
-    key 3
+    target 144
+    key "friend"
     type "friend"
   ]
   edge [
     source 86
-    target 83
-    key 4
-    type "value"
-  ]
-  edge [
-    source 86
-    target 83
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 86
-    target 83
-    key 6
+    target 144
+    key "study"
     type "study"
+  ]
+  edge [
+    source 86
+    target 144
+    key "council"
+    type "council"
   ]
   edge [
     source 87
     target 88
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 87
     target 88
-    key 1
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 5.0
   ]
   edge [
     source 87
     target 88
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 2.0
   ]
   edge [
     source 87
     target 88
-    key 3
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 87
+    target 88
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 87
+    target 89
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 87
+    target 89
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 87
+    target 89
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 87
+    target 89
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 87
+    target 89
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 87
+    target 90
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 87
+    target 90
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 87
+    target 90
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 87
+    target 90
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 87
+    target 90
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 87
+    target 90
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 87
+    target 90
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 87
+    target 90
+    key "council"
     type "council"
   ]
   edge [
+    source 87
+    target 91
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 87
+    target 91
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 87
+    target 91
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 87
+    target 91
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 87
+    target 91
+    key "value"
+    type "value"
+  ]
+  edge [
     source 88
-    target 82
-    key 0
+    target 90
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 88
-    target 82
-    key 1
+    target 90
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 5.0
   ]
   edge [
     source 88
-    target 82
-    key 2
+    target 90
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 88
-    target 82
-    key 3
+    target 90
+    key "friend"
     type "friend"
   ]
   edge [
+    source 88
+    target 90
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 88
+    target 90
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 88
+    target 87
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 88
+    target 87
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 88
+    target 87
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 88
+    target 87
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 88
+    target 87
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 88
+    target 89
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 88
+    target 89
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 88
+    target 89
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 88
+    target 89
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 88
+    target 89
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 88
+    target 89
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 88
+    target 89
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 88
+    target 91
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 88
+    target 91
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 88
+    target 91
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 88
+    target 91
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 88
+    target 91
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 88
+    target 91
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 88
+    target 91
+    key "study"
+    type "study"
+  ]
+  edge [
     source 89
-    target 137
-    key 0
+    target 90
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 89
-    target 137
-    key 1
+    target 90
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 2.0
   ]
   edge [
     source 89
-    target 137
-    key 2
+    target 90
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 89
-    target 137
-    key 3
+    target 90
+    key "friend"
     type "friend"
   ]
   edge [
     source 89
+    target 87
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 89
+    target 87
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 89
+    target 87
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 89
+    target 87
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 89
+    target 91
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 89
+    target 91
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 89
+    target 91
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 89
+    target 91
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 89
+    target 88
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 89
+    target 88
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 89
+    target 88
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 89
+    target 88
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 90
+    target 87
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 90
+    target 87
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 90
+    target 87
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 90
+    target 87
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 90
+    target 87
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 90
+    target 87
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 90
+    target 87
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 90
+    target 87
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 90
+    target 89
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 90
+    target 89
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 90
+    target 89
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 90
+    target 89
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 90
+    target 89
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 90
+    target 89
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 90
+    target 89
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 90
+    target 91
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 90
+    target 91
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 90
+    target 91
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 90
+    target 91
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 90
+    target 91
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 90
+    target 91
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 90
+    target 91
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 90
+    target 88
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 90
+    target 88
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 90
+    target 88
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 90
+    target 88
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 90
+    target 88
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 90
+    target 88
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 90
+    target 88
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 91
+    target 90
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 91
+    target 90
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 91
+    target 90
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 91
+    target 90
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 91
+    target 87
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 91
+    target 87
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 91
+    target 87
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 91
+    target 87
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 91
+    target 89
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 91
+    target 89
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 91
+    target 89
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 91
+    target 89
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 91
+    target 88
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 91
+    target 88
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 91
+    target 88
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 91
+    target 88
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 92
+    target 93
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 92
+    target 93
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 92
+    target 93
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 92
+    target 93
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 92
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 92
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 92
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 92
+    target 16
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 92
     target 94
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 89
+    source 92
     target 94
-    key 1
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 5.0
   ]
   edge [
-    source 89
+    source 92
     target 94
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 0.0
   ]
   edge [
-    source 89
+    source 92
     target 94
-    key 3
-    type "value"
+    key "council"
+    type "council"
   ]
   edge [
-    source 89
-    target 43
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 89
-    target 43
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 89
-    target 43
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 89
-    target 43
-    key 3
-    type "study"
-  ]
-  edge [
-    source 89
-    target 73
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 89
-    target 73
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 89
-    target 73
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 89
-    target 73
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 90
-    target 30
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 90
-    target 30
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 90
-    target 30
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 90
-    target 30
-    key 3
-    type "value"
-  ]
-  edge [
-    source 90
-    target 97
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 90
-    target 97
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 90
-    target 97
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 90
-    target 97
-    key 3
-    type "value"
-  ]
-  edge [
-    source 91
-    target 6
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 91
-    target 6
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 91
-    target 6
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 91
-    target 6
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 91
-    target 42
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 91
-    target 42
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 91
-    target 42
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 91
-    target 42
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 91
+    source 93
     target 92
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 91
+    source 93
     target 92
-    key 1
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 6.0
   ]
   edge [
-    source 91
+    source 93
     target 92
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 91
+    source 93
     target 92
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 92
-    target 81
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 92
-    target 81
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 92
-    target 81
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 92
-    target 81
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
-    source 92
-    target 81
-    key 4
+    source 93
+    target 94
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 93
+    target 94
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 93
+    target 94
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 93
+    target 94
+    key "value"
     type "value"
   ]
   edge [
-    source 92
-    target 81
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 92
-    target 81
-    key 6
-    type "study"
-  ]
-  edge [
-    source 92
+    source 93
     target 102
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 92
+    source 93
     target 102
-    key 1
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 8.0
   ]
   edge [
-    source 92
+    source 93
     target 102
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 92
+    source 93
     target 102
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 92
-    target 102
-    key 4
+    key "value"
     type "value"
   ]
   edge [
-    source 92
-    target 102
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 92
-    target 102
-    key 6
-    type "study"
-  ]
-  edge [
-    source 92
-    target 77
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 92
-    target 77
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 92
-    target 77
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 92
-    target 77
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 92
-    target 77
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 92
-    target 77
-    key 5
-    type "study"
-  ]
-  edge [
     source 93
-    target 85
-    key 0
+    target 16
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 93
-    target 85
-    key 1
+    target 16
+    key "leftright"
     type "leftright"
-    weight 9
+    weight 7.0
   ]
   edge [
     source 93
-    target 85
-    key 2
+    target 16
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 93
-    target 85
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 93
-    target 85
-    key 4
-    type "study"
+    target 16
+    key "value"
+    type "value"
   ]
   edge [
     source 94
-    target 95
-    key 0
+    target 102
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 94
-    target 95
-    key 1
+    target 102
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 6.0
   ]
   edge [
     source 94
-    target 95
-    key 2
+    target 102
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
     source 94
-    target 95
-    key 3
+    target 102
+    key "council"
     type "council"
   ]
   edge [
     source 94
-    target 40
-    key 0
+    target 93
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 94
-    target 40
-    key 1
+    target 93
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 4.0
   ]
   edge [
     source 94
-    target 40
-    key 2
+    target 93
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 94
-    target 40
-    key 3
+    target 93
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 94
+    target 92
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 94
+    target 92
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 94
+    target 92
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 94
+    target 92
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 94
+    target 101
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 94
+    target 101
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 94
+    target 101
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 94
+    target 101
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 94
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 94
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 94
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 94
+    target 16
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 94
+    target 16
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 95
+    target 32
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 95
+    target 32
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 95
+    target 32
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 95
+    target 32
+    key "study"
     type "study"
   ]
   edge [
-    source 94
-    target 40
-    key 4
-    type "council"
-  ]
-  edge [
     source 95
-    target 94
-    key 0
+    target 31
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 95
-    target 94
-    key 1
+    target 31
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 7.0
   ]
   edge [
     source 95
-    target 94
-    key 2
+    target 31
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
     source 95
-    target 94
-    key 3
-    type "council"
+    target 31
+    key "study"
+    type "study"
   ]
   edge [
     source 95
-    target 40
-    key 0
+    target 96
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 95
-    target 40
-    key 1
+    target 96
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 6.0
   ]
   edge [
     source 95
-    target 40
-    key 2
+    target 96
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
     source 95
-    target 40
-    key 3
+    target 96
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 95
+    target 97
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 95
+    target 97
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 95
+    target 97
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 95
+    target 97
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 95
+    target 108
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 95
+    target 108
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 95
+    target 108
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 95
+    target 108
+    key "study"
     type "study"
   ]
   edge [
     source 96
-    target 78
-    key 0
+    target 97
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 96
-    target 78
-    key 1
+    target 97
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 5.0
   ]
   edge [
     source 96
-    target 78
-    key 2
+    target 97
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 96
-    target 78
-    key 3
+    target 97
+    key "council"
     type "council"
   ]
   edge [
-    source 97
-    target 30
-    key 0
+    source 96
+    target 99
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 97
-    target 30
-    key 1
+    source 96
+    target 99
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
-    source 97
-    target 30
-    key 2
+    source 96
+    target 99
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 97
-    target 30
-    key 3
+    source 96
+    target 99
+    key "friend"
     type "friend"
   ]
   edge [
-    source 97
-    target 30
-    key 4
+    source 96
+    target 99
+    key "value"
     type "value"
   ]
   edge [
-    source 97
-    target 30
-    key 5
+    source 96
+    target 99
+    key "politics"
     type "politics"
   ]
   edge [
-    source 97
-    target 30
-    key 6
-    type "council"
-  ]
-  edge [
-    source 97
-    target 90
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 97
-    target 90
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 97
-    target 90
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 97
-    target 90
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 97
-    target 90
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 97
-    target 90
-    key 5
-    type "council"
-  ]
-  edge [
-    source 97
-    target 13
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 97
-    target 13
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 97
-    target 13
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 97
-    target 13
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 97
-    target 13
-    key 4
-    type "value"
-  ]
-  edge [
-    source 97
-    target 13
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 97
-    target 13
-    key 6
-    type "council"
-  ]
-  edge [
-    source 98
+    source 96
     target 99
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 98
-    target 99
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 98
-    target 99
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 98
-    target 99
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 98
-    target 99
-    key 4
-    type "value"
-  ]
-  edge [
-    source 98
-    target 99
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 98
-    target 99
-    key 6
+    key "study"
     type "study"
   ]
   edge [
-    source 98
+    source 96
     target 99
-    key 7
+    key "council"
     type "council"
   ]
   edge [
-    source 98
-    target 100
-    key 0
+    source 96
+    target 133
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 98
-    target 100
-    key 1
+    source 96
+    target 133
+    key "leftright"
     type "leftright"
-    weight 1
+    weight 5.0
   ]
   edge [
-    source 98
-    target 100
-    key 2
+    source 96
+    target 133
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 98
-    target 100
-    key 3
+    source 96
+    target 133
+    key "friend"
     type "friend"
   ]
   edge [
-    source 98
-    target 100
-    key 4
+    source 96
+    target 133
+    key "value"
     type "value"
   ]
   edge [
-    source 98
-    target 100
-    key 5
+    source 96
+    target 133
+    key "politics"
     type "politics"
   ]
   edge [
-    source 98
-    target 100
-    key 6
+    source 96
+    target 133
+    key "study"
     type "study"
   ]
   edge [
-    source 98
-    target 100
-    key 7
+    source 96
+    target 133
+    key "council"
     type "council"
   ]
   edge [
-    source 98
-    target 101
-    key 0
+    source 96
+    target 40
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 98
-    target 101
-    key 1
+    source 96
+    target 40
+    key "leftright"
     type "leftright"
-    weight 1
+    weight 4.0
   ]
   edge [
-    source 98
-    target 101
-    key 2
+    source 96
+    target 40
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 98
-    target 101
-    key 3
+    source 96
+    target 40
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 96
+    target 40
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 96
+    target 63
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 96
+    target 63
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 96
+    target 63
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 96
+    target 63
+    key "friend"
     type "friend"
   ]
   edge [
-    source 98
-    target 101
-    key 4
-    type "value"
-  ]
-  edge [
-    source 98
-    target 101
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 98
-    target 101
-    key 6
+    source 96
+    target 63
+    key "study"
     type "study"
   ]
   edge [
-    source 98
-    target 101
-    key 7
+    source 96
+    target 63
+    key "council"
     type "council"
   ]
   edge [
-    source 99
-    target 98
-    key 0
+    source 96
+    target 32
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 99
-    target 98
-    key 1
+    source 96
+    target 32
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 11.0
   ]
   edge [
-    source 99
-    target 98
-    key 2
+    source 96
+    target 32
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight -2.0
   ]
   edge [
-    source 99
-    target 98
-    key 3
+    source 96
+    target 32
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 96
+    target 119
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 96
+    target 119
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 96
+    target 119
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 96
+    target 119
+    key "friend"
     type "friend"
   ]
   edge [
-    source 99
-    target 98
-    key 4
+    source 96
+    target 119
+    key "value"
     type "value"
   ]
   edge [
-    source 99
-    target 98
-    key 5
+    source 96
+    target 119
+    key "politics"
     type "politics"
   ]
   edge [
-    source 99
-    target 98
-    key 6
+    source 96
+    target 119
+    key "study"
     type "study"
   ]
   edge [
-    source 99
-    target 98
-    key 7
-    type "council"
-  ]
-  edge [
-    source 99
-    target 100
-    key 0
+    source 96
+    target 5
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 99
-    target 100
-    key 1
+    source 96
+    target 5
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 5.0
   ]
   edge [
-    source 99
-    target 100
-    key 2
+    source 96
+    target 5
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 99
-    target 100
-    key 3
+    source 96
+    target 5
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 96
+    target 5
+    key "value"
     type "value"
   ]
   edge [
-    source 99
-    target 100
-    key 4
-    type "politics"
+    source 96
+    target 5
+    key "study"
+    type "study"
   ]
   edge [
-    source 99
-    target 100
-    key 5
+    source 96
+    target 5
+    key "council"
     type "council"
   ]
   edge [
-    source 100
+    source 96
+    target 95
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 96
+    target 95
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 96
+    target 95
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 96
+    target 95
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 96
+    target 31
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 96
+    target 31
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 96
+    target 31
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 96
+    target 31
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 96
+    target 34
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 96
+    target 34
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 96
+    target 34
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 96
+    target 34
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 96
+    target 34
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 96
+    target 34
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 97
     target 99
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 100
+    source 97
     target 99
-    key 1
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 5.0
   ]
   edge [
-    source 100
+    source 97
     target 99
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 100
+    source 97
     target 99
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
-    source 100
+    source 97
     target 99
-    key 4
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 97
+    target 99
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 97
+    target 32
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 97
+    target 32
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 97
+    target 32
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 97
+    target 32
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 98
+    target 32
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 98
+    target 32
+    key "leftright"
+    type "leftright"
+    weight 9.0
+  ]
+  edge [
+    source 98
+    target 32
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 98
+    target 32
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 98
+    target 65
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 98
+    target 65
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 98
+    target 65
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 98
+    target 65
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 98
+    target 65
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 98
+    target 65
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 98
+    target 12
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 98
+    target 12
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 98
+    target 12
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 98
+    target 12
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 98
+    target 12
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 98
+    target 123
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 98
+    target 123
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 98
+    target 123
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 98
+    target 123
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 98
+    target 11
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 98
+    target 11
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 98
+    target 11
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 98
+    target 11
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 99
+    target 96
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 99
+    target 96
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 99
+    target 96
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 99
+    target 96
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 99
+    target 97
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 99
+    target 97
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 99
+    target 97
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 99
+    target 97
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 99
+    target 40
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 99
+    target 40
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 99
+    target 40
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 99
+    target 40
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 99
+    target 32
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 99
+    target 32
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 99
+    target 32
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 99
+    target 32
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 99
+    target 31
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 99
+    target 31
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 99
+    target 31
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 99
+    target 31
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 99
+    target 133
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 99
+    target 133
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 99
+    target 133
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 99
+    target 133
+    key "value"
     type "value"
   ]
   edge [
     source 100
-    target 99
-    key 5
+    target 101
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 100
+    target 101
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 100
+    target 101
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 100
+    target 101
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 100
+    target 14
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 100
+    target 14
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 100
+    target 14
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 100
+    target 14
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 100
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 100
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 100
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 100
+    target 16
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 100
+    target 102
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 100
+    target 102
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 100
+    target 102
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 100
+    target 102
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 100
+    target 93
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 100
+    target 93
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 100
+    target 93
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 100
+    target 93
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 100
+    target 94
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 100
+    target 94
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 100
+    target 94
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 100
+    target 94
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 100
+    target 54
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 100
+    target 54
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 100
+    target 54
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 100
+    target 54
+    key "politics"
     type "politics"
   ]
   edge [
     source 100
-    target 99
-    key 6
-    type "study"
-  ]
-  edge [
-    source 100
-    target 99
-    key 7
+    target 54
+    key "council"
     type "council"
   ]
   edge [
     source 100
-    target 98
-    key 0
+    target 85
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 100
-    target 98
-    key 1
+    target 85
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 5.0
   ]
   edge [
     source 100
-    target 98
-    key 2
+    target 85
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 100
-    target 98
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 100
-    target 98
-    key 4
-    type "value"
-  ]
-  edge [
-    source 100
-    target 98
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 100
-    target 98
-    key 6
-    type "study"
-  ]
-  edge [
-    source 100
-    target 98
-    key 7
-    type "council"
-  ]
-  edge [
-    source 100
-    target 101
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 100
-    target 101
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 100
-    target 101
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 100
-    target 101
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 100
-    target 101
-    key 4
-    type "value"
-  ]
-  edge [
-    source 100
-    target 101
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 100
-    target 101
-    key 6
-    type "study"
-  ]
-  edge [
-    source 100
-    target 101
-    key 7
-    type "council"
-  ]
-  edge [
-    source 101
-    target 114
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 101
-    target 114
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 101
-    target 114
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 101
-    target 114
-    key 3
+    target 85
+    key "friend"
     type "friend"
   ]
   edge [
     source 101
-    target 114
-    key 4
-    type "value"
-  ]
-  edge [
-    source 101
-    target 114
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 101
-    target 114
-    key 6
-    type "study"
-  ]
-  edge [
-    source 101
-    target 114
-    key 7
-    type "council"
-  ]
-  edge [
-    source 101
-    target 44
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 101
-    target 44
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 101
-    target 44
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 101
-    target 44
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 101
-    target 44
-    key 4
-    type "value"
-  ]
-  edge [
-    source 101
-    target 44
-    key 5
-    type "study"
-  ]
-  edge [
-    source 101
-    target 44
-    key 6
-    type "council"
-  ]
-  edge [
-    source 101
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 101
-    target 49
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 101
-    target 49
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 101
-    target 49
-    key 3
-    type "value"
-  ]
-  edge [
-    source 101
-    target 49
-    key 4
-    type "study"
-  ]
-  edge [
-    source 101
-    target 49
-    key 5
-    type "council"
-  ]
-  edge [
-    source 101
-    target 45
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 101
-    target 45
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 101
-    target 45
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 101
-    target 45
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 101
-    target 45
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 101
-    target 45
-    key 5
-    type "council"
-  ]
-  edge [
-    source 101
-    target 131
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 101
-    target 131
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 101
-    target 131
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 101
-    target 131
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 101
-    target 131
-    key 4
-    type "value"
-  ]
-  edge [
-    source 101
-    target 131
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 101
-    target 131
-    key 6
-    type "council"
-  ]
-  edge [
-    source 101
-    target 100
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 101
-    target 100
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 101
-    target 100
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 101
-    target 100
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 101
-    target 100
-    key 4
-    type "value"
-  ]
-  edge [
-    source 101
-    target 100
-    key 5
-    type "council"
-  ]
-  edge [
-    source 101
-    target 81
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 101
-    target 81
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 101
-    target 81
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 101
-    target 81
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 101
-    target 81
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 101
-    target 81
-    key 5
-    type "study"
-  ]
-  edge [
-    source 101
-    target 81
-    key 6
-    type "council"
-  ]
-  edge [
-    source 102
     target 92
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 102
+    source 101
     target 92
-    key 1
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 3.0
   ]
   edge [
-    source 102
+    source 101
     target 92
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 102
+    source 101
     target 92
-    key 3
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 101
+    target 93
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 101
+    target 93
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 101
+    target 93
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 101
+    target 93
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 101
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 101
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 101
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 101
+    target 16
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 101
+    target 102
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 101
+    target 102
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 101
+    target 102
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 101
+    target 102
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 101
+    target 14
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 101
+    target 14
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 101
+    target 14
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 101
+    target 14
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 101
+    target 85
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 101
+    target 85
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 101
+    target 85
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 101
+    target 85
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 101
+    target 100
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 101
+    target 100
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 101
+    target 100
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 101
+    target 100
+    key "friend"
     type "friend"
   ]
   edge [
     source 102
-    target 79
-    key 0
+    target 94
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 102
-    target 79
-    key 1
+    target 94
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 5.0
   ]
   edge [
     source 102
-    target 79
-    key 2
+    target 94
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 102
-    target 79
-    key 3
+    target 94
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 102
+    target 93
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 102
+    target 93
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 102
+    target 93
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 102
+    target 93
+    key "friend"
     type "friend"
   ]
   edge [
     source 102
+    target 100
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 102
+    target 100
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 102
+    target 100
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 102
+    target 100
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 102
+    target 14
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 102
+    target 14
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 102
+    target 14
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 102
+    target 14
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 102
+    target 16
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 102
+    target 16
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 102
+    target 16
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 102
+    target 16
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 102
+    target 85
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 102
+    target 85
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 102
+    target 85
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 102
+    target 85
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 103
+    target 76
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 103
+    target 76
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 103
+    target 76
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 103
+    target 76
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 103
     target 77
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 102
+    source 103
     target 77
-    key 1
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 5.0
   ]
   edge [
-    source 102
+    source 103
     target 77
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 102
+    source 103
     target 77
-    key 3
-    type "study"
-  ]
-  edge [
-    source 103
-    target 126
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 103
-    target 126
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 103
-    target 126
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 103
-    target 126
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 103
-    target 126
-    key 4
+    key "value"
     type "value"
   ]
   edge [
     source 103
-    target 126
-    key 5
+    target 77
+    key "politics"
     type "politics"
   ]
   edge [
     source 103
-    target 126
-    key 6
-    type "study"
-  ]
-  edge [
-    source 103
-    target 126
-    key 7
+    target 77
+    key "council"
     type "council"
   ]
   edge [
     source 103
-    target 78
-    key 0
+    target 75
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 103
-    target 78
-    key 1
+    target 75
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 3.0
   ]
   edge [
     source 103
-    target 78
-    key 2
+    target 75
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 103
-    target 78
-    key 3
+    target 75
+    key "friend"
     type "friend"
   ]
   edge [
     source 103
-    target 78
-    key 4
+    target 75
+    key "value"
     type "value"
   ]
   edge [
     source 103
-    target 78
-    key 5
+    target 75
+    key "politics"
     type "politics"
   ]
   edge [
     source 103
-    target 78
-    key 6
+    target 75
+    key "study"
     type "study"
   ]
   edge [
     source 103
-    target 78
-    key 7
+    target 75
+    key "council"
     type "council"
   ]
   edge [
     source 103
-    target 5
-    key 0
+    target 104
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 103
-    target 5
-    key 1
+    target 104
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 6.0
   ]
   edge [
     source 103
-    target 5
-    key 2
+    target 104
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 103
-    target 5
-    key 3
+    target 104
+    key "friend"
     type "friend"
   ]
   edge [
     source 103
-    target 5
-    key 4
+    target 104
+    key "value"
     type "value"
   ]
   edge [
     source 103
-    target 5
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 103
-    target 5
-    key 6
+    target 104
+    key "study"
     type "study"
   ]
   edge [
     source 103
-    target 5
-    key 7
+    target 104
+    key "council"
     type "council"
   ]
   edge [
     source 103
-    target 3
-    key 0
+    target 55
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 103
-    target 3
-    key 1
+    target 55
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 7.0
   ]
   edge [
     source 103
-    target 3
-    key 2
+    target 55
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
     source 103
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 103
-    target 3
-    key 4
-    type "value"
-  ]
-  edge [
-    source 103
-    target 3
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 103
-    target 3
-    key 6
-    type "study"
-  ]
-  edge [
-    source 103
-    target 3
-    key 7
+    target 55
+    key "council"
     type "council"
   ]
   edge [
     source 103
-    target 101
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 103
-    target 101
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 103
-    target 101
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 103
-    target 101
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 103
-    target 101
-    key 4
-    type "council"
-  ]
-  edge [
-    source 103
-    target 81
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 103
-    target 81
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 103
-    target 81
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 103
-    target 81
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 103
-    target 81
-    key 4
-    type "council"
-  ]
-  edge [
-    source 103
-    target 6
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 103
-    target 6
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 103
-    target 6
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 103
-    target 6
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 103
-    target 6
-    key 4
-    type "value"
-  ]
-  edge [
-    source 103
-    target 6
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 103
-    target 6
-    key 6
-    type "study"
-  ]
-  edge [
-    source 103
-    target 6
-    key 7
-    type "council"
-  ]
-  edge [
-    source 103
-    target 34
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 103
-    target 34
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 103
-    target 34
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 103
-    target 34
-    key 3
-    type "value"
-  ]
-  edge [
-    source 103
-    target 34
-    key 4
-    type "council"
-  ]
-  edge [
-    source 104
-    target 58
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 104
-    target 58
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 104
-    target 58
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 104
-    target 58
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 104
-    target 57
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 104
-    target 57
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 104
-    target 57
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 104
-    target 57
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 104
-    target 59
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 104
-    target 59
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 104
-    target 59
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 104
-    target 59
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 104
     target 105
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 104
+    source 103
     target 105
-    key 1
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 5.0
   ]
   edge [
-    source 104
+    source 103
     target 105
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 104
+    source 103
     target 105
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
+    source 103
+    target 105
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 103
+    target 105
+    key "council"
+    type "council"
+  ]
+  edge [
     source 105
-    target 56
-    key 0
+    target 76
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 105
-    target 56
-    key 1
+    target 76
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 7.0
   ]
   edge [
     source 105
-    target 56
-    key 2
+    target 76
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 105
-    target 56
-    key 3
+    target 76
+    key "friend"
     type "friend"
   ]
   edge [
     source 105
-    target 56
-    key 4
+    target 76
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 105
+    target 76
+    key "politics"
     type "politics"
   ]
   edge [
     source 105
-    target 56
-    key 5
+    target 76
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 105
+    target 76
+    key "council"
     type "council"
+  ]
+  edge [
+    source 105
+    target 77
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 105
+    target 77
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 105
+    target 77
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 105
+    target 77
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 105
+    target 77
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 105
+    target 75
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 105
+    target 75
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 105
+    target 75
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 105
+    target 75
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 105
+    target 75
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 105
+    target 75
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 105
+    target 75
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 105
+    target 104
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 105
+    target 104
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 105
+    target 104
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 105
+    target 104
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 105
+    target 104
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 105
+    target 104
+    key "politics"
+    type "politics"
   ]
   edge [
     source 105
     target 55
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 105
     target 55
-    key 1
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 4.0
   ]
   edge [
     source 105
     target 55
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 105
     target 55
-    key 3
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 106
+    target 107
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 106
+    target 107
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 106
+    target 107
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 106
+    target 107
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 106
+    target 76
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 106
+    target 76
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 106
+    target 76
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 106
+    target 76
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 106
+    target 77
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 106
+    target 77
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 106
+    target 77
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 106
+    target 77
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 106
+    target 75
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 106
+    target 75
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 106
+    target 75
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 106
+    target 75
+    key "friend"
     type "friend"
   ]
   edge [
-    source 105
+    source 106
+    target 75
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 106
+    target 104
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 106
+    target 104
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 106
+    target 104
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 106
+    target 104
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 106
     target 55
-    key 4
-    type "politics"
+    key "aquaintance"
+    type "aquaintance"
   ]
   edge [
-    source 105
+    source 106
     target 55
-    key 5
-    type "council"
-  ]
-  edge [
-    source 105
-    target 59
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 105
-    target 59
-    key 1
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 7.0
   ]
   edge [
-    source 105
-    target 59
-    key 2
+    source 106
+    target 55
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
-    source 105
-    target 59
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 105
-    target 59
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 105
-    target 59
-    key 5
-    type "study"
-  ]
-  edge [
-    source 105
-    target 59
-    key 6
-    type "council"
-  ]
-  edge [
-    source 105
-    target 57
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 105
-    target 57
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 105
-    target 57
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 105
-    target 57
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 105
-    target 57
-    key 4
-    type "value"
-  ]
-  edge [
-    source 105
-    target 57
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 105
-    target 57
-    key 6
-    type "study"
-  ]
-  edge [
-    source 105
-    target 57
-    key 7
-    type "council"
-  ]
-  edge [
-    source 105
-    target 58
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 105
-    target 58
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 105
-    target 58
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 105
-    target 58
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 105
-    target 58
-    key 4
-    type "value"
-  ]
-  edge [
-    source 105
-    target 58
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 105
-    target 58
-    key 6
-    type "study"
-  ]
-  edge [
-    source 105
-    target 58
-    key 7
-    type "council"
-  ]
-  edge [
-    source 105
-    target 104
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 105
-    target 104
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 105
-    target 104
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 105
-    target 104
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 105
-    target 104
-    key 4
-    type "value"
-  ]
-  edge [
-    source 105
-    target 104
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 105
-    target 104
-    key 6
-    type "study"
-  ]
-  edge [
-    source 105
-    target 104
-    key 7
+    source 106
+    target 55
+    key "council"
     type "council"
   ]
   edge [
     source 106
-    target 107
-    key 0
+    target 105
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 106
-    target 107
-    key 1
+    target 105
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 5.0
   ]
   edge [
     source 106
-    target 107
-    key 2
+    target 105
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 106
-    target 107
-    key 3
+    target 105
+    key "friend"
     type "friend"
   ]
   edge [
     source 106
-    target 107
-    key 4
-    type "value"
-  ]
-  edge [
-    source 106
-    target 107
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 106
-    target 107
-    key 6
-    type "study"
-  ]
-  edge [
-    source 106
     target 108
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 106
     target 108
-    key 1
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 3.0
   ]
   edge [
     source 106
     target 108
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 106
     target 108
-    key 3
-    type "study"
-  ]
-  edge [
-    source 107
-    target 108
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 107
-    target 108
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 107
-    target 108
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 107
-    target 108
-    key 3
-    type "study"
-  ]
-  edge [
-    source 107
-    target 106
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 107
-    target 106
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 107
-    target 106
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 107
-    target 106
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
-    source 108
-    target 125
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 108
-    target 125
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 108
-    target 125
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 108
-    target 125
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 108
-    target 106
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 108
-    target 106
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 108
-    target 106
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 108
-    target 106
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 108
-    target 62
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 108
-    target 62
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 108
-    target 62
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 108
-    target 62
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 109
-    target 110
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 109
-    target 110
-    key 1
-    type "leftright"
-    weight 9
-  ]
-  edge [
-    source 109
-    target 110
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 109
-    target 110
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 109
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 109
-    target 49
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 109
-    target 49
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 109
-    target 49
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 109
-    target 111
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 109
-    target 111
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 109
-    target 111
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 109
-    target 111
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 109
-    target 112
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 109
-    target 112
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 109
-    target 112
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 109
-    target 112
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 109
-    target 64
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 109
-    target 64
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 109
-    target 64
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 109
-    target 64
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 110
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 110
-    target 49
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 110
-    target 49
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 110
-    target 49
-    key 3
-    type "value"
-  ]
-  edge [
-    source 110
-    target 112
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 110
-    target 112
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 110
-    target 112
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 110
-    target 112
-    key 3
-    type "value"
-  ]
-  edge [
-    source 110
-    target 111
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 110
-    target 111
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 110
-    target 111
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 110
-    target 111
-    key 3
-    type "value"
-  ]
-  edge [
-    source 110
+    source 106
     target 109
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 110
+    source 106
     target 109
-    key 1
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 2.0
   ]
   edge [
-    source 110
+    source 106
     target 109
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
-    source 110
+    source 106
     target 109
-    key 3
-    type "value"
-  ]
-  edge [
-    source 110
-    target 47
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 110
-    target 47
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 110
-    target 47
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 110
-    target 47
-    key 3
+    key "council"
     type "council"
   ]
   edge [
-    source 110
-    target 101
-    key 0
+    source 107
+    target 76
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 110
-    target 101
-    key 1
+    source 107
+    target 76
+    key "leftright"
     type "leftright"
-    weight 1
+    weight 5.0
   ]
   edge [
-    source 110
-    target 101
-    key 2
+    source 107
+    target 76
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 2.0
   ]
   edge [
-    source 110
-    target 101
-    key 3
+    source 107
+    target 76
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 107
+    target 76
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 107
+    target 76
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 107
+    target 76
+    key "council"
     type "council"
   ]
   edge [
-    source 111
-    target 49
-    key 0
+    source 107
+    target 77
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 111
-    target 49
-    key 1
+    source 107
+    target 77
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 4.0
   ]
   edge [
-    source 111
-    target 49
-    key 2
+    source 107
+    target 77
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 111
-    target 49
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 111
-    target 49
-    key 4
-    type "value"
-  ]
-  edge [
-    source 111
-    target 49
-    key 5
+    source 107
+    target 77
+    key "politics"
     type "politics"
   ]
   edge [
-    source 111
-    target 49
-    key 6
+    source 107
+    target 77
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 107
+    target 75
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 107
+    target 75
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 107
+    target 75
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 107
+    target 75
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 107
+    target 75
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 107
+    target 123
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 107
+    target 123
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 107
+    target 123
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 107
+    target 123
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 107
+    target 123
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 107
+    target 123
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 107
+    target 124
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 107
+    target 124
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 107
+    target 124
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 107
+    target 104
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 107
+    target 104
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 107
+    target 104
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 107
+    target 104
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 107
+    target 104
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 107
+    target 55
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 107
+    target 55
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 107
+    target 55
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 107
+    target 55
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 107
+    target 55
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 107
+    target 66
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 107
+    target 66
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 107
+    target 66
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 107
+    target 66
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 107
+    target 66
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 107
+    target 66
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 107
+    target 66
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 107
+    target 105
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 107
+    target 105
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 107
+    target 105
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 107
+    target 105
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 107
+    target 105
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 107
+    target 105
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 108
+    target 106
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 108
+    target 106
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 108
+    target 106
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 108
+    target 106
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 108
+    target 76
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 108
+    target 76
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 108
+    target 76
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 108
+    target 76
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 108
+    target 134
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 108
+    target 134
+    key "leftright"
+    type "leftright"
+    weight 10.0
+  ]
+  edge [
+    source 108
+    target 134
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 108
+    target 134
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 109
+    target 106
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 109
+    target 106
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 109
+    target 106
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 109
+    target 106
+    key "study"
     type "study"
   ]
   edge [
-    source 111
-    target 112
-    key 0
+    source 109
+    target 43
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 111
-    target 112
-    key 1
+    source 109
+    target 43
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 7.0
   ]
   edge [
-    source 111
-    target 112
-    key 2
+    source 109
+    target 43
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 0.0
   ]
   edge [
-    source 111
-    target 112
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 111
-    target 112
-    key 4
-    type "value"
-  ]
-  edge [
-    source 111
-    target 112
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 111
-    target 109
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 111
-    target 109
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 111
-    target 109
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 111
-    target 109
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 111
-    target 109
-    key 4
-    type "value"
-  ]
-  edge [
-    source 111
-    target 109
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 111
-    target 109
-    key 6
+    source 109
+    target 43
+    key "study"
     type "study"
   ]
   edge [
-    source 111
-    target 64
-    key 0
+    source 110
+    target 111
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 111
-    target 64
-    key 1
+    source 110
+    target 111
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 3.0
   ]
   edge [
-    source 111
-    target 64
-    key 2
+    source 110
+    target 111
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 111
-    target 64
-    key 3
+    source 110
+    target 111
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 110
+    target 112
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 110
+    target 112
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 110
+    target 112
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 110
+    target 112
+    key "friend"
     type "friend"
   ]
   edge [
     source 111
-    target 64
-    key 4
+    target 110
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 111
+    target 110
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 111
+    target 110
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 111
+    target 110
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 111
+    target 67
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 111
+    target 67
+    key "leftright"
+    type "leftright"
+    weight 1.0
+  ]
+  edge [
+    source 111
+    target 67
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 111
+    target 67
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 111
+    target 117
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 111
+    target 117
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 111
+    target 117
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 111
+    target 117
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 111
+    target 114
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 111
+    target 114
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 111
+    target 114
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 111
+    target 114
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 112
+    target 114
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 112
+    target 114
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 112
+    target 114
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 112
+    target 114
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 112
+    target 117
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 112
+    target 117
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 112
+    target 117
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 112
+    target 117
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 113
+    target 28
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 113
+    target 28
+    key "leftright"
+    type "leftright"
+    weight 9.0
+  ]
+  edge [
+    source 113
+    target 28
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 113
+    target 28
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 113
+    target 28
+    key "value"
     type "value"
   ]
   edge [
-    source 111
-    target 64
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 111
-    target 110
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 111
-    target 110
-    key 1
-    type "leftright"
-    weight 10
-  ]
-  edge [
-    source 111
-    target 110
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 111
-    target 110
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 111
-    target 110
-    key 4
-    type "value"
-  ]
-  edge [
-    source 111
-    target 110
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 112
-    target 110
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 112
-    target 110
-    key 1
-    type "leftright"
-    weight 10
-  ]
-  edge [
-    source 112
-    target 110
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 112
-    target 110
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 112
-    target 111
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 112
-    target 111
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 112
-    target 111
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 112
-    target 111
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 112
-    target 109
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 112
-    target 109
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 112
-    target 109
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 112
-    target 109
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 112
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 112
-    target 49
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 112
-    target 49
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 112
-    target 49
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 112
+    source 113
     target 48
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 112
+    source 113
     target 48
-    key 1
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 5.0
   ]
   edge [
-    source 112
+    source 113
     target 48
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 0.0
   ]
   edge [
-    source 112
+    source 113
     target 48
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 113
-    target 114
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 113
-    target 114
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 113
-    target 114
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 113
-    target 114
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 113
-    target 114
-    key 4
-    type "value"
-  ]
-  edge [
-    source 113
-    target 114
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 113
-    target 114
-    key 6
-    type "study"
-  ]
-  edge [
-    source 113
-    target 114
-    key 7
-    type "council"
-  ]
-  edge [
-    source 113
-    target 115
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 113
-    target 115
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 113
-    target 115
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 113
-    target 115
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 113
-    target 115
-    key 4
-    type "value"
-  ]
-  edge [
-    source 113
-    target 115
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 113
-    target 115
-    key 6
-    type "study"
-  ]
-  edge [
-    source 113
-    target 115
-    key 7
-    type "council"
-  ]
-  edge [
-    source 113
-    target 116
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 113
-    target 116
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 113
-    target 116
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 113
-    target 116
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 113
-    target 116
-    key 4
-    type "value"
-  ]
-  edge [
-    source 113
-    target 116
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 113
-    target 116
-    key 6
-    type "study"
-  ]
-  edge [
-    source 113
-    target 116
-    key 7
-    type "council"
-  ]
-  edge [
-    source 113
-    target 117
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 113
-    target 117
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 113
-    target 117
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 113
-    target 117
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 113
-    target 117
-    key 4
-    type "value"
-  ]
-  edge [
-    source 113
-    target 117
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 113
-    target 117
-    key 6
-    type "study"
-  ]
-  edge [
-    source 113
-    target 117
-    key 7
-    type "council"
-  ]
-  edge [
-    source 114
-    target 113
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 114
-    target 113
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 114
-    target 113
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 114
-    target 113
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 114
-    target 113
-    key 4
-    type "value"
-  ]
-  edge [
-    source 114
-    target 113
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 114
-    target 113
-    key 6
-    type "study"
-  ]
-  edge [
-    source 114
-    target 113
-    key 7
-    type "council"
-  ]
-  edge [
-    source 114
-    target 115
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 114
-    target 115
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 114
-    target 115
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 114
-    target 115
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 114
-    target 115
-    key 4
-    type "value"
-  ]
-  edge [
-    source 114
-    target 115
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 114
-    target 115
-    key 6
-    type "study"
-  ]
-  edge [
-    source 114
-    target 115
-    key 7
-    type "council"
-  ]
-  edge [
-    source 114
-    target 116
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 114
-    target 116
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 114
-    target 116
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 114
-    target 116
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 114
-    target 116
-    key 4
-    type "value"
-  ]
-  edge [
-    source 114
-    target 116
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 114
-    target 116
-    key 6
-    type "study"
-  ]
-  edge [
-    source 114
-    target 116
-    key 7
+    key "council"
     type "council"
   ]
   edge [
     source 114
     target 117
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 114
     target 117
-    key 1
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 3.0
   ]
   edge [
     source 114
     target 117
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 114
     target 117
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 114
     target 117
-    key 4
+    key "value"
     type "value"
   ]
   edge [
     source 114
     target 117
-    key 5
+    key "politics"
     type "politics"
   ]
   edge [
     source 114
     target 117
-    key 6
+    key "study"
     type "study"
   ]
   edge [
     source 114
     target 117
-    key 7
+    key "council"
     type "council"
   ]
   edge [
-    source 115
-    target 81
-    key 0
+    source 114
+    target 67
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 115
-    target 81
-    key 1
+    source 114
+    target 67
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 2.0
   ]
   edge [
-    source 115
-    target 81
-    key 2
+    source 114
+    target 67
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 115
-    target 81
-    key 3
+    source 114
+    target 67
+    key "friend"
     type "friend"
   ]
   edge [
-    source 115
-    target 81
-    key 4
+    source 114
+    target 67
+    key "value"
     type "value"
   ]
   edge [
-    source 115
-    target 81
-    key 5
+    source 114
+    target 67
+    key "politics"
     type "politics"
   ]
   edge [
-    source 115
-    target 81
-    key 6
+    source 114
+    target 67
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 114
+    target 67
+    key "council"
     type "council"
   ]
   edge [
-    source 115
-    target 101
-    key 0
+    source 114
+    target 110
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 115
-    target 101
-    key 1
+    source 114
+    target 110
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 4.0
   ]
   edge [
-    source 115
-    target 101
-    key 2
+    source 114
+    target 110
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 115
-    target 101
-    key 3
+    source 114
+    target 110
+    key "friend"
     type "friend"
   ]
   edge [
-    source 115
-    target 101
-    key 4
+    source 114
+    target 110
+    key "value"
     type "value"
   ]
   edge [
-    source 115
-    target 101
-    key 5
+    source 114
+    target 110
+    key "politics"
     type "politics"
   ]
   edge [
-    source 115
-    target 101
-    key 6
+    source 114
+    target 110
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 114
+    target 110
+    key "council"
     type "council"
   ]
   edge [
-    source 116
-    target 117
-    key 0
+    source 114
+    target 111
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 116
-    target 117
-    key 1
+    source 114
+    target 111
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 2.0
   ]
   edge [
-    source 116
-    target 117
-    key 2
+    source 114
+    target 111
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 116
-    target 117
-    key 3
+    source 114
+    target 111
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 114
+    target 111
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 114
+    target 111
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 114
+    target 111
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 114
+    target 111
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 115
+    target 116
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 115
+    target 116
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 115
+    target 116
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 115
+    target 116
+    key "friend"
     type "friend"
   ]
   edge [
     source 116
-    target 144
-    key 0
+    target 115
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 116
-    target 144
-    key 1
+    target 115
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
     source 116
-    target 144
-    key 2
+    target 115
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 116
-    target 144
-    key 3
+    target 115
+    key "friend"
     type "friend"
   ]
   edge [
+    source 116
+    target 53
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 116
+    target 53
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 116
+    target 53
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 116
+    target 53
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 116
+    target 148
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 116
+    target 148
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 116
+    target 148
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 116
+    target 148
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 116
+    target 108
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 116
+    target 108
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 116
+    target 108
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 116
+    target 108
+    key "politics"
+    type "politics"
+  ]
+  edge [
     source 117
-    target 116
-    key 0
+    target 114
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 117
-    target 116
-    key 1
+    target 114
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
     source 117
-    target 116
-    key 2
+    target 114
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 117
-    target 116
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 117
-    target 115
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 117
-    target 115
-    key 1
-    type "leftright"
-    weight 1
-  ]
-  edge [
-    source 117
-    target 115
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 117
-    target 115
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 117
-    target 113
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 117
-    target 113
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 117
-    target 113
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 117
-    target 113
-    key 3
+    target 114
+    key "friend"
     type "friend"
   ]
   edge [
     source 117
     target 114
-    key 0
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 117
+    target 114
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 117
+    target 114
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 117
+    target 114
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 117
+    target 67
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 117
-    target 114
-    key 1
+    target 67
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 2.0
   ]
   edge [
     source 117
-    target 114
-    key 2
+    target 67
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 117
-    target 114
-    key 3
+    target 67
+    key "friend"
     type "friend"
+  ]
+  edge [
+    source 117
+    target 67
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 117
+    target 67
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 117
+    target 67
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 117
+    target 67
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 117
+    target 110
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 117
+    target 110
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 117
+    target 110
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 117
+    target 110
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 117
+    target 110
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 117
+    target 110
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 117
+    target 110
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 117
+    target 110
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 117
+    target 111
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 117
+    target 111
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 117
+    target 111
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 117
+    target 111
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 117
+    target 111
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 117
+    target 111
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 117
+    target 111
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 117
+    target 111
+    key "council"
+    type "council"
   ]
   edge [
     source 118
-    target 119
-    key 0
+    target 76
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 118
-    target 119
-    key 1
+    target 76
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 7.0
   ]
   edge [
     source 118
-    target 119
-    key 2
+    target 76
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
     source 118
-    target 119
-    key 3
+    target 76
+    key "council"
     type "council"
   ]
   edge [
-    source 120
-    target 121
-    key 0
+    source 118
+    target 77
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 120
-    target 121
-    key 1
+    source 118
+    target 77
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 6.0
   ]
   edge [
-    source 120
-    target 121
-    key 2
+    source 118
+    target 77
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 0.0
   ]
   edge [
-    source 120
-    target 121
-    key 3
+    source 118
+    target 77
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 118
+    target 75
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 118
+    target 75
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 118
+    target 75
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 118
+    target 75
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 118
+    target 104
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 118
+    target 104
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 118
+    target 104
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 118
+    target 104
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 119
+    target 63
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 119
+    target 63
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 119
+    target 63
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 119
+    target 63
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 119
+    target 96
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 119
+    target 96
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 119
+    target 96
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 119
+    target 96
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 119
+    target 64
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 119
+    target 64
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 119
+    target 64
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 119
+    target 64
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 119
+    target 40
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 119
+    target 40
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 119
+    target 40
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 119
+    target 40
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 119
+    target 84
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 119
+    target 84
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 119
+    target 84
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 119
+    target 84
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 119
+    target 36
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 119
+    target 36
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 119
+    target 36
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 119
+    target 36
+    key "friend"
     type "friend"
   ]
   edge [
     source 120
     target 121
-    key 4
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 120
+    target 121
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 120
+    target 121
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 120
+    target 121
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 120
+    target 121
+    key "value"
     type "value"
   ]
   edge [
     source 120
     target 121
-    key 5
+    key "politics"
     type "politics"
   ]
   edge [
     source 120
     target 121
-    key 6
+    key "study"
     type "study"
   ]
   edge [
     source 120
-    target 85
-    key 0
+    target 121
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 120
+    target 122
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 120
-    target 85
-    key 1
+    target 122
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 2.0
   ]
   edge [
     source 120
-    target 85
-    key 2
+    target 122
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight -2.0
   ]
   edge [
     source 120
-    target 85
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 120
-    target 85
-    key 4
-    type "value"
-  ]
-  edge [
-    source 120
-    target 85
-    key 5
+    target 122
+    key "politics"
     type "politics"
   ]
   edge [
     source 120
-    target 85
-    key 6
+    target 122
+    key "study"
     type "study"
   ]
   edge [
-    source 121
-    target 85
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 121
-    target 85
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 121
-    target 85
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 121
-    target 85
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 121
-    target 83
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 121
-    target 83
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 121
-    target 83
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 121
-    target 83
-    key 3
+    source 120
+    target 122
+    key "council"
     type "council"
   ]
   edge [
     source 121
-    target 86
-    key 0
+    target 122
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 121
-    target 86
-    key 1
+    target 122
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 5.0
   ]
   edge [
     source 121
-    target 86
-    key 2
+    target 122
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 121
-    target 86
-    key 3
-    type "council"
-  ]
-  edge [
-    source 121
-    target 131
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 121
-    target 131
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 121
-    target 131
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 121
-    target 131
-    key 3
+    target 122
+    key "friend"
     type "friend"
+  ]
+  edge [
+    source 121
+    target 122
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 121
+    target 122
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 121
+    target 122
+    key "study"
+    type "study"
   ]
   edge [
     source 121
     target 120
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 121
     target 120
-    key 1
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 7.0
   ]
   edge [
     source 121
     target 120
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 121
     target 120
-    key 3
-    type "friend"
+    key "value"
+    type "value"
   ]
   edge [
     source 121
-    target 136
-    key 0
-    type "aquaintance"
+    target 120
+    key "politics"
+    type "politics"
   ]
   edge [
     source 121
-    target 136
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 121
-    target 136
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 121
-    target 136
-    key 3
-    type "council"
-  ]
-  edge [
-    source 122
-    target 123
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 122
-    target 123
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 122
-    target 123
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 122
-    target 123
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 122
-    target 123
-    key 4
-    type "value"
-  ]
-  edge [
-    source 122
-    target 123
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 122
-    target 123
-    key 6
+    target 120
+    key "study"
     type "study"
   ]
   edge [
     source 122
-    target 123
-    key 7
-    type "council"
-  ]
-  edge [
-    source 122
-    target 105
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 122
-    target 105
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 122
-    target 105
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 122
-    target 105
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 122
-    target 105
-    key 4
-    type "value"
-  ]
-  edge [
-    source 122
-    target 105
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 122
-    target 105
-    key 6
-    type "study"
-  ]
-  edge [
-    source 122
-    target 105
-    key 7
-    type "council"
-  ]
-  edge [
-    source 122
-    target 56
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 122
-    target 56
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 122
-    target 56
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 122
-    target 56
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 122
-    target 56
-    key 4
-    type "value"
-  ]
-  edge [
-    source 122
-    target 56
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 122
-    target 56
-    key 6
-    type "study"
-  ]
-  edge [
-    source 122
-    target 56
-    key 7
-    type "council"
-  ]
-  edge [
-    source 122
-    target 86
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 122
-    target 86
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 122
-    target 86
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 122
-    target 86
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 122
-    target 86
-    key 4
-    type "value"
-  ]
-  edge [
-    source 122
-    target 86
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 122
-    target 86
-    key 6
-    type "study"
-  ]
-  edge [
-    source 122
-    target 86
-    key 7
-    type "council"
-  ]
-  edge [
-    source 122
-    target 124
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 122
-    target 124
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 122
-    target 124
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 122
-    target 124
-    key 3
-    type "council"
-  ]
-  edge [
-    source 123
-    target 122
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 123
-    target 122
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 123
-    target 122
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 123
-    target 122
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 123
-    target 122
-    key 4
-    type "value"
-  ]
-  edge [
-    source 123
-    target 122
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 123
-    target 122
-    key 6
-    type "study"
-  ]
-  edge [
-    source 123
-    target 122
-    key 7
-    type "council"
-  ]
-  edge [
-    source 123
-    target 105
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 123
-    target 105
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 123
-    target 105
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 123
-    target 105
-    key 3
-    type "council"
-  ]
-  edge [
-    source 123
-    target 56
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 123
-    target 56
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 123
-    target 56
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 123
-    target 56
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 123
-    target 56
-    key 4
-    type "value"
-  ]
-  edge [
-    source 123
-    target 56
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 123
-    target 56
-    key 6
-    type "study"
-  ]
-  edge [
-    source 123
-    target 56
-    key 7
-    type "council"
-  ]
-  edge [
-    source 123
-    target 86
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 123
-    target 86
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 123
-    target 86
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 123
-    target 86
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 123
-    target 86
-    key 4
-    type "value"
-  ]
-  edge [
-    source 123
-    target 86
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 123
-    target 86
-    key 6
-    type "study"
-  ]
-  edge [
-    source 123
-    target 86
-    key 7
-    type "council"
-  ]
-  edge [
-    source 123
-    target 124
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 123
-    target 124
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 123
-    target 124
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 123
-    target 124
-    key 3
-    type "council"
-  ]
-  edge [
-    source 123
-    target 71
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 123
-    target 71
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 123
-    target 71
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 123
-    target 71
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 123
-    target 71
-    key 4
-    type "value"
-  ]
-  edge [
-    source 123
-    target 71
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 123
-    target 71
-    key 6
-    type "study"
-  ]
-  edge [
-    source 123
-    target 71
-    key 7
-    type "council"
-  ]
-  edge [
-    source 124
-    target 12
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 124
-    target 12
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 124
-    target 12
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 124
-    target 12
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 124
-    target 12
-    key 4
-    type "value"
-  ]
-  edge [
-    source 124
-    target 40
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 124
-    target 40
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 124
-    target 40
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 124
-    target 40
-    key 3
-    type "council"
-  ]
-  edge [
-    source 124
-    target 108
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 124
-    target 108
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 124
-    target 108
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 124
-    target 108
-    key 3
-    type "council"
-  ]
-  edge [
-    source 124
-    target 125
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 124
-    target 125
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 124
-    target 125
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 124
-    target 125
-    key 3
-    type "council"
-  ]
-  edge [
-    source 124
-    target 122
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 124
-    target 122
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 124
-    target 122
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 124
-    target 122
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 124
-    target 122
-    key 4
-    type "council"
-  ]
-  edge [
-    source 124
-    target 86
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 124
-    target 86
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 124
-    target 86
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 124
-    target 86
-    key 3
-    type "study"
-  ]
-  edge [
-    source 124
-    target 86
-    key 4
-    type "council"
-  ]
-  edge [
-    source 125
-    target 108
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 125
-    target 108
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 125
-    target 108
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 125
-    target 108
-    key 3
-    type "study"
-  ]
-  edge [
-    source 125
-    target 12
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 125
-    target 12
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 125
-    target 12
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 125
-    target 12
-    key 3
-    type "study"
-  ]
-  edge [
-    source 125
-    target 131
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 125
-    target 131
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 125
-    target 131
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 125
-    target 131
-    key 3
-    type "study"
-  ]
-  edge [
-    source 126
-    target 78
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 126
-    target 78
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 126
-    target 78
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 126
-    target 78
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 126
-    target 78
-    key 4
-    type "value"
-  ]
-  edge [
-    source 126
-    target 78
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 126
-    target 78
-    key 6
-    type "study"
-  ]
-  edge [
-    source 126
-    target 78
-    key 7
-    type "council"
-  ]
-  edge [
-    source 126
-    target 5
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 126
-    target 5
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 126
-    target 5
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 126
-    target 5
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 126
-    target 5
-    key 4
-    type "study"
-  ]
-  edge [
-    source 126
-    target 5
-    key 5
-    type "council"
-  ]
-  edge [
-    source 126
-    target 3
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 126
-    target 3
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 126
-    target 3
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 126
-    target 3
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 126
-    target 3
-    key 4
-    type "value"
-  ]
-  edge [
-    source 126
-    target 3
-    key 5
-    type "study"
-  ]
-  edge [
-    source 126
-    target 3
-    key 6
-    type "council"
-  ]
-  edge [
-    source 126
-    target 80
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 126
-    target 80
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 126
-    target 80
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 126
-    target 80
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 126
-    target 80
-    key 4
-    type "value"
-  ]
-  edge [
-    source 126
-    target 80
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 126
-    target 80
-    key 6
-    type "council"
-  ]
-  edge [
-    source 126
-    target 81
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 126
-    target 81
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 126
-    target 81
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 126
-    target 81
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 126
-    target 81
-    key 4
-    type "value"
-  ]
-  edge [
-    source 126
-    target 81
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 126
-    target 81
-    key 6
-    type "council"
-  ]
-  edge [
-    source 126
-    target 132
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 126
-    target 132
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 126
-    target 132
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 126
-    target 132
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 126
-    target 132
-    key 4
-    type "value"
-  ]
-  edge [
-    source 126
-    target 132
-    key 5
-    type "council"
-  ]
-  edge [
-    source 127
-    target 128
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 127
-    target 128
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 127
-    target 128
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 127
-    target 128
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 127
-    target 128
-    key 4
-    type "value"
-  ]
-  edge [
-    source 127
-    target 128
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 127
-    target 128
-    key 6
-    type "study"
-  ]
-  edge [
-    source 127
-    target 129
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 127
-    target 129
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 127
-    target 129
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 127
-    target 129
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 127
-    target 129
-    key 4
-    type "value"
-  ]
-  edge [
-    source 127
-    target 129
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 127
-    target 129
-    key 6
-    type "study"
-  ]
-  edge [
-    source 128
-    target 127
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 128
-    target 127
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 128
-    target 127
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 128
-    target 127
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 128
-    target 127
-    key 4
-    type "value"
-  ]
-  edge [
-    source 128
-    target 127
-    key 5
-    type "study"
-  ]
-  edge [
-    source 128
-    target 127
-    key 6
-    type "council"
-  ]
-  edge [
-    source 128
-    target 129
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 128
-    target 129
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 128
-    target 129
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 128
-    target 129
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 128
-    target 129
-    key 4
-    type "value"
-  ]
-  edge [
-    source 128
-    target 129
-    key 5
-    type "study"
-  ]
-  edge [
-    source 128
-    target 129
-    key 6
-    type "council"
-  ]
-  edge [
-    source 129
-    target 127
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 129
-    target 127
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 129
-    target 127
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 129
-    target 127
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 129
-    target 127
-    key 4
-    type "value"
-  ]
-  edge [
-    source 129
-    target 127
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 129
-    target 127
-    key 6
-    type "study"
-  ]
-  edge [
-    source 129
-    target 127
-    key 7
-    type "council"
-  ]
-  edge [
-    source 129
-    target 128
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 129
-    target 128
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 129
-    target 128
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 129
-    target 128
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 129
-    target 128
-    key 4
-    type "value"
-  ]
-  edge [
-    source 129
-    target 128
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 129
-    target 128
-    key 6
-    type "study"
-  ]
-  edge [
-    source 129
-    target 128
-    key 7
-    type "council"
-  ]
-  edge [
-    source 130
-    target 45
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 130
-    target 45
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 130
-    target 45
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 130
-    target 45
-    key 3
-    type "council"
-  ]
-  edge [
-    source 130
-    target 46
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 130
-    target 46
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 130
-    target 46
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 130
-    target 46
-    key 3
-    type "value"
-  ]
-  edge [
-    source 130
-    target 46
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 130
-    target 46
-    key 5
-    type "council"
-  ]
-  edge [
-    source 130
-    target 47
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 130
-    target 47
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 130
-    target 47
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 130
-    target 47
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 130
-    target 47
-    key 4
-    type "value"
-  ]
-  edge [
-    source 130
-    target 47
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 130
-    target 47
-    key 6
-    type "study"
-  ]
-  edge [
-    source 130
-    target 47
-    key 7
-    type "council"
-  ]
-  edge [
-    source 130
-    target 48
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 130
-    target 48
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 130
-    target 48
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 130
-    target 48
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 130
-    target 48
-    key 4
-    type "value"
-  ]
-  edge [
-    source 130
-    target 48
-    key 5
-    type "study"
-  ]
-  edge [
-    source 130
-    target 48
-    key 6
-    type "council"
-  ]
-  edge [
-    source 130
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 130
-    target 49
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 130
-    target 49
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 130
-    target 49
-    key 3
-    type "council"
-  ]
-  edge [
-    source 130
-    target 44
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 130
-    target 44
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 130
-    target 44
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 130
-    target 44
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 130
-    target 44
-    key 4
-    type "value"
-  ]
-  edge [
-    source 130
-    target 44
-    key 5
-    type "council"
-  ]
-  edge [
-    source 131
-    target 45
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 131
-    target 45
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 131
-    target 45
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 131
-    target 45
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 131
-    target 45
-    key 4
-    type "value"
-  ]
-  edge [
-    source 131
-    target 45
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 131
-    target 45
-    key 6
-    type "council"
-  ]
-  edge [
-    source 131
-    target 46
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 131
-    target 46
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 131
-    target 46
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 131
-    target 46
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 131
-    target 46
-    key 4
-    type "council"
-  ]
-  edge [
-    source 131
-    target 47
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 131
-    target 47
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 131
-    target 47
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 131
-    target 47
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 131
-    target 47
-    key 4
-    type "council"
-  ]
-  edge [
-    source 131
-    target 85
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 131
-    target 85
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 131
-    target 85
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 131
-    target 85
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 131
-    target 85
-    key 4
-    type "value"
-  ]
-  edge [
-    source 131
-    target 85
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 131
     target 121
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 131
+    source 122
     target 121
-    key 1
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 3.0
   ]
   edge [
-    source 131
+    source 122
     target 121
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 131
-    target 48
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 131
-    target 48
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 131
-    target 48
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 131
-    target 48
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 131
-    target 48
-    key 4
-    type "council"
-  ]
-  edge [
-    source 131
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 131
-    target 49
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 131
-    target 49
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 131
-    target 49
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 131
-    target 49
-    key 4
-    type "council"
-  ]
-  edge [
-    source 131
-    target 101
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 131
-    target 101
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 131
-    target 101
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 131
-    target 101
-    key 3
+    source 122
+    target 121
+    key "friend"
     type "friend"
   ]
   edge [
-    source 131
-    target 101
-    key 4
+    source 122
+    target 121
+    key "value"
     type "value"
   ]
   edge [
-    source 131
-    target 101
-    key 5
+    source 122
+    target 121
+    key "politics"
     type "politics"
   ]
   edge [
-    source 131
-    target 101
-    key 6
-    type "council"
-  ]
-  edge [
-    source 131
-    target 44
-    key 0
+    source 122
+    target 120
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 131
-    target 44
-    key 1
+    source 122
+    target 120
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 5.0
   ]
   edge [
-    source 131
-    target 44
-    key 2
+    source 122
+    target 120
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
-    source 131
-    target 44
-    key 3
+    source 122
+    target 120
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 122
+    target 120
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 123
+    target 124
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 123
+    target 124
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 123
+    target 124
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 123
+    target 124
+    key "friend"
     type "friend"
   ]
   edge [
-    source 131
-    target 44
-    key 4
+    source 123
+    target 124
+    key "value"
     type "value"
   ]
   edge [
-    source 131
-    target 44
-    key 5
+    source 123
+    target 124
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 123
+    target 124
+    key "council"
     type "council"
   ]
   edge [
-    source 132
-    target 145
-    key 0
+    source 123
+    target 71
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 132
-    target 145
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 132
-    target 145
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 132
-    target 145
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 132
+    source 123
     target 71
-    key 0
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 123
+    target 71
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 123
+    target 71
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 123
+    target 37
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 132
-    target 71
-    key 1
+    source 123
+    target 37
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 6.0
   ]
   edge [
-    source 132
-    target 71
-    key 2
+    source 123
+    target 37
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
-    source 132
-    target 71
-    key 3
-    type "friend"
+    source 123
+    target 37
+    key "council"
+    type "council"
   ]
   edge [
-    source 132
-    target 143
-    key 0
+    source 123
+    target 107
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 132
-    target 143
-    key 1
+    source 123
+    target 107
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 5.0
   ]
   edge [
-    source 132
-    target 143
-    key 2
+    source 123
+    target 107
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 132
-    target 143
-    key 3
+    source 123
+    target 107
+    key "friend"
     type "friend"
   ]
   edge [
-    source 132
-    target 67
-    key 0
+    source 123
+    target 107
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 123
+    target 107
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 123
+    target 137
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 132
-    target 67
-    key 1
+    source 123
+    target 137
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
-    source 132
-    target 67
-    key 2
+    source 123
+    target 137
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 132
-    target 67
-    key 3
+    source 123
+    target 137
+    key "friend"
     type "friend"
   ]
   edge [
-    source 132
+    source 123
+    target 137
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 123
+    target 137
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 123
+    target 79
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 123
+    target 79
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 123
+    target 79
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 123
+    target 79
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 123
+    target 138
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 123
+    target 138
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 123
+    target 138
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 123
+    target 138
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 123
+    target 138
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 124
+    target 123
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 124
+    target 123
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 124
+    target 123
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 124
+    target 123
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 124
+    target 71
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 124
+    target 71
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 124
+    target 71
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 124
+    target 71
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 124
+    target 37
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 124
+    target 37
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 124
+    target 37
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 124
+    target 37
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 124
+    target 107
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 124
+    target 107
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 124
+    target 107
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 124
+    target 107
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 124
+    target 137
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 124
+    target 137
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 124
+    target 137
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 124
+    target 137
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 124
+    target 79
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 124
+    target 79
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 124
+    target 79
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 124
+    target 79
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 125
+    target 2
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 125
+    target 2
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 125
+    target 2
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 125
+    target 2
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 125
+    target 2
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 125
+    target 2
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 125
+    target 2
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 125
+    target 29
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 125
+    target 29
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 125
+    target 29
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 125
+    target 29
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 125
+    target 29
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 125
+    target 29
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 125
+    target 29
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 125
+    target 39
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 125
+    target 39
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 125
+    target 39
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 125
+    target 39
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 125
+    target 39
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 125
+    target 39
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 125
+    target 39
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 125
     target 126
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 132
+    source 125
     target 126
-    key 1
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 5.0
   ]
   edge [
-    source 132
+    source 125
     target 126
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
-    source 132
+    source 125
     target 126
-    key 3
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 125
+    target 126
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 125
+    target 126
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 125
+    target 126
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 125
+    target 126
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 127
+    target 128
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 127
+    target 128
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 127
+    target 128
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 127
+    target 128
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 127
+    target 129
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 127
+    target 129
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 127
+    target 129
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 127
+    target 129
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 127
+    target 107
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 127
+    target 107
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 127
+    target 107
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 127
+    target 107
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 128
+    target 127
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 128
+    target 127
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 128
+    target 127
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 128
+    target 127
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 128
+    target 135
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 128
+    target 135
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 128
+    target 135
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 128
+    target 135
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 128
+    target 43
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 128
+    target 43
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 128
+    target 43
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 128
+    target 43
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 129
+    target 128
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 129
+    target 128
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 129
+    target 128
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 129
+    target 128
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 129
+    target 38
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 129
+    target 38
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 129
+    target 38
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 129
+    target 38
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 129
+    target 38
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 129
+    target 38
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 129
+    target 38
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 129
+    target 127
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 129
+    target 127
+    key "leftright"
+    type "leftright"
+    weight 8.0
+  ]
+  edge [
+    source 129
+    target 127
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 129
+    target 127
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 129
+    target 37
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 129
+    target 37
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 129
+    target 37
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 129
+    target 37
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 129
+    target 37
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 129
+    target 33
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 129
+    target 33
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 129
+    target 33
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 129
+    target 33
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 129
+    target 83
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 129
+    target 83
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 129
+    target 83
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 129
+    target 83
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 130
+    target 131
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 130
+    target 131
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 130
+    target 131
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 130
+    target 131
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 130
+    target 132
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 130
+    target 132
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 130
+    target 132
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 131
+    target 130
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 131
+    target 130
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 131
+    target 130
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 131
+    target 130
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 131
+    target 130
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 131
+    target 130
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 131
+    target 132
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 131
+    target 132
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 131
+    target 132
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 131
+    target 132
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 131
+    target 132
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 131
+    target 132
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 131
+    target 132
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 132
+    target 131
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 132
+    target 131
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 132
+    target 131
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 132
+    target 131
+    key "friend"
     type "friend"
   ]
   edge [
     source 132
-    target 56
-    key 0
+    target 131
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 132
+    target 130
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 132
-    target 56
-    key 1
+    target 130
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 3.0
   ]
   edge [
     source 132
-    target 56
-    key 2
+    target 130
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 132
-    target 56
-    key 3
+    target 130
+    key "friend"
     type "friend"
   ]
   edge [
-    source 133
-    target 70
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 133
-    target 70
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 133
-    target 70
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 133
-    target 70
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 133
-    target 70
-    key 4
-    type "council"
-  ]
-  edge [
-    source 133
-    target 69
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 133
-    target 69
-    key 1
-    type "leftright"
-    weight 9
-  ]
-  edge [
-    source 133
-    target 69
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 133
-    target 69
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 133
-    target 69
-    key 4
-    type "council"
-  ]
-  edge [
-    source 134
-    target 69
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 134
-    target 69
-    key 1
-    type "leftright"
-    weight 9
-  ]
-  edge [
-    source 134
-    target 69
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 134
-    target 69
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 134
-    target 92
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 134
-    target 92
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 134
-    target 92
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 134
-    target 92
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 134
-    target 92
-    key 4
+    source 132
+    target 130
+    key "value"
     type "value"
   ]
   edge [
-    source 134
-    target 92
-    key 5
+    source 133
+    target 40
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 133
+    target 40
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 133
+    target 40
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 133
+    target 40
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 133
+    target 40
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 133
+    target 96
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 133
+    target 96
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 133
+    target 96
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 133
+    target 96
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 133
+    target 96
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 133
+    target 96
+    key "politics"
     type "politics"
   ]
   edge [
-    source 134
-    target 102
-    key 0
+    source 133
+    target 96
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 133
+    target 96
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 133
+    target 64
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 134
-    target 102
-    key 1
+    source 133
+    target 64
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
-    source 134
-    target 102
-    key 2
+    source 133
+    target 64
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 134
-    target 102
-    key 3
+    source 133
+    target 64
+    key "friend"
     type "friend"
   ]
   edge [
-    source 134
-    target 102
-    key 4
+    source 133
+    target 64
+    key "value"
     type "value"
   ]
   edge [
-    source 134
-    target 85
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 134
-    target 85
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 134
-    target 85
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 134
-    target 85
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 134
-    target 77
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 134
-    target 77
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 134
-    target 77
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 134
-    target 77
-    key 3
-    type "council"
-  ]
-  edge [
-    source 135
-    target 71
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 135
-    target 71
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 135
-    target 71
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 135
-    target 71
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 135
-    target 72
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 135
-    target 72
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 135
-    target 72
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 135
-    target 72
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 135
-    target 67
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 135
-    target 67
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 135
-    target 67
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 135
-    target 67
-    key 3
-    type "council"
-  ]
-  edge [
-    source 135
-    target 69
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 135
-    target 69
-    key 1
-    type "leftright"
-    weight 10
-  ]
-  edge [
-    source 135
-    target 69
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 135
-    target 69
-    key 3
-    type "council"
-  ]
-  edge [
-    source 135
-    target 70
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 135
-    target 70
-    key 1
-    type "leftright"
-    weight 10
-  ]
-  edge [
-    source 135
-    target 70
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 135
-    target 70
-    key 3
-    type "council"
-  ]
-  edge [
-    source 135
-    target 142
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 135
-    target 142
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 135
-    target 142
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 135
-    target 142
-    key 3
-    type "value"
-  ]
-  edge [
-    source 136
-    target 141
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 136
-    target 141
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 136
-    target 141
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 136
-    target 141
-    key 3
-    type "value"
-  ]
-  edge [
-    source 136
-    target 141
-    key 4
+    source 133
+    target 64
+    key "politics"
     type "politics"
   ]
   edge [
-    source 136
-    target 91
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 136
-    target 91
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 136
-    target 91
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 136
-    target 91
-    key 3
+    source 133
+    target 64
+    key "council"
     type "council"
   ]
   edge [
-    source 136
-    target 85
-    key 0
+    source 133
+    target 119
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 136
-    target 85
-    key 1
+    source 133
+    target 119
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 3.0
   ]
   edge [
-    source 136
-    target 85
-    key 2
+    source 133
+    target 119
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
-    source 136
-    target 85
-    key 3
+    source 133
+    target 119
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 133
+    target 119
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 133
+    target 119
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 133
+    target 119
+    key "council"
     type "council"
   ]
   edge [
+    source 133
+    target 34
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 133
+    target 34
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 133
+    target 34
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 133
+    target 34
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 133
+    target 34
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 133
+    target 34
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 133
+    target 34
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 133
+    target 99
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 133
+    target 99
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 133
+    target 99
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 133
+    target 99
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 133
+    target 99
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 133
+    target 99
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 134
+    target 106
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 134
+    target 106
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 134
+    target 106
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 134
+    target 106
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 135
+    target 136
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 135
+    target 136
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 135
+    target 136
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 135
+    target 136
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 135
+    target 136
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 135
+    target 136
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 135
+    target 136
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 135
+    target 128
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 135
+    target 128
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 135
+    target 128
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 135
+    target 128
+    key "study"
+    type "study"
+  ]
+  edge [
     source 136
-    target 53
-    key 0
+    target 128
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 136
-    target 53
-    key 1
+    target 128
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 7.0
   ]
   edge [
     source 136
-    target 53
-    key 2
+    target 128
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 136
-    target 53
-    key 3
+    target 128
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 136
+    target 135
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 136
+    target 135
+    key "leftright"
+    type "leftright"
+    weight 7.0
+  ]
+  edge [
+    source 136
+    target 135
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 136
+    target 135
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 137
+    target 124
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 137
+    target 124
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 137
+    target 124
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 137
+    target 124
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 137
+    target 124
+    key "value"
     type "value"
   ]
   edge [
     source 137
-    target 89
-    key 0
+    target 124
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 137
+    target 124
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 137
+    target 123
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 137
-    target 89
-    key 1
+    target 123
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 4.0
   ]
   edge [
     source 137
-    target 89
-    key 2
+    target 123
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 137
-    target 89
-    key 3
+    target 123
+    key "friend"
     type "friend"
   ]
   edge [
-    source 138
-    target 45
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 138
-    target 45
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 138
-    target 45
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 138
-    target 45
-    key 3
-    type "council"
-  ]
-  edge [
-    source 138
-    target 46
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 138
-    target 46
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 138
-    target 46
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 138
-    target 46
-    key 3
-    type "council"
-  ]
-  edge [
-    source 138
-    target 47
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 138
-    target 47
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 138
-    target 47
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 138
-    target 47
-    key 3
-    type "council"
-  ]
-  edge [
-    source 138
-    target 48
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 138
-    target 48
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 138
-    target 48
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 138
-    target 48
-    key 3
-    type "council"
-  ]
-  edge [
-    source 139
-    target 131
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 139
-    target 131
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 139
-    target 131
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 139
-    target 131
-    key 3
-    type "council"
-  ]
-  edge [
-    source 139
-    target 45
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 139
-    target 45
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 139
-    target 45
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 139
-    target 45
-    key 3
-    type "council"
-  ]
-  edge [
-    source 139
-    target 46
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 139
-    target 46
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 139
-    target 46
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 139
-    target 46
-    key 3
-    type "council"
-  ]
-  edge [
-    source 139
-    target 47
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 139
-    target 47
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 139
-    target 47
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 139
-    target 47
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 139
-    target 47
-    key 4
+    source 137
+    target 123
+    key "value"
     type "value"
   ]
   edge [
-    source 139
-    target 48
-    key 0
-    type "aquaintance"
+    source 137
+    target 123
+    key "politics"
+    type "politics"
   ]
   edge [
-    source 139
-    target 48
-    key 1
-    type "leftright"
-    weight 8
-  ]
-  edge [
-    source 139
-    target 48
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 139
-    target 48
-    key 3
-    type "council"
-  ]
-  edge [
-    source 139
-    target 49
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 139
-    target 49
-    key 1
-    type "leftright"
-    weight 7
-  ]
-  edge [
-    source 139
-    target 49
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 139
-    target 49
-    key 3
-    type "council"
-  ]
-  edge [
-    source 139
-    target 44
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 139
-    target 44
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 139
-    target 44
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 139
-    target 44
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 139
-    target 73
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 139
-    target 73
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 139
-    target 73
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 139
-    target 73
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 139
-    target 146
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 139
-    target 146
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 139
-    target 146
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 139
-    target 146
-    key 3
-    type "council"
-  ]
-  edge [
-    source 140
-    target 139
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 140
-    target 139
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 140
-    target 139
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 140
-    target 139
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 141
-    target 136
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 141
-    target 136
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 141
-    target 136
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 141
-    target 136
-    key 3
-    type "council"
-  ]
-  edge [
-    source 142
-    target 67
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 142
-    target 67
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 142
-    target 67
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 142
-    target 67
-    key 3
-    type "value"
-  ]
-  edge [
-    source 142
-    target 67
-    key 4
+    source 137
+    target 123
+    key "study"
     type "study"
   ]
   edge [
+    source 138
+    target 123
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 138
+    target 123
+    key "leftright"
+    type "leftright"
+    weight 9.0
+  ]
+  edge [
+    source 138
+    target 123
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 138
+    target 123
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 138
+    target 123
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 139
+    target 140
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 139
+    target 140
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 139
+    target 140
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 139
+    target 140
+    key "council"
+    type "council"
+  ]
+  edge [
     source 142
-    target 71
-    key 0
+    target 86
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 142
-    target 71
-    key 1
+    target 86
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 4.0
   ]
   edge [
     source 142
-    target 71
-    key 2
+    target 86
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 142
-    target 71
-    key 3
+    target 86
+    key "friend"
     type "friend"
   ]
   edge [
     source 142
-    target 71
-    key 4
+    target 86
+    key "value"
     type "value"
   ]
   edge [
     source 142
-    target 71
-    key 5
+    target 86
+    key "politics"
     type "politics"
   ]
   edge [
     source 142
-    target 71
-    key 6
+    target 86
+    key "study"
     type "study"
   ]
   edge [
     source 142
-    target 71
-    key 7
+    target 86
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 142
+    target 5
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 142
+    target 5
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 142
+    target 5
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 142
+    target 5
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 142
+    target 5
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 142
+    target 5
+    key "council"
     type "council"
   ]
   edge [
     source 142
     target 143
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 142
     target 143
-    key 1
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
     source 142
     target 143
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 142
     target 143
-    key 3
+    key "friend"
     type "friend"
   ]
   edge [
     source 142
     target 143
-    key 4
+    key "value"
     type "value"
   ]
   edge [
     source 142
     target 143
-    key 5
+    key "politics"
     type "politics"
   ]
   edge [
     source 142
     target 143
-    key 6
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 142
+    target 143
+    key "council"
     type "council"
   ]
   edge [
     source 142
-    target 132
-    key 0
+    target 144
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 142
-    target 132
-    key 1
+    target 144
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 3.0
   ]
   edge [
     source 142
-    target 132
-    key 2
+    target 144
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 2.0
   ]
   edge [
     source 142
-    target 132
-    key 3
+    target 144
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 142
+    target 144
+    key "value"
     type "value"
   ]
   edge [
     source 142
-    target 132
-    key 4
+    target 144
+    key "politics"
     type "politics"
   ]
   edge [
     source 142
-    target 132
-    key 5
+    target 144
+    key "study"
     type "study"
   ]
   edge [
     source 142
-    target 132
-    key 6
+    target 144
+    key "council"
     type "council"
   ]
   edge [
-    source 142
-    target 123
-    key 0
+    source 143
+    target 144
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 142
-    target 123
-    key 1
+    source 143
+    target 144
+    key "leftright"
     type "leftright"
-    weight 6
+    weight 4.0
   ]
   edge [
-    source 142
-    target 123
-    key 2
+    source 143
+    target 144
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
-    source 142
-    target 123
-    key 3
+    source 143
+    target 144
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 143
+    target 144
+    key "value"
     type "value"
   ]
   edge [
-    source 142
-    target 123
-    key 4
+    source 143
+    target 144
+    key "politics"
     type "politics"
   ]
   edge [
-    source 142
-    target 123
-    key 5
-    type "study"
-  ]
-  edge [
-    source 142
-    target 123
-    key 6
-    type "council"
-  ]
-  edge [
-    source 142
-    target 135
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 142
-    target 135
-    key 1
-    type "leftright"
-    weight 4
-  ]
-  edge [
-    source 142
-    target 135
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 142
-    target 135
-    key 3
-    type "value"
-  ]
-  edge [
-    source 142
-    target 135
-    key 4
-    type "study"
-  ]
-  edge [
-    source 142
-    target 135
-    key 5
-    type "council"
-  ]
-  edge [
     source 143
-    target 67
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 143
-    target 67
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 143
-    target 67
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 143
-    target 67
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 143
-    target 67
-    key 4
-    type "value"
-  ]
-  edge [
-    source 143
-    target 67
-    key 5
-    type "council"
-  ]
-  edge [
-    source 143
-    target 145
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 143
-    target 145
-    key 1
-    type "leftright"
-    weight 5
-  ]
-  edge [
-    source 143
-    target 145
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 143
-    target 145
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 143
-    target 145
-    key 4
-    type "value"
-  ]
-  edge [
-    source 143
-    target 145
-    key 5
+    target 144
+    key "study"
     type "study"
   ]
   edge [
     source 143
-    target 145
-    key 6
+    target 144
+    key "council"
     type "council"
   ]
   edge [
     source 143
-    target 132
-    key 0
+    target 5
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 143
-    target 132
-    key 1
+    target 5
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 6.0
   ]
   edge [
     source 143
-    target 132
-    key 2
+    target 5
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 1.0
   ]
   edge [
     source 143
-    target 132
-    key 3
+    target 5
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 143
+    target 5
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 143
+    target 86
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 143
+    target 86
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 143
+    target 86
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 143
+    target 86
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 143
+    target 86
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 143
+    target 86
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 143
+    target 86
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 143
+    target 86
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 143
+    target 142
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 143
+    target 142
+    key "leftright"
+    type "leftright"
+    weight 2.0
+  ]
+  edge [
+    source 143
+    target 142
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 143
+    target 142
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 143
+    target 142
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 143
+    target 142
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 143
+    target 142
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 143
+    target 142
+    key "council"
     type "council"
   ]
   edge [
     source 144
-    target 114
-    key 0
+    target 142
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 144
-    target 114
-    key 1
+    target 142
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 2.0
   ]
   edge [
     source 144
-    target 114
-    key 2
+    target 142
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 144
-    target 114
-    key 3
+    target 142
+    key "friend"
     type "friend"
   ]
   edge [
     source 144
-    target 113
-    key 0
+    target 142
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 144
+    target 142
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 144
+    target 142
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 144
+    target 142
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 144
+    target 86
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 144
-    target 113
-    key 1
+    target 86
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 4.0
   ]
   edge [
     source 144
-    target 113
-    key 2
+    target 86
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 2.0
   ]
   edge [
     source 144
-    target 113
-    key 3
+    target 86
+    key "friend"
     type "friend"
+  ]
+  edge [
+    source 144
+    target 86
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 144
+    target 86
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 144
+    target 86
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 144
+    target 86
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 144
+    target 5
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 144
+    target 5
+    key "leftright"
+    type "leftright"
+    weight 4.0
+  ]
+  edge [
+    source 144
+    target 5
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 144
+    target 5
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 144
+    target 143
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 144
+    target 143
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 144
+    target 143
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 144
+    target 143
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 144
+    target 143
+    key "value"
+    type "value"
+  ]
+  edge [
+    source 144
+    target 143
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 144
+    target 143
+    key "study"
+    type "study"
+  ]
+  edge [
+    source 144
+    target 143
+    key "council"
+    type "council"
   ]
   edge [
     source 145
-    target 143
-    key 0
+    target 146
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 145
-    target 143
-    key 1
+    target 146
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
     source 145
-    target 143
-    key 2
+    target 146
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
     source 145
-    target 143
-    key 3
+    target 146
+    key "council"
+    type "council"
+  ]
+  edge [
+    source 145
+    target 147
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 145
+    target 147
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 145
+    target 147
+    key "sentiment"
+    type "sentiment"
+    weight 2.0
+  ]
+  edge [
+    source 145
+    target 147
+    key "friend"
     type "friend"
   ]
   edge [
     source 146
-    target 139
-    key 0
+    target 145
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 146
-    target 139
-    key 1
+    target 145
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 5.0
   ]
   edge [
     source 146
-    target 139
-    key 2
+    target 145
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
     source 146
-    target 139
-    key 3
+    target 145
+    key "study"
     type "study"
   ]
   edge [
     source 146
-    target 62
-    key 0
+    target 148
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 146
-    target 62
-    key 1
+    target 148
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 5.0
   ]
   edge [
     source 146
-    target 62
-    key 2
+    target 148
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
     source 146
-    target 62
-    key 3
+    target 148
+    key "study"
     type "study"
   ]
   edge [
     source 147
-    target 148
-    key 0
+    target 85
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 147
-    target 148
-    key 1
+    target 85
+    key "leftright"
     type "leftright"
-    weight 3
+    weight 5.0
   ]
   edge [
     source 147
-    target 148
-    key 2
+    target 85
+    key "sentiment"
     type "sentiment"
-    weight 2
+    weight 1.0
   ]
   edge [
     source 147
-    target 148
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 147
-    target 148
-    key 4
-    type "value"
-  ]
-  edge [
-    source 147
-    target 148
-    key 5
+    target 85
+    key "politics"
     type "politics"
   ]
   edge [
     source 147
-    target 149
-    key 0
+    target 145
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 147
-    target 149
-    key 1
+    target 145
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 4.0
   ]
   edge [
     source 147
-    target 149
-    key 2
+    target 145
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 2.0
   ]
   edge [
     source 147
-    target 149
-    key 3
-    type "study"
+    target 145
+    key "friend"
+    type "friend"
   ]
   edge [
     source 147
-    target 149
-    key 4
+    target 65
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 147
+    target 65
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 147
+    target 65
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 147
+    target 65
+    key "politics"
+    type "politics"
+  ]
+  edge [
+    source 148
+    target 146
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 148
+    target 146
+    key "leftright"
+    type "leftright"
+    weight 3.0
+  ]
+  edge [
+    source 148
+    target 146
+    key "sentiment"
+    type "sentiment"
+    weight 0.0
+  ]
+  edge [
+    source 148
+    target 146
+    key "council"
     type "council"
   ]
   edge [
     source 148
-    target 147
-    key 0
+    target 116
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 148
-    target 147
-    key 1
+    target 116
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 3.0
   ]
   edge [
     source 148
-    target 147
-    key 2
+    target 116
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
     source 148
-    target 147
-    key 3
-    type "friend"
+    target 116
+    key "council"
+    type "council"
   ]
   edge [
     source 148
-    target 147
-    key 4
-    type "value"
-  ]
-  edge [
-    source 148
-    target 147
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 148
-    target 147
-    key 6
-    type "study"
-  ]
-  edge [
-    source 148
-    target 149
-    key 0
+    target 62
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 148
-    target 149
-    key 1
+    target 62
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 4.0
   ]
   edge [
     source 148
-    target 149
-    key 2
+    target 62
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 0.0
   ]
   edge [
     source 148
-    target 149
-    key 3
-    type "value"
-  ]
-  edge [
-    source 148
-    target 149
-    key 4
-    type "politics"
-  ]
-  edge [
-    source 148
-    target 149
-    key 5
-    type "study"
-  ]
-  edge [
-    source 149
-    target 148
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 149
-    target 148
-    key 1
-    type "leftright"
-    weight 6
-  ]
-  edge [
-    source 149
-    target 148
-    key 2
-    type "sentiment"
-    weight 2
-  ]
-  edge [
-    source 149
-    target 148
-    key 3
-    type "friend"
-  ]
-  edge [
-    source 149
-    target 148
-    key 4
-    type "value"
-  ]
-  edge [
-    source 149
-    target 148
-    key 5
-    type "politics"
-  ]
-  edge [
-    source 149
-    target 148
-    key 6
-    type "study"
-  ]
-  edge [
-    source 149
-    target 148
-    key 7
+    target 62
+    key "council"
     type "council"
   ]
   edge [
     source 149
-    target 147
-    key 0
+    target 45
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 149
-    target 147
-    key 1
+    target 45
+    key "leftright"
     type "leftright"
-    weight 2
+    weight 8.0
   ]
   edge [
     source 149
-    target 147
-    key 2
+    target 45
+    key "sentiment"
     type "sentiment"
-    weight -2
+    weight 1.0
   ]
   edge [
     source 149
-    target 147
-    key 3
-    type "politics"
+    target 45
+    key "friend"
+    type "friend"
   ]
   edge [
     source 149
-    target 147
-    key 4
-    type "study"
-  ]
-  edge [
-    source 149
-    target 147
-    key 5
-    type "council"
-  ]
-  edge [
-    source 150
-    target 25
-    key 0
+    target 85
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 150
-    target 25
-    key 1
+    source 149
+    target 85
+    key "leftright"
     type "leftright"
-    weight 7
+    weight 6.0
   ]
   edge [
-    source 150
-    target 25
-    key 2
+    source 149
+    target 85
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 150
-    target 25
-    key 3
-    type "study"
+    source 149
+    target 85
+    key "friend"
+    type "friend"
   ]
   edge [
-    source 150
-    target 26
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 150
-    target 26
-    key 1
-    type "leftright"
-    weight 2
-  ]
-  edge [
-    source 150
-    target 26
-    key 2
-    type "sentiment"
-    weight 0
-  ]
-  edge [
-    source 150
-    target 26
-    key 3
-    type "study"
-  ]
-  edge [
-    source 150
-    target 151
-    key 0
-    type "aquaintance"
-  ]
-  edge [
-    source 150
-    target 151
-    key 1
-    type "leftright"
-    weight 3
-  ]
-  edge [
-    source 150
-    target 151
-    key 2
-    type "sentiment"
-    weight 1
-  ]
-  edge [
-    source 150
-    target 151
-    key 3
-    type "politics"
-  ]
-  edge [
-    source 150
-    target 151
-    key 4
-    type "study"
-  ]
-  edge [
-    source 151
+    source 149
     target 150
-    key 0
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
-    source 151
+    source 149
     target 150
-    key 1
+    key "leftright"
     type "leftright"
-    weight 5
+    weight 6.0
   ]
   edge [
-    source 151
+    source 149
     target 150
-    key 2
+    key "sentiment"
     type "sentiment"
-    weight 1
+    weight 1.0
   ]
   edge [
-    source 151
+    source 149
     target 150
-    key 3
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 149
+    target 80
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 149
+    target 80
+    key "leftright"
+    type "leftright"
+    weight 6.0
+  ]
+  edge [
+    source 149
+    target 80
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 149
+    target 80
+    key "friend"
+    type "friend"
+  ]
+  edge [
+    source 149
+    target 55
+    key "aquaintance"
+    type "aquaintance"
+  ]
+  edge [
+    source 149
+    target 55
+    key "leftright"
+    type "leftright"
+    weight 5.0
+  ]
+  edge [
+    source 149
+    target 55
+    key "sentiment"
+    type "sentiment"
+    weight 1.0
+  ]
+  edge [
+    source 149
+    target 55
+    key "friend"
     type "friend"
   ]
   edge [
     source 151
-    target 150
-    key 4
-    type "value"
-  ]
-  edge [
-    source 151
-    target 150
-    key 5
-    type "study"
-  ]
-  edge [
-    source 151
-    target 150
-    key 6
-    type "council"
-  ]
-  edge [
-    source 151
-    target 26
-    key 0
+    target 13
+    key "aquaintance"
     type "aquaintance"
   ]
   edge [
     source 151
-    target 26
-    key 1
+    target 13
+    key "leftright"
     type "leftright"
-    weight 4
+    weight 3.0
   ]
   edge [
     source 151
-    target 26
-    key 2
+    target 13
+    key "sentiment"
     type "sentiment"
-    weight 0
+    weight 0.0
   ]
   edge [
     source 151
-    target 26
-    key 3
-    type "value"
-  ]
-  edge [
-    source 151
-    target 26
-    key 4
+    target 13
+    key "council"
     type "council"
   ]
 ]
